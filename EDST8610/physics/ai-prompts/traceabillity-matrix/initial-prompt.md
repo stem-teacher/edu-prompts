@@ -1,0 +1,141 @@
+Below is an updated information graph covering the Thermodynamics. Based on this can you please update the Thermodynamics: Year 11 Physics Three-Lesson Sequence, traceability matrix,  detailed lesson plans,  high quality student resources, Marksense quizzes and other collateral as well as the justification.
+Overview:
+{
+  "courses": [
+    {
+      "courseName": "Physics Stage 6",
+      "modules": [
+        {
+          "moduleName": "Module 3: Waves and Thermodynamics",
+          "moduleCode": "PH11_M3",
+          "topics": [
+            {
+              "topicName": "Thermodynamics",
+              "inquiryQuestions": [
+                "How are temperature, thermal energy, and particle motion related?",
+                "How does energy transformation underpin the laws of thermodynamics?",
+                "What predicts and determines the direction and efficiency of energy transfer?"
+              ],
+              "syllabusOutcomes": [
+                {
+                  "outcomeCode": "PH11-10",
+                  "description": "Explains and analyses waves and the transfer of energy by sound, light and thermodynamic principles",
+                  "bloomsLevel": "Analyse"
+                },
+                {
+                  "outcomeCode": "PH11/12-3",
+                  "description": "Conducts investigations to collect valid and reliable primary and secondary data",
+                  "bloomsLevel": "Apply"
+                },
+                {
+                  "outcomeCode": "PH11/12-4",
+                  "description": "Selects and processes appropriate qualitative and quantitative data and information using a range of media",
+                  "bloomsLevel": "Analyse"
+                },
+                {
+                  "outcomeCode": "PH11/12-6",
+                  "description": "Solves scientific problems using primary and secondary data, critical thinking skills, and scientific processes",
+                  "bloomsLevel": "Apply"
+                },
+                {
+                  "outcomeCode": "PH11/12-7",
+                  "description": "Communicates scientific understanding using suitable language and terminology for specific audiences",
+                  "bloomsLevel": "Apply"
+                }
+              ],
+              "workingScientificallyOutcomes": [
+                {"code": "PH11/12-3", "description": "Conducting Investigations"},
+                {"code": "PH11/12-4", "description": "Processing Data and Information"},
+                {"code": "PH11/12-6", "description": "Problem Solving"},
+                {"code": "PH11/12-7", "description": "Communicating"}
+              ],
+              "knowledgeNodes": [
+                {
+                  "nodeId": "PHY_M3_TH_N1",
+                  "description": "Explain the relationship between temperature, thermal energy, and average kinetic energy of particles, based on the particle model of matter.",
+                  "type": "theory",
+                  "bloomTaxonomyLevel": "Understand",
+                  "syllabusReference": "PH11-10 (ACSPH018)",
+                  "workingScientificallyCategory": null,
+                  "literacySkills": ["Define temperature", "Explain particle energy distribution", "Relate kinetic energy to temperature"],
+                  "numeracySkills": ["Interpret particle energy distributions graphically"],
+                  "prerequisiteNodes": ["STATE_MATTER_PMODEL"],
+                  "examQuestionsLinked": ["HSC2020Q14b"],
+                  "depthStudyComponents": ["Particle model investigation tasks"],
+                  "examples": ["Molecular speed in heated gases", "Temperature versus heat content (e.g., swimming pool vs cup of water)"],
+                  "media": ["media/particle_model_temperature.mp4"]
+                },
+                {
+                  "nodeId": "PHY_M3_TH_N2",
+                  "description": "Describe and analyse thermal equilibrium as the condition in which no net thermal energy transfer occurs between bodies in direct thermal contact.",
+                  "type": "concept",
+                  "bloomTaxonomyLevel": "Analyse",
+                  "syllabusReference": "PH11-10 (ACSPH022)",
+                  "workingScientificallyCategory": null,
+                  "literacySkills": ["Define thermal equilibrium", "Explain energy transfer directions", "Summarise Zeroth Law"],
+                  "numeracySkills": ["Interpret equilibrium diagrams"],
+                  "prerequisiteNodes": ["PHY_M3_TH_N1", "ENERGY_TRANSFER_BASICS"],
+                  "examQuestionsLinked": ["HSC2019Q12a"],
+                  "depthStudyComponents": ["Equilibrium temperature experimental studies"],
+                  "examples": ["Thermometers reaching stable readings", "Warm drink cooling to ambient temperature"],
+                  "media": ["media/thermal_equilibrium_demo.mp4"]
+                },
+                {
+                  "nodeId": "PHY_M3_TH_N3",
+                  "description": "Analyse heat transfer involving specific heat capacity using the mathematical relationship Q = mcΔT, to evaluate the thermal energy required for a given temperature change.",
+                  "type": "equation_analysis",
+                  "bloomTaxonomyLevel": "Apply",
+                  "syllabusReference": "PH11-10 (ACSPH020)",
+                  "workingScientificallyCategory": "Problem Solving",
+                  "literacySkills": ["Define specific heat capacity", "Interpret heat capacity tables"],
+                  "numeracySkills": ["Calculate thermal energy and temperature change", "Analyse experimental data on specific heat capacity"],
+                  "prerequisiteNodes": ["PHY_M3_TH_N1", "ALGEBRA_MANIPULATION", "ENERGY_CONSERVATION_BASICS"],
+                  "examQuestionsLinked": ["HSC2021Q15"],
+                  "depthStudyComponents": ["Investigating specific heat experimentally"],
+                  "examples": ["Cooking appliances heating efficiency", "Calorimetry experiments"],
+                  "media": ["media/specific_heat_calorimetry_simulation.mp4"]
+                },
+                {
+                  "nodeId": "PHY_M3_TH_N4",
+                  "description": "Explain the three primary mechanisms of thermal energy transfer: conduction, convection and radiation, identifying their occurrence and applicability in various physical contexts.",
+                  "type": "concept",
+                  "bloomTaxonomyLevel": "Understand",
+                  "syllabusReference": "PH11-10 (ACSPH016)",
+                  "workingScientificallyCategory": null,
+                  "literacySkills": ["Describe energy transfer mechanisms", "Compare mechanisms"],
+                  "numeracySkills": ["Interpret insulation performance graphs"],
+                  "prerequisiteNodes": ["PHY_M3_TH_N1", "STATE_MATTER_PMODEL", "EM_WAVES_BASICS"],
+                  "examQuestionsLinked": ["HSC2018Q9a"],
+                  "depthStudyComponents": ["Comparative analysis of insulation materials"],
+                  "examples": ["Insulation of housing", "Cooling mechanisms in engines"],
+                  "media": ["media/heat_transfer_mechanisms.png"]
+                },
+                {
+                  "nodeId": "PHY_M3_TH_N5",
+                  "description": "Analyse phase changes quantitatively using latent heat, applying the formula Q=mL to predict the thermal energy involved in phase transformations between solid, liquid, and gas states.",
+                  "type": "equation_analysis",
+                  "bloomTaxonomyLevel": "Analyse",
+                  "syllabusReference": "PH11-10",
+                  "workingScientificallyCategory": "Processing Data and Information",
+                  "literacySkills": ["Interpret phase change graphs"],
+                  "numeracySkills": ["Calculate latent heat using Q=mL", "Analyse heating/cooling curves rigorously"],
+                  "prerequisiteNodes": ["PHY_M3_TH_N3", "ALGEBRA_MANIPULATION"],
+                  "examQuestionsLinked": ["HSC2019Q13b"],
+                  "depthStudyComponents": ["Latent heat experimental determination (calorimetry)"],
+                  "examples": ["Melting ice", "Evaporative cooling (e.g., human sweating)"],
+                  "media": ["media/latent_heat_water.mp4"]
+                }
+              ],
+              "furtherConnections": [
+                {
+                  "relatedSyllabusContent": ["Environmental Science: climate change and thermodynamics", "Chemistry: endothermic/exothermic reactions affecting system energetics."],
+                  "crossCurriculumPriorities": ["Critical and creative thinking", "Sustainability"]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+\documentclass[xcolor=svgnames]{beamer}
+\usepackage[utf8]{inputenc}
+\usepackage{xcolor}
+\usepackage{booktabs, comment}
+\usepackage{pgfpages}
+\usepackage{csquotes}
+\usepackage{amsmath}
+\usepackage{tikz}
+\usetheme{Madrid}
+
+% COLORS
+\definecolor{mqred}{RGB}{166, 25, 46}
+\definecolor{mqdeepred}{RGB}{118, 35, 47}
+\definecolor{mqgray}{RGB}{55, 58, 54}
+\definecolor{mqlightgray}{RGB}{237, 235, 229}
+\definecolor{mqmagenta}{RGB}{198, 0, 126}
+\usecolortheme[named=mqred]{structure}
+\setbeamercolor{title in head/foot}{bg=mqlightgray, fg=mqgray}
+\setbeamercolor{author in head/foot}{bg=mqdeepred}
+\setbeamercolor{page number in head/foot}{bg=mqdeepred, fg=mqlightgray}
+
+% FOOTNOTE ARRANGEMENTS
+\makeatletter
+\setbeamertemplate{footline}{
+  \leavevmode%
+  \hbox{%
+  \begin{beamercolorbox}[wd=.5\paperwidth,ht=2.25ex,dp=1ex,center]{author in head/foot}%
+    \usebeamerfont{author in head/foot}\insertshortauthor\expandafter\ifblank\expandafter{\beamer@shortinstitute}{}{~~(\insertshortinstitute)}
+  \end{beamercolorbox}%
+  \begin{beamercolorbox}[wd=.4\paperwidth,ht=2.25ex,dp=1ex,center]{title in head/foot}%
+    \usebeamerfont{title in head/foot}\insertshorttitle
+  \end{beamercolorbox}%
+  \begin{beamercolorbox}[wd=.1\paperwidth,ht=2.25ex,dp=1ex,center]{page number in head/foot}%
+    \usebeamerfont{page number in head/foot}\insertframenumber{} / \inserttotalframenumber
+  \end{beamercolorbox}}%
+  \vskip0pt%
+}
+\makeatother
+\beamertemplatenavigationsymbolsempty
+
+% TITLE, AUTHORS, INSTITUTE, DATE
+\title[Equations of Motion]{Equations of Motion: Motion Graphs and Equations}
+\author[Philip Haynes]{Philip Haynes}
+\institute[Gosford High School]{Gosford High School}
+\date{10/01/2025}
+
+% LOGO
+\titlegraphic{\includegraphics[height=2.5cm]{logo.jpg}} % Change the logo path as needed
+
+\begin{document}
+
+\begin{frame}
+    \titlepage
+\end{frame}
+
+\begin{frame}{Outline}
+    \tableofcontents
+\end{frame}
+
+\section{Introduction}
+\begin{frame}{Introduction to Motion Concepts}
+    \begin{itemize}
+        \item Definitions: displacement, velocity, acceleration.
+        \item Real-world examples: falling objects, moving vehicles.
+        \item Feynman approach: starting with simple points and building complexity.
+    \end{itemize}
+\end{frame}
+
+\section{Motion Graphs}
+\begin{frame}{Understanding Motion Graphs}
+    \begin{itemize}
+        \item Displacement--Time Graphs: What they show.
+        \item Velocity--Time Graphs: Deriving velocity from displacement.
+        \item Relationship between graphs and equations.
+        \item Interactive demonstrations (refer to interactive session).
+    \end{itemize}
+\end{frame}
+
+\section{Equations of Motion}
+\begin{frame}{Derivation of Equations}
+    \begin{itemize}
+        \item Start with constant acceleration: $g=9.8$ m/s$^2$.
+        \item Equations:
+        \begin{itemize}
+            \item $v = u + at$
+            \item $s = ut + \frac{1}{2}at^2$
+            \item $v^2 = u^2 + 2as$
+        \end{itemize}
+        \item Use Feynman's method: taking limits to define instantaneous values.
+    \end{itemize}
+\end{frame}
+
+\section{Worked Examples}
+\begin{frame}{Worked Example: Free Fall}
+    \begin{itemize}
+        \item An object starts from rest ($u=0$) and falls under gravity.
+        \item Calculate velocity after 5 seconds: $v = 0 + 9.8(5) = 49$ m/s.
+        \item Calculate displacement: $s = 0 + \frac{1}{2}(9.8)(5^2) = 122.5$ m.
+        \item Discuss graph representations.
+    \end{itemize}
+\end{frame}
+
+\section{Practice Problems and Review}
+\begin{frame}{Practice Problems}
+    \begin{itemize}
+        \item Solve similar problems in groups.
+        \item Use interactive tools to verify answers.
+        \item Immediate feedback through class discussion.
+    \end{itemize}
+\end{frame}
+
+\begin{frame}{Summary and Key Takeaways}
+    \begin{itemize}
+        \item Motion graphs illustrate changes in displacement and velocity.
+        \item Equations of motion provide mathematical models of motion.
+        \item Understanding these concepts builds the foundation for more complex topics.
+    \end{itemize}
+\end{frame}
+
+\begin{frame}
+    \centering
+    \textbf{Thank you!}\\
+    Questions?
+\end{frame}
+
+\end{document}

@@ -1,0 +1,264 @@
+\documentclass{tufte-handout}
+% If you prefer a more formal book-like style, use: \documentclass{tufte-book}
+
+\title{\centering Motion Experiments\\\\Speed, Velocity and Acceleration}
+\author{Student Name}
+\date{February 20, 2025}
+\usepackage{booktabs}       % for nice tables
+\usepackage{graphicx}       % for including images
+\usepackage{amsmath}        % for math symbols and environments
+\usepackage{siunitx}        % for SI units and formatting
+\usepackage{placeins}
+\usepackage{fancyhdr}
+
+\begin{document}
+\maketitle
+\pagestyle{fancy}
+\fancyhf{} % clear header and footer
+\fancyhead[R]{Motion Experiment: Speed, Velocity and Acceleration}
+
+\begin{abstract}
+% Write a concise summary (100–200 words) including:
+% - The research question and hypothesis
+% - The experimental methods (light gates and ticker timer)
+% - Key results obtained (e.g. measurements of velocity and acceleration)
+% - The conclusions drawn from your analysis
+
+This investigation consolidates two practical activities to examine the principles of motion. The first uses light gates to measure average velocity along a track, referencing the “06 Average Speed / Velocity” procedure. The second uses a ticker timer to determine speed and acceleration from spaced intervals on ticker tape. Students will compare both methodologies and discuss the effects of experimental setup, data collection, and theoretical predictions on their results. Conclusions will evaluate how accurate and reliable each approach is for measuring speed, velocity, and acceleration, and suggest improvements or future applications based on their findings.
+\end{abstract}
+
+\section{Introduction}
+Motion in one dimension is commonly characterised using concepts of speed, velocity, and acceleration.
+\emph{Speed} is the magnitude of how fast an object travels, while
+\emph{velocity} includes directional information.
+\emph{Acceleration} measures how velocity changes over time.
+
+In this consolidated practical, two methods are explored:
+\begin{enumerate}
+  \item A \textbf{light gate system} to measure the average velocity of a moving trolley.
+  \item A \textbf{ticker timer system} to examine speed and acceleration from physical tape tracings.
+\end{enumerate}
+
+The primary question is how each method can be used to collect accurate data on motion, with a focus on:
+\begin{itemize}
+  \item Comparing average velocity from light gates with manual calculations.
+  \item Using ticker tape to determine changing speeds and calculate acceleration.
+\end{itemize}
+
+\section{Methodology}
+
+\subsection{Experiment 1 -- Average Speed / Velocity (Light Gates)}
+\begin{figure}[ht]
+\centering
+\includegraphics[width=0.6\textwidth]{light-gate.png}
+\caption{Illustration of the trolley, track, and light gate setup for measuring average velocity.}
+\label{fig:avgvelocitysetup}
+\end{figure}
+
+\noindent\textbf{Apparatus:}
+\begin{itemize}
+  \item EASYSENSE data logger
+  \item Two Smart Q Light Gates (Inputs A and B)
+  \item Dynamics track with marked intervals
+  \item Trolley fitted with interrupt card
+  \item A computer with the relevant “06 Average Velocity” software setup
+\end{itemize}
+
+\noindent\textbf{Procedure:}
+\begin{enumerate}
+  \item Place Light Gate A at the start of the track (top) and connect it to Input A on the logger.
+  \item Mark at least five positions along the track (10\,cm apart). Position Light Gate B at your first mark (e.g.\ 20\,cm from Gate A).
+  \item Ensure the trolley moves freely and the interrupt card will pass cleanly through both gates.
+  \item Use the “06 Average Velocity” setup on the logger/computer to record:
+  \begin{itemize}
+    \item Time from A to B
+    \item Initial velocity, $u$, measured at Gate A
+    \item Final velocity, $v$, measured at Gate B
+  \end{itemize}
+  \item Calculate the average speed from A to B:
+  \[
+    \text{Average Speed} = \frac{\text{Distance from A to B}}{\text{Time from A to B}}
+  \]
+  \item Also calculate the average velocity using:
+  \[
+    \text{Average Velocity} = \frac{u + v}{2}
+  \]
+  \item Move Gate B to each subsequent mark and repeat.
+  \item Record all data in a results table (see Section~\ref{sec:results}).
+\end{enumerate}
+
+\vspace{1em}
+\subsection{Experiment 2 -- Ticker Timer (Speed and Acceleration)}
+
+\begin{figure}[ht]
+\centering
+\includegraphics[width=0.6\textwidth]{ticker-tape-machine.png}
+\caption{Diagram showing the ticker timer setup with carbon disc and tape.}
+\label{fig:tickertimersetup}
+\end{figure}
+
+\begin{marginfigure}
+\includegraphics{tapes.png}
+\caption{Tape results of different length}
+\end{marginfigure}
+
+\noindent\textbf{Apparatus:}
+\begin{itemize}
+  \item Ticker timer connected to a 12\,V power supply
+  \item Ticker tape (50\,cm for speed checks, 1\,m for acceleration)
+  \item Carbon disc (attached to the ticker timer)
+  \item Ruler or measuring tape
+  \item Scissors
+\end{itemize}
+
+\noindent\textbf{Part A -- Calculating Speed:}
+\begin{enumerate}
+  \item Thread a 50\,cm length of tape under the carbon disc.
+  \item Switch on the timer and pull the tape \textbf{steadily} through.
+  \item Cut the tape into five segments of equal dot spacing (each segment contains 5‐space intervals).
+  \item Label them (e.g.\ Tape 1, Tape 2, etc.) and measure each segment’s length.
+  \item Each dot‐to‐dot interval represents 0.2\,s, so the total time for each segment is $(\text{number of spaces}) \times 0.2\,\text{s}$.
+  \item Speed for each segment:
+  \[
+    \text{Speed} = \frac{\text{Segment Length}}{\text{Time Interval}}
+  \]
+\end{enumerate}
+
+\noindent\textbf{Part B -- Calculating Acceleration:}
+\begin{enumerate}
+  \item Repeat with a 1\,m length of tape.
+  \item Pull the tape so that it speeds up part‐way through (for changing velocity).
+  \item Cut the tape into segments (e.g.\ 12 segments), measuring an early segment’s length (initial velocity) and a later segment’s length (final velocity).
+  \item Calculate:
+  \[
+    u = \frac{\text{Distance of initial segment}}{\text{Time for that segment}},
+    \quad
+    v = \frac{\text{Distance of final segment}}{\text{Time for that segment}}
+  \]
+  \[
+    a = \frac{v - u}{\Delta t}
+  \]
+  \item Estimate $\Delta t$ by summing the time intervals (0.2\,s per dot space) from your initial segment to your final segment.
+
+\end{enumerate}
+\begin{figure}
+    \centering
+    \includegraphics[width=1\linewidth]{direction.png}
+    \caption{How to Calculate Acceleration on a Ticker Tape}
+    \label{fig:enter-label}
+\end{figure}
+
+\section{Results}
+
+\subsection{Experiment 1 -- Average Speed / Velocity Table}
+\FloatBarrier
+\begin{table}[ht]
+\centering
+\caption{Light Gate Data: Distance, Time, and Velocity}
+\begin{tabular}{@{}lllllll@{}}
+\toprule
+\textbf{Run} &
+\textbf{Distance} &
+\textbf{Time} &
+\textbf{Speed} &
+$\boldsymbol{u}$ (\si{m/s}) &
+$\boldsymbol{v}$ (\si{m/s}) &
+$\frac{u + v}{2}$ (\si{m/s}) \\
+\midrule
+1 & (m) & (s) & (m/s) & (m/s) & (m/s) & (m/s) \\
+2 &  &  &  &  &  &  \\
+3 &  &  &  &  &  &  \\
+4 &  &  &  &  &  &  \\
+5 &  &  &  &  &  &  \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsection{Experiment 2 Part A: Speed (Short Tape)}
+\FloatBarrier
+\begin{table}[ht]
+\centering
+\caption{Ticker Timer Speed Measurements (5‐segment intervals)}
+\begin{tabular}{@{}llll@{}}
+\toprule
+\textbf{Tape} &
+\textbf{Segment Length (cm)} &
+\textbf{Time (s)} &
+\textbf{Speed (cm/s)} \\
+\midrule
+1 &  &  &  \\
+2 &  &  &  \\
+3 &  &  &  \\
+4 &  &  &  \\
+5 &  &  &  \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[ht]
+\centering
+\caption{Additional Trial for Speed (if applicable)}
+\begin{tabular}{@{}llll@{}}
+\toprule
+\textbf{Tape} &
+\textbf{Segment Length (cm)} &
+\textbf{Time (s)} &
+\textbf{Speed (cm/s)} \\
+\midrule
+1 &  &  &  \\
+2 &  &  &  \\
+3 &  &  &  \\
+4 &  &  &  \\
+5 &  &  &  \\
+\bottomrule
+\end{tabular}
+\end{table}
+\FloatBarrier
+
+\subsection{Experiment 2 B: Acceleration (Long Tape)}
+\FloatBarrier
+\begin{table}[ht]
+\centering
+\caption{Ticker Timer Acceleration Measurements}
+\begin{tabular}{@{}lllllll@{}}
+\toprule
+\textbf{Segment} &
+\textbf{S (cm)} &
+\textbf{T (s)} &
+$\boldsymbol{u}$ (\si{cm/s}) &
+$\boldsymbol{v}$ (\si{cm/s}) &
+$\Delta v$ (\si{cm/s}) &
+$a$ (\si{cm/s^2}) \\
+\midrule
+Initial &  &  &  &  &  &  \\
+Final   &  &  &  &  &  &  \\
+\bottomrule
+\end{tabular}
+\end{table}
+\FloatBarrier
+
+\section{Discussion}
+% Provide a critical analysis of your results
+% Guidance:
+% - Interpret trends and patterns observed in the data
+% - Compare experimental values to theoretical predictions
+% - Discuss possible sources of error and reliability (e.g., friction, human error in measurement)
+% - Reflect on ways to improve methodology (e.g., better measurement instruments, more trials, clearer experimental setup)
+\vspace{10em} % Adjust the space as needed
+
+\section{Conclusion}
+Summarise key findings
+Guidance:
+ - Restate the major results and what they mean
+ - Comment on how each method supported or refuted your hypothesis
+ - Include suggestions for future investigations or potential improvements
+\vspace{10em} % Adjust the space as needed
+
+\section{References}
+% Use an appropriate citation style (e.g., APA, Harvard, or BibTeX with a .bib file)
+
+
+
+\section{Appendices}
+% Insert raw data, extended calculations or other supplementary info that might clutter the main text.
+\end{document}
