@@ -1,0 +1,28 @@
+\contentsline {chapter}{Introduction}{3}{chapter*.2}%
+\contentsline {section}{How to Use This Textbook}{3}{section*.3}%
+\contentsline {subsection}{Main Text}{3}{subsection*.4}%
+\contentsline {subsection}{Margin Notes}{3}{subsection*.5}%
+\contentsline {subsection}{Investigations and Activities}{4}{subsection*.6}%
+\contentsline {subsection}{Worked Examples and Practice Problems}{4}{subsection*.7}%
+\contentsline {subsection}{Chapter Summaries and Review Questions}{4}{subsection*.8}%
+\contentsline {section}{Overview of the NSW HSC Physics Course}{4}{section*.9}%
+\contentsline {subsection}{Year 11 (Preliminary) Modules}{4}{subsection*.10}%
+\contentsline {subsection}{Year 12 (HSC) Modules}{5}{subsection*.11}%
+\contentsline {section}{How to Use This Textbook Effectively}{5}{section*.12}%
+\contentsline {subsection}{Study Tips}{5}{subsection*.13}%
+\contentsline {subsection}{Navigation and Organisation}{6}{subsection*.14}%
+\contentsline {subsection}{Preparation for HSC Examinations}{6}{subsection*.15}%
+\contentsline {section}{The Nature and Importance of Physics}{6}{section*.16}%
+\contentsline {section}{A Word of Encouragement}{7}{section*.17}%
+\contentsline {chapter}{Thermodynamics}{9}{chapter*.18}%
+\contentsline {section}{Temperature, Thermal Energy, and Particle Motion}{9}{section*.19}%
+\contentsline {section}{Thermal Equilibrium}{10}{section*.20}%
+\contentsline {section}{Quantifying Heat Transfer: Specific Heat Capacity}{11}{section*.21}%
+\contentsline {section}{Mechanisms of Heat Transfer}{13}{section*.22}%
+\contentsline {subsection}{Conduction}{13}{subsection*.23}%
+\contentsline {subsection}{Convection}{13}{subsection*.24}%
+\contentsline {subsection}{Radiation}{13}{subsection*.25}%
+\contentsline {section}{Phase Changes and Latent Heat}{14}{section*.26}%
+\contentsline {section}{Chapter Summary & Further Connections}{15}{section*.27}%
+\contentsline {section}{Practice Questions}{16}{section*.28}%
+\contentsfinish 

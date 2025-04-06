@@ -1,0 +1,1880 @@
+{
+  "subject": {
+    "name": "NSW HSC Physics",
+    "description": "Core physics curriculum for students in years 11-12 (16-18 years old)",
+    "components": [
+      "Year 11 Modules",
+      "Year 12 Modules",
+      "Working Scientifically Skills",
+      "Practical Investigations",
+      "Depth Studies"
+    ],
+    "syllabus_alignment": "NSW Stage 6 Physics Syllabus"
+  },
+  
+  "working_scientifically_skills": [
+    {
+      "name": "Questioning and Predicting",
+      "code": "PH11/12-1",
+      "description": "Developing and evaluating questions and hypotheses for scientific investigation",
+      "fundamentality": "High",
+      "key_actions": [
+        "Develop inquiry questions",
+        "Formulate testable hypotheses",
+        "Modify questions based on new evidence"
+      ]
+    },
+    {
+      "name": "Planning Investigations",
+      "code": "PH11/12-2",
+      "description": "Designing and evaluating investigations to obtain data and information",
+      "fundamentality": "High",
+      "key_actions": [
+        "Assess risks and ethical issues",
+        "Select appropriate equipment",
+        "Plan reliable data collection",
+        "Evaluate and modify investigation designs"
+      ]
+    },
+    {
+      "name": "Conducting Investigations",
+      "code": "PH11/12-3",
+      "description": "Conducting investigations to collect valid and reliable data",
+      "fundamentality": "High",
+      "key_actions": [
+        "Employ safe work practices",
+        "Use appropriate technologies",
+        "Collect data methodically",
+        "Reference secondary sources correctly"
+      ]
+    },
+    {
+      "name": "Processing Data and Information",
+      "code": "PH11/12-4",
+      "description": "Processing appropriate data and information using various media",
+      "fundamentality": "High",
+      "key_actions": [
+        "Represent data in multiple formats",
+        "Apply quantitative processes",
+        "Evaluate and improve data quality"
+      ]
+    },
+    {
+      "name": "Analyzing Data and Information",
+      "code": "PH11/12-5",
+      "description": "Analyzing and evaluating primary and secondary data and information",
+      "fundamentality": "High",
+      "key_actions": [
+        "Identify trends and patterns",
+        "Assess error and uncertainty",
+        "Evaluate data validity and reliability",
+        "Suggest improvements to investigations"
+      ]
+    },
+    {
+      "name": "Problem Solving",
+      "code": "PH11/12-6",
+      "description": "Solving scientific problems using data, critical thinking and scientific processes",
+      "fundamentality": "High",
+      "key_actions": [
+        "Use models to explain phenomena",
+        "Make predictions based on evidence",
+        "Apply scientific principles to novel situations"
+      ]
+    },
+    {
+      "name": "Communicating",
+      "code": "PH11/12-7",
+      "description": "Communicating scientific understanding using suitable language and terminology",
+      "fundamentality": "High",
+      "key_actions": [
+        "Select appropriate communication forms",
+        "Apply scientific notation and terminology",
+        "Construct evidence-based arguments",
+        "Engage in peer feedback"
+      ]
+    }
+  ],
+  
+  "foundation_skills": {
+    "mathematical_skills": [
+      {
+        "name": "Vector Mathematics",
+        "description": "Representation and manipulation of vector quantities",
+        "fundamentality": "High",
+        "difficulty": 3,
+        "prerequisites": ["Basic algebra", "Trigonometry"],
+        "dependents": ["Kinematics", "Dynamics", "Electric Fields", "Magnetic Fields"],
+        "misconceptions": ["Treating all physical quantities as scalars", "Neglecting direction in calculations"],
+        "key_concepts": [
+          "Vector addition and subtraction",
+          "Resolution into components (Fx = Fcosθ, Fy = Fsinθ)",
+          "Vector multiplication"
+        ]
+      },
+      {
+        "name": "Algebraic Manipulation",
+        "description": "Rearranging equations and solving for unknown variables",
+        "fundamentality": "High",
+        "difficulty": 2,
+        "prerequisites": ["Basic algebra"],
+        "dependents": ["All physics equations"],
+        "misconceptions": ["Applying incorrect operations to both sides of equations"],
+        "key_concepts": [
+          "Isolating variables",
+          "Substitution",
+          "Simultaneous equations"
+        ]
+      },
+      {
+        "name": "Graphical Analysis",
+        "description": "Interpreting and creating graphs of physical relationships",
+        "fundamentality": "High",
+        "difficulty": 2,
+        "prerequisites": ["Coordinate geometry"],
+        "dependents": ["Kinematics", "Data Analysis", "Wave Analysis"],
+        "misconceptions": ["Confusing the graph with the physical situation"],
+        "key_concepts": [
+          "Interpreting slopes and areas under curves",
+          "Recognizing relationship types (linear, quadratic, inverse)",
+          "Extracting physical meaning from graphs"
+        ]
+      },
+      {
+        "name": "Calculus Application",
+        "description": "Using derivatives and integrals in physics contexts",
+        "fundamentality": "Moderate",
+        "difficulty": 4,
+        "prerequisites": ["Algebraic Manipulation"],
+        "dependents": ["Energy and Work", "Electromagnetic Induction", "Special Relativity"],
+        "misconceptions": ["Not understanding the physical meaning of derivatives and integrals"],
+        "key_concepts": [
+          "Rate of change calculations",
+          "Area under curve determination",
+          "Basic differential and integral applications"
+        ]
+      },
+      {
+        "name": "Dimensional Analysis",
+        "description": "Analyzing and validating equations using dimensions and units",
+        "fundamentality": "High",
+        "difficulty": 2,
+        "prerequisites": ["Basic understanding of physical quantities"],
+        "dependents": ["All quantitative physics calculations"],
+        "misconceptions": ["Ignoring units in calculations"],
+        "key_concepts": [
+          "Checking equation validity through dimensional analysis",
+          "Unit conversions",
+          "Identifying inconsistencies in equations"
+        ]
+      },
+      {
+        "name": "Error Analysis",
+        "description": "Evaluating uncertainty in measurements and calculations",
+        "fundamentality": "Moderate",
+        "difficulty": 3,
+        "prerequisites": ["Basic statistics"],
+        "dependents": ["Data Analysis", "Practical Investigations"],
+        "misconceptions": ["Confusing accuracy with precision"],
+        "key_concepts": [
+          "Calculating absolute and percentage errors",
+          "Propagation of errors",
+          "Significant figures"
+        ]
+      }
+    ]
+  },
+  
+  "year11_modules": [
+    {
+      "name": "Module 1: Kinematics",
+      "code": "PH11-8",
+      "description": "Study of motion without considering forces",
+      "concepts": [
+        {
+          "name": "Uniform Straight-Line Motion",
+          "description": "Motion with constant velocity",
+          "fundamentality": "High",
+          "difficulty": 2,
+          "prerequisites": ["Graphical Analysis"],
+          "dependents": ["Dynamics", "Projectile Motion"],
+          "key_equations": ["v = Δs/Δt"],
+          "misconceptions": ["Confusing distance with displacement"],
+          "practical_investigations": ["Measure and graph uniform motion"]
+        },
+        {
+          "name": "Uniformly Accelerated Motion",
+          "description": "Motion with constant acceleration",
+          "fundamentality": "High",
+          "difficulty": 2,
+          "prerequisites": ["Graphical Analysis", "Algebraic Manipulation"],
+          "dependents": ["Dynamics", "Projectile Motion"],
+          "key_equations": [
+            "s = ut + ½at²",
+            "v = u + at",
+            "v² = u² + 2as"
+          ],
+          "misconceptions": ["Confusing instantaneous and average values"],
+          "practical_investigations": ["Analyze acceleration using ticker timers or motion sensors"]
+        },
+        {
+          "name": "Scalar vs. Vector Quantities",
+          "description": "Distinguishing between quantities with and without direction",
+          "fundamentality": "High",
+          "difficulty": 2,
+          "prerequisites": ["Basic mathematics"],
+          "dependents": ["All mechanics concepts"],
+          "key_relationships": ["Distance vs. displacement", "Speed vs. velocity"],
+          "misconceptions": ["Treating all quantities as scalars"]
+        },
+        {
+          "name": "Vector Analysis",
+          "description": "Analyzing motion in two dimensions",
+          "fundamentality": "High",
+          "difficulty": 3,
+          "prerequisites": ["Vector Mathematics"],
+          "dependents": ["Projectile Motion", "Circular Motion"],
+          "key_skills": [
+            "Vector resolution into components",
+            "Vector addition in two dimensions"
+          ],
+          "misconceptions": ["Failing to account for direction"]
+        },
+        {
+          "name": "Relative Motion",
+          "description": "Motion of objects relative to different reference frames",
+          "fundamentality": "Moderate",
+          "difficulty": 3,
+          "prerequisites": ["Vector Mathematics"],
+          "dependents": ["Advanced Mechanics"],
+          "key_applications": [
+            "Boat on flowing river",
+            "Moving vehicles",
+            "Aircraft in crosswind"
+          ],
+          "misconceptions": ["Confusing absolute and relative motion"]
+        }
+      ]
+    },
+    {
+      "name": "Module 2: Dynamics",
+      "code": "PH11-9",
+      "description": "Study of forces and their effects on motion",
+      "concepts": [
+        {
+          "name": "Types of Forces",
+          "description": "Contact and field-mediated forces",
+          "fundamentality": "High",
+          "difficulty": 2,
+          "prerequisites": ["Vector Mathematics"],
+          "dependents": ["Newton's Laws", "Momentum", "Energy"],
+          "examples": ["Weight", "Normal", "Friction", "Tension", "Spring"],
+          "misconceptions": ["Thinking 'force' is a property of an object"]
+        },
+        {
+          "name": "Net Force and Equilibrium",
+          "description": "Vector sum of forces and balanced force conditions",
+          "fundamentality": "High",
+          "difficulty": 3,
+          "prerequisites": ["Vector Mathematics"],
+          "dependents": ["Newton's Laws"],
+          "key_equations": ["ΣF = 0 (for equilibrium)"],
+          "practical_investigations": ["Forces on inclined planes"],
+          "misconceptions": ["Ignoring force components"]
+        },
+        {
+          "name": "Force Pairs",
+          "description": "Action-reaction force pairs (Newton's Third Law)",
+          "fundamentality": "High",
+          "difficulty": 3,
+          "prerequisites": ["Vector Mathematics"],
+          "dependents": ["Momentum"],
+          "key_equations": ["F⃗AB = -F⃗BA"],
+          "misconceptions": ["Confusing force pairs with balanced forces"]
+        },
+        {
+          "name": "Newton's First Law",
+          "description": "Objects maintain state of rest or uniform motion unless acted upon by net force",
+          "fundamentality": "High",
+          "difficulty": 2,
+          "prerequisites": ["Net Force concept"],
+          "dependents": ["Circular Motion", "Dynamics applications"],
+          "key_applications": ["Inertia demonstrations"],
+          "misconceptions": ["Thinking moving objects naturally stop"]
+        },
+        {
+          "name": "Newton's Second Law",
+          "description": "Force causes acceleration proportional to mass",
+          "fundamentality": "High",
+          "difficulty": 3,
+          "prerequisites": ["Net Force", "Vector Mathematics"],
+          "dependents": ["Work", "Energy", "Momentum"],
+          "key_equations": ["F⃗net = ma⃗"],
+          "practical_investigations": ["Verify proportionality between force and acceleration"],
+          "misconceptions": ["Ignoring vector nature of the equation"]
+        },
+        {
+          "name": "Friction",
+          "description": "Force opposing relative motion between surfaces",
+          "fundamentality": "High",
+          "difficulty": 3,
+          "prerequisites": ["Newton's Laws"],
+          "dependents": ["Real-world dynamics applications"],
+          "key_equations": ["f⃗friction = μF⃗N"],
+          "misconceptions": ["Thinking friction always opposes motion direction"]
+        },
+        {
+          "name": "Work and Energy",
+          "description": "Transfer of energy through application of force over displacement",
+          "fundamentality": "High",
+          "difficulty": 3,
+          "prerequisites": ["Force", "Vector Mathematics"],
+          "dependents": ["Conservation of Energy"],
+          "key_equations": [
+            "W = F∥s = Fscosθ",
+            "ΔU = mgΔh"
+          ],
+          "misconceptions": ["Confusing work and force"]
+        },
+        {
+          "name": "Mechanical Power",
+          "description": "Rate of energy transfer or work done",
+          "fundamentality": "Moderate",
+          "difficulty": 3,
+          "prerequisites": ["Work", "Energy"],
+          "dependents": ["Energy applications"],
+          "key_equations": [
+            "P = ΔE/Δt",
+            "P = F∥v = Fvcosθ"
+          ],
+          "misconceptions": ["Confusing power with energy or force"]
+        },
+        {
+          "name": "Linear Momentum",
+          "description": "Product of mass and velocity of an object",
+          "fundamentality": "High",
+          "difficulty": 3,
+          "prerequisites": ["Newton's Laws"],
+          "dependents": ["Collisions", "Impulse"],
+          "key_equations": ["p⃗ = mv⃗"],
+          "misconceptions": ["Treating momentum as a scalar"]
+        },
+        {
+          "name": "Conservation of Momentum",
+          "description": "Total momentum in a closed system remains constant",
+          "fundamentality": "High",
+          "difficulty": 3,
+          "prerequisites": ["Linear Momentum"],
+          "dependents": ["Collisions"],
+          "key_equations": ["Σm⃗vbefore = Σm⃗vafter"],
+          "practical_investigations": ["Analyze one and two-dimensional collisions"],
+          "misconceptions": ["Applying to systems with external forces"]
+        },
+        {
+          "name": "Impulse",
+          "description": "Change in momentum caused by force applied over time",
+          "fundamentality": "Moderate",
+          "difficulty": 3,
+          "prerequisites": ["Linear Momentum"],
+          "dependents": ["Collision Analysis"],
+          "key_equations": ["Δp⃗ = F⃗netΔt"],
+          "misconceptions": ["Confusing impulse with momentum"]
+        },
+        {
+          "name": "Elastic and Inelastic Collisions",
+          "description": "Collisions with/without conservation of kinetic energy",
+          "fundamentality": "Moderate",
+          "difficulty": 4,
+          "prerequisites": ["Conservation of Momentum", "Energy"],
+          "dependents": ["Advanced collision analysis"],
+          "key_relationships": [
+            "Elastic: Σ½mv²before = Σ½mv²after (kinetic energy conserved)",
+            "Inelastic: Kinetic energy not conserved"
+          ],
+          "practical_investigations": ["Compare momentum and energy in different collisions"],
+          "misconceptions": ["Thinking all collisions conserve kinetic energy"]
+        }
+      ]
+    },
+    {
+      "name": "Module 3: Waves and Thermodynamics",
+      "code": "PH11-10",
+      "description": "Study of wave phenomena and heat transfer",
+      "concepts": [
+        {
+          "name": "Wave Characteristics",
+          "description": "Fundamental properties common to all waves",
+          "fundamentality": "High",
+          "difficulty": 2,
+          "prerequisites": ["Mathematical Modeling"],
+          "dependents": ["Sound Waves", "Light Waves"],
+          "key_parameters": [
+            "Wavelength (λ)",
+            "Frequency (f)",
+            "Period (T)",
+            "Amplitude (A)",
+            "Velocity (v)"
+          ],
+          "key_equations": [
+            "v = fλ",
+            "f = 1/T"
+          ],
+          "misconceptions": ["Confusing wavelength and amplitude"]
+        },
+        {
+          "name": "Wave Types",
+          "description": "Classification of waves by medium and vibration direction",
+          "fundamentality": "High",
+          "difficulty": 2,
+          "prerequisites": ["Wave Characteristics"],
+          "dependents": ["Sound Waves", "Light Waves"],
+          "types": [
+            "Transverse vs. Longitudinal",
+            "Mechanical vs. Electromagnetic"
+          ],
+          "practical_investigations": ["Generate different wave types with springs/slinkies"],
+          "misconceptions": ["Thinking all waves require a medium"]
+        },
+        {
+          "name": "Wave Energy Transfer",
+          "description": "Process of energy movement without matter transfer",
+          "fundamentality": "Moderate",
+          "difficulty": 3,
+          "prerequisites": ["Wave Characteristics"],
+          "dependents": ["Sound", "Light", "Electromagnetic Waves"],
+          "practical_investigations": ["Energy transfer in wave tank or ripple tank"],
+          "misconceptions": ["Thinking waves transfer matter"]
+        },
+        {
+          "name": "Reflection",
+          "description": "Change in wave direction from a boundary",
+          "fundamentality": "High",
+          "difficulty": 2,
+          "prerequisites": ["Wave Properties"],
+          "dependents": ["Sound Reflection", "Light Reflection"],
+          "practical_investigations": ["Reflection of waves in ripple tank"],
+          "misconceptions": ["Incorrect understanding of angle relationships"]
+        },
+        {
+          "name": "Refraction",
+          "description": "Change in wave direction due to speed change",
+          "fundamentality": "High",
+          "difficulty": 3,
+          "prerequisites": ["Wave Properties"],
+          "dependents": ["Light Refraction", "Lenses"],
+          "practical_investigations": ["Refraction in ripple tank with depth change"],
+          "misconceptions": ["Confusing with reflection"]
+        },
+        {
+          "name": "Diffraction",
+          "description": "Bending of waves around obstacles or through openings",
+          "fundamentality": "High",
+          "difficulty": 3,
+          "prerequisites": ["Wave Properties"],
+          "dependents": ["Light Diffraction", "Sound Diffraction"],
+          "practical_investigations": ["Diffraction through various width gaps"],
+          "misconceptions": ["Thinking only small obstacles cause diffraction"]
+        },
+        {
+          "name": "Superposition and Interference",
+          "description": "Combination of waves to form resultant wave",
+          "fundamentality": "High",
+          "difficulty": 4,
+          "prerequisites": ["Wave Properties"],
+          "dependents": ["Standing Waves", "Sound Interference", "Light Interference"],
+          "types": ["Constructive and destructive interference"],
+          "practical_investigations": ["Two-source interference patterns in ripple tank"],
+          "misconceptions": ["Thinking waves destroy each other in destructive interference"]
+        },
+        {
+          "name": "Standing Waves",
+          "description": "Fixed pattern formed by superposition of identical waves",
+          "fundamentality": "Moderate",
+          "difficulty": 4,
+          "prerequisites": ["Superposition", "Reflection"],
+          "dependents": ["Resonance", "Sound Standing Waves"],
+          "key_features": ["Nodes", "antinodes", "fixed wavelength"],
+          "practical_investigations": ["Standing waves on strings"],
+          "misconceptions": ["Thinking standing waves transfer energy along the medium"]
+        },
+        {
+          "name": "Resonance",
+          "description": "Maximum amplitude response at natural frequency",
+          "fundamentality": "Moderate",
+          "difficulty": 4,
+          "prerequisites": ["Standing Waves"],
+          "dependents": ["Acoustics", "Mechanical Systems"],
+          "key_relationships": [
+            "Driving frequency",
+            "Natural frequency",
+            "Amplitude response"
+          ],
+          "practical_investigations": ["Resonance in mechanical systems"],
+          "misconceptions": ["Thinking all frequencies cause strong vibrations"]
+        },
+        {
+          "name": "Sound Properties",
+          "description": "Characteristics specific to sound waves",
+          "fundamentality": "Moderate",
+          "difficulty": 3,
+          "prerequisites": ["Wave Properties"],
+          "dependents": ["Sound Behavior"],
+          "key_concepts": [
+            "Pitch (frequency)",
+            "Loudness (amplitude)",
+            "Timbre (waveform)"
+          ],
+          "practical_investigations": ["Relate pitch and loudness to wave characteristics"],
+          "misconceptions": ["Confusing pitch with loudness"]
+        },
+        {
+          "name": "Beats",
+          "description": "Periodic variation in amplitude from similar frequencies",
+          "fundamentality": "Low",
+          "difficulty": 4,
+          "prerequisites": ["Superposition"],
+          "dependents": ["Musical Acoustics"],
+          "key_equations": ["fbeat = |f2 - f1|"],
+          "practical_investigations": ["Demonstrate beats with tuning forks"],
+          "misconceptions": ["Confusing beat frequency with original frequencies"]
+        },
+        {
+          "name": "Doppler Effect",
+          "description": "Frequency change due to relative motion",
+          "fundamentality": "Low",
+          "difficulty": 4,
+          "prerequisites": ["Wave Properties"],
+          "dependents": ["Applications in astronomy, medicine"],
+          "key_equations": ["f' = f((vwave + vobserver)/(vwave - vsource))"],
+          "misconceptions": ["Thinking effect depends on distance, not velocity"]
+        },
+        {
+          "name": "Temperature and Thermal Energy",
+          "description": "Relationship between temperature and particle motion",
+          "fundamentality": "High",
+          "difficulty": 2,
+          "prerequisites": ["Basic particle model"],
+          "dependents": ["Heat Transfer", "Thermal Equilibrium"],
+          "key_concept": "Temperature as measure of average kinetic energy",
+          "misconceptions": ["Confusing temperature with thermal energy"]
+        },
+        {
+          "name": "Thermal Equilibrium",
+          "description": "State where no net heat transfer occurs",
+          "fundamentality": "High",
+          "difficulty": 2,
+          "prerequisites": ["Temperature"],
+          "dependents": ["Heat Transfer Applications"],
+          "key_concept": "Equal temperatures between systems",
+          "misconceptions": ["Ignoring role of thermal conductivity"]
+        },
+        {
+          "name": "Specific Heat Capacity",
+          "description": "Energy required to raise temperature of unit mass",
+          "fundamentality": "High",
+          "difficulty": 3,
+          "prerequisites": ["Thermal Energy"],
+          "dependents": ["Heat Transfer Applications"],
+          "key_equations": ["Q = mcΔT"],
+          "practical_investigations": ["Determine specific heat capacity of materials"],
+          "misconceptions": ["Confusing heat and temperature"]
+        },
+        {
+          "name": "Latent Heat",
+          "description": "Energy involved in phase changes",
+          "fundamentality": "Moderate",
+          "difficulty": 3,
+          "prerequisites": ["Specific Heat"],
+          "dependents": ["Phase Change Applications"],
+          "key_equations": ["Q = mL"],
+          "practical_investigations": ["Analyze latent heat in phase changes"],
+          "misconceptions": ["Not recognizing temperature remains constant during phase change"]
+        },
+        {
+          "name": "Heat Transfer Methods",
+          "description": "Mechanisms of thermal energy transfer",
+          "fundamentality": "High",
+          "difficulty": 3,
+          "prerequisites": ["Thermal Energy"],
+          "dependents": ["Thermal Applications"],
+          "methods": ["Conduction", "Convection", "Radiation"],
+          "misconceptions": ["Thinking heat rises (hot air rises)"]
+        },
+        {
+          "name": "Thermal Conductivity",
+          "description": "Material property for heat transfer",
+          "fundamentality": "Moderate",
+          "difficulty": 3,
+          "prerequisites": ["Heat Transfer Methods"],
+          "dependents": ["Thermal Applications"],
+          "key_equations": ["Q/t = kAΔT/d"],
+          "practical_investigations": ["Compare conductivity of materials"],
+          "misconceptions": ["Confusing insulation with inability to transfer heat"]
+        }
+      ]
+    },
+    {
+      "name": "Module 4: Electricity and Magnetism",
+      "code": "PH11-11",
+      "description": "Study of electric and magnetic interactions",
+      "concepts": [
+        {
+          "name": "Electric Charge",
+          "description": "Fundamental property of matter",
+          "fundamentality": "High",
+          "difficulty": 2,
+          "prerequisites": ["Atomic structure basics"],
+          "dependents": ["Electric Force", "Electric Field"],
+          "key_concepts": [
+            "Conservation of charge",
+            "Quantization of charge",
+            "Charging methods (friction, induction, conduction)"
+          ],
+          "practical_investigations": ["Investigate charging processes"],
+          "misconceptions": ["Thinking charge is created rather than separated"]
+        },
+        {
+          "name": "Electric Force",
+          "description": "Force between charged objects",
+          "fundamentality": "High",
+          "difficulty": 3,
+          "prerequisites": ["Electric Charge"],
+          "dependents": ["Electric Field"],
+          "key_equations": ["F = (1/4πε₀)(q₁q₂/r²) (Coulomb's Law)"],
+          "practical_investigations": ["Verify relationship between charge, distance and force"],
+          "misconceptions": ["Not recognizing inverse square relationship"]
+        },
+        {
+          "name": "Electric Field",
+          "description": "Region of influence around charged objects",
+          "fundamentality": "High",
+          "difficulty": 4,
+          "prerequisites": ["Electric Force"],
+          "dependents": ["Electric Potential", "Circuit Analysis"],
+          "key_equations": [
+            "F⃗ = qE⃗",
+            "E = V/d"
+          ],
+          "key_representations": [
+            "Field lines for point charges",
+            "Charge pairs",
+            "Dipoles",
+            "Parallel plates"
+          ],
+          "misconceptions": ["Thinking field lines are physical entities"]
+        },
+        {
+          "name": "Electric Potential Energy",
+          "description": "Energy due to position in electric field",
+          "fundamentality": "High",
+          "difficulty": 4,
+          "prerequisites": ["Electric Field"],
+          "dependents": ["Electric Potential", "Circuit Analysis"],
+          "key_concepts": [
+            "Work done moving charge in field",
+            "Equipotential lines"
+          ],
+          "key_equations": ["V = ΔU/q"],
+          "misconceptions": ["Confusing potential with field strength"]
+        },
+        {
+          "name": "Electric Current",
+          "description": "Flow of electric charge",
+          "fundamentality": "High",
+          "difficulty": 3,
+          "prerequisites": ["Electric Charge", "Electric Field"],
+          "dependents": ["Circuit Analysis"],
+          "key_equations": ["I = q/t"],
+          "practical_investigations": ["Measure current in simple circuits"],
+          "misconceptions": ["Thinking current is 'used up'"]
+        },
+        {
+          "name": "Ohm's Law",
+          "description": "Relationship between current and voltage",
+          "fundamentality": "High",
+          "difficulty": 3,
+          "prerequisites": ["Electric Current"],
+          "dependents": ["Circuit Analysis"],
+          "key_equations": [
+            "V = IR",
+            "W = qV"
+          ],
+          "practical_investigations": ["Verify Ohm's Law for resistors"],
+          "misconceptions": ["Assuming all conductors obey Ohm's Law"]
+        },
+        {
+          "name": "Electrical Energy and Power",
+          "description": "Rate of energy conversion in circuits",
+          "fundamentality": "High",
+          "difficulty": 3,
+          "prerequisites": ["Electric Current", "Ohm's Law"],
+          "dependents": ["Circuit Applications"],
+          "key_equations": [
+            "P = VI",
+            "E = Pt"
+          ],
+          "misconceptions": ["Confusing power with energy"]
+        },
+        {
+          "name": "Series and Parallel Circuits",
+          "description": "Different ways to connect circuit components",
+          "fundamentality": "High",
+          "difficulty": 4,
+          "prerequisites": ["Electric Current", "Ohm's Law"],
+          "dependents": ["Complex Circuit Analysis"],
+          "key_relationships": [
+            "Series: same current, voltage adds",
+            "Parallel: same voltage, current adds"
+          ],
+          "key_equations": [
+            "ΣI = 0 (Kirchhoff's current law)",
+            "ΣV = 0 (Kirchhoff's voltage law)",
+            "RSeries = R₁ + R₂ + ... + Rn",
+            "1/RParallel = 1/R₁ + 1/R₂ + ... + 1/Rn"
+          ],
+          "practical_investigations": ["Analyze series and parallel circuits"],
+          "misconceptions": ["Thinking current is divided equally in parallel"]
+        },
+        {
+          "name": "Magnetic Materials",
+          "description": "Materials that produce or respond to magnetic fields",
+          "fundamentality": "Moderate",
+          "difficulty": 3,
+          "prerequisites": ["Basic atomic structure"],
+          "dependents": ["Magnetic Fields", "Electromagnetism"],
+          "key_types": ["Ferromagnetic", "paramagnetic", "diamagnetic"],
+          "practical_investigations": ["Investigate force between magnets"],
+          "misconceptions": ["Thinking all metals are magnetic"]
+        },
+        {
+          "name": "Magnetic Fields",
+          "description": "Region of influence around magnets or current",
+          "fundamentality": "High",
+          "difficulty": 4,
+          "prerequisites": ["Magnetism basics"],
+          "dependents": ["Magnetic Force", "Electromagnetic Induction"],
+          "key_representations": [
+            "Field lines for bar magnets",
+            "Current-carrying wires",
+            "Solenoids"
+          ],
+          "misconceptions": ["Confusing magnetic and electric fields"]
+        },
+        {
+          "name": "Magnetic Fields from Currents",
+          "description": "Creation of magnetic fields by electric currents",
+          "fundamentality": "High",
+          "difficulty": 4,
+          "prerequisites": ["Magnetic Fields", "Electric Current"],
+          "dependents": ["Electromagnetic Induction"],
+          "key_equations": [
+            "B = μ₀I/2πr (straight wire)",
+            "B = μ₀NI/L (solenoid)"
+          ],
+          "practical_investigations": ["Map magnetic field around current-carrying conductors"],
+          "misconceptions": ["Not recognizing right-hand rule relationships"]
+        },
+        {
+          "name": "Magnetization Process",
+          "description": "How materials become magnetized",
+          "fundamentality": "Low",
+          "difficulty": 3,
+          "prerequisites": ["Magnetic Materials", "Magnetic Fields"],
+          "dependents": ["Electromagnetic Applications"],
+          "key_concepts": ["Domain alignment", "Permanent vs. temporary magnetism"],
+          "misconceptions": ["Thinking magnetization creates magnetic 'charge'"]
+        }
+      ]
+    }
+  ],
+  
+  "year12_modules": [
+    {
+      "name": "Module 5: Advanced Mechanics",
+      "code": "PH12-12",
+      "description": "Study of complex motion including projectile and circular motion",
+      "concepts": [
+        {
+          "name": "Projectile Model",
+          "description": "Two-dimensional motion under constant gravity",
+          "fundamentality": "High",
+          "difficulty": 3,
+          "prerequisites": ["Kinematics", "Vector Analysis"],
+          "dependents": ["Advanced Applications"],
+          "key_assumptions": [
+            "Constant vertical acceleration due to gravity",
+            "Zero air resistance"
+          ],
+          "misconceptions": ["Thinking horizontal velocity changes"]
+        },
+        {
+          "name": "Projectile Analysis",
+          "description": "Resolving motion into horizontal and vertical components",
+          "fundamentality": "High",
+          "difficulty": 3,
+          "prerequisites": ["Vector Analysis"],
+          "dependents": ["Advanced Applications"],
+          "key_parameters": [
+            "Initial velocity",
+            "Launch angle",
+            "Maximum height",
+            "Time of flight",
+            "Horizontal range",
+            "Launch height"
+          ],
+          "practical_investigations": ["Validate projectile motion relationships"],
+          "misconceptions": ["Connecting horizontal and vertical motions"]
+        },
+        {
+          "name": "Uniform Circular Motion",
+          "description": "Motion in circle with constant speed",
+          "fundamentality": "High",
+          "difficulty": 4,
+          "prerequisites": ["Newton's Laws", "Vector Analysis"],
+          "dependents": ["Orbital Motion", "Rotational Dynamics"],
+          "key_equations": [
+            "ac = v²/r",
+            "v = 2πr/T",
+            "Fc = mv²/r",
+            "ω = Δθ/t"
+          ],
+          "practical_investigations": ["Analyze forces in circular motion"],
+          "misconceptions": ["Thinking centripetal force is a separate force"]
+        },
+        {
+          "name": "Applications of Circular Motion",
+          "description": "Real-world examples of circular motion",
+          "fundamentality": "Moderate",
+          "difficulty": 4,
+          "prerequisites": ["Uniform Circular Motion"],
+          "dependents": ["Advanced Applications"],
+          "key_examples": [
+            "Vehicles on circular paths",
+            "Conical pendulum",
+            "Banked curves",
+            "Vertical circular motion"
+          ],
+          "misconceptions": ["Confusing centripetal and centrifugal forces"]
+        },
+        {
+          "name": "Rotational Dynamics",
+          "description": "Relationship between torque and rotation",
+          "fundamentality": "Moderate",
+          "difficulty": 4,
+          "prerequisites": ["Circular Motion"],
+          "dependents": ["Advanced Rotational Applications"],
+          "key_equations": ["τ = r⊥F = rFsinθ"],
+          "key_concepts": ["Energy and work in rotational systems"],
+          "misconceptions": ["Not accounting for rotational inertia"]
+        },
+        {
+          "name": "Newton's Law of Universal Gravitation",
+          "description": "Force of attraction between masses",
+          "fundamentality": "High",
+          "difficulty": 4,
+          "prerequisites": ["Newton's Laws", "Vector Analysis"],
+          "dependents": ["Orbital Motion", "Kepler's Laws"],
+          "key_equations": [
+            "F = GMm/r²",
+            "g = GM/r²"
+          ],
+          "misconceptions": ["Confusing weight and mass"]
+        },
+        {
+          "name": "Orbital Motion",
+          "description": "Motion of objects in orbit under gravitational influence",
+          "fundamentality": "High",
+          "difficulty": 4,
+          "prerequisites": ["Circular Motion", "Universal Gravitation"],
+          "dependents": ["Satellite Applications", "Advanced Mechanics"],
+          "key_relationships": [
+            "Gravitational force as centripetal force",
+            "Orbital velocity: v = √(GM/r)",
+            "Orbital period: T² ∝ r³"
+          ],
+          "practical_investigations": ["Model planetary orbits"],
+          "misconceptions": ["Thinking satellites need engines to stay in orbit"]
+        },
+        {
+          "name": "Kepler's Laws",
+          "description": "Laws describing planetary motion",
+          "fundamentality": "Moderate",
+          "difficulty": 4,
+          "prerequisites": ["Orbital Motion"],
+          "dependents": ["Advanced Astronomy Applications"],
+          "key_equations": ["Third law: r³/T² = GM/4π²"],
+          "key_concepts": [
+            "Elliptical orbits with sun at one focus",
+            "Equal areas in equal times",
+            "Relationship between period and semi-major axis"
+          ],
+          "misconceptions": ["Thinking planetary orbits are perfectly circular"]
+        },
+        {
+          "name": "Gravitational Potential Energy",
+          "description": "Energy due to position in gravitational field",
+          "fundamentality": "High",
+          "difficulty": 4,
+          "prerequisites": ["Universal Gravitation"],
+          "dependents": ["Orbital Energy", "Escape Velocity"],
+          "key_equations": [
+            "U = -GMm/r",
+            "Total energy of orbiting body: U + K = -GMm/2r"
+          ],
+          "misconceptions": ["Using simplified version (mgh) for orbital calculations"]
+        },
+        {
+          "name": "Escape Velocity",
+          "description": "Minimum velocity to escape gravitational field",
+          "fundamentality": "Moderate",
+          "difficulty": 4,
+          "prerequisites": ["Gravitational Potential Energy"],
+          "dependents": ["Space Mission Applications"],
+          "key_equations": ["vesc = √(2GM/r)"],
+          "misconceptions": ["Thinking escape velocity depends on object mass"]
+        }
+      ]
+    },
+    {
+      "name": "Module 6: Electromagnetism",
+      "code": "PH12-13",
+      "description": "Study of electric and magnetic interactions and their applications",
+      "concepts": [
+        {
+          "name": "Charged Particles in Electric Fields",
+          "description": "Motion of charged particles due to electric forces",
+          "fundamentality": "High",
+          "difficulty": 4,
+          "prerequisites": ["Electric Fields", "Kinematics"],
+          "dependents": ["Particle Accelerators", "Mass Spectrometry"],
+          "key_equations": [
+            "Electric field between plates: E = V/d",
+            "Force on charge: F⃗ = qE⃗",
+            "Work done on charge: W = qV, W = qEd",
+            "Kinetic energy: K = ½mv²"
+          ],
+          "practical_investigations": ["Electron deflection in electric field"],
+          "misconceptions": ["Forgetting charge can be negative (direction)"]
+        },
+        {
+          "name": "Charged Particle Trajectories",
+          "description": "Paths of charged particles in electric fields",
+          "fundamentality": "High",
+          "difficulty": 4,
+          "prerequisites": ["Charged Particles in Electric Fields"],
+          "dependents": ["Particle Accelerators", "Cathode Ray Tubes"],
+          "key_comparison": "Similar to projectile motion in gravitational fields",
+          "misconceptions": ["Neglecting initial velocity"]
+        },
+        {
+          "name": "Charged Particles in Magnetic Fields",
+          "description": "Motion of charged particles due to magnetic forces",
+          "fundamentality": "High",
+          "difficulty": 4,
+          "prerequisites": ["Magnetic Fields", "Kinematics"],
+          "dependents": ["Mass Spectrometry", "Particle Accelerators"],
+          "key_equations": ["F = qv⊥B = qvBsinθ"],
+          "key_concepts": ["Circular motion of charged particles"],
+          "practical_investigations": ["Electron beam deflection in magnetic field"],
+          "misconceptions": ["Forgetting force is perpendicular to velocity and field"]
+        },
+        {
+          "name": "Comparison of Field Interactions",
+          "description": "Similarities and differences between interactions",
+          "fundamentality": "Moderate",
+          "difficulty": 4,
+          "prerequisites": ["Electric Fields", "Magnetic Fields", "Gravitational Fields"],
+          "dependents": ["Advanced Field Theory"],
+          "key_comparisons": [
+            "Electric vs magnetic force direction",
+            "Charged particles in fields vs uniform circular motion"
+          ],
+          "misconceptions": ["Assuming all fields behave the same way"]
+        },
+        {
+          "name": "Current-Carrying Conductors in Magnetic Fields",
+          "description": "Force on conductors due to magnetic fields",
+          "fundamentality": "High",
+          "difficulty": 4,
+          "prerequisites": ["Magnetic Fields", "Electric Current"],
+          "dependents": ["Motors", "Generators"],
+          "key_equations": ["F = lI⊥B = lIBsinθ"],
+          "key_concepts": ["Maximum force when current perpendicular to field"],
+          "practical_investigations": ["Quantify force on current-carrying wire"],
+          "misconceptions": ["Forgetting vector nature of the interaction"]
+        },
+        {
+          "name": "Parallel Conductors",
+          "description": "Forces between current-carrying wires",
+          "fundamentality": "Moderate",
+          "difficulty": 4,
+          "prerequisites": ["Current-Carrying Conductors in Magnetic Fields"],
+          "dependents": ["Electric Motors", "Circuit Design"],
+          "key_equations": ["F/l = μ₀I₁I₂/2πr"],
+          "key_concepts": ["Relationship to SI definition of ampere"],
+          "practical_investigations": ["Investigate forces between parallel wires"],
+          "misconceptions": ["Not applying Newton's Third Law to the forces"]
+        },
+        {
+          "name": "Magnetic Flux",
+          "description": "Measure of magnetic field passing through area",
+          "fundamentality": "High",
+          "difficulty": 4,
+          "prerequisites": ["Magnetic Fields"],
+          "dependents": ["Faraday's Law", "Electromagnetic Induction"],
+          "key_equations": ["Φ = B∥A = BAcosθ"],
+          "key_concepts": ["Flux changes due to field strength, area, or angle"],
+          "misconceptions": ["Confusing flux with field strength"]
+        },
+        {
+          "name": "Faraday's Law",
+          "description": "Induced EMF due to changing magnetic flux",
+          "fundamentality": "High",
+          "difficulty": 4,
+          "prerequisites": ["Magnetic Flux"],
+          "dependents": ["Generators", "Transformers"],
+          "key_equations": ["ε = -NΔΦ/Δt"],
+          "practical_investigations": ["Demonstrate induced EMF in solenoids"],
+          "misconceptions": ["Not understanding direction of induced current"]
+        },
+        {
+          "name": "Lenz's Law",
+          "description": "Induced current opposes the change causing it",
+          "fundamentality": "High",
+          "difficulty": 4,
+          "prerequisites": ["Faraday's Law"],
+          "dependents": ["Generators", "Transformers", "Magnetic Braking"],
+          "key_concepts": ["Conservation of energy in electromagnetic systems"],
+          "misconceptions": ["Not relating to conservation of energy"]
+        },
+        {
+          "name": "Transformers",
+          "description": "Devices that change AC voltage using induction",
+          "fundamentality": "Moderate",
+          "difficulty": 4,
+          "prerequisites": ["Electromagnetic Induction"],
+          "dependents": ["Power Distribution"],
+          "key_equations": [
+            "Voltage ratio: Vp/Vs = Np/Ns",
+            "Power conservation: VpIp = VsIs"
+          ],
+          "key_concepts": ["Ideal transformer vs. real transformer efficiency"],
+          "practical_investigations": ["Analyze step-up and step-down transformers"],
+          "misconceptions": ["Thinking transformers work with DC"]
+        },
+        {
+          "name": "DC Motors",
+          "description": "Devices converting electrical to rotational energy",
+          "fundamentality": "Moderate",
+          "difficulty": 4,
+          "prerequisites": ["Motor Effect"],
+          "dependents": ["Electrical Applications"],
+          "key_components": [
+            "Armature (rotor)",
+            "Field magnets (stator)",
+            "Commutator and brushes"
+          ],
+          "key_equations": ["Torque: τ = nIA⊥B = nIABsinθ"],
+          "key_concepts": ["Back EMF limits motor speed"],
+          "practical_investigations": ["Analyze simple DC motor operation"],
+          "misconceptions": ["Not recognizing back EMF role"]
+        },
+        {
+          "name": "Generators",
+          "description": "Devices converting mechanical to electrical energy",
+          "fundamentality": "Moderate",
+          "difficulty": 4,
+          "prerequisites": ["Electromagnetic Induction"],
+          "dependents": ["Power Generation"],
+          "key_types": [
+            "DC generators",
+            "AC generators"
+          ],
+          "key_concepts": ["Inverse operation to motors"],
+          "misconceptions": ["Confusing generator and motor principles"]
+        }
+      ]
+    },
+    {
+      "name": "Module 7: The Nature of Light",
+      "code": "PH12-14",
+      "description": "Study of light properties and behavior from wave and particle perspectives",
+      "concepts": [
+        {
+          "name": "Maxwell's Electromagnetic Theory",
+          "description": "Unified theory of electricity and magnetism",
+          "fundamentality": "High",
+          "difficulty": 4,
+          "prerequisites": ["Electric Fields", "Magnetic Fields"],
+          "dependents": ["Wave Theory of Light"],
+          "key_contributions": [
+            "Unification of electricity and magnetism",
+            "Prediction of electromagnetic waves",
+            "Prediction of wave velocity"
+          ],
+          "misconceptions": ["Not understanding the radical nature of unification"]
+        },
+        {
+          "name": "Electromagnetic Wave Production",
+          "description": "Generation and propagation mechanisms",
+          "fundamentality": "High",
+          "difficulty": 4,
+          "prerequisites": ["Maxwell's Theory"],
+          "dependents": ["Applied Electromagnetics"],
+          "key_concepts": ["Oscillating electric and magnetic fields create waves"],
+          "misconceptions": ["Thinking EM waves require a medium"]
+        },
+        {
+          "name": "Speed of Light",
+          "description": "Fundamental constant of EM wave propagation",
+          "fundamentality": "High",
+          "difficulty": 3,
+          "prerequisites": ["Electromagnetic Waves"],
+          "dependents": ["Special Relativity"],
+          "key_concepts": ["Historical and contemporary measurement methods"],
+          "practical_investigations": ["Investigate methods to determine speed of light"],
+          "misconceptions": ["Not recognizing role in time/distance measurement"]
+        },
+        {
+          "name": "Spectroscopy",
+          "description": "Analysis of light spectra",
+          "fundamentality": "Moderate",
+          "difficulty": 4,
+          "prerequisites": ["Wave Properties"],
+          "dependents": ["Quantum Model", "Astronomical Applications"],
+          "key_applications": [
+            "Element identification",
+            "Star analysis (temperature, composition, motion)"
+          ],
+          "practical_investigations": ["Analyze discharge tube spectra"],
+          "misconceptions": ["Thinking all materials produce same spectrum types"]
+        },
+        {
+          "name": "Diffraction",
+          "description": "Bending of light around obstacles/apertures",
+          "fundamentality": "High",
+          "difficulty": 4,
+          "prerequisites": ["Wave Properties"],
+          "dependents": ["Interference", "Quantum Nature"],
+          "key_concepts": ["Evidence for wave nature of light"],
+          "practical_investigations": ["Analyze light diffraction patterns"],
+          "misconceptions": ["Thinking only occurs with certain sized apertures"]
+        },
+        {
+          "name": "Interference",
+          "description": "Superposition of light waves",
+          "fundamentality": "High",
+          "difficulty": 4,
+          "prerequisites": ["Wave Properties"],
+          "dependents": ["Quantum Nature", "Optical Instruments"],
+          "key_equations": ["dsinθ = mλ (for double slit/diffraction grating)"],
+          "practical_investigations": ["Young's double slit experiment"],
+          "misconceptions": ["Not recognizing role of coherence"]
+        },
+        {
+          "name": "Polarization",
+          "description": "Alignment of light wave oscillations",
+          "fundamentality": "Moderate",
+          "difficulty": 4,
+          "prerequisites": ["Wave Properties"],
+          "dependents": ["Optical Applications"],
+          "key_equations": ["Malus' Law: I = Imaxcos²θ"],
+          "practical_investigations": ["Verify Malus' Law quantitatively"],
+          "misconceptions": ["Thinking all light sources produce polarized light"]
+        },
+        {
+          "name": "Black Body Radiation",
+          "description": "Radiation emitted by idealized perfect absorber",
+          "fundamentality": "High",
+          "difficulty": 4,
+          "prerequisites": ["Thermodynamics", "Wave Properties"],
+          "dependents": ["Planck's Quantum Theory"],
+          "key_equations": ["Wien's Law: λmax = b/T"],
+          "key_concepts": ["Classical physics failure to explain spectrum"],
+          "misconceptions": ["Confusing with general thermal radiation"]
+        },
+        {
+          "name": "Photoelectric Effect",
+          "description": "Electron emission from materials exposed to light",
+          "fundamentality": "High",
+          "difficulty": 4,
+          "prerequisites": ["Basic Quantum Concepts"],
+          "dependents": ["Photon Model"],
+          "key_equations": ["Kmax = hf - φ"],
+          "key_evidence": "Inconsistency with wave model",
+          "practical_investigations": ["Analyze photoelectric effect"],
+          "misconceptions": ["Thinking intensity affects electron energy"]
+        },
+        {
+          "name": "Einstein's Postulates",
+          "description": "Fundamental principles of special relativity",
+          "fundamentality": "High",
+          "difficulty": 4,
+          "prerequisites": ["Maxwell's Equations", "Mechanics"],
+          "dependents": ["Relativistic Effects"],
+          "key_principles": [
+            "Constancy of light speed",
+            "Equivalence of inertial reference frames"
+          ],
+          "misconceptions": ["Thinking postulates are obvious or intuitive"]
+        },
+        {
+          "name": "Time Dilation",
+          "description": "Slowing of time in moving reference frames",
+          "fundamentality": "High",
+          "difficulty": 5,
+          "prerequisites": ["Einstein's Postulates"],
+          "dependents": ["Advanced Relativity"],
+          "key_equations": ["t = t₀/√(1-v²/c²)"],
+          "key_evidence": [
+            "Cosmic muon detection",
+            "Atomic clock experiments",
+            "Particle accelerator observations"
+          ],
+          "misconceptions": ["Thinking effect is merely perceptual"]
+        },
+        {
+          "name": "Length Contraction",
+          "description": "Shortening of objects in direction of motion",
+          "fundamentality": "High",
+          "difficulty": 5,
+          "prerequisites": ["Einstein's Postulates"],
+          "dependents": ["Advanced Relativity"],
+          "key_equations": ["l = l₀√(1-v²/c²)"],
+          "misconceptions": ["Thinking contraction occurs in all dimensions"]
+        },
+        {
+          "name": "Mass-Energy Equivalence",
+          "description": "Relationship between mass and energy",
+          "fundamentality": "High",
+          "difficulty": 5,
+          "prerequisites": ["Einstein's Postulates"],
+          "dependents": ["Nuclear Physics", "Particle Physics"],
+          "key_equations": ["E = mc²"],
+          "key_applications": [
+            "Solar energy production",
+            "Particle-antiparticle annihilation",
+            "Nuclear reactions"
+          ],
+          "misconceptions": ["Thinking matter 'converts to energy'"]
+        }
+      ]
+    },
+    {
+      "name": "Module 8: From the Universe to the Atom",
+      "code": "PH12-15",
+      "description": "Study of astronomical events and atomic structure",
+      "concepts": [
+        {
+          "name": "Big Bang Theory",
+          "description": "Theory of universe origin and early development",
+          "fundamentality": "High",
+          "difficulty": 5,
+          "prerequisites": ["Basic Cosmology"],
+          "dependents": ["Nucleosynthesis"],
+          "key_concepts": [
+            "Radiation to matter transformation",
+            "Formation of fundamental particles",
+            "Primordial nucleosynthesis"
+          ],
+          "misconceptions": ["Thinking Big Bang was an explosion in space"]
+        },
+        {
+          "name": "Expanding Universe Evidence",
+          "description": "Observational evidence for cosmic expansion",
+          "fundamentality": "High",
+          "difficulty": 4,
+          "prerequisites": ["Basic Cosmology"],
+          "dependents": ["Big Bang Theory"],
+          "key_evidence": "Hubble's observations of galactic redshift",
+          "misconceptions": ["Thinking expansion has a center"]
+        },
+        {
+          "name": "Energy-Mass Equivalence in Stars",
+          "description": "Application of E=mc² to stellar processes",
+          "fundamentality": "High",
+          "difficulty": 4,
+          "prerequisites": ["Mass-Energy Equivalence", "Nuclear Physics"],
+          "dependents": ["Stellar Evolution"],
+          "key_concepts": ["Nuclear reactions as source of stellar energy"],
+          "misconceptions": ["Not recognizing tiny mass defects create enormous energy"]
+        },
+        {
+          "name": "Stellar Spectra",
+          "description": "Light analysis from stars",
+          "fundamentality": "Moderate",
+          "difficulty": 4,
+          "prerequisites": ["Spectroscopy"],
+          "dependents": ["Stellar Classification"],
+          "key_concepts": [
+            "Emission vs. absorption spectra",
+            "Comparison with black body radiation"
+          ],
+          "practical_investigations": ["Analyze stellar spectra"],
+          "misconceptions": ["Thinking stars emit continuous spectra only"]
+        },
+        {
+          "name": "Hertzsprung-Russell Diagram",
+          "description": "Stellar classification chart",
+          "fundamentality": "Moderate",
+          "difficulty": 4,
+          "prerequisites": ["Stellar Spectra"],
+          "dependents": ["Stellar Evolution"],
+          "key_parameters": [
+            "Surface temperature",
+            "Luminosity",
+            "Color",
+            "Evolutionary stage"
+          ],
+          "misconceptions": ["Thinking all stars evolve along main sequence"]
+        },
+        {
+          "name": "Stellar Nucleosynthesis",
+          "description": "Formation of elements in stars",
+          "fundamentality": "High",
+          "difficulty": 5,
+          "prerequisites": ["Nuclear Physics"],
+          "dependents": ["Element Formation"],
+          "key_processes": [
+            "Proton-proton chain",
+            "CNO (carbon-nitrogen-oxygen) cycle",
+            "Advanced fusion in post-main sequence stars"
+          ],
+          "misconceptions": ["Thinking all elements form in main sequence stars"]
+        },
+        {
+          "name": "Electron Discovery",
+          "description": "Experimental evidence for electrons",
+          "fundamentality": "High",
+          "difficulty": 3,
+          "prerequisites": ["Basic Atomic Structure"],
+          "dependents": ["Atomic Models"],
+          "key_experiments": [
+            "Cathode ray investigations",
+            "Thomson's charge-to-mass experiment",
+            "Millikan's oil drop experiment"
+          ],
+          "misconceptions": ["Not understanding historical progression of discovery"]
+        },
+        {
+          "name": "Nuclear Model Development",
+          "description": "Experimental evidence for nuclear structure",
+          "fundamentality": "High",
+          "difficulty": 3,
+          "prerequisites": ["Basic Atomic Structure"],
+          "dependents": ["Quantum Mechanical Model"],
+          "key_experiments": [
+            "Geiger-Marsden (gold foil) experiment",
+            "Rutherford's model",
+            "Chadwick's neutron discovery"
+          ],
+          "misconceptions": ["Not recognizing revolutionary nature of nuclear model"]
+        },
+        {
+          "name": "Atomic Model Limitations",
+          "description": "Problems with classical atomic models",
+          "fundamentality": "High",
+          "difficulty": 4,
+          "prerequisites": ["Nuclear Model"],
+          "dependents": ["Quantum Model"],
+          "key_limitations": [
+            "Rutherford model: orbiting electron stability",
+            "Bohr model: arbitrary quantization rules"
+          ],
+          "misconceptions": ["Thinking Bohr model is completely correct"]
+        },
+        {
+          "name": "Hydrogen Emission Spectrum",
+          "description": "Distinct pattern of light emitted by hydrogen",
+          "fundamentality": "High",
+          "difficulty": 4,
+          "prerequisites": ["Spectroscopy"],
+          "dependents": ["Quantum Model"],
+          "key_series": "Balmer series",
+          "practical_investigations": ["Examine hydrogen spectral lines"],
+          "misconceptions": ["Not recognizing pattern indicates energy levels"]
+        },
+        {
+          "name": "Quantized Energy Levels",
+          "description": "Discrete energy states in atoms",
+          "fundamentality": "High",
+          "difficulty": 4,
+          "prerequisites": ["Hydrogen Spectrum"],
+          "dependents": ["Electron Configuration"],
+          "key_equations": [
+            "E = hf",
+            "E = hc/λ",
+            "1/λ = R[1/nf² - 1/ni²]"
+          ],
+          "misconceptions": ["Thinking electron energy varies continuously"]
+        },
+        {
+          "name": "De Broglie's Matter Waves",
+          "description": "Wave properties of particles",
+          "fundamentality": "High",
+          "difficulty": 5,
+          "prerequisites": ["Wave-Particle Duality"],
+          "dependents": ["Quantum Model"],
+          "key_equations": ["λ = h/mv"],
+          "key_evidence": "Electron diffraction",
+          "misconceptions": ["Thinking wave-particle duality only applies to light"]
+        },
+        {
+          "name": "Radioactive Decay",
+          "description": "Spontaneous decay of unstable nuclei",
+          "fundamentality": "High",
+          "difficulty": 3,
+          "prerequisites": ["Nuclear Model"],
+          "dependents": ["Nuclear Applications"],
+          "key_types": [
+            "Alpha decay (helium nucleus emission)",
+            "Beta decay (electron/positron emission)",
+            "Gamma decay (photon emission)"
+          ],
+          "practical_investigations": ["Analyze radiation properties"],
+          "misconceptions": ["Not distinguishing between decay types"]
+        },
+        {
+          "name": "Half-Life",
+          "description": "Time for half a sample to decay",
+          "fundamentality": "High",
+          "difficulty": 3,
+          "prerequisites": ["Radioactive Decay"],
+          "dependents": ["Dating Methods", "Nuclear Applications"],
+          "key_equations": [
+            "Nt = N0e^(-λt)",
+            "λ = ln2/t½"
+          ],
+          "practical_investigations": ["Model radioactive decay"],
+          "misconceptions": ["Thinking half-life means half the atoms are gone forever"]
+        },
+        {
+          "name": "Nuclear Fission",
+          "description": "Splitting of heavy nuclei",
+          "fundamentality": "High",
+          "difficulty": 4,
+          "prerequisites": ["Nuclear Structure"],
+          "dependents": ["Nuclear Energy Applications"],
+          "key_concepts": [
+            "Chain reactions",
+            "Energy release",
+            "Mass defect"
+          ],
+          "misconceptions": ["Confusing with fusion"]
+        },
+        {
+          "name": "Nuclear Fusion",
+          "description": "Combining of light nuclei",
+          "fundamentality": "High",
+          "difficulty": 4,
+          "prerequisites": ["Nuclear Structure"],
+          "dependents": ["Stellar Processes", "Energy Applications"],
+          "key_concepts": ["Energy release from mass defect"],
+          "misconceptions": ["Thinking fusion is easy to achieve on Earth"]
+        },
+        {
+          "name": "Standard Model",
+          "description": "Framework classifying elementary particles",
+          "fundamentality": "High",
+          "difficulty": 5,
+          "prerequisites": ["Subatomic Particles"],
+          "dependents": ["Advanced Particle Physics"],
+          "key_components": [
+            "Quarks (up, down, charm, strange, top, bottom)",
+            "Leptons (electron, muon, tau, neutrinos)",
+            "Fundamental forces"
+          ],
+          "misconceptions": ["Thinking model is complete"]
+        }
+      ]
+    }
+  ],
+  
+  "learning_pathways": [
+    {
+      "name": "Mechanics Pathway",
+      "description": "Sequential progression through mechanics concepts",
+      "sequence": [
+        "Kinematics",
+        "Newton's Laws of Motion",
+        "Energy and Work",
+        "Momentum and Impulse",
+        "Circular Motion",
+        "Projectile Motion",
+        "Orbital Motion"
+      ],
+      "gateway_concepts": ["Kinematics", "Newton's Laws of Motion"],
+      "mathematical_focus": ["Vector mathematics", "Calculus applications"],
+      "working_scientifically_focus": ["Data analysis", "Mathematical modeling"]
+    },
+    {
+      "name": "Electromagnetism Pathway",
+      "description": "Sequential progression through electromagnetic concepts",
+      "sequence": [
+        "Electric Fields",
+        "Electric Circuits",
+        "Magnetic Fields",
+        "Magnetic Forces on Moving Charges",
+        "Electromagnetic Induction",
+        "Applications (Motors, Generators, Transformers)"
+      ],
+      "gateway_concepts": ["Electric Fields", "Magnetic Fields"],
+      "mathematical_focus": ["Vector analysis", "Field modeling"],
+      "working_scientifically_focus": ["Experimental design", "Pattern recognition"]
+    },
+    {
+      "name": "Waves to Quantum Pathway",
+      "description": "Sequential progression from classical to quantum physics",
+      "sequence": [
+        "Wave Properties",
+        "Mechanical Waves",
+        "Light Waves",
+        "Interference and Diffraction",
+        "Wave-Particle Duality",
+        "Quantum Models",
+        "Atomic Structure",
+        "Nuclear Physics"
+      ],
+      "gateway_concepts": ["Wave Properties", "Wave-Particle Duality"],
+      "mathematical_focus": ["Wave equations", "Probability concepts"],
+      "working_scientifically_focus": ["Model development", "Theoretical analysis"]
+    },
+    {
+      "name": "Mathematical Skills Progression",
+      "description": "Development of key mathematical skills through physics applications",
+      "sequence": [
+        "Vector Mathematics",
+        "Algebraic Manipulation",
+        "Graphical Analysis",
+        "Calculus Application",
+        "Quantum Mathematical Models"
+      ],
+      "gateway_concepts": ["Vector Mathematics", "Algebraic Manipulation"],
+      "applied_contexts": ["Mechanics", "Fields", "Waves", "Quantum phenomena"],
+      "working_scientifically_focus": ["Problem-solving", "Quantitative analysis"]
+    }
+  ],
+  
+  "practical_investigations": {
+    "year11": [
+      {
+        "name": "Motion Analysis",
+        "related_concepts": ["Kinematics", "Uniformly Accelerated Motion"],
+        "description": "Track and analyze motion using digital technologies",
+        "working_scientifically_focus": ["Processing Data", "Analyzing Data"]
+      },
+      {
+        "name": "Collision Analysis",
+        "related_concepts": ["Conservation of Momentum", "Elastic and Inelastic Collisions"],
+        "description": "Investigate momentum conservation in different collision types",
+        "working_scientifically_focus": ["Conducting Investigations", "Problem Solving"]
+      },
+      {
+        "name": "Wave Properties Investigation",
+        "related_concepts": ["Wave Characteristics", "Superposition and Interference"],
+        "description": "Analyze wave behavior in ripple tanks",
+        "working_scientifically_focus": ["Conducting Investigations", "Analyzing Data"]
+      },
+      {
+        "name": "Standing Waves Investigation",
+        "related_concepts": ["Standing Waves", "Resonance"],
+        "description": "Generate and analyze standing waves on strings",
+        "working_scientifically_focus": ["Processing Data", "Problem Solving"]
+      },
+      {
+        "name": "Heat Transfer Methods",
+        "related_concepts": ["Heat Transfer Methods", "Thermal Conductivity"],
+        "description": "Compare conduction, convection, and radiation",
+        "working_scientifically_focus": ["Planning Investigations", "Analyzing Data"]
+      },
+      {
+        "name": "Specific Heat Capacity Determination",
+        "related_concepts": ["Specific Heat Capacity", "Thermal Energy"],
+        "description": "Determine specific heat capacity of various materials",
+        "working_scientifically_focus": ["Processing Data", "Problem Solving"]
+      },
+      {
+        "name": "Circuit Analysis",
+        "related_concepts": ["Ohm's Law", "Series and Parallel Circuits"],
+        "description": "Investigate current-voltage relationships in different circuit configurations",
+        "working_scientifically_focus": ["Conducting Investigations", "Processing Data"]
+      },
+      {
+        "name": "Magnetic Field Mapping",
+        "related_concepts": ["Magnetic Fields", "Magnetic Fields from Currents"],
+        "description": "Map magnetic fields around magnets and current-carrying conductors",
+        "working_scientifically_focus": ["Conducting Investigations", "Analyzing Data"]
+      }
+    ],
+    "year12": [
+      {
+        "name": "Projectile Motion Analysis",
+        "related_concepts": ["Projectile Model", "Projectile Analysis"],
+        "description": "Validate relationships between initial velocity, angle and range",
+        "working_scientifically_focus": ["Processing Data", "Problem Solving"]
+      },
+      {
+        "name": "Circular Motion Forces",
+        "related_concepts": ["Uniform Circular Motion", "Applications of Circular Motion"],
+        "description": "Analyze forces in uniform circular motion setups",
+        "working_scientifically_focus": ["Conducting Investigations", "Analyzing Data"]
+      },
+      {
+        "name": "Electromagnetic Induction",
+        "related_concepts": ["Faraday's Law", "Lenz's Law"],
+        "description": "Investigate factors affecting induced EMF",
+        "working_scientifically_focus": ["Planning Investigations", "Processing Data"]
+      },
+      {
+        "name": "Transformer Analysis",
+        "related_concepts": ["Transformers"],
+        "description": "Analyze step-up and step-down transformer performance",
+        "working_scientifically_focus": ["Conducting Investigations", "Analyzing Data"]
+      },
+      {
+        "name": "Light Interference",
+        "related_concepts": ["Interference", "Diffraction"],
+        "description": "Perform Young's double slit experiment and diffraction grating analysis",
+        "working_scientifically_focus": ["Conducting Investigations", "Processing Data"]
+      },
+      {
+        "name": "Photoelectric Effect",
+        "related_concepts": ["Photoelectric Effect"],
+        "description": "Investigate threshold frequency and work function",
+        "working_scientifically_focus": ["Processing Data", "Problem Solving"]
+      },
+      {
+        "name": "Spectral Analysis",
+        "related_concepts": ["Spectroscopy", "Hydrogen Emission Spectrum"],
+        "description": "Examine emission and absorption spectra",
+        "working_scientifically_focus": ["Conducting Investigations", "Analyzing Data"]
+      },
+      {
+        "name": "Half-Life Modeling",
+        "related_concepts": ["Half-Life", "Radioactive Decay"],
+        "description": "Model radioactive decay using simulations",
+        "working_scientifically_focus": ["Processing Data", "Problem Solving"]
+      }
+    ]
+  },
+  
+  "depth_studies": {
+    "description": "Extended investigations requiring minimum 15 hours in both Year 11 and Year 12",
+    "requirements": [
+      "Must address multiple Working Scientifically skills",
+      "May be practical, secondary-sourced, or combination",
+      "Can be individual or collaborative projects"
+    ],
+    "year11_opportunities": [
+      {
+        "title": "Motion Analysis in Sports",
+        "related_concepts": ["Kinematics", "Dynamics", "Energy"],
+        "description": "Analysis of motion principles in specific sports",
+        "working_scientifically_focus": ["Questioning and Predicting", "Processing Data", "Communicating"]
+      },
+      {
+        "title": "Musical Instrument Physics",
+        "related_concepts": ["Waves", "Standing Waves", "Resonance"],
+        "description": "Design and construction of musical instruments based on wave principles",
+        "working_scientifically_focus": ["Planning Investigations", "Problem Solving", "Communicating"]
+      },
+      {
+        "title": "Home Energy Efficiency",
+        "related_concepts": ["Thermodynamics", "Heat Transfer Methods"],
+        "description": "Investigation of energy efficiency in buildings using thermodynamic principles",
+        "working_scientifically_focus": ["Conducting Investigations", "Analyzing Data", "Communicating"]
+      },
+      {
+        "title": "Alternative Energy Generation",
+        "related_concepts": ["Electricity", "Energy Conversion"],
+        "description": "Research and design of renewable energy generation systems",
+        "working_scientifically_focus": ["Questioning and Predicting", "Problem Solving", "Communicating"]
+      },
+      {
+        "title": "Magnetic Applications in Medicine",
+        "related_concepts": ["Magnetism", "Electromagnetic Fields"],
+        "description": "Investigation of magnetic technology applications in medical diagnostics and treatment",
+        "working_scientifically_focus": ["Questioning and Predicting", "Analyzing Data", "Communicating"]
+      }
+    ],
+    "year12_opportunities": [
+      {
+        "title": "Satellite System Design",
+        "related_concepts": ["Orbital Motion", "Gravitational Fields", "Kepler's Laws"],
+        "description": "Planning a satellite mission with consideration of orbital mechanics",
+        "working_scientifically_focus": ["Planning Investigations", "Problem Solving", "Communicating"]
+      },
+      {
+        "title": "Electric Motor Optimization",
+        "related_concepts": ["DC Motors", "Electromagnetic Induction"],
+        "description": "Design and testing of electric motors for efficiency",
+        "working_scientifically_focus": ["Conducting Investigations", "Processing Data", "Communicating"]
+      },
+      {
+        "title": "Optical Instrument Design",
+        "related_concepts": ["Light and Optics", "Wave Properties"],
+        "description": "Design and construction of optical instruments like telescopes",
+        "working_scientifically_focus": ["Planning Investigations", "Problem Solving", "Communicating"]
+      },
+      {
+        "title": "Particle Physics Research",
+        "related_concepts": ["Standard Model", "Fundamental Particles"],
+        "description": "Secondary-sourced investigation of current particle physics research",
+        "working_scientifically_focus": ["Questioning and Predicting", "Analyzing Data", "Communicating"]
+      },
+      {
+        "title": "Stellar Evolution Models",
+        "related_concepts": ["Stellar Spectra", "Hertzsprung-Russell Diagram", "Nucleosynthesis"],
+        "description": "Investigation of stellar life cycles and element formation",
+        "working_scientifically_focus": ["Questioning and Predicting", "Analyzing Data", "Communicating"]
+      }
+    ]
+  },
+  
+  "gateway_concepts": [
+    {
+      "name": "Vector Mathematics",
+      "fundamentality": "High",
+      "dependents": ["Kinematics", "Dynamics", "Electric Fields", "Magnetic Fields"],
+      "teaching_strategy": "Introduce early with practical physics applications rather than abstract mathematics"
+    },
+    {
+      "name": "Newton's Laws of Motion",
+      "fundamentality": "High",
+      "dependents": ["Circular Motion", "Conservation Laws", "Energy Applications", "Orbital Motion"],
+      "teaching_strategy": "Use multiple representations (verbal, mathematical, graphical) to build understanding"
+    },
+    {
+      "name": "Conservation Laws",
+      "fundamentality": "High",
+      "dependents": ["Energy Analysis", "Momentum Analysis", "Nuclear Physics", "Thermodynamics"],
+      "teaching_strategy": "Emphasize as unifying principles across all domains of physics"
+    },
+    {
+      "name": "Wave Properties",
+      "fundamentality": "High",
+      "dependents": ["Sound", "Light", "Quantum Properties", "Electromagnetic Waves"],
+      "teaching_strategy": "Begin with tangible mechanical waves before moving to electromagnetic and quantum"
+    },
+    {
+      "name": "Field Concept",
+      "fundamentality": "High",
+      "dependents": ["Gravitational Fields", "Electric Fields", "Magnetic Fields"],
+      "teaching_strategy": "Use visualizations and simulations to build spatial understanding of fields"
+    },
+    {
+      "name": "Wave-Particle Duality",
+      "fundamentality": "High",
+      "dependents": ["Quantum Physics", "Atomic Models", "Particle Physics"],
+      "teaching_strategy": "Present key experimental evidence that led to paradigm shift"
+    }
+  ],
+  
+  "assessment_structure": {
+    "school_based": {
+      "year11": {
+        "skills_in_working_scientifically": {
+          "weighting": "60%",
+          "components": ["Questioning and Predicting", "Planning Investigations", "Conducting Investigations", "Processing Data", "Analyzing Data", "Problem Solving", "Communicating"]
+        },
+        "knowledge_and_understanding": {
+          "weighting": "40%",
+          "components": ["Year 11 Course Content"]
+        }
+      },
+      "year12": {
+        "skills_in_working_scientifically": {
+          "weighting": "60%",
+          "components": ["Questioning and Predicting", "Planning Investigations", "Conducting Investigations", "Processing Data", "Analyzing Data", "Problem Solving", "Communicating"]
+        },
+        "knowledge_and_understanding": {
+          "weighting": "40%",
+          "components": ["Year 12 Course Content"]
+        }
+      }
+    },
+    "hsc_examination": {
+      "sections": [
+        {
+          "name": "Multiple Choice",
+          "marks": 20,
+          "focus": "Knowledge and understanding across all modules"
+        },
+        {
+          "name": "Short Answer",
+          "marks": 80,
+          "focus": "Working Scientifically skills and Knowledge and Understanding"
+        }
+      ],
+      "topics_assessed": "Year 12 Course Content (Modules 5-8)"
+    }
+  },
+  
+  "teaching_implementation": {
+    "year11_sequence": [
+      {
+        "term": "Term 1",
+        "focus": "Kinematics and Dynamics with mathematical foundations",
+        "modules": ["Module 1: Kinematics", "Mathematical Foundations"],
+        "working_scientifically_emphasis": ["Problem Solving", "Processing Data"]
+      },
+      {
+        "term": "Term 2",
+        "focus": "Energy, Momentum and Waves",
+        "modules": ["Module 2: Dynamics", "Module 3: Waves (partial)"],
+        "working_scientifically_emphasis": ["Conducting Investigations", "Analyzing Data"]
+      },
+      {
+        "term": "Term 3",
+        "focus": "Thermodynamics and Electricity",
+        "modules": ["Module 3: Thermodynamics", "Module 4: Electricity (partial)"],
+        "working_scientifically_emphasis": ["Planning Investigations", "Problem Solving"]
+      },
+      {
+        "term": "Term 4",
+        "focus": "Magnetism and Depth Study completion",
+        "modules": ["Module 4: Magnetism", "Depth Study"],
+        "working_scientifically_emphasis": ["Questioning and Predicting", "Communicating"]
+      }
+    ],
+    "year12_sequence": [
+      {
+        "term": "Term 1",
+        "focus": "Advanced Mechanics",
+        "modules": ["Module 5: Advanced Mechanics"],
+        "working_scientifically_emphasis": ["Processing Data", "Problem Solving"]
+      },
+      {
+        "term": "Term 2",
+        "focus": "Gravitational Fields and Electromagnetism",
+        "modules": ["Module 5: Motion in Gravitational Fields", "Module 6: Electromagnetism"],
+        "working_scientifically_emphasis": ["Conducting Investigations", "Analyzing Data"]
+      },
+      {
+        "term": "Term 3",
+        "focus": "Nature of Light and From Universe to Atom",
+        "modules": ["Module 7: The Nature of Light", "Module 8: From the Universe to the Atom"],
+        "working_scientifically_emphasis": ["Questioning and Predicting", "Communicating"]
+      },
+      {
+        "term": "Term 4",
+        "focus": "Revision and Examination Preparation",
+        "modules": ["All Year 12 modules"],
+        "working_scientifically_emphasis": ["Problem Solving", "Communicating"]
+      }
+    ]
+  },
+  
+  "metadata": {
+    "alignment": "NSW Stage 6 Physics Syllabus",
+    "version": "1.0",
+    "last_updated": "2025-03-17",
+    "validation_sources": [
+      "NSW Stage 6 Physics Syllabus (2017)",
+      "OpenAI Analysis",
+      "Gemini Analysis"
+    ],
+    "implementation_notes": "This knowledge graph is designed to support a cognitive learning approach with systematic building of prerequisite knowledge and skills",
+    "teaching_focus": "Emphasizes gateway concepts and cross-module connections"
+  }
+}
