@@ -1,0 +1,87 @@
+\documentclass[11pt, a4paper]{article}
+\usepackage{geometry}
+\geometry{left=2cm, right=2cm, top=2cm, bottom=2cm}
+\usepackage{amsmath} % For math
+\usepackage{graphicx} % For images if needed
+\usepackage{siunitx} % For units
+\usepackage{array}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{hyperref}
+
+\title{Year 11 Physics - Worksheet 3 \\ Thermodynamics: Equilibrium & Efficiency}
+\date{Module 3}
+\author{Student Name: \underline{\hspace{5cm}} ID: \underline{\hspace{3cm}}} % Placeholder for student info
+
+\begin{document}
+\maketitle
+
+\section*{Part 1: Equilibrium Problem Solving (Knowledge Nodes N2 Apply, N3 Apply)}
+
+1.  State the principle of energy conservation applied when calculating the final temperature of a mixture in an isolated system. [N2 Concept]
+    \vspace{1cm}
+
+2.  \textbf{Guided Problem:} Calculate the final equilibrium temperature ($T_f$) when 50g (0.05kg) of copper ($c_{Cu} = 385 \, \si{J.kg^{-1}.K^{-1}}$) initially at 90\si{\celsius} is placed into 100g (0.1kg) of water ($c_{water} = 4186 \, \si{J.kg^{-1}.K^{-1}}$) initially at 15\si{\celsius}. Assume no heat loss to the surroundings.
+
+    Step 1: Identify the hotter object (loses heat) and colder object (gains heat).
+    Hotter: Copper (Cu) at $T_{i,Cu} = 90\si{\celsius}$
+    Colder: Water (w) at $T_{i,w} = 15\si{\celsius}$
+
+    Step 2: Write the energy conservation equation: $Q_{lost, Cu} = Q_{gained, w}$
+
+    Step 3: Substitute the formula $Q=mc\Delta T$ for each side. Remember $\Delta T$ is always positive change, so for the losing side, $\Delta T = T_{initial} - T_{final}$, and for the gaining side, $\Delta T = T_{final} - T_{initial}$.
+    $(m c \Delta T)_{Cu} = (m c \Delta T)_{w}$
+    $(m_{Cu})(c_{Cu})(T_{i,Cu} - T_f) = (m_w)(c_w)(T_f - T_{i,w})$
+
+    Step 4: Substitute known values.
+    $(0.05)(385)(90 - T_f) = (0.1)(4186)(T_f - 15)$
+
+    Step 5: Solve algebraically for $T_f$. Show your working below. [Numeracy N2, N3]
+    \vspace{5cm}
+    Final Temperature $T_f = $ \underline{\hspace{2cm}} \si{\celsius}
+
+\section*{Part 2: Practice Problems & Concepts (N2, N3, N5, Inquiry Q3)}
+\textit{(Use the provided data table for c and L values)}
+
+1.  Calculate the final equilibrium temperature if 200g (0.2kg) of lead ($c_{Pb} = 128 \, \si{J.kg^{-1}.K^{-1}}$) at 100\si{\celsius} is mixed with 100g (0.1kg) of water ($c_{w} = 4186 \, \si{J.kg^{-1}.K^{-1}}$) at 25\si{\celsius}. Assume no heat loss. [N2 Apply, N3 Apply]
+    \vspace{4cm}
+
+2.  \textbf{Challenge Problem:} How much ice at 0\si{\celsius} must be added to 400g (0.4kg) of water at 60\si{\celsius} to lower the final mixture temperature to exactly 10\si{\celsius}? ($L_{f, water} = 3.34 \times 10^5 \, \si{J.kg^{-1}}$, $c_{water} = 4186 \, \si{J.kg^{-1}.K^{-1}}$) [N2 Apply, N3 Apply, N5 Apply]
+    (Hint: The ice melts first, then the resulting water warms up. The original water cools down. $Q_{lost} = Q_{gained, melting} + Q_{gained, warming\_melted\_ice}$)
+    \vspace{6cm}
+
+3.  Define Thermal Efficiency qualitatively (in terms of energy input and useful energy output). Give ONE reason why waste heat is always produced in practical energy conversions (e.g., in a car engine). [Literacy Inquiry Q3]
+    \vspace{3cm}
+
+
+\hrulefill
+\section*{\#MarkSense Quiz 3}
+\textbf{Instructions:} Choose the best answer for multiple choice questions. Show working for calculations.
+
+\vspace{0.5cm}
+\textbf{Student Name:} \underline{\hspace{5cm}} \textbf{ID:} \underline{\hspace{3cm}}
+\vspace{0.5cm}
+
+1.  Thermal equilibrium between two objects in contact is reached when: [N2]
+    \begin{itemize}
+        \item[A.] Their masses are equal.
+        \item[B.] Their total thermal energies are equal.
+        \item[C.] There is no net flow of heat between them.
+        \item[D.] One object has lost all its heat.
+    \end{itemize}
+    \textbf{Answer:} \underline{\hspace{1cm}}
+
+2.  If a highly efficient machine converts 100J of input energy into 40J of useful work, how much energy was wasted, likely as heat? [Inquiry Q3 Concept]
+    \begin{itemize}
+        \item[A.] 40 J
+        \item[B.] 60 J
+        \item[C.] 100 J
+        \item[D.] 140 J
+    \end{itemize}
+    \textbf{Answer:} \underline{\hspace{1cm}}
+
+3.  50g of Metal X ($c = 500 \, \si{J.kg^{-1}.K^{-1}}$) at 100\si{\celsius} is dropped into 100g of Water ($c = 4186 \, \si{J.kg^{-1}.K^{-1}}$) at 20\si{\celsius}. Set up the equation $Q_{lost} = Q_{gained}$ that you would use to find the final temperature ($T_f$). Do NOT solve it. (2 marks) [N2 Apply, N3 Apply]
+    \vspace{3cm}
+
+
+\end{document}

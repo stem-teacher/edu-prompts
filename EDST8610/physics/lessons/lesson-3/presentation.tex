@@ -1,0 +1,180 @@
+\documentclass[xcolor=svgnames]{beamer}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{xcolor}
+\usepackage{booktabs}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{siunitx}
+\usepackage{hyperref}
+\usetheme{Madrid}
+
+% COLORS and FOOTNOTE settings (copy from previous file)
+\definecolor{mqred}{RGB}{166, 25, 46}
+\definecolor{mqdeepred}{RGB}{118, 35, 47}
+\definecolor{mqgray}{RGB}{55, 58, 54}
+\definecolor{mqlightgray}{RGB}{237, 235, 229}
+\definecolor{mqmagenta}{RGB}{198, 0, 126}
+\usecolortheme[named=mqred]{structure}
+\setbeamercolor{title in head/foot}{bg=mqlightgray, fg=mqgray}
+\setbeamercolor{author in head/foot}{bg=mqdeepred}
+\setbeamercolor{page number in head/foot}{bg=mqdeepred, fg=mqlightgray}
+\makeatletter
+\setbeamertemplate{footline}{
+  \leavevmode%
+  \hbox{%
+  \begin{beamercolorbox}[wd=.5\paperwidth,ht=2.25ex,dp=1ex,center]{author in head/foot}%
+    \usebeamerfont{author in head/foot}\insertshortauthor\expandafter\ifblank\expandafter{\beamer@shortinstitute}{}{~~(\insertshortinstitute)}
+  \end{beamercolorbox}%
+  \begin{beamercolorbox}[wd=.4\paperwidth,ht=2.25ex,dp=1ex,center]{title in head/foot}%
+    \usebeamerfont{title in head/foot}\insertshorttitle
+  \end{beamercolorbox}%
+  \begin{beamercolorbox}[wd=.1\paperwidth,ht=2.25ex,dp=1ex,center]{page number in head/foot}%
+    \usebeamerfont{page number in head/foot}\insertframenumber{} / \inserttotalframenumber
+  \end{beamercolorbox}}%
+  \vskip0pt%
+}
+\makeatother
+\beamertemplatenavigationsymbolsempty
+
+
+% TITLE, AUTHORS, INSTITUTE, DATE
+\title[Thermo: Equilibrium]{Thermodynamics Lesson 3: Equilibrium Calculations and Efficiency}
+\author[P. Haynes]{Mr Haynes}
+\institute[GHS]{Gosford High School}
+\date{\today}
+
+% LOGO (Optional)
+%\titlegraphic{\includegraphics[height=2.5cm]{logo.jpg}}
+
+\begin{document}
+
+\begin{frame}
+    \titlepage
+\end{frame}
+
+\begin{frame}{Outline}
+    \tableofcontents
+\end{frame}
+
+\section{Review}
+\begin{frame}{Review Lesson 2}
+    \frametitle{Recap: Quantifying Heat}
+    Quick Quiz: Match the scenario to the formula!
+    \begin{itemize}
+        \item Heating 1kg water from 20°C to 80°C $\implies$ Use \underline{\hspace{2cm}} [N3]
+        \item Melting 0.5kg ice at 0°C $\implies$ Use \underline{\hspace{2cm}} [N5]
+        \item Cooling 2kg steam at 120°C to 110°C $\implies$ Use \underline{\hspace{2cm}} [N3]
+        \item Boiling 0.2kg water at 100°C $\implies$ Use \underline{\hspace{2cm}} [N5]
+    \end{itemize}
+    \pause
+    \textit{Answers: Q=mc$\Delta$T, Q=mL$_f$, Q=mc$\Delta$T, Q=mL$_v$}
+    \vspace{1em}
+    Today: Combining these when things mix and reach equilibrium.
+\end{frame}
+
+\section{Thermal Equilibrium Principle}
+\begin{frame}{The Balancing Act [N2 Apply]}
+    \frametitle{Principle of Thermal Equilibrium Problems}
+    \textbf{Scenario:} Mix hot and cold substances in an \textit{isolated} system (no heat loss to surroundings).
+    \vspace{1em}
+    \textbf{Principle (Conservation of Energy):}
+    \begin{itemize}
+        \item Heat energy flows from hotter object(s) to colder object(s).
+        \item Flow stops when thermal equilibrium (same final temperature $T_f$) is reached.
+        \item Total heat energy \textbf{lost} by hot objects = Total heat energy \textbf{gained} by cold objects.
+    \end{itemize}
+    \vspace{1em}
+    \begin{equation*}
+    \alert{\sum Q_{lost} = \sum Q_{gained}}
+    \end{equation*}
+    \textit{Each 'Q' term could involve $mc\Delta T$ or $mL$ depending on temperature changes and phase changes.}
+\end{frame}
+
+\section{Guided Problem}
+\begin{frame}{Solving an Equilibrium Problem [N2, N3 Apply]}
+    \frametitle{Guided Example: Hot Metal in Cold Water}
+    \textit{(Refer to Worksheet 3, Part 1 for step-by-step guidance)}
+    \vspace{1em}
+    \textbf{Problem:} 50g Copper ($c_{Cu} = 385$) at 90°C dropped into 100g Water ($c_{w} = 4186$) at 15°C. Find final temp ($T_f$).
+    \vspace{1em}
+    \textbf{Setup:}
+    \begin{itemize}
+        \item Identify Hot (Cu) / Cold (Water).
+        \item $Q_{lost, Cu} = Q_{gained, w}$
+        \item $(mc\Delta T)_{Cu} = (mc\Delta T)_{w}$
+        \item $m_{Cu}c_{Cu}(T_{i,Cu} - T_f) = m_w c_w (T_f - T_{i,w})$
+    \end{itemize}
+    \vspace{1em}
+    \textbf{Key Steps (Teacher demonstrates on board):}
+    \begin{enumerate}
+        \item Substitute values (ensure mass in kg if needed, though g cancels if consistent).
+        \item Expand brackets carefully.
+        \item Group $T_f$ terms on one side.
+        \item Solve for $T_f$.
+    \end{enumerate}
+    \textit{[Numeracy focus: Algebraic manipulation]}
+\end{frame}
+
+\section{Efficiency Concept}
+\begin{frame}{Energy Usefulness (Inquiry Q2/Q3)}
+    \frametitle{Introduction to Thermal Efficiency}
+    \textbf{Energy Transformations (Inquiry Q2):} Energy is conserved, but changes form.
+    \vspace{1em}
+    \textbf{Think about a Car Engine:}
+    \begin{itemize}
+        \item \textbf{Energy Input:} Chemical Energy in Fuel
+        \item \textbf{Useful Energy Output:} Kinetic Energy (Motion)
+        \item \textbf{Wasted Energy Output:} Heat (Exhaust, Friction, Engine Block heating -> lost via Conduction/Convection/Radiation [N4 link])
+    \end{itemize}
+    \vspace{1em}
+    \textbf{Thermal Efficiency (Qualitative Definition):}
+    \[ \text{Efficiency} = \frac{\text{Useful Energy Output}}{\text{Total Energy Input}} \]
+    \begin{itemize}
+        \item Always less than 1 (or 100\%). Why? Some energy is always "lost" as less useful thermal energy during transformations (related to the 2nd Law of Thermodynamics).
+        \item \textbf{Relevance (Inquiry Q3):} Understanding losses helps improve efficiency (e.g., insulation, better engine design) $\implies$ Sustainability.
+    \end{itemize}
+\end{frame}
+
+\section{Practice and Synthesis}
+\begin{frame}{Practice Problems [N2, N3, N5 Apply]}
+    \frametitle{Applying Equilibrium Principles}
+    Now, try the problems in Worksheet 3, Part 2.
+    \begin{itemize}
+        \item Work individually or in pairs.
+        \item Problem 1: Similar to guided example (metal in water).
+        \item Problem 2: Challenge involving phase change (melting ice). Remember to include $Q=mL_f$ for the ice melting!
+    \end{itemize}
+    \vspace{1em}
+    \textbf{Connecting back to Inquiry Questions:}
+    \begin{itemize}
+        \item Q1 (Temp/Energy/Motion): Underpins all calculations.
+        \item Q2 (Transformation/Laws): Efficiency shows energy changes form, conservation applies.
+        \item Q3 (Direction/Efficiency): Equilibrium determines direction, efficiency measures usefulness.
+    \end{itemize}
+\end{frame}
+
+\section{Summary}
+\begin{frame}{Lesson 3 Summary}
+    \begin{itemize}
+        \item Thermal equilibrium problems are solved using Conservation of Energy: $\sum Q_{lost} = \sum Q_{gained}$ [N2 Apply].
+        \item These problems combine specific heat ($mc\Delta T$) [N3] and potentially latent heat ($mL$) [N5] calculations.
+        \item Thermal efficiency describes how effectively input energy is converted to useful output energy [Inquiry Q3].
+        \item Understanding heat transfer mechanisms [N4] is key to understanding energy losses and efficiency.
+    \end{itemize}
+    \vspace{1em}
+    \textbf{Final Steps:}
+    \begin{itemize}
+        \item Complete Worksheet 3 Practice Problems.
+        \item Complete \#MarkSense Quiz 3.
+        \item Review all concepts from the 3 lessons.
+    \end{itemize}
+\end{frame}
+
+\begin{frame}
+    \centering
+    \textbf{Thank you!}\\
+    End of Thermodynamics Introduction. Questions?
+\end{frame}
+
+\end{document}
