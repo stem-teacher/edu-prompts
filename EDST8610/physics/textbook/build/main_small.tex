@@ -1,0 +1,175 @@
+% Stage 6 Physics Textbook Chapter
+% Using Tufte-LaTeX document class for elegant layout with margin notes
+% -- SMALLER VERSION --
+
+\documentclass[justified,notoc]{tufte-book}
+
+% Essential packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{textgreek} % For Greek letters like Delta (Δ)
+\usepackage{gensymb} % For degree symbols (°)
+\usepackage{graphicx}
+\graphicspath{{./images/}{./chapters/}} % Including both images and chapters directories
+\usepackage{amsmath,amssymb}
+\usepackage[version=4]{mhchem} % For chemistry notation
+\usepackage{booktabs} % For nice tables
+\usepackage{microtype} % Better typography
+\usepackage{tikz} % For diagrams (optional, but often useful)
+\usepackage{xcolor} % For colored text
+\usepackage{soul} % For highlighting
+\usepackage{tcolorbox} % For colored boxes
+\usepackage{enumitem} % For better lists
+\usepackage{wrapfig} % For wrapping text around figures (use sparingly with Tufte)
+\usepackage{hyperref} % For links
+\hypersetup{colorlinks=true, linkcolor=blue, urlcolor=blue}
+
+% Add float package for [H] placement option
+\usepackage{float}
+\usepackage{placeins} % For \FloatBarrier
+\usepackage{morefloats}
+\extrafloats{100} % Allow more floats per page if needed
+
+% Float adjustment to reduce figure/table drift (adjust as needed)
+\setcounter{topnumber}{5}          % Maximum floats at top of page
+\setcounter{bottomnumber}{5}       % Maximum floats at bottom
+\setcounter{totalnumber}{10}       % Maximum total floats on a page
+\renewcommand{\topfraction}{0.85}   % Maximum page fraction for top floats
+\renewcommand{\bottomfraction}{0.85}% Maximum page fraction for bottom floats
+\renewcommand{\textfraction}{0.1} % Minimum text fraction on page
+\renewcommand{\floatpagefraction}{0.6} % Minimum float page fill
+
+% Define blockquote command
+\newcommand{\blockquote}[1]{\begin{quote}\itshape #1\end{quote}}
+
+% Process all floats at end of each chapter section to prevent excessive drift
+\makeatletter
+\AtBeginDocument{
+  % Applying FloatBarrier more frequently might help in complex layouts
+  \let\old@section\section
+  \def\section{\FloatBarrier\old@section}
+  \let\old@subsection\subsection
+  \def\subsection{\FloatBarrier\old@subsection}
+}
+\makeatother
+% Ensure floats processed at chapter end too
+\usepackage{etoolbox}
+\AtEndEnvironment{document}{\FloatBarrier} % Final barrier at document end
+% Commented out line that was causing issues
+% \AfterEndPreamble{\usepackage{everyshi} \EveryShipout{\FloatBarrier}} % Force barrier at page shipout (use cautiously)
+
+
+% Custom colors
+\definecolor{primary}{RGB}{0, 73, 144} % Deep blue
+\definecolor{secondary}{RGB}{242, 142, 43} % Orange
+\definecolor{highlight}{RGB}{255, 222, 89} % Yellow highlight
+\definecolor{success}{RGB}{46, 139, 87} % Green
+\definecolor{info}{RGB}{70, 130, 180} % Steel blue
+\definecolor{note}{RGB}{220, 220, 220} % Light gray
+
+% Custom commands for pedagogical elements (same as before)
+\newcommand{\keyword}[1]{\marginnote{\textbf{#1}: Definition goes here}\textbf{#1}} % Adjusted slightly for clarity
+
+\newcommand{\challengeicon}{*}
+\newcommand{\challenge}[1]{\marginnote{\textbf{\challengeicon\ Challenge:} #1}}
+
+\newcommand{\mathlink}[1]{\marginnote{\textbf{Math Link:} #1}}
+
+\newcommand{\historylink}[1]{\marginnote{\textbf{History:} #1}}
+
+% Define tcolorbox environments (ensure tcolorbox is loaded)
+\tcbuselibrary{skins,breakable} % Add breakable library for boxes spanning pages
+
+\newtcolorbox{investigation}[1]{%
+    breakable, % Allows box to break across pages
+    colback=info!10,
+    colframe=info,
+    title=\textbf{Investigation: #1},
+    fonttitle=\bfseries
+}
+
+\newtcolorbox{keyconcept}[1]{%
+    breakable,
+    colback=primary!5,
+    colframe=primary,
+    title=\textbf{Key Concept: #1},
+    fonttitle=\bfseries
+}
+
+\newtcolorbox{tieredquestions}[1]{%
+    breakable,
+    colback=note!30,
+    colframe=note!50,
+    title=\textbf{Practice Questions - #1},
+    fonttitle=\bfseries
+}
+
+\newtcolorbox{stopandthink}{%
+    breakable,
+    colback=highlight!30,
+    colframe=highlight!50,
+    title=\textbf{Stop and Think},
+    fonttitle=\bfseries
+}
+
+% Example environment (simple formatting)
+\newenvironment{example}{%
+    \par\smallskip\noindent\begin{tcolorbox}[colback=white, colframe=black!50, boxrule=0.5pt, sharp corners, breakable] \textit{Example:}\par\smallskip
+}{%
+    \end{tcolorbox}\par\smallskip
+}
+
+
+% --- Document Title Information ---
+\title{Thermodynamics\\ % Adjusted title
+\large A Focused Guide for HSC Stage 6 Physics} % Adjusted subtitle
+\author{The Curious Scientist AI}
+\publisher{Emergent Mind Press}
+\date{\today}
+
+% Set up page headers/footers for a cleaner look
+\pagestyle{plain} % Use plain page style with just numbers
+
+% --- Document Body ---
+\begin{document}
+
+% Remove title page and front matter
+\maketitle
+%\frontmatter
+%\tableofcontents
+%\mainmatter
+
+% --- Chapter Inputs ---
+
+% Introduction (Optional, but usually good to have)
+% Assumes you have an 'introduction.tex' file in the 'chapters' folder
+\input{introduction}
+\FloatBarrier % Ensure floats from intro are placed before chapter 1
+
+% Chapter 1 (Assuming you have chapter1.tex)
+% \input{chapters/chapter1}
+% \FloatBarrier
+
+% Chapter 2 (Assuming you have chapter2.tex)
+% \input{chapters/chapter2}
+% \FloatBarrier
+
+% Chapter 3 (The 'Prior Chapter' content provided)
+% Assumes you save the prior chapter content as 'chapters/chapter3.tex'
+%\input{chapters/chapter3}
+%\FloatBarrier % Ensure Chapter 3 floats are processed before Chapter 4
+
+% Chapter 4 (The Thermodynamics chapter just generated)
+% Assumes you saved the generated chapter as 'chapters/chapter4.tex'
+\input{chapters/chapter4}
+\FloatBarrier % Process floats at the end of Chapter 4
+
+% --- End of Chapters for Smaller Textbook ---
+% Chapters 5, 6, 7, 8 are omitted in this smaller version
+
+% Remove back matter
+%\backmatter % For appendices, index etc. (optional)
+% \appendix
+% \input{chapters/appendix}
+
+\end{document}

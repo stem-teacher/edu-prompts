@@ -1,0 +1,94 @@
+\documentclass[11pt, a4paper]{article}
+\usepackage{geometry}
+\geometry{left=2cm, right=2cm, top=2cm, bottom=2cm}
+\usepackage{hyperref} % For potential future links
+\usepackage{array}    % Used by template, kept for consistency
+\usepackage[utf8]{inputenc} % Handle UTF-8 input
+\usepackage[T1]{fontenc} % Modern font encoding
+
+% --- Document Specific Information ---
+\title{MarkSense - Teacher's Guide to Automated Assessment}
+% \date{\today} % Optional: Uncomment for today's date, or remove for no date
+\date{} % Set empty date as per template style likely intended
+\author{} % Set empty author as per template style likely intended (or add author if needed)
+
+\begin{document}
+\maketitle
+\vspace{-2em} % Reduce space after title, as per template
+
+% --- Introduction ---
+\section*{Introduction}
+
+MarkSense streamlines the assessment process, providing near-instantaneous, detailed feedback to your students while significantly reducing your manual marking time. This guide outlines the simple workflow from creating your assessment to delivering graded results.
+
+% --- Workflow Overview ---
+\section*{Workflow Overview}
+\begin{enumerate}
+    \item \textbf{Prepare Assessment:} Create your assessment document and easily generate the corresponding MarkSense template using the built-in tools. Establish the marking rubric for AI assistance.
+    \item \textbf{Distribute:} Give the assessment handout (PDF or print) to students.
+    \item \textbf{Scan:} Students scan their completed handouts using the classroom scanner linked to MarkSense.
+    \item \textbf{Automated Marking:} MarkSense automatically processes each scan: identifies the student and assessment, marks multiple-choice questions, uses AI to analyze written answers against your rubric, generates feedback comments, calculates scores, and compiles a personalized, annotated feedback document for the student.
+    \item \textbf{Deliver Feedback:} The graded feedback document is automatically emailed to each student.
+    \item \textbf{Review (Optional):} Use the MarkSense application to quickly review any flagged items (\texttt{e.g.}, answers the AI was unsure about) or browse overall class results.
+\end{enumerate}
+
+% --- Step-by-Step Guide ---
+\section*{Step-by-Step Guide for Teachers}
+\begin{enumerate} % Main steps 1-4
+    \item \textbf{Creating Your Assessment:}
+        \begin{itemize} % Sub-points within step 1
+            \item \textbf{Design Handout:} Prepare your assessment document as usual (\texttt{e.g.}, in \texttt{Word}, \texttt{Google Docs}, or using Markdown with \LaTeX{} for scientific content). Ensure clear areas for student responses (MC bubbles, written answer spaces). Export the final handout as a PDF (\texttt{e.g.}, \texttt{Year7\_Science\_Term1\_Exam.pdf}).
+            \item \textbf{Use MarkSense Setup:} Open the MarkSense application. Select "Create New Assessment Template".
+                \begin{itemize} % Sub-sub-points for MarkSense setup actions
+                    \item Upload your assessment handout PDF (\texttt{Year7\_Science\_Term1\_Exam.pdf}).
+                    \item MarkSense will analyze the document. Use the simple on-screen tools to:
+                        \begin{itemize} % Further nesting for tool actions
+                            \item Confirm or adjust the areas identified for multiple-choice questions and written answers.
+                            \item Specify the correct answer for each multiple-choice question (\texttt{e.g.}, click the 'C' bubble for Question 1). MarkSense automatically creates the necessary green/red marking guides in the background template.
+                            \item Define where scores and overall/section comments should appear on the feedback document.
+                            \item Link or input your marking rubric for each written question to guide the AI analysis.
+                        \end{itemize} % End nesting for tool actions
+                    \item Save the template within MarkSense. It will automatically associate this template with the assessment handout.
+                \end{itemize} % End sub-sub-points
+            \item \textbf{Distribute Handout:} Provide the clean assessment handout PDF (or printouts) to your students. The handout includes an embedded identifier (like a subtle QR code) automatically added by MarkSense during setup, linking it to the template and rubric.
+        \end{itemize} % End sub-points for step 1
+
+    \item \textbf{Student Completion and Scanning:}
+        \begin{itemize} % Sub-points within step 2
+            \item Students complete the handout.
+            \item Students scan their completed handout using the designated MarkSense classroom scanner. The system automatically reads the embedded identifier to know which student and assessment it is, and which template/rubric to use. No manual linking is needed.
+        \end{itemize} % End sub-points for step 2
+
+    \item \textbf{Automated Marking and Feedback:}
+        \begin{itemize} % Sub-points within step 3
+            \item MarkSense processes each scan immediately.
+            \item It marks the MC section, identifying correct/incorrect answers visually on the PDF.
+            \item It analyzes written answers using the AI and your provided rubric, assigning scores and generating initial feedback comments based on the rubric criteria.
+            \item It calculates section and total scores.
+            \item It compiles the annotated PDF with all marks, scores, and comments.
+            \item It automatically emails the completed feedback PDF to the student (using email addresses linked to student IDs in your class lists).
+        \end{itemize} % End sub-points for step 3
+
+    \item \textbf{Reviewing Results (Optional):}
+        \begin{itemize} % Sub-points within step 4
+            \item Open the MarkSense application at any time.
+            \item Select the class and assessment you want to review.
+            \item Browse through the digitally marked student papers.
+            \item MarkSense may flag specific answers (\texttt{e.g.}, ambiguous MC marks, low AI confidence on a written answer) for your quick review. You can easily override AI scores or add your own clarifying comments directly in the app.
+            \item View class analytics and generate reports (\texttt{e.g.}, \texttt{CSV} scores for upload).
+        \end{itemize} % End sub-points for step 4
+\end{enumerate} % End main steps 1-4
+
+% --- Benefits Section ---
+\section*{Benefits for You}
+\begin{itemize}
+    \item \textbf{Save Time:} Dramatically reduces time spent on repetitive marking tasks.
+    \item \textbf{Focus on Teaching:} Spend more time analyzing results, planning interventions, and interacting with students.
+    \item \textbf{Consistent Marking:} Ensures all papers are marked against the same standard using your defined rubric.
+    \item \textbf{Faster Feedback:} Students receive detailed feedback almost immediately, reinforcing learning.
+\end{itemize}
+
+% --- Closing ---
+MarkSense handles the technical details, allowing you to focus on creating quality assessments and providing timely, meaningful feedback.
+
+\end{document}

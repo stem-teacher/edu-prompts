@@ -1,0 +1,1319 @@
+{
+  "courses": [
+    {
+      "courseName": "Chemistry Stage 6",
+      "modules": [
+        // ... Modules 1-6 placeholder ...
+        {
+          "moduleName": "Module 7: Organic Chemistry",
+          "moduleCode": "CH12_M7", // Year 12, Module 7
+          "topics": [
+            {
+              "topicName": "Nomenclature",
+              "inquiryQuestions": [
+                "How do we systematically name organic chemical compounds?"
+              ],
+              "syllabusOutcomes": [
+                {
+                  "outcomeCode": "CH12-14",
+                  "description": "analyses the structure of, and predicts reactions involving, carbon compounds",
+                  "bloomsLevel": "Analyse"
+                },
+                {
+                  "outcomeCode": "CH11/12-5",
+                  "description": "analyses and evaluates primary and secondary data and information",
+                  "bloomsLevel": "Analyse"
+                },
+                {
+                  "outcomeCode": "CH11/12-6",
+                  "description": "solves scientific problems using primary and secondary data, critical thinking skills and scientific processes",
+                  "bloomsLevel": "Apply"
+                },
+                {
+                  "outcomeCode": "CH11/12-7",
+                  "description": "communicates scientific understanding using suitable language and terminology for a specific audience or purpose",
+                  "bloomsLevel": "Apply"
+                }
+              ],
+              "workingScientificallyOutcomes": [
+                {
+                  "code": "CH11/12-5",
+                  "description": "Analysing data and information"
+                },
+                { "code": "CH11/12-6", "description": "Problem solving" },
+                { "code": "CH11/12-7", "description": "Communicating" }
+              ],
+              "knowledgeNodes": [
+                {
+                  "nodeId": "CHM_M7_NOM_N1",
+                  "description": "Define and apply IUPAC conventions for naming straight and simple branched alkanes (up to C8), including methyl and ethyl side chains.",
+                  "type": "nomenclature_rule",
+                  "bloomTaxonomyLevel": "Apply",
+                  "syllabusReference": "CH12-14, M7: Nomenclature (ACSCH127)",
+                  "workingScientificallyCategory": "Communicating",
+                  "literacySkills": [
+                    "Identify parent chain (alkane)",
+                    "Number parent chain for lowest locants",
+                    "Identify methyl/ethyl substituents",
+                    "Use prefixes (di-, tri-)",
+                    "Construct IUPAC name (locant-prefix-parent)"
+                  ],
+                  "numeracySkills": ["Lowest locant determination"],
+                  "prerequisiteNodes": [
+                    "CHEM_M1_BONDING",
+                    "CHEM_M1_HYDROCARBON_BASICS"
+                  ],
+                  "examQuestionsLinked": ["HSC2022_Q7"],
+                  "depthStudyComponents": [],
+                  "examples": [
+                    "Naming methane, ethane, propane...octane",
+                    "Naming 2-methylpropane",
+                    "Naming 3-ethylhexane",
+                    "Drawing structures from names"
+                  ],
+                  "media": ["path/to/alkane_naming_tutorial.mp4"]
+                },
+                {
+                  "nodeId": "CHM_M7_NOM_N2",
+                  "description": "Define and apply IUPAC conventions for naming straight and simple branched alkenes (up to C8), indicating the position of the double bond.",
+                  "type": "nomenclature_rule",
+                  "bloomTaxonomyLevel": "Apply",
+                  "syllabusReference": "CH12-14, M7: Nomenclature (ACSCH127)",
+                  "workingScientificallyCategory": "Communicating",
+                  "literacySkills": [
+                    "Identify alkene functional group (C=C)",
+                    "Identify parent chain containing double bond",
+                    "Number parent chain for lowest double bond locant",
+                    "Use '-en-' suffix",
+                    "Apply alkane substituent rules"
+                  ],
+                  "numeracySkills": [
+                    "Lowest locant determination (priority to double bond)"
+                  ],
+                  "prerequisiteNodes": [
+                    "CHM_M7_NOM_N1",
+                    "CHEM_M1_UNSATURATED_HYDROCARBONS"
+                  ],
+                  "examQuestionsLinked": [],
+                  "depthStudyComponents": [],
+                  "examples": [
+                    "Naming ethene, propene",
+                    "Naming but-1-ene vs but-2-ene",
+                    "Naming 3-methylpent-1-ene"
+                  ],
+                  "media": []
+                },
+                {
+                  "nodeId": "CHM_M7_NOM_N3",
+                  "description": "Define and apply IUPAC conventions for naming straight and simple branched alkynes (up to C8), indicating the position of the triple bond.",
+                  "type": "nomenclature_rule",
+                  "bloomTaxonomyLevel": "Apply",
+                  "syllabusReference": "CH12-14, M7: Nomenclature (ACSCH127)",
+                  "workingScientificallyCategory": "Communicating",
+                  "literacySkills": [
+                    "Identify alkyne functional group (C≡C)",
+                    "Identify parent chain containing triple bond",
+                    "Number parent chain for lowest triple bond locant",
+                    "Use '-yn-' suffix",
+                    "Apply alkane substituent rules"
+                  ],
+                  "numeracySkills": [
+                    "Lowest locant determination (priority to triple bond)"
+                  ],
+                  "prerequisiteNodes": [
+                    "CHM_M7_NOM_N1",
+                    "CHEM_M1_UNSATURATED_HYDROCARBONS"
+                  ],
+                  "examQuestionsLinked": ["HSC2023_Q3"],
+                  "depthStudyComponents": [],
+                  "examples": [
+                    "Naming ethyne, propyne",
+                    "Naming pent-1-yne vs pent-2-yne",
+                    "Naming 4-methylhex-1-yne"
+                  ],
+                  "media": []
+                },
+                {
+                  "nodeId": "CHM_M7_NOM_N4",
+                  "description": "Define and apply IUPAC conventions for naming primary, secondary, and tertiary alcohols (up to C8), indicating the position of the hydroxyl group.",
+                  "type": "nomenclature_rule",
+                  "bloomTaxonomyLevel": "Apply",
+                  "syllabusReference": "CH12-14, M7: Nomenclature (ACSCH127)",
+                  "workingScientificallyCategory": "Communicating",
+                  "literacySkills": [
+                    "Identify hydroxyl functional group (-OH)",
+                    "Identify parent chain containing hydroxyl group",
+                    "Number parent chain for lowest hydroxyl locant",
+                    "Use '-ol' suffix",
+                    "Classify alcohols (primary, secondary, tertiary)",
+                    "Apply alkane substituent rules"
+                  ],
+                  "numeracySkills": [
+                    "Lowest locant determination (priority to hydroxyl group)"
+                  ],
+                  "prerequisiteNodes": [
+                    "CHM_M7_NOM_N1",
+                    "CHEM_M1_FUNCTIONAL_GROUPS_INTRO",
+                    "CHM_M7_ALC_N1"
+                  ],
+                  "examQuestionsLinked": ["HSC2019_Q21a"],
+                  "depthStudyComponents": [],
+                  "examples": [
+                    "Naming methanol, ethanol",
+                    "Naming propan-1-ol vs propan-2-ol",
+                    "Naming 2-methylbutan-2-ol (tertiary)"
+                  ],
+                  "media": []
+                },
+                {
+                  "nodeId": "CHM_M7_NOM_N5",
+                  "description": "Define and apply IUPAC conventions for naming aldehydes (up to C8).",
+                  "type": "nomenclature_rule",
+                  "bloomTaxonomyLevel": "Apply",
+                  "syllabusReference": "CH12-14, M7: Nomenclature (ACSCH127)",
+                  "workingScientificallyCategory": "Communicating",
+                  "literacySkills": [
+                    "Identify aldehyde functional group (-CHO)",
+                    "Identify parent chain including aldehyde group",
+                    "Recognise aldehyde group is always C1",
+                    "Use '-al' suffix",
+                    "Apply alkane substituent rules"
+                  ],
+                  "numeracySkills": [],
+                  "prerequisiteNodes": [
+                    "CHM_M7_NOM_N1",
+                    "CHEM_M1_FUNCTIONAL_GROUPS_INTRO"
+                  ],
+                  "examQuestionsLinked": [],
+                  "depthStudyComponents": [],
+                  "examples": [
+                    "Naming methanal, ethanal, propanal",
+                    "Naming 3-methylbutanal"
+                  ],
+                  "media": []
+                },
+                {
+                  "nodeId": "CHM_M7_NOM_N6",
+                  "description": "Define and apply IUPAC conventions for naming ketones (up to C8), indicating the position of the carbonyl group.",
+                  "type": "nomenclature_rule",
+                  "bloomTaxonomyLevel": "Apply",
+                  "syllabusReference": "CH12-14, M7: Nomenclature (ACSCH127)",
+                  "workingScientificallyCategory": "Communicating",
+                  "literacySkills": [
+                    "Identify ketone functional group (C=O within chain)",
+                    "Identify parent chain containing carbonyl group",
+                    "Number parent chain for lowest carbonyl locant",
+                    "Use '-one' suffix",
+                    "Apply alkane substituent rules"
+                  ],
+                  "numeracySkills": [
+                    "Lowest locant determination (priority to ketone group)"
+                  ],
+                  "prerequisiteNodes": [
+                    "CHM_M7_NOM_N1",
+                    "CHEM_M1_FUNCTIONAL_GROUPS_INTRO"
+                  ],
+                  "examQuestionsLinked": ["HSC2023_Q1"],
+                  "depthStudyComponents": [],
+                  "examples": [
+                    "Naming propanone",
+                    "Naming butan-2-one",
+                    "Naming pentan-2-one vs pentan-3-one",
+                    "Naming 3-methylhexan-2-one"
+                  ],
+                  "media": []
+                },
+                {
+                  "nodeId": "CHM_M7_NOM_N7",
+                  "description": "Define and apply IUPAC conventions for naming carboxylic acids (up to C8).",
+                  "type": "nomenclature_rule",
+                  "bloomTaxonomyLevel": "Apply",
+                  "syllabusReference": "CH12-14, M7: Nomenclature (ACSCH127)",
+                  "workingScientificallyCategory": "Communicating",
+                  "literacySkills": [
+                    "Identify carboxyl functional group (-COOH)",
+                    "Identify parent chain including carboxyl group",
+                    "Recognise carboxyl group is always C1",
+                    "Use '-oic acid' suffix",
+                    "Apply alkane substituent rules"
+                  ],
+                  "numeracySkills": [],
+                  "prerequisiteNodes": [
+                    "CHM_M7_NOM_N1",
+                    "CHEM_M1_FUNCTIONAL_GROUPS_INTRO",
+                    "CHM_M7_ACID_N1"
+                  ],
+                  "examQuestionsLinked": ["HSC2017_Q27"],
+                  "depthStudyComponents": [],
+                  "examples": [
+                    "Naming methanoic acid, ethanoic acid",
+                    "Naming 2-methylpropanoic acid"
+                  ],
+                  "media": []
+                },
+                {
+                  "nodeId": "CHM_M7_NOM_N8",
+                  "description": "Define and apply IUPAC conventions for naming primary amines (up to C8), indicating the position of the amino group.",
+                  "type": "nomenclature_rule",
+                  "bloomTaxonomyLevel": "Apply",
+                  "syllabusReference": "CH12-14, M7: Nomenclature (ACSCH127)",
+                  "workingScientificallyCategory": "Communicating",
+                  "literacySkills": [
+                    "Identify amino functional group (-NH2)",
+                    "Identify parent chain containing amino group",
+                    "Number parent chain for lowest amino locant",
+                    "Use '-amine' suffix (or amino- prefix)",
+                    "Apply alkane substituent rules"
+                  ],
+                  "numeracySkills": [
+                    "Lowest locant determination (priority to amino group)"
+                  ],
+                  "prerequisiteNodes": [
+                    "CHM_M7_NOM_N1",
+                    "CHEM_M1_FUNCTIONAL_GROUPS_INTRO"
+                  ],
+                  "examQuestionsLinked": ["HSC2023_Q3"],
+                  "depthStudyComponents": [],
+                  "examples": [
+                    "Naming methanamine, ethanamine",
+                    "Naming propan-1-amine vs propan-2-amine",
+                    "Naming butan-2-amine"
+                  ],
+                  "media": []
+                },
+                {
+                  "nodeId": "CHM_M7_NOM_N9",
+                  "description": "Define and apply IUPAC conventions for naming primary amides (up to C8).",
+                  "type": "nomenclature_rule",
+                  "bloomTaxonomyLevel": "Apply",
+                  "syllabusReference": "CH12-14, M7: Nomenclature (ACSCH127)",
+                  "workingScientificallyCategory": "Communicating",
+                  "literacySkills": [
+                    "Identify amide functional group (-CONH2)",
+                    "Identify parent chain including amide group",
+                    "Recognise amide group is always C1",
+                    "Use '-amide' suffix",
+                    "Apply alkane substituent rules"
+                  ],
+                  "numeracySkills": [],
+                  "prerequisiteNodes": [
+                    "CHM_M7_NOM_N1",
+                    "CHEM_M1_FUNCTIONAL_GROUPS_INTRO"
+                  ],
+                  "examQuestionsLinked": ["HSC2023_Q3"],
+                  "depthStudyComponents": [],
+                  "examples": [
+                    "Naming methanamide, ethanamide",
+                    "Naming 2-methylpropanamide"
+                  ],
+                  "media": []
+                },
+                {
+                  "nodeId": "CHM_M7_NOM_N10",
+                  "description": "Define and apply IUPAC conventions for naming simple halogenated organic compounds (up to C8), indicating the position and type of halogen substituent(s).",
+                  "type": "nomenclature_rule",
+                  "bloomTaxonomyLevel": "Apply",
+                  "syllabusReference": "CH12-14, M7: Nomenclature (ACSCH046 ref in sample unit)",
+                  "workingScientificallyCategory": "Communicating",
+                  "literacySkills": [
+                    "Identify parent chain",
+                    "Use prefixes (fluoro-, chloro-, bromo-, iodo-)",
+                    "Number parent chain for lowest locant set for all substituents",
+                    "Order substituents alphabetically",
+                    "Use di-, tri- prefixes"
+                  ],
+                  "numeracySkills": ["Lowest locant determination"],
+                  "prerequisiteNodes": [
+                    "CHM_M7_NOM_N1",
+                    "CHEM_M1_FUNCTIONAL_GROUPS_INTRO"
+                  ],
+                  "examQuestionsLinked": ["HSC2018_Q27a", "HSC2020_Q6"],
+                  "depthStudyComponents": [],
+                  "examples": [
+                    "Naming 1-chloropropane",
+                    "Naming 2-bromobutane",
+                    "Naming 1,2-dichloroethane",
+                    "Naming 2-bromo-3-chloropentane"
+                  ],
+                  "media": []
+                },
+                {
+                  "nodeId": "CHM_M7_ISO_N1",
+                  "description": "Explore and distinguish different types of structural isomers, including chain isomers, position isomers, and functional group isomers, focusing on saturated and unsaturated hydrocarbons and simple compounds with one functional group.",
+                  "type": "isomerism",
+                  "bloomTaxonomyLevel": "Analyse",
+                  "syllabusReference": "CH12-14, M7: Nomenclature (ACSCH035)",
+                  "workingScientificallyCategory": "Problem Solving",
+                  "literacySkills": [
+                    "Define structural isomerism",
+                    "Define chain, position, functional group isomers",
+                    "Draw structures of isomers",
+                    "Identify isomer types from given structures"
+                  ],
+                  "numeracySkills": ["Systematic drawing/counting of isomers"],
+                  "prerequisiteNodes": [
+                    "CHM_M7_NOM_N1",
+                    "CHM_M7_NOM_N2",
+                    "CHM_M7_NOM_N3",
+                    "CHM_M7_NOM_N4",
+                    "CHM_M7_HC_N1"
+                  ],
+                  "examQuestionsLinked": [
+                    "HSC2018_Q14",
+                    "HSC2019_Q21b",
+                    "HSC2020_Q7",
+                    "HSC2021_Q8",
+                    "HSC2021_Q21b",
+                    "HSC2021_Q24",
+                    "HSC2022_Q8",
+                    "HSC2023_Q8",
+                    "HSC2023_Q21"
+                  ],
+                  "depthStudyComponents": [],
+                  "examples": [
+                    "Isomers of C4H10 (butane, 2-methylpropane - chain)",
+                    "Isomers of C4H8 (but-1-ene, but-2-ene - position; methylpropene - chain)",
+                    "Isomers of C3H8O (propan-1-ol, propan-2-ol - position; methoxyethane - functional group)"
+                  ],
+                  "media": ["path/to/isomer_animation.gif"]
+                }
+              ]
+            },
+            {
+              "topicName": "Hydrocarbons",
+              "inquiryQuestions": [
+                "How can hydrocarbons be classified based on their structure and reactivity?"
+              ],
+              "syllabusOutcomes": [
+                /* As previously defined */
+              ],
+              "workingScientificallyOutcomes": [
+                /* As previously defined */
+              ],
+              "knowledgeNodes": [
+                {
+                  "nodeId": "CHM_M7_HC_N1",
+                  "description": "Construct models, identify functional groups (alkane, alkene, alkyne), and write structural and molecular formulae for homologous series of hydrocarbons up to C8.",
+                  "type": "structure_representation",
+                  "bloomTaxonomyLevel": "Apply",
+                  "syllabusReference": "CH12-14, M7: Hydrocarbons (ACSCH035)",
+                  "workingScientificallyCategory": "Communicating",
+                  "literacySkills": [
+                    "Define homologous series",
+                    "Draw structural formulae (full, condensed)",
+                    "Write molecular formulae",
+                    "Identify C-C single, double, triple bonds"
+                  ],
+                  "numeracySkills": [],
+                  "prerequisiteNodes": [
+                    "CHEM_M1_BONDING",
+                    "CHM_M7_NOM_N1",
+                    "CHM_M7_NOM_N2",
+                    "CHM_M7_NOM_N3"
+                  ],
+                  "examQuestionsLinked": ["HSC2021_Q24"],
+                  "depthStudyComponents": [],
+                  "examples": [
+                    "Drawing butane vs but-1-ene vs but-1-yne",
+                    "Using Molymods or digital modelling tools"
+                  ],
+                  "media": ["path/to/molymod_guide.pdf"]
+                },
+                {
+                  "nodeId": "CHM_M7_HC_N2",
+                  "description": "Conduct an investigation to compare the properties (e.g., boiling point trends, viscosity, solubility) of organic chemical compounds within a homologous series (alkanes or alkenes or alkynes) and explain differences in terms of intermolecular forces/bonding.",
+                  "type": "investigation_property",
+                  "bloomTaxonomyLevel": "Analyse",
+                  "syllabusReference": "CH12-14, M7: Hydrocarbons (ACSCH035)",
+                  "workingScientificallyCategory": "Conducting Investigations",
+                  "literacySkills": [
+                    "Record observations accurately",
+                    "Explain property trends",
+                    "Relate properties to intermolecular forces (dispersion forces)",
+                    "Evaluate experimental data"
+                  ],
+                  "numeracySkills": ["Graphing trends (e.g., BP vs C number)"],
+                  "prerequisiteNodes": [
+                    "CHM_M7_HC_N1",
+                    "CHEM_M1_INTERMOLECULAR_FORCES",
+                    "CHEM_M4_WS_DATA_ANALYSIS"
+                  ],
+                  "examQuestionsLinked": [
+                    "HSC2017_Q27",
+                    "HSC2019_Q9",
+                    "HSC2023_Q10",
+                    "HSC2023_Q29"
+                  ],
+                  "depthStudyComponents": [
+                    "Comparing properties of hydrocarbons"
+                  ],
+                  "examples": [
+                    "Trend in boiling points of alkanes C1-C8",
+                    "Solubility of hydrocarbons in water vs non-polar solvents"
+                  ],
+                  "media": []
+                },
+                {
+                  "nodeId": "CHM_M7_HC_N3",
+                  "description": "Analyse the shape of molecules formed between carbon atoms when a single, double, or triple bond is formed between them (tetrahedral, trigonal planar, linear) using VSEPR theory.",
+                  "type": "structure_shape",
+                  "bloomTaxonomyLevel": "Analyse",
+                  "syllabusReference": "CH12-14, M7: Hydrocarbons",
+                  "workingScientificallyCategory": "Problem Solving",
+                  "literacySkills": [
+                    "Describe molecular shapes",
+                    "Relate bond type to shape",
+                    "Apply VSEPR theory terminology"
+                  ],
+                  "numeracySkills": ["Predicting bond angles (approx.)"],
+                  "prerequisiteNodes": [
+                    "CHEM_M1_BONDING_COVALENT",
+                    "CHEM_M1_VSEPR_THEORY"
+                  ],
+                  "examQuestionsLinked": [],
+                  "depthStudyComponents": [],
+                  "examples": [
+                    "Shape around carbon in ethane (tetrahedral)",
+                    "Shape around carbons in ethene (trigonal planar)",
+                    "Shape around carbons in ethyne (linear)"
+                  ],
+                  "media": ["path/to/vsepr_animation.gif"]
+                },
+                {
+                  "nodeId": "CHM_M7_HC_N4",
+                  "description": "Explain the properties (boiling points, viscosity, solubility) within and between the homologous series of alkanes with reference to the intermolecular (dispersion) and intramolecular (covalent) bonding present.",
+                  "type": "property_explanation",
+                  "bloomTaxonomyLevel": "Understand",
+                  "syllabusReference": "CH12-14, M7: Hydrocarbons",
+                  "workingScientificallyCategory": "Communicating",
+                  "literacySkills": [
+                    "Distinguish between inter/intra molecular forces",
+                    "Explain dispersion forces",
+                    "Relate chain length/surface area to dispersion force strength",
+                    "Relate intermolecular forces to physical properties"
+                  ],
+                  "numeracySkills": [],
+                  "prerequisiteNodes": [
+                    "CHM_M7_HC_N1",
+                    "CHM_M7_HC_N2",
+                    "CHEM_M1_INTERMOLECULAR_FORCES",
+                    "CHEM_M1_BONDING_COVALENT"
+                  ],
+                  "examQuestionsLinked": [
+                    "HSC2017_Q27",
+                    "HSC2019_Q9",
+                    "HSC2022_Q24"
+                  ],
+                  "depthStudyComponents": [],
+                  "examples": [
+                    "Why methane is a gas but octane is a liquid",
+                    "Why alkanes are insoluble in water"
+                  ],
+                  "media": []
+                },
+                {
+                  "nodeId": "CHM_M7_HC_N5",
+                  "description": "Describe the procedures required to safely handle and dispose of organic substances (e.g. hydrocarbons), considering flammability and potential toxicity.",
+                  "type": "safety_procedure",
+                  "bloomTaxonomyLevel": "Understand",
+                  "syllabusReference": "CH12-14, M7: Hydrocarbons (ACSCH075)",
+                  "workingScientificallyCategory": "Conducting Investigations",
+                  "literacySkills": [
+                    "Identify hazards",
+                    "Describe safe handling techniques (fume cupboard, ventilation)",
+                    "Describe appropriate disposal methods"
+                  ],
+                  "numeracySkills": [],
+                  "prerequisiteNodes": ["CHEM_LAB_SAFETY_GENERAL"],
+                  "examQuestionsLinked": ["HSC2023_Q1"],
+                  "depthStudyComponents": [
+                    "Risk assessment for hydrocarbon experiments"
+                  ],
+                  "examples": [
+                    "Using hexane in a fume cupboard",
+                    "Storing flammable liquids correctly",
+                    "Disposal of organic waste"
+                  ],
+                  "media": ["path/to/sds_hexane.pdf"]
+                },
+                {
+                  "nodeId": "CHM_M7_HC_N6",
+                  "description": "Examine the environmental, economic and sociocultural implications of obtaining and using hydrocarbons from the Earth (fossil fuels).",
+                  "type": "socio_scientific_issue",
+                  "bloomTaxonomyLevel": "Analyse",
+                  "syllabusReference": "CH12-14, M7: Hydrocarbons",
+                  "workingScientificallyCategory": "Analysing data and information",
+                  "literacySkills": [
+                    "Identify environmental impacts (climate change, pollution)",
+                    "Identify economic factors (energy costs, industry)",
+                    "Identify sociocultural aspects (reliance on fuels, lifestyle)",
+                    "Evaluate different perspectives"
+                  ],
+                  "numeracySkills": ["Interpreting data on emissions/reserves"],
+                  "prerequisiteNodes": [
+                    "CHEM_M4_ENERGY_SOURCES",
+                    "CHEM_INDUSTRY_BASICS"
+                  ],
+                  "examQuestionsLinked": ["SAMPLE_ASSESSMENT_Q2"],
+                  "depthStudyComponents": [
+                    "Hydrocarbons - their applications and/or uses",
+                    "PMI analysis",
+                    "Annotated bibliography"
+                  ],
+                  "examples": [
+                    "Greenhouse effect from burning fossil fuels",
+                    "Oil spills",
+                    "Economic dependence on oil exports",
+                    "Impact on Indigenous communities near extraction sites"
+                  ],
+                  "media": []
+                },
+                {
+                  "nodeId": "CHM_M7_HC_N7",
+                  "description": "Write balanced equations for the complete and incomplete combustion of hydrocarbons, identifying products (CO2, H2O for complete; CO, C, H2O for incomplete).",
+                  "type": "reaction_type",
+                  "bloomTaxonomyLevel": "Apply",
+                  "syllabusReference": "CH12-14, M7: Alcohols (Refers to combustion, implying hydrocarbons too)",
+                  "workingScientificallyCategory": "Communicating",
+                  "literacySkills": [
+                    "Define complete/incomplete combustion",
+                    "Identify reactants and products",
+                    "Write balanced chemical equations"
+                  ],
+                  "numeracySkills": ["Balancing complex equations"],
+                  "prerequisiteNodes": [
+                    "CHM_M7_HC_N1",
+                    "CHEM_CHEMICAL_EQUATIONS",
+                    "CHEM_M3_REACTION_TYPES"
+                  ],
+                  "examQuestionsLinked": [
+                    "HSC2017_Q9",
+                    "HSC2018_Q28c",
+                    "HSC2020_Q24b"
+                  ],
+                  "depthStudyComponents": [],
+                  "examples": [
+                    "Complete combustion of methane: CH4 + 2O2 -> CO2 + 2H2O",
+                    "Incomplete combustion of methane: 2CH4 + 3O2 -> 2CO + 4H2O or CH4 + O2 -> C + 2H2O"
+                  ],
+                  "media": []
+                }
+              ]
+            },
+            {
+              "topicName": "Products of Reactions Involving Hydrocarbons",
+              "inquiryQuestions": [
+                "What are the products of reactions of hydrocarbons and how do they react?"
+              ],
+              "syllabusOutcomes": [
+                /* As previously defined */
+              ],
+              "workingScientificallyOutcomes": [
+                /* As previously defined */
+              ],
+              "knowledgeNodes": [
+                {
+                  "nodeId": "CHM_M7_RPROD_N1",
+                  "description": "Investigate, write equations and construct models to represent the addition reactions of unsaturated hydrocarbons (alkenes/alkynes) when added to: hydrogen (H2), halogens (X2), hydrogen halides (HX), water (H2O - hydration).",
+                  "type": "reaction_type",
+                  "bloomTaxonomyLevel": "Apply",
+                  "syllabusReference": "CH12-14, M7: Products of Reactions (ACSCH136)",
+                  "workingScientificallyCategory": "Communicating",
+                  "literacySkills": [
+                    "Define addition reaction",
+                    "Identify reagents and products",
+                    "Write balanced chemical equations using structural formulae",
+                    "Apply Markovnikov's rule (implicit/extension)",
+                    "Model reactions"
+                  ],
+                  "numeracySkills": ["Balancing equations"],
+                  "prerequisiteNodes": [
+                    "CHM_M7_HC_N1",
+                    "CHEM_M1_BONDING_DOUBLE_TRIPLE",
+                    "CHEM_CHEMICAL_EQUATIONS"
+                  ],
+                  "examQuestionsLinked": [
+                    "HSC2020_Q26",
+                    "HSC2021_Q21c",
+                    "HSC2022_Q21",
+                    "HSC2023_Q28a"
+                  ],
+                  "depthStudyComponents": [],
+                  "examples": [
+                    "Ethene + Br2 -> 1,2-dibromoethane",
+                    "Propene + H2 -> Propane",
+                    "But-1-ene + HCl -> 2-chlorobutane",
+                    "Ethyne + 2H2 -> Ethane"
+                  ],
+                  "media": ["path/to/addition_reaction_mechanism_animation.mp4"]
+                },
+                {
+                  "nodeId": "CHM_M7_RPROD_N2",
+                  "description": "Investigate, write equations and construct models to represent the substitution reactions of saturated hydrocarbons (alkanes) when substituted with halogens (requires UV light).",
+                  "type": "reaction_type",
+                  "bloomTaxonomyLevel": "Apply",
+                  "syllabusReference": "CH12-14, M7: Products of Reactions",
+                  "workingScientificallyCategory": "Communicating",
+                  "literacySkills": [
+                    "Define substitution reaction",
+                    "Identify role of UV light",
+                    "Write balanced chemical equations using structural formulae",
+                    "Recognise multiple products",
+                    "Model reactions"
+                  ],
+                  "numeracySkills": ["Balancing equations"],
+                  "prerequisiteNodes": [
+                    "CHM_M7_HC_N1",
+                    "CHEM_M1_BONDING_SINGLE",
+                    "CHEM_CHEMICAL_EQUATIONS",
+                    "CHEM_M4_ENERGY_LIGHT"
+                  ],
+                  "examQuestionsLinked": [],
+                  "depthStudyComponents": [
+                    "Substitution reactions of saturated hydrocarbons"
+                  ],
+                  "examples": ["Methane + Cl2 --(UV)--> Chloromethane + HCl"],
+                  "media": []
+                }
+              ]
+            },
+            {
+              "topicName": "Alcohols",
+              "inquiryQuestions": [
+                "How can alcohols be produced and what are their properties?"
+              ],
+              "syllabusOutcomes": [
+                /* As previously defined */
+              ],
+              "workingScientificallyOutcomes": [
+                /* As previously defined */
+              ],
+              "knowledgeNodes": [
+                {
+                  "nodeId": "CHM_M7_ALC_N1",
+                  "description": "Investigate the structural formulae, properties and functional group including primary, secondary and tertiary alcohols.",
+                  "type": "structure_property",
+                  "bloomTaxonomyLevel": "Analyse",
+                  "syllabusReference": "CH12-14, M7: Alcohols",
+                  "workingScientificallyCategory": "Analysing data and information",
+                  "literacySkills": [
+                    "Identify hydroxyl group",
+                    "Classify alcohols based on carbon attachment",
+                    "Draw structural isomers of alcohols",
+                    "Relate structure to properties (e.g. solubility, boiling point)"
+                  ],
+                  "numeracySkills": [],
+                  "prerequisiteNodes": [
+                    "CHM_M7_NOM_N4",
+                    "CHEM_M1_FUNCTIONAL_GROUPS_INTRO",
+                    "CHM_M7_ISO_N1"
+                  ],
+                  "examQuestionsLinked": [
+                    "HSC2019_Q21a",
+                    "HSC2021_Q21b",
+                    "HSC2022_Q27"
+                  ],
+                  "depthStudyComponents": [],
+                  "examples": [
+                    "Structure of propan-1-ol (primary), propan-2-ol (secondary), 2-methylpropan-2-ol (tertiary)"
+                  ],
+                  "media": ["path/to/alcohol_classification_diagram.png"]
+                },
+                {
+                  "nodeId": "CHM_M7_ALC_N2",
+                  "description": "Explain the properties (boiling point, solubility) within and between the homologous series of alcohols with reference to intermolecular (hydrogen bonding, dispersion) and intramolecular bonding.",
+                  "type": "property_explanation",
+                  "bloomTaxonomyLevel": "Understand",
+                  "syllabusReference": "CH12-14, M7: Alcohols",
+                  "workingScientificallyCategory": "Communicating",
+                  "literacySkills": [
+                    "Explain hydrogen bonding in alcohols",
+                    "Compare strength of H-bonding vs dispersion forces",
+                    "Relate chain length and H-bonding to solubility and boiling point trends"
+                  ],
+                  "numeracySkills": [],
+                  "prerequisiteNodes": [
+                    "CHM_M7_HC_N4",
+                    "CHEM_M1_INTERMOLECULAR_FORCES",
+                    "CHEM_M1_HYDROGEN_BONDING"
+                  ],
+                  "examQuestionsLinked": [
+                    "HSC2017_Q27",
+                    "HSC2019_Q9",
+                    "HSC2023_Q29"
+                  ],
+                  "depthStudyComponents": [
+                    "Properties of homologous series of alcohols"
+                  ],
+                  "examples": [
+                    "Why ethanol has a higher boiling point than ethane",
+                    "Why smaller alcohols are soluble in water",
+                    "Comparing boiling points of primary, secondary, tertiary isomers"
+                  ],
+                  "media": []
+                },
+                {
+                  "nodeId": "CHM_M7_ALC_N3",
+                  "description": "Write equations, state conditions and predict products to represent the complete combustion of alcohols.",
+                  "type": "reaction_type",
+                  "bloomTaxonomyLevel": "Apply",
+                  "syllabusReference": "CH12-14, M7: Alcohols (ACSCH128, ACSCH136)",
+                  "workingScientificallyCategory": "Communicating",
+                  "literacySkills": [
+                    "Write balanced chemical equations for alcohol combustion",
+                    "Identify products (CO2, H2O)"
+                  ],
+                  "numeracySkills": ["Balancing equations"],
+                  "prerequisiteNodes": [
+                    "CHM_M7_ALC_N1",
+                    "CHEM_CHEMICAL_EQUATIONS",
+                    "CHM_M7_HC_N7"
+                  ],
+                  "examQuestionsLinked": [
+                    "HSC2017_Q28b",
+                    "HSC2019_Q23a",
+                    "HSC2021_Q25",
+                    "HSC2023_Q25"
+                  ],
+                  "depthStudyComponents": [
+                    "Compare enthalpy of combustion for alcohols"
+                  ],
+                  "examples": [
+                    "Combustion of ethanol: C2H5OH + 3O2 -> 2CO2 + 3H2O"
+                  ],
+                  "media": []
+                },
+                {
+                  "nodeId": "CHM_M7_ALC_N4",
+                  "description": "Write equations, state conditions (conc. H2SO4 catalyst, heat) and predict products (alkene, water) to represent the dehydration of alcohols.",
+                  "type": "reaction_type",
+                  "bloomTaxonomyLevel": "Apply",
+                  "syllabusReference": "CH12-14, M7: Alcohols (ACSCH128, ACSCH136)",
+                  "workingScientificallyCategory": "Communicating",
+                  "literacySkills": [
+                    "Define dehydration reaction",
+                    "Identify catalyst and conditions",
+                    "Predict alkene product (Zaitsev's rule - implicit/extension)",
+                    "Write balanced equations"
+                  ],
+                  "numeracySkills": [],
+                  "prerequisiteNodes": [
+                    "CHM_M7_ALC_N1",
+                    "CHM_M7_NOM_N2",
+                    "CHEM_CHEMICAL_EQUATIONS",
+                    "CHEM_M4_CATALYSIS_BASICS"
+                  ],
+                  "examQuestionsLinked": ["HSC2018_Q10", "HSC2023_Q11"],
+                  "depthStudyComponents": [],
+                  "examples": [
+                    "Dehydration of ethanol -> ethene + water",
+                    "Dehydration of propan-2-ol -> propene + water"
+                  ],
+                  "media": []
+                },
+                {
+                  "nodeId": "CHM_M7_ALC_N5",
+                  "description": "Write equations, state conditions and predict products to represent the substitution reactions of alcohols with hydrogen halides (HX).",
+                  "type": "reaction_type",
+                  "bloomTaxonomyLevel": "Apply",
+                  "syllabusReference": "CH12-14, M7: Alcohols (ACSCH128, ACSCH136)",
+                  "workingScientificallyCategory": "Communicating",
+                  "literacySkills": [
+                    "Define substitution reaction in alcohols",
+                    "Predict haloalkane product",
+                    "Write balanced equations",
+                    "Recognise reactivity order (tertiary > secondary > primary)"
+                  ],
+                  "numeracySkills": [],
+                  "prerequisiteNodes": [
+                    "CHM_M7_ALC_N1",
+                    "CHM_M7_NOM_N10",
+                    "CHEM_CHEMICAL_EQUATIONS"
+                  ],
+                  "examQuestionsLinked": ["HSC2023_Q36"],
+                  "depthStudyComponents": [],
+                  "examples": [
+                    "Ethanol + HBr -> Bromoethane + H2O",
+                    "Propan-2-ol + HCl -> 2-chloropropane + H2O"
+                  ],
+                  "media": []
+                },
+                {
+                  "nodeId": "CHM_M7_ALC_N6",
+                  "description": "Write equations, state conditions (oxidising agent e.g. acidified Cr2O7^2- or MnO4^-) and predict products to represent the oxidation of primary alcohols (to aldehydes then carboxylic acids) and secondary alcohols (to ketones). Tertiary alcohols are resistant to oxidation.",
+                  "type": "reaction_type",
+                  "bloomTaxonomyLevel": "Analyse",
+                  "syllabusReference": "CH12-14, M7: Alcohols (ACSCH128, ACSCH136)",
+                  "workingScientificallyCategory": "Communicating",
+                  "literacySkills": [
+                    "Define oxidation in organic context",
+                    "Identify suitable oxidising agents",
+                    "Predict products based on alcohol type",
+                    "Distinguish between aldehyde/acid formation for primary alcohols",
+                    "Write balanced equations (simplified using [O] acceptable)"
+                  ],
+                  "numeracySkills": [],
+                  "prerequisiteNodes": [
+                    "CHM_M7_ALC_N1",
+                    "CHM_M7_NOM_N5",
+                    "CHM_M7_NOM_N6",
+                    "CHM_M7_NOM_N7",
+                    "CHEM_M6_REDOX_BASICS"
+                  ],
+                  "examQuestionsLinked": [
+                    "HSC2021_Q26",
+                    "HSC2022_Q27c",
+                    "HSC2023_Q36"
+                  ],
+                  "depthStudyComponents": [
+                    "Oxidation of primary vs secondary alcohols"
+                  ],
+                  "examples": [
+                    "Ethanol --[O]--> Ethanal --[O]--> Ethanoic Acid",
+                    "Propan-2-ol --[O]--> Propanone",
+                    "2-methylpropan-2-ol --[O]--> No reaction"
+                  ],
+                  "media": []
+                },
+                {
+                  "nodeId": "CHM_M7_ALC_N7",
+                  "description": "Investigate the production of alcohols via substitution reactions of halogenated organic compounds with hydroxide ions.",
+                  "type": "reaction_synthesis",
+                  "bloomTaxonomyLevel": "Understand",
+                  "syllabusReference": "CH12-14, M7: Alcohols",
+                  "workingScientificallyCategory": "Analysing data and information",
+                  "literacySkills": [
+                    "Describe substitution reaction mechanism (SN1/SN2 not required)",
+                    "Write balanced equations"
+                  ],
+                  "numeracySkills": [],
+                  "prerequisiteNodes": [
+                    "CHM_M7_ALC_N1",
+                    "CHM_M7_NOM_N10",
+                    "CHEM_CHEMICAL_EQUATIONS",
+                    "CHEM_M3_REACTION_TYPES"
+                  ],
+                  "examQuestionsLinked": ["HSC2023_Q36"],
+                  "depthStudyComponents": ["Production of alcohols"],
+                  "examples": ["Chloroethane + NaOH(aq) -> Ethanol + NaCl(aq)"],
+                  "media": []
+                },
+                {
+                  "nodeId": "CHM_M7_ALC_N8",
+                  "description": "Investigate the production of alcohols (specifically ethanol) via fermentation of glucose.",
+                  "type": "reaction_synthesis",
+                  "bloomTaxonomyLevel": "Understand",
+                  "syllabusReference": "CH12-14, M7: Alcohols",
+                  "workingScientificallyCategory": "Conducting Investigations",
+                  "literacySkills": [
+                    "Define fermentation",
+                    "Identify reactants (glucose), products (ethanol, CO2), conditions (yeast, anaerobic, warm)",
+                    "Write balanced equation"
+                  ],
+                  "numeracySkills": ["Stoichiometry calculations"],
+                  "prerequisiteNodes": [
+                    "CHEM_M8_BIOCHEM_GLUCOSE",
+                    "CHEM_CHEMICAL_EQUATIONS",
+                    "CHEM_M8_ENZYMES_BASICS"
+                  ],
+                  "examQuestionsLinked": [
+                    "HSC2017_Q25",
+                    "HSC2018_Q24a",
+                    "HSC2022_Q25"
+                  ],
+                  "depthStudyComponents": ["Investigating fermentation"],
+                  "examples": [
+                    "C6H12O6 --(yeast)--> 2C2H5OH + 2CO2",
+                    "Making beer/wine",
+                    "Bioethanol production"
+                  ],
+                  "media": []
+                },
+                {
+                  "nodeId": "CHM_M7_ALC_N9",
+                  "description": "Compare and contrast fuels from inorganic sources (e.g., H2) to biofuels, including ethanol, considering environmental, economic and sociocultural factors.",
+                  "type": "socio_scientific_comparison",
+                  "bloomTaxonomyLevel": "Evaluate",
+                  "syllabusReference": "CH12-14, M7: Alcohols",
+                  "workingScientificallyCategory": "Analysing data and information",
+                  "literacySkills": [
+                    "Define biofuel",
+                    "Compare energy content",
+                    "Compare sources (renewable vs non-renewable)",
+                    "Evaluate environmental impacts (emissions, land use)",
+                    "Evaluate economic factors (production costs, infrastructure)",
+                    "Evaluate sociocultural factors (food vs fuel debate)"
+                  ],
+                  "numeracySkills": [
+                    "Comparing energy densities (kJ/g or kJ/mol)"
+                  ],
+                  "prerequisiteNodes": [
+                    "CHM_M7_ALC_N8",
+                    "CHM_M7_HC_N6",
+                    "CHEM_M4_ENERGY_SOURCES",
+                    "CHEM_M4_COMBUSTION_BASICS"
+                  ],
+                  "examQuestionsLinked": [
+                    "HSC2017_Q28a",
+                    "HSC2020_Q24d",
+                    "HSC2021_Q25b"
+                  ],
+                  "depthStudyComponents": ["Fuels from inorganic vs biofuels"],
+                  "examples": [
+                    "Ethanol vs Petrol",
+                    "Hydrogen fuel cells",
+                    "Biodiesel"
+                  ],
+                  "media": []
+                },
+                {
+                  "nodeId": "CHM_M7_ALC_N10",
+                  "description": "Conduct a practical investigation to measure and reliably compare the enthalpy of combustion for a range of alcohols using calorimetry.",
+                  "type": "investigation_quantitative",
+                  "bloomTaxonomyLevel": "Analyse",
+                  "syllabusReference": "CH11/12-3, CH11/12-5, M7: Alcohols",
+                  "workingScientificallyCategory": "Conducting Investigations",
+                  "literacySkills": [
+                    "Follow procedure accurately",
+                    "Record quantitative data",
+                    "Identify sources of error (heat loss, incomplete combustion)",
+                    "Suggest improvements for reliability/accuracy",
+                    "Calculate enthalpy change per mole"
+                  ],
+                  "numeracySkills": [
+                    "Using Q=mcΔT",
+                    "Calculating moles",
+                    "Calculating ΔHc (kJ/mol)",
+                    "Unit conversions",
+                    "Significant figures",
+                    "Analysing error"
+                  ],
+                  "prerequisiteNodes": [
+                    "CHM_M7_ALC_N3",
+                    "CHEM_M4_CALORIMETRY",
+                    "CHEM_M2_MOLE_CONCEPT",
+                    "CHEM_M4_THERMOCHEM"
+                  ],
+                  "examQuestionsLinked": [
+                    "HSC2019_Q23",
+                    "HSC2021_Q25a",
+                    "HSC2023_Q25"
+                  ],
+                  "depthStudyComponents": [
+                    "Compare enthalpy of combustion for alcohols investigation"
+                  ],
+                  "examples": [
+                    "Measuring ΔHc for methanol, ethanol, propan-1-ol",
+                    "Comparing experimental to theoretical values"
+                  ],
+                  "media": ["path/to/calorimetry_setup_diagram.png"]
+                }
+              ]
+            },
+            {
+              "topicName": "Reactions of Organic Acids and Bases",
+              "inquiryQuestions": [
+                "What are the properties of organic acids and bases?"
+              ],
+              "syllabusOutcomes": [
+                /* As previously defined */
+              ],
+              "workingScientificallyOutcomes": [
+                /* As previously defined */
+              ],
+              "knowledgeNodes": [
+                {
+                  "nodeId": "CHM_M7_ACID_N1",
+                  "description": "Investigate the structural formulae, properties (acidity) and functional group (carboxyl -COOH) of carboxylic acids.",
+                  "type": "structure_property",
+                  "bloomTaxonomyLevel": "Understand",
+                  "syllabusReference": "CH12-14, M7: Reactions of Org Acids Bases (ACSCH127)",
+                  "workingScientificallyCategory": "Communicating",
+                  "literacySkills": [
+                    "Identify carboxyl group",
+                    "Relate structure to acidic properties (proton donation)",
+                    "Recognise as weak acids"
+                  ],
+                  "numeracySkills": [],
+                  "prerequisiteNodes": ["CHM_M7_NOM_N7", "CHEM_M6_ACIDS_BASES"],
+                  "examQuestionsLinked": ["HSC2017_Q27", "HSC2020_Q9"],
+                  "depthStudyComponents": [],
+                  "examples": [
+                    "Ethanoic acid structure and dissociation in water",
+                    "Comparing acidity to mineral acids"
+                  ],
+                  "media": []
+                },
+                {
+                  "nodeId": "CHM_M7_BASE_N1",
+                  "description": "Investigate the structural formulae, properties (basicity) and functional group (amino -NH2) of primary amines.",
+                  "type": "structure_property",
+                  "bloomTaxonomyLevel": "Understand",
+                  "syllabusReference": "CH12-14, M7: Reactions of Org Acids Bases (ACSCH127)",
+                  "workingScientificallyCategory": "Communicating",
+                  "literacySkills": [
+                    "Identify amino group",
+                    "Relate structure to basic properties (proton acceptance via lone pair)",
+                    "Recognise as weak bases"
+                  ],
+                  "numeracySkills": [],
+                  "prerequisiteNodes": [
+                    "CHM_M7_NOM_N8",
+                    "CHEM_M6_ACIDS_BASES",
+                    "CHEM_M1_LEWIS_STRUCTURES"
+                  ],
+                  "examQuestionsLinked": ["HSC2020_Q3"],
+                  "depthStudyComponents": [],
+                  "examples": [
+                    "Ethanamine structure and reaction with water/acids"
+                  ],
+                  "media": []
+                },
+                {
+                  "nodeId": "CHM_M7_AMIDE_N1", // Added for completeness based on nomenclature list
+                  "description": "Investigate the structural formulae, properties (neutrality, H-bonding) and functional group (amide -CONH2) of primary amides.",
+                  "type": "structure_property",
+                  "bloomTaxonomyLevel": "Understand",
+                  "syllabusReference": "CH12-14, M7: Reactions of Org Acids Bases (ACSCH127)", // Based on nomenclature inclusion
+                  "workingScientificallyCategory": "Communicating",
+                  "literacySkills": [
+                    "Identify amide group",
+                    "Recognise as neutral",
+                    "Describe H-bonding potential"
+                  ],
+                  "numeracySkills": [],
+                  "prerequisiteNodes": [
+                    "CHM_M7_NOM_N9",
+                    "CHEM_M1_FUNCTIONAL_GROUPS_INTRO",
+                    "CHEM_M1_HYDROGEN_BONDING"
+                  ],
+                  "examQuestionsLinked": [],
+                  "depthStudyComponents": [],
+                  "examples": [
+                    "Ethanamide structure, comparison of BP to acid/amine"
+                  ],
+                  "media": []
+                },
+                {
+                  "nodeId": "CHM_M7_ACIDBASE_N1",
+                  "description": "Explain the properties (boiling points, solubility) within and between the homologous series of carboxylic acids, amines and amides with reference to intermolecular bonding (H-bonding, dipole-dipole, dispersion).",
+                  "type": "property_explanation",
+                  "bloomTaxonomyLevel": "Analyse",
+                  "syllabusReference": "CH12-14, M7: Reactions of Org Acids Bases",
+                  "workingScientificallyCategory": "Communicating",
+                  "literacySkills": [
+                    "Compare extent/strength of H-bonding in acids, amines, amides",
+                    "Relate intermolecular forces to property trends"
+                  ],
+                  "numeracySkills": [],
+                  "prerequisiteNodes": [
+                    "CHM_M7_ACID_N1",
+                    "CHM_M7_BASE_N1",
+                    "CHM_M7_AMIDE_N1",
+                    "CHEM_M1_INTERMOLECULAR_FORCES",
+                    "CHEM_M1_HYDROGEN_BONDING"
+                  ],
+                  "examQuestionsLinked": [],
+                  "depthStudyComponents": [],
+                  "examples": [
+                    "Comparing boiling points of ethanoic acid vs ethanamine vs ethanamide",
+                    "Solubility trends"
+                  ],
+                  "media": []
+                },
+                {
+                  "nodeId": "CHM_M7_ESTER_N1",
+                  "description": "Investigate the production, in a school laboratory, of simple esters (esterification) between an alcohol and a carboxylic acid, identifying the conditions (conc. H2SO4 catalyst, heat) and naming the ester product.",
+                  "type": "investigation_synthesis",
+                  "bloomTaxonomyLevel": "Apply",
+                  "syllabusReference": "CH12-14, M7: Reactions of Org Acids Bases",
+                  "workingScientificallyCategory": "Conducting Investigations",
+                  "literacySkills": [
+                    "Define esterification",
+                    "Identify reactants, products (ester, water), catalyst, conditions",
+                    "Name esters (alkyl alkanoate)",
+                    "Describe experimental setup (reflux)",
+                    "Identify safety precautions"
+                  ],
+                  "numeracySkills": [],
+                  "prerequisiteNodes": [
+                    "CHM_M7_ALC_N1",
+                    "CHM_M7_ACID_N1",
+                    "CHEM_CHEMICAL_EQUATIONS",
+                    "CHEM_LAB_SAFETY_GENERAL",
+                    "CHEM_M4_CATALYSIS_BASICS"
+                  ],
+                  "examQuestionsLinked": [
+                    "HSC2017_Q4",
+                    "HSC2018_Q3",
+                    "HSC2018_Q23",
+                    "HSC2019_Q8",
+                    "HSC2022_Q32"
+                  ],
+                  "depthStudyComponents": ["Investigating esters"],
+                  "examples": [
+                    "Ethanol + Ethanoic Acid --(H+)--> Ethyl Ethanoate + Water",
+                    "Characteristic smells of esters"
+                  ],
+                  "media": ["path/to/esterification_reflux_setup.png"]
+                },
+                {
+                  "nodeId": "CHM_M7_SOAP_N1",
+                  "description": "Investigate the structure and action of soaps and detergents, relating their cleaning properties to their structure (hydrophilic head, hydrophobic tail) and formation of micelles.",
+                  "type": "structure_function",
+                  "bloomTaxonomyLevel": "Analyse",
+                  "syllabusReference": "CH12-14, M7: Reactions of Org Acids Bases",
+                  "workingScientificallyCategory": "Analysing data and information",
+                  "literacySkills": [
+                    "Define soap, detergent, surfactant, micelle",
+                    "Describe saponification (basic hydrolysis of fats/oils)",
+                    "Identify hydrophilic/hydrophobic parts",
+                    "Explain cleaning action in terms of emulsification"
+                  ],
+                  "numeracySkills": [],
+                  "prerequisiteNodes": [
+                    "CHEM_M1_INTERMOLECULAR_FORCES",
+                    "CHEM_M1_POLARITY",
+                    "CHM_M7_ACID_N1",
+                    "CHEM_M8_FATS_OILS_BIOCHEM"
+                  ],
+                  "examQuestionsLinked": ["HSC2017_Q31a", "HSC2021_Q7"],
+                  "depthStudyComponents": ["Action of soaps and detergents"],
+                  "examples": [
+                    "Structure of sodium stearate (soap)",
+                    "Structure of an alkylbenzene sulfonate (detergent)",
+                    "How soap removes grease"
+                  ],
+                  "media": ["path/to/micelle_diagram.png"]
+                },
+                {
+                  "nodeId": "CHM_M7_SYNTH_N1",
+                  "description": "Draft and construct flow charts to show reaction pathways for chemical synthesis, including those that involve more than one step.",
+                  "type": "process_representation",
+                  "bloomTaxonomyLevel": "Create",
+                  "syllabusReference": "CH12-14, CH11/12-7 M7: Reactions of Org Acids Bases",
+                  "workingScientificallyCategory": "Communicating",
+                  "literacySkills": [
+                    "Use standard conventions for flow charts",
+                    "Represent multi-step syntheses logically",
+                    "Include reagents and conditions"
+                  ],
+                  "numeracySkills": [],
+                  "prerequisiteNodes": [
+                    "CHM_M7_RPROD_N1",
+                    "CHM_M7_RPROD_N2",
+                    "CHM_M7_ALC_N3",
+                    "CHM_M7_ALC_N4",
+                    "CHM_M7_ALC_N5",
+                    "CHM_M7_ALC_N6",
+                    "CHM_M7_ESTER_N1"
+                  ],
+                  "examQuestionsLinked": [
+                    "HSC2020_Q26",
+                    "HSC2021_Q26",
+                    "HSC2023_Q13",
+                    "HSC2023_Q34",
+                    "HSC2023_Q36"
+                  ],
+                  "depthStudyComponents": [
+                    "Drafting flow charts for synthesis"
+                  ],
+                  "examples": [
+                    "Pathway from ethene to ethyl ethanoate",
+                    "Pathway from propane to propanone"
+                  ],
+                  "media": []
+                }
+              ]
+            },
+            {
+              "topicName": "Polymers",
+              "inquiryQuestions": [
+                "What are the properties and uses of polymers?"
+              ],
+              "syllabusOutcomes": [
+                /* As previously defined */
+              ],
+              "workingScientificallyOutcomes": [
+                /* As previously defined */
+              ],
+              "knowledgeNodes": [
+                {
+                  "nodeId": "CHM_M7_POLY_N1",
+                  "description": "Model and compare the structure (repeating units, branching, cross-linking), properties (density, rigidity, melting point, chemical resistance) and uses of addition polymers derived from ethylene (LDPE, HDPE) and related monomers (PVC, polystyrene, PTFE).",
+                  "type": "polymer_type",
+                  "bloomTaxonomyLevel": "Analyse",
+                  "syllabusReference": "CH12-14, M7: Polymers (ACSCH136)",
+                  "workingScientificallyCategory": "Communicating",
+                  "literacySkills": [
+                    "Define monomer, polymer, addition polymerisation, repeating unit",
+                    "Draw polymer structures",
+                    "Relate monomer structure & polymer structure (branching, intermolecular forces) to properties",
+                    "Identify uses based on properties"
+                  ],
+                  "numeracySkills": [],
+                  "prerequisiteNodes": [
+                    "CHM_M7_HC_N1",
+                    "CHEM_M1_BONDING_DOUBLE_TRIPLE",
+                    "CHEM_M1_INTERMOLECULAR_FORCES",
+                    "CHEM_STRUCTURE_PROPERTY_RELATIONSHIPS"
+                  ],
+                  "examQuestionsLinked": [
+                    "HSC2017_Q25",
+                    "HSC2018_Q11",
+                    "HSC2018_Q21b",
+                    "HSC2022_Q1"
+                  ],
+                  "depthStudyComponents": [
+                    "Research structure, properties, uses of addition polymers"
+                  ],
+                  "examples": [
+                    "LDPE (film) vs HDPE (bottles)",
+                    "PVC (pipes, cladding)",
+                    "Polystyrene (packaging)",
+                    "PTFE (non-stick)"
+                  ],
+                  "media": ["path/to/addition_polymerisation_animation.mp4"]
+                },
+                {
+                  "nodeId": "CHM_M7_POLY_N2",
+                  "description": "Model and compare the structure (repeating units, functional groups like ester/amide linkage), properties (strength, melting point, biodegradability) and uses of condensation polymers (e.g., nylon (polyamide), polyesters like PET).",
+                  "type": "polymer_type",
+                  "bloomTaxonomyLevel": "Analyse",
+                  "syllabusReference": "CH12-14, M7: Polymers",
+                  "workingScientificallyCategory": "Communicating",
+                  "literacySkills": [
+                    "Define condensation polymerisation",
+                    "Identify difunctional monomers",
+                    "Recognise ester/amide linkages",
+                    "Draw polymer structures",
+                    "Relate structure (H-bonding, chain alignment) to properties",
+                    "Identify uses"
+                  ],
+                  "numeracySkills": [],
+                  "prerequisiteNodes": [
+                    "CHEM_M1_FUNCTIONAL_GROUPS_INTRO",
+                    "CHEM_M3_REACTION_TYPES",
+                    "CHEM_M1_INTERMOLECULAR_FORCES",
+                    "CHM_M7_ESTER_N1",
+                    "CHM_M7_AMIDE_N1"
+                  ],
+                  "examQuestionsLinked": ["HSC2018_Q5", "HSC2020_Q12"],
+                  "depthStudyComponents": [
+                    "Research structure, properties, uses of condensation polymers"
+                  ],
+                  "examples": [
+                    "Nylon-6,6 formation and use in fibres",
+                    "PET formation and use in bottles/clothing"
+                  ],
+                  "media": []
+                }
+              ]
+            }
+          ]
+        }
+        // ... Module 8 placeholder ...
+      ]
+    }
+  ]
+}

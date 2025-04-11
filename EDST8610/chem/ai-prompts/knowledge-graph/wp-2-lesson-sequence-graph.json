@@ -1,0 +1,515 @@
+{
+  "courses": [
+    {
+      "courseName": "Chemistry Stage 6",
+      "modules": [
+        {
+          "moduleName": "Module 7: Organic Chemistry - Reaction Pathways Subset",
+          "moduleCode": "CH12_M7_SynthSubset", // Indicating this is a specific subset
+          "topics": [
+            {
+              "topicName": "Organic Reaction Pathways and Synthesis",
+              "inquiryQuestions": [
+                "How are different classes of organic compounds interconverted through reaction pathways?",
+                "How can we represent multi-step organic syntheses?"
+              ],
+              "syllabusOutcomes": [
+                // Key outcomes for this synthesis task
+                {
+                  "outcomeCode": "CH12-14",
+                  "description": "analyses the structure of, and predicts reactions involving, carbon compounds",
+                  "bloomsLevel": "Analyse"
+                },
+                {
+                  "outcomeCode": "CH11/12-6",
+                  "description": "solves scientific problems using primary and secondary data, critical thinking skills and scientific processes",
+                  "bloomsLevel": "Apply"
+                }, // Relevant to planning pathways
+                {
+                  "outcomeCode": "CH11/12-7",
+                  "description": "communicates scientific understanding using suitable language and terminology for a specific audience or purpose",
+                  "bloomsLevel": "Apply"
+                } // Relevant to constructing flowcharts/equations
+              ],
+              "workingScientificallyOutcomes": [
+                // Key skills for this task
+                { "code": "CH11/12-6", "description": "Problem solving" },
+                { "code": "CH11/12-7", "description": "Communicating" }
+              ],
+              "knowledgeNodes": [
+                // --- Foundational Structure & Nomenclature Nodes ---
+                {
+                  "nodeId": "CHM_M7_NOM_N1", // Alkanes Nomenclature
+                  "description": "Apply IUPAC conventions for naming straight and simple branched alkanes (up to C8).", // Simplified description for this context
+                  "type": "nomenclature_rule",
+                  "bloomTaxonomyLevel": "Apply",
+                  "syllabusReference": "CH12-14, M7: Nomenclature (ACSCH127)",
+                  "workingScientificallyCategory": "Communicating",
+                  "literacySkills": [
+                    "Identify parent chain (alkane)",
+                    "Number chain",
+                    "Identify substituents",
+                    "Construct name"
+                  ],
+                  "numeracySkills": ["Lowest locant"],
+                  "prerequisiteNodes": [
+                    "CHEM_M1_BONDING",
+                    "CHEM_M1_HYDROCARBON_BASICS"
+                  ],
+                  "examQuestionsLinked": ["HSC2022_Q7"],
+                  "examples": ["2-methylpropane", "3-ethylhexane"],
+                  "media": []
+                },
+                {
+                  "nodeId": "CHM_M7_NOM_N2", // Alkenes Nomenclature
+                  "description": "Apply IUPAC conventions for naming straight and simple branched alkenes (up to C8), indicating double bond position.",
+                  "type": "nomenclature_rule",
+                  "bloomTaxonomyLevel": "Apply",
+                  "syllabusReference": "CH12-14, M7: Nomenclature (ACSCH127)",
+                  "workingScientificallyCategory": "Communicating",
+                  "literacySkills": [
+                    "Identify parent chain (ene)",
+                    "Number chain (priority to C=C)",
+                    "Use '-en-' suffix",
+                    "Construct name"
+                  ],
+                  "numeracySkills": ["Lowest locant"],
+                  "prerequisiteNodes": [
+                    "CHM_M7_NOM_N1",
+                    "CHEM_M1_UNSATURATED_HYDROCARBONS"
+                  ],
+                  "examQuestionsLinked": [],
+                  "examples": ["but-1-ene", "3-methylpent-1-ene"],
+                  "media": []
+                },
+                // Node for Alkyne Naming (Simplified)
+                {
+                  "nodeId": "CHM_M7_NOM_N3", // Alkynes Nomenclature
+                  "description": "Apply IUPAC conventions for naming straight and simple branched alkynes (up to C8), indicating triple bond position.",
+                  "type": "nomenclature_rule",
+                  "bloomTaxonomyLevel": "Apply",
+                  "syllabusReference": "CH12-14, M7: Nomenclature (ACSCH127)",
+                  "workingScientificallyCategory": "Communicating",
+                  "literacySkills": [
+                    "Identify parent chain (yne)",
+                    "Number chain (priority to C≡C)",
+                    "Use '-yn-' suffix",
+                    "Construct name"
+                  ],
+                  "numeracySkills": ["Lowest locant"],
+                  "prerequisiteNodes": [
+                    "CHM_M7_NOM_N1",
+                    "CHEM_M1_UNSATURATED_HYDROCARBONS"
+                  ],
+                  "examQuestionsLinked": ["HSC2023_Q3"],
+                  "examples": ["pent-1-yne", "4-methylhex-1-yne"],
+                  "media": []
+                },
+                {
+                  "nodeId": "CHM_M7_NOM_N4", // Alcohols Nomenclature
+                  "description": "Apply IUPAC conventions for naming primary, secondary, and tertiary alcohols (up to C8), indicating hydroxyl group position.",
+                  "type": "nomenclature_rule",
+                  "bloomTaxonomyLevel": "Apply",
+                  "syllabusReference": "CH12-14, M7: Nomenclature (ACSCH127)",
+                  "workingScientificallyCategory": "Communicating",
+                  "literacySkills": [
+                    "Identify parent chain (ol)",
+                    "Number chain (priority to -OH)",
+                    "Use '-ol' suffix",
+                    "Classify alcohols",
+                    "Construct name"
+                  ],
+                  "numeracySkills": ["Lowest locant"],
+                  "prerequisiteNodes": [
+                    "CHM_M7_NOM_N1",
+                    "CHEM_M1_FUNCTIONAL_GROUPS_INTRO",
+                    "CHM_M7_ALC_N1"
+                  ],
+                  "examQuestionsLinked": ["HSC2019_Q21a"],
+                  "examples": ["propan-1-ol", "2-methylbutan-2-ol"],
+                  "media": []
+                },
+                {
+                  "nodeId": "CHM_M7_NOM_N5", // Aldehydes Nomenclature
+                  "description": "Apply IUPAC conventions for naming aldehydes (up to C8).",
+                  "type": "nomenclature_rule",
+                  "bloomTaxonomyLevel": "Apply",
+                  "syllabusReference": "CH12-14, M7: Nomenclature (ACSCH127)",
+                  "workingScientificallyCategory": "Communicating",
+                  "literacySkills": [
+                    "Identify aldehyde group (-CHO)",
+                    "Parent chain includes C1 aldehyde",
+                    "Use '-al' suffix",
+                    "Construct name"
+                  ],
+                  "numeracySkills": [],
+                  "prerequisiteNodes": [
+                    "CHM_M7_NOM_N1",
+                    "CHEM_M1_FUNCTIONAL_GROUPS_INTRO"
+                  ],
+                  "examQuestionsLinked": [],
+                  "examples": ["ethanal", "3-methylbutanal"],
+                  "media": []
+                },
+                {
+                  "nodeId": "CHM_M7_NOM_N6", // Ketones Nomenclature
+                  "description": "Apply IUPAC conventions for naming ketones (up to C8), indicating carbonyl group position.",
+                  "type": "nomenclature_rule",
+                  "bloomTaxonomyLevel": "Apply",
+                  "syllabusReference": "CH12-14, M7: Nomenclature (ACSCH127)",
+                  "workingScientificallyCategory": "Communicating",
+                  "literacySkills": [
+                    "Identify ketone group (C=O)",
+                    "Number chain (priority to C=O)",
+                    "Use '-one' suffix",
+                    "Construct name"
+                  ],
+                  "numeracySkills": ["Lowest locant"],
+                  "prerequisiteNodes": [
+                    "CHM_M7_NOM_N1",
+                    "CHEM_M1_FUNCTIONAL_GROUPS_INTRO"
+                  ],
+                  "examQuestionsLinked": ["HSC2023_Q1"],
+                  "examples": ["propanone", "pentan-2-one"],
+                  "media": []
+                },
+                {
+                  "nodeId": "CHM_M7_NOM_N7", // Carboxylic Acids Nomenclature
+                  "description": "Apply IUPAC conventions for naming carboxylic acids (up to C8).",
+                  "type": "nomenclature_rule",
+                  "bloomTaxonomyLevel": "Apply",
+                  "syllabusReference": "CH12-14, M7: Nomenclature (ACSCH127)",
+                  "workingScientificallyCategory": "Communicating",
+                  "literacySkills": [
+                    "Identify carboxyl group (-COOH)",
+                    "Parent chain includes C1 carboxyl",
+                    "Use '-oic acid' suffix",
+                    "Construct name"
+                  ],
+                  "numeracySkills": [],
+                  "prerequisiteNodes": [
+                    "CHM_M7_NOM_N1",
+                    "CHEM_M1_FUNCTIONAL_GROUPS_INTRO"
+                  ],
+                  "examQuestionsLinked": [],
+                  "examples": ["ethanoic acid", "2-methylpropanoic acid"],
+                  "media": []
+                },
+                {
+                  // Added Ester Naming as it's needed for Esterification product
+                  "nodeId": "CHM_M7_NOM_N11", // Ester Nomenclature
+                  "description": "Apply IUPAC conventions for naming simple esters (derived from alcohols and acids up to C8).",
+                  "type": "nomenclature_rule",
+                  "bloomTaxonomyLevel": "Apply",
+                  "syllabusReference": "CH12-14, M7: Reactions of Org Acids Bases", // Implied by esterification
+                  "workingScientificallyCategory": "Communicating",
+                  "literacySkills": [
+                    "Identify ester functional group (-COO-)",
+                    "Identify alcohol and acid components",
+                    "Name alcohol part as alkyl group",
+                    "Name acid part with '-oate' suffix",
+                    "Construct name (alkyl alkanoate)"
+                  ],
+                  "numeracySkills": [],
+                  "prerequisiteNodes": [
+                    "CHM_M7_NOM_N4",
+                    "CHM_M7_NOM_N7",
+                    "CHEM_M1_FUNCTIONAL_GROUPS_INTRO"
+                  ],
+                  "examQuestionsLinked": ["HSC2018_Q23a", "HSC2019_Q8"],
+                  "examples": [
+                    "methyl propanoate",
+                    "ethyl ethanoate",
+                    "propyl methanoate"
+                  ],
+                  "media": []
+                },
+                {
+                  "nodeId": "CHM_M7_NOM_N10", // Haloalkanes Nomenclature
+                  "description": "Apply IUPAC conventions for naming simple halogenated organic compounds (up to C8).",
+                  "type": "nomenclature_rule",
+                  "bloomTaxonomyLevel": "Apply",
+                  "syllabusReference": "CH12-14, M7: Nomenclature (ACSCH046 ref in sample unit)",
+                  "workingScientificallyCategory": "Communicating",
+                  "literacySkills": [
+                    "Use prefixes (fluoro-, chloro-, bromo-, iodo-)",
+                    "Number parent chain",
+                    "Order substituents alphabetically",
+                    "Construct name"
+                  ],
+                  "numeracySkills": ["Lowest locant"],
+                  "prerequisiteNodes": [
+                    "CHM_M7_NOM_N1",
+                    "CHEM_M1_FUNCTIONAL_GROUPS_INTRO"
+                  ],
+                  "examQuestionsLinked": ["HSC2018_Q27a", "HSC2020_Q6"],
+                  "examples": ["1-chloropropane", "2-bromobutane"],
+                  "media": []
+                },
+                {
+                  // Basic structure node needed
+                  "nodeId": "CHM_M7_ALC_N1", // Alcohol Structures
+                  "description": "Identify and draw structural formulae for primary, secondary and tertiary alcohols.",
+                  "type": "structure_representation",
+                  "bloomTaxonomyLevel": "Apply",
+                  "syllabusReference": "CH12-14, M7: Alcohols",
+                  "workingScientificallyCategory": "Communicating",
+                  "literacySkills": [
+                    "Identify hydroxyl group",
+                    "Classify alcohols based on carbon attachment",
+                    "Draw structural formulae"
+                  ],
+                  "numeracySkills": [],
+                  "prerequisiteNodes": [
+                    "CHM_M7_NOM_N4",
+                    "CHEM_M1_FUNCTIONAL_GROUPS_INTRO"
+                  ],
+                  "examQuestionsLinked": ["HSC2019_Q21a", "HSC2022_Q27c"],
+                  "examples": [
+                    "propan-1-ol (1°)",
+                    "propan-2-ol (2°)",
+                    "2-methylpropan-2-ol (3°)"
+                  ],
+                  "media": []
+                },
+
+                // --- Core Reaction Nodes for Synthesis Pathways ---
+                {
+                  "nodeId": "CHM_M7_RPROD_N1", // Addition Reactions
+                  "description": "Write equations and predict products for addition reactions of unsaturated hydrocarbons (alkenes/alkynes) with H2, X2, HX, H2O.",
+                  "type": "reaction_type",
+                  "bloomTaxonomyLevel": "Apply",
+                  "syllabusReference": "CH12-14, M7: Products of Reactions (ACSCH136)",
+                  "workingScientificallyCategory": "Communicating",
+                  "literacySkills": [
+                    "Define addition reaction",
+                    "Predict products based on reagent",
+                    "Write balanced equations (structural formulae)"
+                  ],
+                  "numeracySkills": [],
+                  "prerequisiteNodes": [
+                    "CHM_M7_NOM_N2",
+                    "CHM_M7_NOM_N3",
+                    "CHEM_CHEMICAL_EQUATIONS"
+                  ],
+                  "examQuestionsLinked": [
+                    "HSC2020_Q26",
+                    "HSC2021_Q21c",
+                    "HSC2022_Q21",
+                    "HSC2023_Q28a"
+                  ],
+                  "examples": [
+                    "Ethene + Br2",
+                    "Propene + H2O (hydration)",
+                    "Ethyne + H2"
+                  ],
+                  "media": []
+                },
+                {
+                  "nodeId": "CHM_M7_RPROD_N2", // Substitution Reactions (Alkanes)
+                  "description": "Write equations and predict products for substitution reactions of alkanes with halogens (requires UV light).",
+                  "type": "reaction_type",
+                  "bloomTaxonomyLevel": "Apply",
+                  "syllabusReference": "CH12-14, M7: Products of Reactions",
+                  "workingScientificallyCategory": "Communicating",
+                  "literacySkills": [
+                    "Define substitution reaction (alkane)",
+                    "Identify UV requirement",
+                    "Predict haloalkane product",
+                    "Write balanced equations"
+                  ],
+                  "numeracySkills": [],
+                  "prerequisiteNodes": [
+                    "CHM_M7_NOM_N1",
+                    "CHM_M7_NOM_N10",
+                    "CHEM_CHEMICAL_EQUATIONS"
+                  ],
+                  "examQuestionsLinked": [],
+                  "examples": ["Methane + Cl2 --(UV)--> Chloromethane + HCl"],
+                  "media": []
+                },
+                {
+                  "nodeId": "CHM_M7_ALC_N4", // Dehydration (Alcohol -> Alkene)
+                  "description": "Write equations, state conditions (conc. H2SO4 catalyst, heat) and predict products (alkene, water) for dehydration of alcohols.",
+                  "type": "reaction_type",
+                  "bloomTaxonomyLevel": "Apply",
+                  "syllabusReference": "CH12-14, M7: Alcohols (ACSCH128, ACSCH136)",
+                  "workingScientificallyCategory": "Communicating",
+                  "literacySkills": [
+                    "Define dehydration",
+                    "Identify catalyst/conditions",
+                    "Predict alkene product",
+                    "Write balanced equations"
+                  ],
+                  "numeracySkills": [],
+                  "prerequisiteNodes": [
+                    "CHM_M7_ALC_N1",
+                    "CHM_M7_NOM_N2",
+                    "CHEM_CHEMICAL_EQUATIONS",
+                    "CHEM_M4_CATALYSIS_BASICS"
+                  ],
+                  "examQuestionsLinked": [
+                    "HSC2018_Q10",
+                    "HSC2023_Q11",
+                    "HSC2023_Q36"
+                  ],
+                  "examples": ["Ethanol -> Ethene + H2O"],
+                  "media": []
+                },
+                {
+                  "nodeId": "CHM_M7_ALC_N5", // Substitution (Alcohol -> Haloalkane)
+                  "description": "Write equations and predict products for substitution reactions of alcohols with hydrogen halides (HX).",
+                  "type": "reaction_type",
+                  "bloomTaxonomyLevel": "Apply",
+                  "syllabusReference": "CH12-14, M7: Alcohols (ACSCH128, ACSCH136)",
+                  "workingScientificallyCategory": "Communicating",
+                  "literacySkills": [
+                    "Define substitution (alcohol)",
+                    "Predict haloalkane product",
+                    "Write balanced equations"
+                  ],
+                  "numeracySkills": [],
+                  "prerequisiteNodes": [
+                    "CHM_M7_ALC_N1",
+                    "CHM_M7_NOM_N10",
+                    "CHEM_CHEMICAL_EQUATIONS"
+                  ],
+                  "examQuestionsLinked": ["HSC2023_Q36"],
+                  "examples": ["Ethanol + HBr -> Bromoethane + H2O"],
+                  "media": []
+                },
+                {
+                  "nodeId": "CHM_M7_ALC_N6", // Oxidation (Alcohol -> Aldehyde/Ketone/Acid)
+                  "description": "Write equations, state conditions (oxidising agent) and predict products for oxidation of primary (to aldehyde/acid) and secondary alcohols (to ketone).",
+                  "type": "reaction_type",
+                  "bloomTaxonomyLevel": "Analyse",
+                  "syllabusReference": "CH12-14, M7: Alcohols (ACSCH128, ACSCH136)",
+                  "workingScientificallyCategory": "Communicating",
+                  "literacySkills": [
+                    "Identify oxidation products based on alcohol type",
+                    "Identify common oxidising agents",
+                    "Write balanced equations (using [O] acceptable)"
+                  ],
+                  "numeracySkills": [],
+                  "prerequisiteNodes": [
+                    "CHM_M7_ALC_N1",
+                    "CHM_M7_NOM_N5",
+                    "CHM_M7_NOM_N6",
+                    "CHM_M7_NOM_N7",
+                    "CHEM_M6_REDOX_BASICS"
+                  ],
+                  "examQuestionsLinked": [
+                    "HSC2021_Q26",
+                    "HSC2022_Q27c",
+                    "HSC2023_Q36"
+                  ],
+                  "examples": [
+                    "Ethanol -> Ethanal -> Ethanoic Acid",
+                    "Propan-2-ol -> Propanone"
+                  ],
+                  "media": []
+                },
+                {
+                  "nodeId": "CHM_M7_ALC_N7", // Production (Haloalkane -> Alcohol)
+                  "description": "Write equations for production of alcohols via substitution reactions of halogenated organic compounds with hydroxide ions.",
+                  "type": "reaction_synthesis",
+                  "bloomTaxonomyLevel": "Apply",
+                  "syllabusReference": "CH12-14, M7: Alcohols",
+                  "workingScientificallyCategory": "Communicating",
+                  "literacySkills": ["Write balanced equations"],
+                  "numeracySkills": [],
+                  "prerequisiteNodes": [
+                    "CHM_M7_ALC_N1",
+                    "CHM_M7_NOM_N10",
+                    "CHEM_CHEMICAL_EQUATIONS"
+                  ],
+                  "examQuestionsLinked": ["HSC2023_Q36"],
+                  "examples": ["Chloroethane + NaOH(aq) -> Ethanol + NaCl(aq)"],
+                  "media": []
+                },
+                {
+                  "nodeId": "CHM_M7_ESTER_N1", // Esterification (Acid + Alcohol -> Ester)
+                  "description": "Write equations, state conditions (conc. H2SO4 catalyst, heat) and name products for the formation of simple esters.",
+                  "type": "reaction_synthesis",
+                  "bloomTaxonomyLevel": "Apply",
+                  "syllabusReference": "CH12-14, M7: Reactions of Org Acids Bases",
+                  "workingScientificallyCategory": "Communicating",
+                  "literacySkills": [
+                    "Define esterification",
+                    "Identify reactants, products (ester, water), catalyst, conditions",
+                    "Name ester product",
+                    "Write balanced equations"
+                  ],
+                  "numeracySkills": [],
+                  "prerequisiteNodes": [
+                    "CHM_M7_ALC_N1",
+                    "CHM_M7_NOM_N7",
+                    "CHM_M7_NOM_N11",
+                    "CHEM_CHEMICAL_EQUATIONS",
+                    "CHEM_M4_CATALYSIS_BASICS"
+                  ],
+                  "examQuestionsLinked": [
+                    "HSC2017_Q4",
+                    "HSC2018_Q3",
+                    "HSC2018_Q23",
+                    "HSC2019_Q8",
+                    "HSC2022_Q32",
+                    "HSC2023_Q36"
+                  ],
+                  "examples": [
+                    "Ethanol + Ethanoic Acid -> Ethyl Ethanoate + Water"
+                  ],
+                  "media": []
+                },
+
+                // --- Target Synthesis Node ---
+                {
+                  "nodeId": "CHM_M7_SYNTH_N1",
+                  "description": "Draft and construct flow charts to show reaction pathways for chemical synthesis, including those that involve more than one step, incorporating reagents and conditions.",
+                  "type": "process_representation",
+                  "bloomTaxonomyLevel": "Create",
+                  "syllabusReference": "CH12-14, CH11/12-7 M7: Reactions of Org Acids Bases",
+                  "workingScientificallyCategory": "Communicating",
+                  "literacySkills": [
+                    "Use flow chart conventions",
+                    "Represent multi-step syntheses logically",
+                    "Include reagents and conditions for each step",
+                    "Name intermediate and final products"
+                  ],
+                  "numeracySkills": [],
+                  "prerequisiteNodes": [
+                    // Requires knowledge of the interconversion reactions
+                    "CHM_M7_RPROD_N1", // Addition (Alkene->Alcohol/Haloalkane)
+                    "CHM_M7_RPROD_N2", // Substitution (Alkane->Haloalkane)
+                    "CHM_M7_ALC_N4", // Dehydration (Alcohol->Alkene)
+                    "CHM_M7_ALC_N5", // Substitution (Alcohol->Haloalkane)
+                    "CHM_M7_ALC_N6", // Oxidation (Alcohol->Ald/Ket/Acid)
+                    "CHM_M7_ALC_N7", // Substitution (Haloalkane->Alcohol)
+                    "CHM_M7_ESTER_N1" // Esterification (Acid+Alcohol->Ester)
+                  ],
+                  "examQuestionsLinked": [
+                    "HSC2020_Q26",
+                    "HSC2021_Q26",
+                    "HSC2023_Q13",
+                    "HSC2023_Q34",
+                    "HSC2023_Q36"
+                  ], // Exam questions involving interpretation/construction of reaction pathways
+                  "depthStudyComponents": [
+                    "Drafting flow charts for synthesis"
+                  ],
+                  "examples": [
+                    "Pathway from ethene to ethyl ethanoate: Ethene -> Ethanol -> Ethanoic Acid; Ethene -> Ethanol + Ethanoic Acid -> Ethyl Ethanoate",
+                    "Pathway from propane to propanone: Propane -> 2-chloropropane -> Propan-2-ol -> Propanone"
+                  ],
+                  "media": []
+                }
+              ]
+            }
+            // Other topics (Polymers, detailed property analysis, etc.) omitted from this subset
+          ]
+        }
+        // ... Module 8 placeholder ...
+      ]
+    }
+  ]
+}
