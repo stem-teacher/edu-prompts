@@ -9,3 +9,6 @@ https://claude.site/artifacts/35e4e245-2b86-4685-8679-e472600ac6bb
 
 # Force Directed Graph
 https://claude.site/artifacts/4a7b3411-6083-43c3-ae15-97c9e4955456
+
+#  AI Driven Generation Process
+https://claude.site/artifacts/e36e8eb0-0021-4a4c-a628-fe619d7b4d62
