@@ -1,0 +1,5 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'worksheet.blg'
+[28] biber-darwin:340> INFO - === Sun Apr 13, 2025, 14:33:46
+[126] Utils.pm:410> ERROR - Cannot find 'worksheet.bcf'!
+[126] Biber.pm:136> INFO - ERRORS: 1

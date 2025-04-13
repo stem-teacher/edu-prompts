@@ -1,5 +1,20 @@
 
+# Questions
+Dear Gemini,
+My goal is to prepare 3x1 hour lessons for the NSW HSC Chemistry Module 6.
+I have attached below a baseline set of files for context. The foundation document is the file 'work-product-knowledge-graph-v1.json' which is an educational knowledge graph (EduKG) for NSW HSC Chemistry, Module 7, Organic Chemistry built from the Syllabus, past exams and other key documents.
 
+The trigger for lesson preparation is from the section "Reactions of Organic Acids and Bases" and "Inquiry question: What are the properties of organic acids and bases?"  with the last point saying "draft and construct flow charts to show reaction pathways for chemical synthesis, including those that
+involve more than one step"
+
+This statement grossly understates the required pedagogy to achieve this outcome.  When my head teacher briefed me on the task  to prepare a set of  lesson on reaction pathways,  she point out to me that they do not teach organic chemistry, linearly as suggested by the syllabus. This lead me to conduct three research exercises that are contained within the attached PDF document that examine required teaching approaches. Being a from a software background I have always found flow charts to be a terrible visualisation which led me to create an interactive visualisation tool that uses a chord diagram as the construct. I provide images on when the tool is just being used to examine individual molecule types, then specific reactions and then synthesis pathways which is the effective outcome of the syllabus point above. So I thought rather than three sequential lessons, there should be a lesson early in the program to introduce the tool and how to use it when learning about specific molecule types, then later when learning about reactions and finally another to cover the specific syllabus learning point on flowcharts, using both this good visualisation and a less good flow chart visualisation also built (but essential to cover the syllabus).
+
+Because the end result of having the ability to develop sets of reactions steps to perform a synthesis, requires mastery of foundational elements, I was thinking that maybe a automated revision tool be created that support robust understanding across the program - but only if required.
+
+Given all this, my first question is what three lessons should be given and when, and your recommendations for learning resources for each class and overall.  In making your recommendations, while I do have the capability to construct a textbook chapter for organic chemistry, I am worried about running out of time and would only look to take this on if essential.
+
+
+# Thinking
 Here's a thinking process to arrive at the proposed 3-lesson sequence and recommendations:
 
 Deconstruct the Request:

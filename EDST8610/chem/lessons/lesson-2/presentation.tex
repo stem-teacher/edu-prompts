@@ -1,0 +1,160 @@
+\documentclass[xcolor=svgnames]{beamer}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{xcolor}
+\usepackage{booktabs}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{mhchem}
+
+\usetheme{Madrid}
+
+% COLORS (As provided)
+\definecolor{mqred}{RGB}{166, 25, 46}
+\definecolor{mqdeepred}{RGB}{118, 35, 47}
+\definecolor{mqgray}{RGB}{55, 58, 54}
+\definecolor{mqlightgray}{RGB}{237, 235, 229}
+\definecolor{mqmagenta}{RGB}{198, 0, 126}
+\usecolortheme[named=mqred]{structure}
+\setbeamercolor{title in head/foot}{bg=mqlightgray, fg=mqgray}
+\setbeamercolor{author in head/foot}{bg=mqdeepred}
+\setbeamercolor{page number in head/foot}{bg=mqdeepred, fg=mqlightgray}
+
+% FOOTNOTE ARRANGEMENTS (As provided)
+\makeatletter
+\setbeamertemplate{footline}{
+  \leavevmode%
+  \hbox{%
+  \begin{beamercolorbox}[wd=.5\paperwidth,ht=2.25ex,dp=1ex,center]{author in head/foot}%
+    \usebeamerfont{author in head/foot}\insertshortauthor\expandafter\ifblank\expandafter{\beamer@shortinstitute}{}{~~(\insertshortinstitute)}
+  \end{beamercolorbox}%
+  \begin{beamercolorbox}[wd=.4\paperwidth,ht=2.25ex,dp=1ex,center]{title in head/foot}%
+    \usebeamerfont{title in head/foot}\insertshorttitle
+  \end{beamercolorbox}%
+  \begin{beamercolorbox}[wd=.1\paperwidth,ht=2.25ex,dp=1ex,center]{page number in head/foot}%
+    \usebeamerfont{page number in head/foot}\insertframenumber{} / \inserttotalframenumber
+  \end{beamercolorbox}}%
+  \vskip0pt%
+}
+\makeatother
+\beamertemplatenavigationsymbolsempty
+
+% TITLE, AUTHORS, INSTITUTE, DATE
+\title[Org Chem: Navigating Pathways]{Lesson 2: Navigating Pathways}
+\subtitle{Connecting Reactions for Short Syntheses}
+\author[P. Haynes]{Mr Haynes} % Replace if needed
+\institute[GHS]{Gosford High School}
+\date{Module 7: Organic Chemistry}
+
+\begin{document}
+
+\begin{frame}
+    \titlepage
+\end{frame}
+
+\begin{frame}{Outline}
+    \tableofcontents
+\end{frame}
+
+\section{Recap \& New Connections}
+\begin{frame}{Expanding the Map}
+    \frametitle{Recap \& Expanding the Map}
+    \textbf{Retrieval Practice:} (Teacher asks questions, e.g., "Reagent for Haloalkane $\rightarrow$ Alcohol?", "Product of alcohol dehydration?")
+    \vspace{1em}
+    \textbf{Review:} Briefly show Chord Diagram from L1. Remind students of the connections learned.
+    \vspace{1em}
+    \textbf{New Reactions (Adding to our map):}
+    \begin{itemize}
+        \item \textbf{Alcohol Oxidation [CHM\_M7\_ALC\_N6]:}
+            \begin{itemize}
+                \item Primary Alcohol $\xrightarrow{\text{[O]}}$ Aldehyde $\xrightarrow{\text{[O]}}$ Carboxylic Acid
+                \item Secondary Alcohol $\xrightarrow{\text{[O]}}$ Ketone
+                \item Tertiary Alcohol $\xrightarrow{\text{[O]}}$ No reaction (usually)
+                \item \textit{(Show these connections on the projected visualiser)}
+            \end{itemize}
+        \item \textbf{Esterification [CHM\_M7\_ESTER\_N1]:}
+            \begin{itemize}
+                \item Carboxylic Acid + Alcohol $\xrightarrow{\ce{H+}/\Delta}$ Ester + \ce{H2O}
+                \item \textit{(Show this connection on the visualiser)}
+            \end{itemize}
+        \item \textbf{Ester Naming [CHM\_M7\_NOM\_N11]:} (Brief mention - e.g., \textit{Alkyl Alkanoate})
+    \end{itemize}
+\end{frame}
+
+\section{Planning Short Syntheses}
+\begin{frame}{Planning Short Syntheses}
+    \frametitle{From A to C via B: Planning Pathways}
+    Often, we can't get from starting material (A) to target product (C) in one step. We need intermediate compounds (B).
+    \vspace{1em}
+    \textbf{The Strategy:}
+    \begin{enumerate}
+        \item Identify Starting and Target Functional Groups.
+        \item \textbf{Use the Chord Diagram Tool:} Find pathway(s) connecting Start to Target. Identify the intermediate functional group(s).
+        \item Write out the sequence of reactions.
+        \item Add specific reagents and conditions for each step.
+    \end{enumerate}
+\end{frame}
+
+\begin{frame}{Modelling a 2-Step Synthesis}
+    \frametitle{Modelling: Ethene to Ethanoic Acid}
+    \textbf{Problem:} Convert Ethene (\ce{C2H4}) to Ethanoic Acid (\ce{CH3COOH}).
+    \vspace{1em}
+    \textbf{Teacher Modelling ("Think Aloud" - S6):}
+    \begin{enumerate}
+        \item \textit{"Start is Alkene, Target is Carboxylic Acid."}
+        \item \textit{"Look at the map (Chord Diagram)... Alkene connects to Alcohol. Alcohol connects to Aldehyde, which connects to Carboxylic Acid (for primary). So, the path is Alkene $\rightarrow$ Alcohol $\rightarrow$ Carboxylic Acid. Intermediate = Alcohol (Ethanol)."}
+        \item \textit{"Write the sequence:"}
+            \begin{itemize}
+                \item Step 1 (Alkene $\rightarrow$ Alcohol): \ce{CH2=CH2 -> CH3CH2OH}. \textit{"What reagent? Map hover/recall... Hydration."} Reagent: \ce{H2O / H+}.
+                \item Step 2 (Alcohol $\rightarrow$ Acid): \ce{CH3CH2OH -> CH3COOH}. \textit{"What reagent? Map hover/recall... Oxidation of primary alcohol."} Reagent: Strong Oxidising Agent (e.g., \ce{Cr2O7^{2-}/H+}), shown as [O].
+            \end{itemize}
+        \item \textit{"Check: Path makes sense, reagents identified."}
+    \end{enumerate}
+    \vspace{1em}
+    \textit{(Show final written sequence clearly)}
+    \ce{CH2=CH2 ->[\ce{H2O / H+}] CH3CH2OH ->[\ce{[O]}] CH3COOH}
+\end{frame}
+
+\section{Paired Problem Solving}
+\begin{frame}{Your Turn: Plan & Draft}
+    \frametitle{Paired Problem Solving Activity}
+    Now, work with your partner on the problems from Activity Sheet 2.
+    \vspace{1em}
+    \textbf{Instructions Recap:}
+    \begin{itemize}
+        \item Use the Chord Diagram tool to \textbf{PLAN} your route first.
+        \item Write down the detailed steps on mini-whiteboard/paper/Worksheet 2:
+            \begin{itemize}
+                \item Structures (or names).
+                \item Reagents \& Conditions for each arrow.
+            \end{itemize}
+        \item Discuss your strategy with your partner. Use the metacognitive prompts!
+    \end{itemize}
+    \vspace{1em}
+    \textit{(Teacher circulates, assists, and prompts using S6 questions)}
+\end{frame}
+
+\section{Summary}
+\begin{frame}{Lesson 2 Summary}
+    \frametitle{Navigating Pathways: Key Takeaways}
+    \begin{itemize}
+        \item We expanded our reaction map with Alcohol Oxidation and Esterification.
+        \item We practiced using the map (visualiser) to plan short (2-3 step) synthesis pathways.
+        \item The planning process: Identify Start/Target $\rightarrow$ Find Route via Intermediates (using map) $\rightarrow$ Add Reagents/Conditions.
+        \item This moves us from knowing single reactions to connecting them.
+    \end{itemize}
+    \vspace{1em}
+    \textbf{Next Steps:}
+    \begin{itemize}
+        \item Review drafted pathways.
+        \item \textbf{Preview Lesson 3:} Tackling more complex synthesis problems and learning to communicate them using formal flowcharts (Syllabus requirement!).
+    \end{itemize}
+\end{frame}
+
+\begin{frame}
+    \centering
+    \textbf{Thank you!}\\ \vspace{1em} Questions?
+\end{frame}
+
+\end{document}

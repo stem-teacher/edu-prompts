@@ -1,0 +1,5 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'activity.blg'
+[28] biber-darwin:340> INFO - === Sun Apr 13, 2025, 14:34:47
+[114] Utils.pm:410> ERROR - Cannot find 'activity.bcf'!
+[114] Biber.pm:136> INFO - ERRORS: 1

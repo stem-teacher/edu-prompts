@@ -1,0 +1,4 @@
+\beamer@sectionintoc {1}{Recap \& New Connections}{3}{0}{1}
+\beamer@sectionintoc {2}{Planning Short Syntheses}{4}{0}{2}
+\beamer@sectionintoc {3}{Paired Problem Solving}{6}{0}{3}
+\beamer@sectionintoc {4}{Summary}{7}{0}{4}
