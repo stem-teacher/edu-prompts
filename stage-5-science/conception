@@ -1,0 +1,84 @@
+Good to speak to you for the first time. I am Philip and I have assembled you all here with the hope that you will be able to assist me in coming up with a transformative approach to high school science education, for a new world where all science is done with the assistance of artificial intelligence.
+
+My first question is, do you think you will all be able to help me? If not, now is the time to opt out before we proceed.
+
+# Prompt One
+
+Fantastic - I really appreciate the support. 
+
+Now I believe a scientific approach is the way to teach science. Thus part of the way I am conceptualising the underlying approach is through a cognitive approach - understand how the brain works, and knowning this, structure learning to optimise pedagogy. But rather than be loosey goosey, structure the information formally so that the material to be taught is defined, the pre-requisite skills and assessment approaches are all clearly defined, to then allow correct sequencing to avoid cogitive overload.
+
+My hypothesis is that to do that, the best representation to do this is a educational knowledge graph (EduKG) and I provide an example for a 3-lesson sequence on Year 11 thermodynamics below. 
+
+My first set of questions are:
+1. Do you think this a reasonale concept, and if not, what would be a better approach?
+2. Assuming you think it is ok, what elements of a EduKG do you think should exist, that are not covered below?
+
+
+
+# Response 
+Philip, your vision is right on target: a formal, machine-readable representation of what must be learned, how it connects, and how it should be assessed is precisely what lets us couple good pedagogy with powerful AI tooling. Nothing “loosey-goosey” here. Below is a consolidated response, then the individual lenses.
+
+=====================================================
+
+Is an EduKG a reasonable core representation?
+• Yes.  It provides the explicit prerequisite map, fine-grained learning objectives, and assessment hooks that cognitive science and adaptive AI both require.
+• It also scales: every new concept becomes a node that can be reused, recombined, and version-controlled.
+What additional elements (fields, edge-types, or meta-data) should you add?
+The board collectively recommends adding eight “missing but high-leverage” components:
+a. Misconception nodes & edges (“counters”, “fixes”)
+b. Cognitive-load & difficulty metrics (intrinsic / extraneous / germane)
+c. Spacing & mastery data (recommended revisit interval, target decay curve)
+d. Skill/process nodes (e.g., “design a calorimetry experiment”) separated from declarative facts
+e. Retrieval-practice hooks (auto-generated question templates, IRT difficulty estimates)
+f. Multimodal resource metadata (reading level, interactivity level, device constraints)
+g. Inter-disciplinary & real-world context edges (Climate science ↔ Latent heat)
+h. Analytics & versioning metadata (node provenance, last validated, evidence strength)
+Details, rationales, and potential technical patterns appear under each persona below.
+
+AI & Computational Systems Lead (Hassabis/Hinton)
+• Graph representation: Use a property graph (e.g., Neo4j) or RDF/OWL so every node & edge can carry arbitrary key–value metadata (difficulty, last-verified, etc.).
+• Edge taxonomy to add now:
+- prerequisite_of (already used)
+- misconception_of
+- analog_of / metaphor_for
+- assessed_by (links to assessment items)
+- exemplified_by (links to media/sims)
+- reinforces (spaced-practice scheduling)
+• Plug in learner-model attributes as separate nodes (or sub-graphs) so recommendations are computed as graph-queries (“next node with lowest mastery but within allowed intrinsic load”).
+• Add a “snapshot & diff” versioning layer so teachers can fork/merge graphs, keeping histories clean.
+
+Cognitive Science Lead (Sweller/Kahneman)
+• For every knowledgeNode store:
+- intrinsic_load_estimate (1-5)
+- typical misconceptions (link to misconception nodes)
+- worked_example_id(s) and faded_example_plan
+• Provide an edge type “chunked_into” to show how several low-level nodes become one schema when mastered—critical for reducing working-memory burden.
+• Embed retrieval practice: each node holds at least one question template that can be parameterised (numbers, contexts) for repeated low-stakes quizzes.
+• Add a “spacing_parameter” (e.g., optimal revisit in days) produced from a simple decay-curve model; AI scheduler uses it to resurface content.
+
+Head of Product & UX (Bret Victor)
+• Bundle “interaction affordances” with each node:
+- has_manipulative_simulation? true/false
+- preferred_visualisation_type: graph / animation / physical-kit
+• Design authoring UI so teachers drag-connect nodes (“this fixes that misconception”)—making structure visible, playful.
+• Provide “lens” filters: teacher view (scope & standards), student view (progress & mastery path), researcher view (analytics).
+
+Inspirational Science Communicator (Feynman/Sagan)
+• Label each node with a “core narrative hook” (e.g., “Why a lukewarm bathtub contains more energy than boiling tea”). AI can surface these hooks to spark curiosity.
+• Include “public relevance” edges to societal issues (e.g., insulation ↔ energy poverty) to keep learning meaningful.
+
+Scaling & Commercialisation Strategist (Khan/Altman)
+• Map NSW tags to the Australian Curriculum and IB/NGSS tags from day one; that multiplies your addressable market with minor overhead.
+• Open-license the schema & tooling; commercialise personalised analytics dashboards and premium content bundles.
+• Capture learning analytics (pseudonymised) to demonstrate efficacy—critical for grants, ministries, and CSR partnerships.
+
+Synthesis & Next Actions
+
+Extend your JSON schema with the eight components above.
+Stand up a small pilot graph with added misconception nodes and cognitive-load fields; run an A/B classroom test to show reduced error rates and smoother sequencing.
+Build an authoring interface that surfaces these new fields yet keeps editing friction low.
+Begin cross-mapping to at least one additional curriculum to prove reusability and attract partners.
+With these refinements, your EduKG becomes not only a curriculum map but a living, AI-compatible engine for adaptive, cognitively-optimised science learning.
+
+We’re ready to help you spec, prototype, and test every step.

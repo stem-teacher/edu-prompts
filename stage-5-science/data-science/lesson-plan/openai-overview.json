@@ -1,0 +1,94 @@
+{
+  "courseOverview": [
+    {
+      "week": 1,
+      "knowledgeNodes": ["DS5_N1", "DS5_N11"],
+      "workingScientificallyOutcomes": ["SC5-WS-02"],
+      "drivingQuestion": "How do scientists turn curiosity into questions that data can answer?",
+      "coreProject": "Observable interactive: classify investigable vs non-investigable questions and explore the “5 Vs of Big Data” tooltip infographic.",
+      "formativeAssessment": "AI-scored drag-and-drop quiz plus exit-ticket poll.",
+      "lessons": ["W1L1", "W1L2", "W1L3"]
+    },
+    {
+      "week": 2,
+      "knowledgeNodes": ["DS5_N2", "DS5_N3", "DS5_N7"],
+      "workingScientificallyOutcomes": ["SC5-WS-06", "SC5-WS-08"],
+      "drivingQuestion": "How can we decide whether online science information is trustworthy?",
+      "coreProject": "CRAAP-check evaluator in Observable applied to live web samples; mini peer-review simulation flowchart.",
+      "formativeAssessment": "Source-credibility rubric auto-graded with instant AI hints.",
+      "lessons": ["W2L1", "W2L2", "W2L3"]
+    },
+    {
+      "week": 3,
+      "knowledgeNodes": ["DS5_N4", "DS5_N7", "DS5_N8"],
+      "workingScientificallyOutcomes": ["SC5-WS-02", "SC5-WS-08"],
+      "drivingQuestion": "What makes a public claim truly scientific?",
+      "coreProject": "Media-claim annotation notebook; classify headlines and adverts as testable science or pseudoscience.",
+      "formativeAssessment": "AI click-and-highlight quiz; think-pair-share debrief.",
+      "lessons": ["W3L1", "W3L2", "W3L3"]
+    },
+    {
+      "week": 4,
+      "knowledgeNodes": ["DS5_N9", "DS5_N19"],
+      "workingScientificallyOutcomes": ["SC5-WS-06"],
+      "drivingQuestion": "How can graphs mislead us and how can we predict responsibly?",
+      "coreProject": "Observable scale-manipulator: rebuild honest vs misleading graphs; interpolate-extrapolate slider tool.",
+      "formativeAssessment": "Graph-critique quick-write auto-scored with targeted AI feedback.",
+      "lessons": ["W4L1", "W4L2", "W4L3"]
+    },
+    {
+      "week": 5,
+      "knowledgeNodes": ["DS5_N12", "DS5_N13", "DS5_N14"],
+      "workingScientificallyOutcomes": ["SC5-WS-05"],
+      "drivingQuestion": "Where do we find big datasets and what stories do they tell at a glance?",
+      "coreProject": "Data-portal treasure hunt; spreadsheet descriptive-stats walkthrough on BoM climate data.",
+      "formativeAssessment": "Spreadsheet auto-grader for mean/median/IQR; exit quiz.",
+      "lessons": ["W5L1", "W5L2", "W5L3"]
+    },
+    {
+      "week": 6,
+      "knowledgeNodes": ["DS5_N15a"],
+      "workingScientificallyOutcomes": ["SC5-WS-05", "SC5-WS-06"],
+      "drivingQuestion": "What patterns emerge from a single variable in a large dataset?",
+      "coreProject": "Histogram & box-plot builder notebook with interactive interpretation prompts.",
+      "formativeAssessment": "Distribution-shape auto-quiz; AI hint generator for misconceptions.",
+      "lessons": ["W6L1", "W6L2", "W6L3"]
+    },
+    {
+      "week": 7,
+      "knowledgeNodes": ["DS5_N15b", "DS5_N16"],
+      "workingScientificallyOutcomes": ["SC5-WS-06"],
+      "drivingQuestion": "Do two variables dance together or is it just coincidence?",
+      "coreProject": "Scatter-plot explorer with live correlation meter; correlation-vs-causation scenario cards.",
+      "formativeAssessment": "AI-moderated correlation reasoning check; misconception trigger alerts.",
+      "lessons": ["W7L1", "W7L2", "W7L3"]
+    },
+    {
+      "week": 8,
+      "knowledgeNodes": ["DS5_N5", "DS5_N20"],
+      "workingScientificallyOutcomes": ["SC5-WS-06", "SC5-WS-08"],
+      "drivingQuestion": "How strong is our argument—and where might it break?",
+      "coreProject": "Claim-Evidence-Reasoning (CER) mapper linked to uncertainty calculator on student-chosen dataset.",
+      "formativeAssessment": "Peer-reviewed CER with AI rubric & adaptive hints.",
+      "lessons": ["W8L1", "W8L2", "W8L3"]
+    },
+    {
+      "week": 9,
+      "knowledgeNodes": ["DS5_N18", "DS5_N21", "DS5_N22"],
+      "workingScientificallyOutcomes": ["SC5-WS-07"],
+      "drivingQuestion": "How do we weigh evidence to make real-world science decisions?",
+      "coreProject": "Interactive decision matrix on a local sustainability case; scenario simulator shows consequences.",
+      "formativeAssessment": "AI-graded justification paragraph; decision matrix completeness check.",
+      "lessons": ["W9L1", "W9L2", "W9L3"]
+    },
+    {
+      "week": 10,
+      "knowledgeNodes": ["DS5_N6", "DS5_N10", "DS5_N17", "DS5_N23"],
+      "workingScientificallyOutcomes": ["SC5-WS-08"],
+      "drivingQuestion": "How do scientists craft persuasive, evidence-backed arguments for the world?",
+      "coreProject": "Capstone: write & peer-review a CER report using a large dataset; evaluate a pseudoscientific claim; create a Tufte-style data poster.",
+      "formativeAssessment": "Milestone check-ins via AI writing coach and oral defense mini-viva.",
+      "lessons": ["W10L1", "W10L2", "W10L3"]
+    }
+  ]
+}

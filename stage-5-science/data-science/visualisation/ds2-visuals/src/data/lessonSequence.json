@@ -1,0 +1,1074 @@
+{
+  "lessons": [
+    {
+      "lessonId": "W1L1",
+      "title": "What Makes a Question Investigable?",
+      "duration": "55 min",
+      "alignedNodes": ["DS5_N1"],
+      "learningOutcomes": [
+        { "syllabusCode": "SC5-DA2-01", "bloom": "Understand" },
+        { "syllabusCode": "SC5-WS-02", "bloom": "Apply" }
+      ],
+      "cognitiveLoadBand": 2,
+      "overview": "Students learn to distinguish investigable from non-investigable questions by applying explicit criteria (testable, measurable, ethical, resource-feasible). An interactive drag-and-drop activity in Observable anchors understanding and surfaces common misconceptions before students practise writing their own scientific questions.",
+      "activities": {
+        "warmUp": "5 min – Retrieval poll: “What makes a scientific question ‘investigable’?” (DS5_N1 retrieval template #1).",
+        "main": [
+          "Hands-on: Observable cell where students drag and drop 12 sample questions into ‘Investigable’ or ‘Non-Investigable’ bins with instant feedback (node DS5_N1).",
+          "Mini-lecture (6 slides) unpacking the criteria checklist; worked examples modelled aloud."
+        ],
+        "reflection": "Think-pair-share: choose one non-investigable question and rewrite it so it becomes investigable; share using the CER prompt frame."
+      },
+      "assessment": {
+        "formative": "Auto-graded 3-item quiz embedded in notebook (classification + short-answer).",
+        "misconceptionCheck": "If a student mis-classifies ≥2 items, the AI triggers DS5_N1.adaptiveScaffold (criteria checklist hint)."
+      },
+      "materials": {
+        "slides": "drive.google.com/file/d/slide-deck-W1L1",
+        "notebook": "https://observablehq.com/@school/ds5_w1l1_investigable",
+        "handout": "docs.google.com/document/d/criteria_checklist",
+        "pythonNotebook": ""
+      },
+      "extension": "Investigate an online headline and apply the CRAAP checklist (pre-view of DS5_N3).",
+      "aiIntegration": {
+        "assistantRole": "Explains wrong answers in plain English and schedules spaced-practice reminders.",
+        "weeklySummaryHook": true
+      }
+    },
+    {
+      "lessonId": "W1L2",
+      "title": "Big Data and the ‘5 Vs’",
+      "duration": "55 min",
+      "alignedNodes": ["DS5_N11"],
+      "learningOutcomes": [
+        { "syllabusCode": "SC5-DA2-01", "bloom": "Remember" },
+        { "syllabusCode": "SC5-WS-06", "bloom": "Understand" }
+      ],
+      "cognitiveLoadBand": 2,
+      "overview": "Students are introduced to the concept of large datasets (Big Data). Using a Tufte-style infographic with hover tool-tips, they explore the 5 Vs—Volume, Velocity, Variety, Veracity and Value—and link each characteristic to real scientific examples, laying the groundwork for later data-analysis skills.",
+      "activities": {
+        "warmUp": "5 min – Retrieval Q: “List three of the 5 Vs that define Big Data.” (DS5_N11 template #1).",
+        "main": [
+          "Interactive infographic walk-through: students mouse-over icons to reveal concise definitions and examples (node DS5_N11).",
+          "Small-multiple demo: teacher showcases three scientific projects (e.g., BoM climate records, genomics, social-media epidemiology) and asks which Vs they illustrate."
+        ],
+        "reflection": "Exit-ticket: students summarise which V they think is most challenging for scientists and why (padlet)."
+      },
+      "assessment": {
+        "formative": "Embedded 5-item multiple-choice quiz with auto-marking and confidence rating.",
+        "misconceptionCheck": "If a learner confuses ‘Volume’ with ‘Value’, AI agent surfaces mnemonic and prompts review card."
+      },
+      "materials": {
+        "slides": "drive.google.com/file/d/slide-deck-W1L2",
+        "notebook": "https://observablehq.com/@school/ds5_w1l2_5vs",
+        "handout": "docs.google.com/document/d/5v_infographic_print",
+        "pythonNotebook": ""
+      },
+      "extension": "Students search Kaggle for a dataset and tag which Vs it exemplifies in a shared sheet.",
+      "aiIntegration": {
+        "assistantRole": "Provides personalised flashcards for any Vs the student scored <80 % on.",
+        "weeklySummaryHook": true
+      }
+    },
+    {
+      "lessonId": "W1L3",
+      "title": "From Curiosity to Data-Driven Questions",
+      "duration": "55 min",
+      "alignedNodes": ["DS5_N1", "DS5_N11"],
+      "learningOutcomes": [
+        { "syllabusCode": "SC5-DA2-01", "bloom": "Apply" },
+        { "syllabusCode": "SC5-WS-02", "bloom": "Apply" }
+      ],
+      "cognitiveLoadBand": 2,
+      "overview": "Building on earlier lessons, students craft their own investigable questions that could be answered with large datasets. They apply the 5 Vs lens to judge feasibility, then peer-critique using a digital checklist, readying them for deeper data inquiries later in the course.",
+      "activities": {
+        "warmUp": "5 min – Retrieval Q: “Give one scientific use of large datasets.” (DS5_N11 template #3).",
+        "main": [
+          "Guided brainstorming: students list personal curiosities; teacher models refining one into an investigable question (DS5_N1 criteria).",
+          "Structured template: in Notebook, each student drafts three questions and tags which Vs are most relevant for data acquisition; peer review via comment threads."
+        ],
+        "reflection": "Gallery walk: share best question on class board and justify why it meets all criteria."
+      },
+      "assessment": {
+        "formative": "AI rubric checks each drafted question against criteria (pass/fail badge).",
+        "misconceptionCheck": "If criteria not met, adaptive hints remind students to make the variable measurable or specify context."
+      },
+      "materials": {
+        "slides": "drive.google.com/file/d/slide-deck-W1L3",
+        "notebook": "https://observablehq.com/@school/ds5_w1l3_question_builder",
+        "handout": "docs.google.com/document/d/investigable_question_template",
+        "pythonNotebook": ""
+      },
+      "extension": "Advanced: pull a public BoM dataset and draft a specific hypothesis to test next term.",
+      "aiIntegration": {
+        "assistantRole": "Highlights unnoticed vagueness in student questions and suggests sharper wording.",
+        "weeklySummaryHook": true
+      }
+    },
+    {
+      "lessonId": "W2L1",
+      "title": "How Does Science Keep Itself Honest?",
+      "duration": "55 min",
+      "alignedNodes": ["DS5_N2"],
+      "learningOutcomes": [
+        { "syllabusCode": "SC5-DA2-01", "bloom": "Understand" },
+        { "syllabusCode": "SC5-WS-06", "bloom": "Understand" }
+      ],
+      "cognitiveLoadBand": 3,
+      "overview": "Students trace the cyclical process that verifies and refines scientific knowledge—hypothesis, experimentation, data analysis, peer review and replication—using an interactive narrative-stepper flowchart. They examine a historical case study, identify where checks occurred, and discuss how each stage reduces error, building critical appreciation of science’s self-correcting nature.",
+      "activities": {
+        "warmUp": "5 min – Retrieval poll: “What is the role of peer review in science?” (DS5_N2 template #1).",
+        "main": [
+          "Narrative-stepper interactive: students click through each stage of the verification cycle (node DS5_N2) with embedded micro-questions.",
+          "Case study carousel: small groups map the discovery of penicillin onto the cycle, placing sticky notes at each verification stage."
+        ],
+        "reflection": "Think-pair-share: Which stage of the cycle do you consider most important for preventing misinformation, and why?"
+      },
+      "assessment": {
+        "formative": "4-item auto-graded quiz embedded in the flowchart (ordering stages + short response).",
+        "misconceptionCheck": "If a student claims peer review guarantees correctness, AI surfaces DS5_N2.adaptiveScaffold clarifying peer review limits."
+      },
+      "materials": {
+        "slides": "drive.google.com/file/d/slide-deck-W2L1",
+        "notebook": "https://observablehq.com/@school/ds5_w2l1_verification_cycle",
+        "handout": "docs.google.com/document/d/penicillin_case_map",
+        "pythonNotebook": ""
+      },
+      "extension": "Research another discovery (e.g., Higgs boson) and annotate where replication strengthened acceptance.",
+      "aiIntegration": {
+        "assistantRole": "Explains stage-order errors and schedules spaced retrieval on DS5_N2.",
+        "weeklySummaryHook": true
+      }
+    },
+    {
+      "lessonId": "W2L2",
+      "title": "The CRAAP Test: Evaluating Online Science Sources",
+      "duration": "55 min",
+      "alignedNodes": ["DS5_N3", "DS5_N2"],
+      "learningOutcomes": [
+        { "syllabusCode": "SC5-DA2-01", "bloom": "Apply" },
+        { "syllabusCode": "SC5-WS-06", "bloom": "Apply" }
+      ],
+      "cognitiveLoadBand": 3,
+      "overview": "Students learn and practise the CRAAP framework—Currency, Relevance, Authority, Accuracy, Purpose—to judge scientific information online. Using an interactive checklist, they evaluate two contrasting COVID-19 articles, justify scores, and link the idea of peer review (previous lesson) to the ‘Authority’ and ‘Accuracy’ criteria.",
+      "activities": {
+        "warmUp": "5 min – Retrieval Q: “List the five components of the CRAAP test.” (DS5_N3 template #1).",
+        "main": [
+          "Mini-lecture + worked example evaluating NASA climate page (live demo).",
+          "Paired activity: students run the CRAAP checklist on Article A (peer-reviewed) and Article B (blogpost) in Observable evaluator (node DS5_N3); auto-scores populate class heat-map."
+        ],
+        "reflection": "Whole-class discussion: Which criterion produced the biggest score gap and why?"
+      },
+      "assessment": {
+        "formative": "AI-scored rubric: each pair’s CRAAP sheet must reach ≥70 %. Instant hints for low Authority or Accuracy justifications.",
+        "misconceptionCheck": "If students cite website design as evidence of reliability, adaptive scaffold prompts critical questions about authorship."
+      },
+      "materials": {
+        "slides": "drive.google.com/file/d/slide-deck-W2L2",
+        "notebook": "https://observablehq.com/@school/ds5_w2l2_craap_evaluator",
+        "handout": "docs.google.com/document/d/craap_rubric",
+        "pythonNotebook": ""
+      },
+      "extension": "Individually evaluate a TikTok science claim; submit CRAAP screenshot to class padlet.",
+      "aiIntegration": {
+        "assistantRole": "Highlights weak justifications and offers sentence starters for improvements.",
+        "weeklySummaryHook": true
+      }
+    },
+    {
+      "lessonId": "W2L3",
+      "title": "Science vs Pseudoscience: Spot the Red Flags",
+      "duration": "55 min",
+      "alignedNodes": ["DS5_N7", "DS5_N3"],
+      "learningOutcomes": [
+        { "syllabusCode": "SC5-DA2-01", "bloom": "Understand" },
+        { "syllabusCode": "SC5-WS-08", "bloom": "Analyse" }
+      ],
+      "cognitiveLoadBand": 2,
+      "overview": "Building critical-thinking muscles, students compare defining features of science and pseudoscience through an interactive table. They then classify real adverts and news headlines, annotating red-flag language. Links to CRAAP criteria reinforce evaluation skills, preparing students to challenge misinformation.",
+      "activities": {
+        "warmUp": "5 min – Retrieval Q: “What does it mean for a claim to be ‘falsifiable’?” (DS5_N7 template #2).",
+        "main": [
+          "Interactive comparison table (node DS5_N7) where students toggle characteristics; quick quiz after each toggle.",
+          "Gallery walk: small-multiples of adverts/headlines; students use annotation tool to label as science or pseudoscience, citing at least two indicators."
+        ],
+        "reflection": "Circle-of-viewpoints: How might a consumer be convinced by a pseudoscientific claim despite red flags?"
+      },
+      "assessment": {
+        "formative": "Auto-graded classification accuracy on gallery items (≥80 % to pass).",
+        "misconceptionCheck": "If a student equates longevity of belief with scientific validity, AI hints show counter-examples (e.g., geocentrism)."
+      },
+      "materials": {
+        "slides": "drive.google.com/file/d/slide-deck-W2L3",
+        "notebook": "https://observablehq.com/@school/ds5_w2l3_science_vs_pseudo",
+        "handout": "docs.google.com/document/d/pseudo_red_flag_list",
+        "pythonNotebook": ""
+      },
+      "extension": "Create a two-minute podcast debunking a chosen pseudoscientific product.",
+      "aiIntegration": {
+        "assistantRole": "Provides personalised flashcards of science vs pseudoscience traits and schedules review.",
+        "weeklySummaryHook": true
+      }
+    },
+    {
+      "lessonId": "W3L1",
+      "title": "Recognising Scientific Claims in the Media",
+      "duration": "55 min",
+      "alignedNodes": ["DS5_N4"],
+      "learningOutcomes": [
+        { "syllabusCode": "SC5-DA2-01", "bloom": "Analyse" },
+        { "syllabusCode": "SC5-WS-02", "bloom": "Apply" }
+      ],
+      "cognitiveLoadBand": 3,
+      "overview": "Students learn to pinpoint scientific claims in real news and advertising texts, decide whether each is specific, measurable and testable, and justify their decisions. This sharpens their questioning skills before they later evaluate evidence supporting those claims.",
+      "activities": {
+        "warmUp": "5 min – Retrieval poll using DS5_N4 template #1: identify the main claim in a headline shown on screen.",
+        "main": [
+          "Interactive annotation: Observable notebook where students highlight claims in three short news excerpts; tool checks for correct selection (node DS5_N4).",
+          "Mini-lecture (8 slides) explaining criteria for testable claims with worked examples; addresses DS5_N4 misconceptions."
+        ],
+        "reflection": "Think-pair-share: rewrite one vague claim so that it becomes testable and discuss what changed."
+      },
+      "assessment": {
+        "formative": "Auto-graded 4-item quiz (identify claim + judge testability).",
+        "misconceptionCheck": "Students who mis-classify ≥2 items receive adaptive hint from DS5_N4.adaptiveScaffold."
+      },
+      "materials": {
+        "slides": "link/slide-deck-W3L1",
+        "notebook": "https://observablehq.com/@school/ds5_w3l1_claim_finder",
+        "handout": "docs.google.com/document/d/testable_claim_checklist",
+        "pythonNotebook": ""
+      },
+      "extension": "Find a TikTok science statement and rewrite it into a testable claim.",
+      "aiIntegration": {
+        "assistantRole": "Explains why selected text is or isn’t a claim; schedules spaced practice on DS5_N4.",
+        "weeklySummaryHook": true
+      }
+    },
+    {
+      "lessonId": "W3L2",
+      "title": "Science vs Pseudoscience – Core Features",
+      "duration": "55 min",
+      "alignedNodes": ["DS5_N7"],
+      "learningOutcomes": [
+        { "syllabusCode": "SC5-DA2-01", "bloom": "Understand" },
+        { "syllabusCode": "SC5-WS-08", "bloom": "Analyse" }
+      ],
+      "cognitiveLoadBand": 2,
+      "overview": "Through an interactive comparison table, students contrast hallmarks of science with pseudoscience—testability, falsifiability, peer review and evidence use—equipping them to spot unreliable claims in forthcoming media-analysis tasks.",
+      "activities": {
+        "warmUp": "5 min – Retrieval Q: “List two key differences between science and pseudoscience.” (DS5_N7 template #1).",
+        "main": [
+          "Linked-view table: students toggle characteristics and examples to sort into ‘Science’ vs ‘Pseudoscience’ (node DS5_N7).",
+          "Group discussion: analyse provided example of astrology and map to table features."
+        ],
+        "reflection": "Exit ticket on Padlet: which feature is easiest and which hardest to check in real life?"
+      },
+      "assessment": {
+        "formative": "Embedded matching quiz (features ↔ examples) with instant feedback.",
+        "misconceptionCheck": "If student clicks longevity-of-belief as science marker, AI surfaces DS5_N7.adaptiveScaffold."
+      },
+      "materials": {
+        "slides": "link/slide-deck-W3L2",
+        "notebook": "https://observablehq.com/@school/ds5_w3l2_science_vs_pseudo",
+        "handout": "docs.google.com/document/d/science_pseudo_table",
+        "pythonNotebook": ""
+      },
+      "extension": "Research a historical pseudoscience and identify which core scientific features it lacked.",
+      "aiIntegration": {
+        "assistantRole": "Creates personalised flashcards of science vs pseudoscience traits.",
+        "weeklySummaryHook": true
+      }
+    },
+    {
+      "lessonId": "W3L3",
+      "title": "Spotting Red Flags: Classifying Real-World Claims",
+      "duration": "55 min",
+      "alignedNodes": ["DS5_N4", "DS5_N8", "DS5_N7"],
+      "learningOutcomes": [
+        { "syllabusCode": "SC5-DA2-01", "bloom": "Apply" },
+        { "syllabusCode": "SC5-WS-08", "bloom": "Analyse" }
+      ],
+      "cognitiveLoadBand": 3,
+      "overview": "Students apply their knowledge of testable claims and pseudoscience indicators to a gallery of genuine adverts and headlines, annotating ‘red-flag’ language and classifying each item as science or pseudoscience with justification.",
+      "activities": {
+        "warmUp": "5 min – Retrieval Q: “Give one red flag that may indicate a claim is pseudoscientific.” (DS5_N8 template #3).",
+        "main": [
+          "Interactive gallery (node DS5_N8): students classify 10 media items; linked rubric tallies science vs pseudoscience choices.",
+          "Small-multiple debrief: teacher projects items most frequently mis-classified and discusses why, reinforcing DS5_N4 testability criteria and DS5_N7 features."
+        ],
+        "reflection": "Carousel reflection: students rotate to peers’ screens to compare annotations and vote on strongest justification."
+      },
+      "assessment": {
+        "formative": "Auto-graded classification accuracy (target ≥80 %).",
+        "misconceptionCheck": "If student selects testimonials as scientific evidence, AI provides hint highlighting lack of measurable data."
+      },
+      "materials": {
+        "slides": "link/slide-deck-W3L3",
+        "notebook": "https://observablehq.com/@school/ds5_w3l3_red_flag_gallery",
+        "handout": "docs.google.com/document/d/red_flag_checklist",
+        "pythonNotebook": ""
+      },
+      "extension": "Create a short infographic debunking one pseudoscientific claim from the gallery using evidence from reputable sources.",
+      "aiIntegration": {
+        "assistantRole": "Generates feedback on justification strength and suggests evidence links for debunking tasks.",
+        "weeklySummaryHook": true
+      }
+    },
+    {
+      "lessonId": "W4L1",
+      "title": "Lies, Damned Lies and Graphs",
+      "duration": "55 min",
+      "alignedNodes": ["DS5_N9"],
+      "learningOutcomes": [
+        { "syllabusCode": "SC5-DA2-01", "bloom": "Analyse" },
+        { "syllabusCode": "SC5-WS-06", "bloom": "Analyse" }
+      ],
+      "cognitiveLoadBand": 4,
+      "overview": "Students discover how data can be distorted through cherry-picking, truncated axes and other tricks. Using an interactive honest-vs-dishonest graph tool, they identify manipulation techniques, explain their impact on interpretation, and begin developing a healthy scepticism toward visual data in media and advertising.",
+      "activities": {
+        "warmUp": "5 min – Retrieval Q: “Explain how truncating the Y-axis can be misleading.” (DS5_N9 template #1).",
+        "main": [
+          "Interactive comparison: Observable scale-manipulator shows the same dataset with and without distortions; students toggle settings and note perception changes (node DS5_N9).",
+          "Mini-lecture (8 slides) outlining five common distortion techniques; teacher models identifying each in real news graphs.",
+          "Group challenge: Teams receive printed graphs, highlight distortions, and label the technique using a checklist."
+        ],
+        "reflection": "3-2-1 exit slip: 3 distortions you saw, 2 that fooled you most, 1 strategy to avoid being misled."
+      },
+      "assessment": {
+        "formative": "Auto-graded 5-item quiz classifying new graphs and naming the distortion.",
+        "misconceptionCheck": "If a student misses ≥2, AI triggers DS5_N9.adaptiveScaffold (distortion checklist prompt)."
+      },
+      "materials": {
+        "slides": "drive.google.com/file/d/slide-deck-W4L1",
+        "notebook": "https://observablehq.com/@school/ds5_w4l1_graph_distortions",
+        "handout": "docs.google.com/document/d/distortion_checklist",
+        "pythonNotebook": ""
+      },
+      "extension": "Find a graph on social media and critique any distortion present in a short blog post.",
+      "aiIntegration": {
+        "assistantRole": "Explains why each graph is misleading and schedules spaced-practice cards on distortion types.",
+        "weeklySummaryHook": true
+      }
+    },
+    {
+      "lessonId": "W4L2",
+      "title": "Predicting with Graphs: Interpolation & Extrapolation",
+      "duration": "55 min",
+      "alignedNodes": ["DS5_N19"],
+      "learningOutcomes": [
+        { "syllabusCode": "SC5-DA2-01", "bloom": "Apply" },
+        { "syllabusCode": "SC5-WS-06", "bloom": "Apply" }
+      ],
+      "cognitiveLoadBand": 3,
+      "overview": "Students use an interactive line-of-best-fit tool to practise estimating values within (interpolation) and beyond (extrapolation) observed data while articulating assumptions and uncertainties, building quantitative reasoning for future data-driven predictions.",
+      "activities": {
+        "warmUp": "5 min – Retrieval Q: “Why must extrapolation be treated with more caution than interpolation?” (DS5_N19 template #3).",
+        "main": [
+          "Teacher demo: drag-to-predict slider on a climate-trend graph; highlight how error bars widen outside data range.",
+          "Hands-on: each student explores a dataset (battery-life vs charge cycles); interpolates one value and extrapolates another, recording limitations in notebook (node DS5_N19).",
+          "Pair discussion: compare predictions—whose extrapolation differed most and why?"
+        ],
+        "reflection": "Exit ticket: state one assumption you made during extrapolation and how it might fail."
+      },
+      "assessment": {
+        "formative": "Auto-graded task: students predict a 2050 data point and supply one limitation; AI checks for mention of uncertainty.",
+        "misconceptionCheck": "If limitation missing, adaptive scaffold shows DS5_N19 warning examples."
+      },
+      "materials": {
+        "slides": "drive.google.com/file/d/slide-deck-W4L2",
+        "notebook": "https://observablehq.com/@school/ds5_w4l2_interpolate_extrapolate",
+        "handout": "docs.google.com/document/d/interpolation_vs_extrapolation_notes",
+        "pythonNotebook": ""
+      },
+      "extension": "Investigate a historical trend that later changed direction (e.g., whale populations) and explain why extrapolation failed.",
+      "aiIntegration": {
+        "assistantRole": "Gives personalised feedback on prediction accuracy and prompts reflection on confidence levels.",
+        "weeklySummaryHook": true
+      }
+    },
+    {
+      "lessonId": "W4L3",
+      "title": "Fix the Chart, Forecast with Care",
+      "duration": "55 min",
+      "alignedNodes": ["DS5_N9", "DS5_N19"],
+      "learningOutcomes": [
+        { "syllabusCode": "SC5-DA2-01", "bloom": "Evaluate" },
+        { "syllabusCode": "SC5-WS-06", "bloom": "Analyse" }
+      ],
+      "cognitiveLoadBand": 4,
+      "overview": "Students synthesise skills by redesigning a misleading graph into an honest version, then using the corrected graph to interpolate and extrapolate responsibly, explicitly noting uncertainty. This consolidates understanding of ethical data presentation and cautious prediction.",
+      "activities": {
+        "warmUp": "5 min – Retrieval Q: “Name two ways a graph can distort data.” (DS5_N9 template #2).",
+        "main": [
+          "Redesign workshop: students import a distorted graph into the Observable notebook, adjust axes and remove cherry-picked points to create an honest version (node DS5_N9).",
+          "Prediction task: using their cleaned graph, students interpolate one value and extrapolate one, adding error bars (node DS5_N19).",
+          "Peer critique: pairs exchange graphs, verify honesty and review prediction limitations."
+        ],
+        "reflection": "Traffic-light reflection: Red = still unsure about…, Yellow = need more practice with…, Green = confident I can…"
+      },
+      "assessment": {
+        "formative": "AI rubric grades each graph on distortion-free presentation and quality of prediction commentary.",
+        "misconceptionCheck": "If axis still truncated, AI flags DS5_N9 hint; if extrapolation lacks limitation statement, AI triggers DS5_N19 scaffold."
+      },
+      "materials": {
+        "slides": "drive.google.com/file/d/slide-deck-W4L3",
+        "notebook": "https://observablehq.com/@school/ds5_w4l3_fix_and_forecast",
+        "handout": "docs.google.com/document/d/graph_redesign_rubric",
+        "pythonNotebook": ""
+      },
+      "extension": "Submit redesigned graph to the ‘Bad Graphs Hall of Fame’ class blog with a 150-word critique and forecast.",
+      "aiIntegration": {
+        "assistantRole": "Provides line-by-line feedback on graph integrity and auto-generates spaced-practice questions mixing distortion types and prediction scenarios.",
+        "weeklySummaryHook": true
+      }
+    },
+    {
+      "lessonId": "W5L1",
+      "title": "Treasure Hunt: Finding Reliable Large Datasets",
+      "duration": "55 min",
+      "alignedNodes": ["DS5_N12"],
+      "learningOutcomes": [
+        { "syllabusCode": "SC5-DA2-01", "bloom": "Apply" },
+        { "syllabusCode": "SC5-WS-02", "bloom": "Apply" }
+      ],
+      "cognitiveLoadBand": 3,
+      "overview": "Students learn where scientists source trustworthy large datasets and how to read metadata to judge suitability. After a live demo of the Bureau of Meteorology portal, pairs embark on a ‘data treasure hunt’, locating a dataset, identifying key variables, and drafting one testable question each—laying the groundwork for upcoming statistical analysis.",
+      "activities": {
+        "warmUp": "5 min – Retrieval quiz: “Suggest a reputable source for large scientific datasets.” (DS5_N12 template #1).",
+        "main": [
+          "Teacher walkthrough: navigating BoM climate portal; spotlight on metadata fields (variables, time span, geography).",
+          "Pair task: Treasure-hunt worksheet—locate one dataset from BoM, ABS or CSIRO; record variables available and data size in Observable form linked to node DS5_N12.",
+          "Draft a testable question aligned to the located dataset; peer swap for quick feedback using DS5_N1 criteria."
+        ],
+        "reflection": "Jamboard: Post the most interesting variable you found and why it could answer a scientific question."
+      },
+      "assessment": {
+        "formative": "AI-checked form validates that dataset URL, variable list and question all match criteria; instant badge for completeness.",
+        "misconceptionCheck": "If question cannot be answered by chosen dataset, adaptive scaffold prompts students to revisit metadata (DS5_N12.adaptiveScaffold)."
+      },
+      "materials": {
+        "slides": "drive.google.com/file/d/slide-deck-W5L1",
+        "notebook": "https://observablehq.com/@school/ds5_w5l1_data_treasure_hunt",
+        "handout": "docs.google.com/document/d/data_portal_guide",
+        "pythonNotebook": ""
+      },
+      "extension": "Individually explore NASA’s open-data portal and draft a question about global CO₂ trends.",
+      "aiIntegration": {
+        "assistantRole": "Suggests alternative portals if links fail; checks metadata understanding; schedules spaced recall on dataset sourcing.",
+        "weeklySummaryHook": true
+      }
+    },
+    {
+      "lessonId": "W5L2",
+      "title": "Crunching Numbers: Descriptive Statistics with Spreadsheets",
+      "duration": "55 min",
+      "alignedNodes": ["DS5_N13"],
+      "learningOutcomes": [
+        { "syllabusCode": "SC5-DA2-01", "bloom": "Apply" },
+        { "syllabusCode": "SC5-WS-05", "bloom": "Apply" }
+      ],
+      "cognitiveLoadBand": 3,
+      "overview": "Using a BoM rainfall dataset, students practise calculating mean, median, mode, range and inter-quartile range in Google Sheets. A screencast models each function before students complete guided steps, interpret results, and note when median or IQR are preferable—building numeracy fluency required for later visualisation work.",
+      "activities": {
+        "warmUp": "5 min – Retrieval Q: “When might the median be more useful than the mean?” (DS5_N13 template #2).",
+        "main": [
+          "Screencast tutorial: teacher demos AVERAGE, MEDIAN, MODE, MAX–MIN, QUARTILE functions on sample data (node DS5_N13).",
+          "Hands-on worksheet: students import their treasure-hunt dataset (or teacher sample) and compute all five statistics; colour-code cells via conditional formatting to spot outliers.",
+          "Pair explanation: discuss which statistic best represents the data and why."
+        ],
+        "reflection": "One-minute paper: ‘Which function confused you most and what quick tip helps?’"
+      },
+      "assessment": {
+        "formative": "Sheets add-on script auto-checks formula correctness; score displayed on sidebar.",
+        "misconceptionCheck": "If mean used where outliers dominate, AI hint explains outlier influence and suggests median."
+      },
+      "materials": {
+        "slides": "drive.google.com/file/d/slide-deck-W5L2",
+        "notebook": "https://observablehq.com/@school/ds5_w5l2_stats_walkthrough",
+        "handout": "docs.google.com/document/d/spreadsheet_function_cheatsheet",
+        "pythonNotebook": ""
+      },
+      "extension": "Apply the same functions to an ABS population dataset and compare spread between two states.",
+      "aiIntegration": {
+        "assistantRole": "Flags formula errors, provides step-by-step fixes, and queues personalised drill questions on statistical terms.",
+        "weeklySummaryHook": true
+      }
+    },
+    {
+      "lessonId": "W5L3",
+      "title": "Seeing the Story: Why Summaries & Graphs Matter",
+      "duration": "55 min",
+      "alignedNodes": ["DS5_N14", "DS5_N13"],
+      "learningOutcomes": [
+        { "syllabusCode": "SC5-DA2-01", "bloom": "Understand" },
+        { "syllabusCode": "SC5-WS-06", "bloom": "Analyse" }
+      ],
+      "cognitiveLoadBand": 2,
+      "overview": "Students contrast raw tables with summary statistics and graphs to appreciate how descriptive measures and visualisations reveal patterns quickly. An interactive linked-view shows a large dataset, its calculated summaries and a histogram side-by-side, prompting students to articulate advantages of each representation for communication and insight.",
+      "activities": {
+        "warmUp": "5 min – Retrieval Q: “List two benefits of using descriptive statistics.” (DS5_N14 template #1).",
+        "main": [
+          "Linked-view demo (node DS5_N14): toggle between raw BoM rainfall table, summary stats and histogram; class discusses visibility of patterns.",
+          "Small-group task: each group receives new data slice; creates a histogram and writes three insights visible in graph but not in table.",
+          "Gallery walk: groups post screenshots; peers leave sticky-note comments on clarity."
+        ],
+        "reflection": "Exit ticket: ‘When communicating to a non-expert, would you choose a table, stats summary or graph—and why?’"
+      },
+      "assessment": {
+        "formative": "AI rubric checks each group’s insight statements for reference to centre/spread and pattern; immediate feedback.",
+        "misconceptionCheck": "If students claim graphs are merely decorative, AI surfaces counter-example comparing pattern visibility."
+      },
+      "materials": {
+        "slides": "drive.google.com/file/d/slide-deck-W5L3",
+        "notebook": "https://observablehq.com/@school/ds5_w5l3_linked_views",
+        "handout": "docs.google.com/document/d/graph_vs_table_comparison",
+        "pythonNotebook": ""
+      },
+      "extension": "Redesign a newspaper data table as a clear graph using Tufte’s high data-ink principles; submit before/after images.",
+      "aiIntegration": {
+        "assistantRole": "Suggests graph types based on variable type; provides mini-quiz on choosing mean vs median for summaries.",
+        "weeklySummaryHook": true
+      }
+    },
+    {
+      "lessonId": "W6L1",
+      "title": "Shape of Data: Building Histograms",
+      "duration": "55 min",
+      "alignedNodes": ["DS5_N15a", "DS5_N13"],
+      "learningOutcomes": [
+        { "syllabusCode": "SC5-DA2-01", "bloom": "Apply" },
+        { "syllabusCode": "SC5-WS-05", "bloom": "Apply" }
+      ],
+      "cognitiveLoadBand": 3,
+      "overview": "Students learn to construct and interpret histograms for a single variable within a large dataset. An interactive bin-width slider reveals how distribution shape, centre and spread change visually, strengthening links between numerical summaries from Week 5 and graphical representations required for deeper analysis.",
+      "activities": {
+        "warmUp": "5 min – Retrieval Q: “What type of graph is best for showing the distribution of a single numerical variable?” (DS5_N15a template #3).",
+        "main": [
+          "Screencast demo: teacher builds a histogram in Google Sheets, narrating each step and function.",
+          "Hands-on: Observable histogram builder (node DS5_N15a) where students drag a slider to adjust bin width for BoM rainfall data and note changes in skew/outliers.",
+          "Think-pair discussion: identify whether the distribution is symmetric, left-skewed or right-skewed and record justification in notebook."
+        ],
+        "reflection": "Exit ticket: write one insight visible in the histogram but hidden in the raw table."
+      },
+      "assessment": {
+        "formative": "Auto-graded 4-item quiz: select correct histogram for a described dataset and label skew direction.",
+        "misconceptionCheck": "If a student misidentifies skew or chooses an inappropriate bin width, AI triggers DS5_N15a.adaptiveScaffold (examples of good vs poor bin choices)."
+      },
+      "materials": {
+        "slides": "drive.google.com/file/d/slide-deck-W6L1",
+        "notebook": "https://observablehq.com/@school/ds5_w6l1_histogram_builder",
+        "handout": "docs.google.com/document/d/histogram_cheatsheet",
+        "pythonNotebook": ""
+      },
+      "extension": "Import an ABS income dataset and compare histograms with 5-bin and 20-bin settings; justify preferred bin size.",
+      "aiIntegration": {
+        "assistantRole": "Highlights skew misinterpretations, suggests extra practice datasets and sets spaced-practice reminders.",
+        "weeklySummaryHook": true
+      }
+    },
+    {
+      "lessonId": "W6L2",
+      "title": "Box Plots: Visualising Spread and Outliers",
+      "duration": "55 min",
+      "alignedNodes": ["DS5_N15a"],
+      "learningOutcomes": [
+        { "syllabusCode": "SC5-DA2-01", "bloom": "Apply" },
+        { "syllabusCode": "SC5-WS-06", "bloom": "Analyse" }
+      ],
+      "cognitiveLoadBand": 3,
+      "overview": "Students construct box plots to summarise centre, spread and outliers. By linking quartiles to IQR, they decide when a box plot communicates data features better than a histogram, developing flexible graph-choice skills for forthcoming comparative tasks.",
+      "activities": {
+        "warmUp": "5 min – Retrieval Q: “What does the inter-quartile range tell you about a dataset?” (DS5_N13 template #3).",
+        "main": [
+          "Mini-lecture: quartiles, IQR and outlier fences; addresses DS5_N15a misconceptions about box-plot components.",
+          "Hands-on: Observable box-plot generator—students select a variable, create plot, and hover to display quartile values.",
+          "Paired explanation: partners annotate their box plot, marking median, IQR and any outliers, then swap for peer check."
+        ],
+        "reflection": "Traffic-light self-assessment: Green = confident explaining box plot, Yellow = need more practise, Red = still unclear on outliers."
+      },
+      "assessment": {
+        "formative": "AI script checks if plotted quartile values match spreadsheet calculations; instant feedback badge.",
+        "misconceptionCheck": "If student labels only the median on a box plot, AI prompts a scaffold showing all five-number summary elements."
+      },
+      "materials": {
+        "slides": "drive.google.com/file/d/slide-deck-W6L2",
+        "notebook": "https://observablehq.com/@school/ds5_w6l2_boxplot_maker",
+        "handout": "docs.google.com/document/d/boxplot_reference",
+        "pythonNotebook": ""
+      },
+      "extension": "Create parallel box plots comparing two locations’ rainfall and comment on differences in spread and outliers.",
+      "aiIntegration": {
+        "assistantRole": "Flags mis-labelled quartiles, offers interactive hints and schedules IQR flashcards.",
+        "weeklySummaryHook": true
+      }
+    },
+    {
+      "lessonId": "W6L3",
+      "title": "Distribution Detective: Choosing the Best View",
+      "duration": "55 min",
+      "alignedNodes": ["DS5_N15a", "DS5_N14"],
+      "learningOutcomes": [
+        { "syllabusCode": "SC5-DA2-01", "bloom": "Evaluate" },
+        { "syllabusCode": "SC5-WS-06", "bloom": "Analyse" }
+      ],
+      "cognitiveLoadBand": 3,
+      "overview": "Students compare histograms and box plots for the same dataset, evaluate which graph communicates specific insights more effectively, and justify their choice. This lesson consolidates univariate-analysis skills and links graphical choice to audience and purpose, echoing Tufte’s clarity principles.",
+      "activities": {
+        "warmUp": "5 min – Retrieval Q: “State one benefit of using a graph instead of a raw data table.” (DS5_N14 template #1).",
+        "main": [
+          "Linked-view Observable: raw data, histogram and box plot displayed side by side (node DS5_N14). Students toggle focus to highlight key features.",
+          "Group task: each team receives a different environmental variable; lists three insights visible in histogram, three in box plot, and votes on the clearer graph for each insight.",
+          "Whole-class debate: teams defend their graph choice; teacher records rationale on board under headings ‘centre’, ‘spread’, ‘outliers’, ‘shape’."
+        ],
+        "reflection": "Minute-paper: ‘When communicating with a policymaker, which graph would you use and why?’"
+      },
+      "assessment": {
+        "formative": "AI rubric scores each team’s justification (must reference at least two statistical concepts).",
+        "misconceptionCheck": "If explanations confuse centre and spread, AI surfaces DS5_N14 scaffold comparing mean/median to IQR/range."
+      },
+      "materials": {
+        "slides": "drive.google.com/file/d/slide-deck-W6L3",
+        "notebook": "https://observablehq.com/@school/ds5_w6l3_linked_distributions",
+        "handout": "docs.google.com/document/d/histogram_vs_boxplot_comparison",
+        "pythonNotebook": ""
+      },
+      "extension": "Students locate a published scientific paper and critique whether its chosen univariate graph best fits the data described.",
+      "aiIntegration": {
+        "assistantRole": "Provides feedback on justification depth, suggests improvement prompts, and queue spaced-practice mixing histogram and box-plot tasks.",
+        "weeklySummaryHook": true
+      }
+    },
+    {
+      "lessonId": "W7L1",
+      "title": "Plotting Pairs: Building Scatter Plots",
+      "duration": "55 min",
+      "alignedNodes": ["DS5_N15b"],
+      "learningOutcomes": [
+        { "syllabusCode": "SC5-DA2-01", "bloom": "Apply" },
+        { "syllabusCode": "SC5-WS-05", "bloom": "Apply" }
+      ],
+      "cognitiveLoadBand": 4,
+      "overview": "Students learn to create scatter plots for two variables, adjust axes, and recognise visual cues of positive, negative or zero correlation. Using an interactive builder, they plot study-time versus test-score data and describe emerging patterns, establishing the practical skills required for analysing relationships in large datasets.",
+      "activities": {
+        "warmUp": "5 min – Retrieval Q: “What does a positive correlation look like on a scatter plot?” (DS5_N15b template #2).",
+        "main": [
+          "Teacher screencast: step-by-step creation of a scatter plot in Google Sheets, highlighting proper axis labels and scale choices.",
+          "Hands-on: Observable scatter-plot builder (node DS5_N15b) where students upload paired BoM variables (e.g., temperature vs humidity) and instantly view plots.",
+          "Pair discussion: label their graph’s correlation direction and note any obvious clusters or outliers."
+        ],
+        "reflection": "Exit ticket: one insight visible in your scatter plot that cannot be seen in two separate tables."
+      },
+      "assessment": {
+        "formative": "Auto-graded 4-item quiz—choose correct scatter plot for a given relationship and identify direction.",
+        "misconceptionCheck": "If a student states that scatter plots must be linear, AI triggers DS5_N15b.adaptiveScaffold showing curved and no-trend examples."
+      },
+      "materials": {
+        "slides": "drive.google.com/file/d/slide-deck-W7L1",
+        "notebook": "https://observablehq.com/@school/ds5_w7l1_scatter_builder",
+        "handout": "docs.google.com/document/d/scatter_plot_cheatsheet",
+        "pythonNotebook": ""
+      },
+      "extension": "Import a WHO dataset (life expectancy vs GDP) and comment on correlation strength.",
+      "aiIntegration": {
+        "assistantRole": "Flags mislabelled axes, offers hints on choosing appropriate scales, and schedules spaced-practice on scatter-plot creation.",
+        "weeklySummaryHook": true
+      }
+    },
+    {
+      "lessonId": "W7L2",
+      "title": "Reading Patterns: Interpreting Correlation",
+      "duration": "55 min",
+      "alignedNodes": ["DS5_N15b", "DS5_N16"],
+      "learningOutcomes": [
+        { "syllabusCode": "SC5-DA2-01", "bloom": "Analyse" },
+        { "syllabusCode": "SC5-WS-06", "bloom": "Analyse" }
+      ],
+      "cognitiveLoadBand": 4,
+      "overview": "Building on plotting skills, students quantify and describe correlations. An interactive slider reveals correlation coefficients alongside plots, helping students connect visuals with numerical measures and recognise strong, weak and non-linear relationships—preparing them to judge whether apparent links warrant deeper causal investigation.",
+      "activities": {
+        "warmUp": "5 min – Retrieval Q: “Can a scatter plot show no relationship between two variables? Explain.” (DS5_N15b template #3).",
+        "main": [
+          "Interactive demo: teacher uses correlation-meter tool to show r-values changing with data points.",
+          "Hands-on: Students calculate correlation coefficient in Sheets (CORREL function) for yesterday’s dataset; they compare numeric value with visual impression.",
+          "Small-group task: classify six provided scatter plots by direction (positive/negative/none) and strength (strong/moderate/weak)."
+        ],
+        "reflection": "Padlet post: upload one plot and short caption describing its correlation in plain English."
+      },
+      "assessment": {
+        "formative": "AI-scored worksheet matching r-values to scatter images; ≥75 % required for mastery.",
+        "misconceptionCheck": "If student asserts r = 0.85 'proves' causation, AI surfaces DS5_N16 scaffold introducing confounding factors."
+      },
+      "materials": {
+        "slides": "drive.google.com/file/d/slide-deck-W7L2",
+        "notebook": "https://observablehq.com/@school/ds5_w7l2_correlation_meter",
+        "handout": "docs.google.com/document/d/correlation_interpretation_guide",
+        "pythonNotebook": ""
+      },
+      "extension": "Explore a non-linear dataset (age vs sleep hours) and discuss why correlation coefficient may mislead.",
+      "aiIntegration": {
+        "assistantRole": "Explains mismatches between visual and numeric correlation, suggests further examples, and sets spaced-practice tasks blending plots and r-values.",
+        "weeklySummaryHook": true
+      }
+    },
+    {
+      "lessonId": "W7L3",
+      "title": "Correlation ≠ Causation: Confounding Factors",
+      "duration": "55 min",
+      "alignedNodes": ["DS5_N16"],
+      "learningOutcomes": [
+        { "syllabusCode": "SC5-DA2-01", "bloom": "Evaluate" },
+        { "syllabusCode": "SC5-WS-06", "bloom": "Evaluate" }
+      ],
+      "cognitiveLoadBand": 3,
+      "overview": "Students investigate famous spurious correlations (e.g., ice-cream sales vs drowning) to understand why correlation alone cannot establish causation. Through interactive scenarios, they identify potential confounders, articulate alternative explanations, and practise cautious language when drawing conclusions from data.",
+      "activities": {
+        "warmUp": "5 min – Retrieval Q: “Give an example of two variables that are correlated but one does not cause the other.” (DS5_N16 template #2).",
+        "main": [
+          "Linked-view gallery (node DS5_N16) of quirky correlations; students vote whether plausible causation exists and propose confounders.",
+          "Case-study jigsaw: groups analyse different real research summaries, list confounding variables, and draft revised causal statements with caveats.",
+          "Class synthesis: build a collective checklist of questions to ask before inferring causation."
+        ],
+        "reflection": "Quick-write: apply checklist to a new headline provided by teacher; decide if claim is justified."
+      },
+      "assessment": {
+        "formative": "AI rubric evaluates each group’s confounder list and revised statement (must mention at least one alternative explanation).",
+        "misconceptionCheck": "If student still concludes causation from correlation, AI delivers DS5_N16.adaptiveScaffold scenario prompt asking ‘What else could cause both variables?’"
+      },
+      "materials": {
+        "slides": "drive.google.com/file/d/slide-deck-W7L3",
+        "notebook": "https://observablehq.com/@school/ds5_w7l3_spurious_correlations",
+        "handout": "docs.google.com/document/d/correlation_vs_causation_checklist",
+        "pythonNotebook": ""
+      },
+      "extension": "Write a 200-word blog debunking a media article that confuses correlation with causation, citing at least one confounding factor.",
+      "aiIntegration": {
+        "assistantRole": "Provides feedback on confounder plausibility, suggests additional literature links, and queues spaced-practice flashcards distinguishing correlation and causation.",
+        "weeklySummaryHook": true
+      }
+    },
+    {
+      "lessonId": "W8L1",
+      "title": "Making the Evidence Speak: CER Foundations",
+      "duration": "55 min",
+      "alignedNodes": ["DS5_N5"],
+      "learningOutcomes": [
+        { "syllabusCode": "SC5-DA2-01", "bloom": "Understand" },
+        { "syllabusCode": "SC5-WS-08", "bloom": "Apply" }
+      ],
+      "cognitiveLoadBand": 3,
+      "overview": "Students revisit the Claim-Evidence-Reasoning (CER) framework, analysing how specific data points logically support or refute a claim. An interactive CER mapper helps them practise selecting the most relevant evidence from a familiar dataset and articulating clear reasoning links, preparing them to build robust scientific arguments.",
+      "activities": {
+        "warmUp": "5 min – Retrieval poll: identify Claim, Evidence and Reasoning in a short paragraph (DS5_N5 retrieval template #2).",
+        "main": [
+          "Interactive CER mapper in Observable (node DS5_N5): students drag data points onto a claim card, then type reasoning; instant colour-coded feedback shows strength of link.",
+          "Mini-lecture (6 slides) modelling a strong vs weak CER; addresses misconceptions that listing data alone is enough."
+        ],
+        "reflection": "Think-pair-share: rewrite a weak reasoning statement into a strong one; volunteers share before/after."
+      },
+      "assessment": {
+        "formative": "Auto-graded 3-item quiz: choose best reasoning sentence for a provided data-claim pair.",
+        "misconceptionCheck": "If reasoning field left blank or superficial, AI triggers DS5_N5.adaptiveScaffold with sentence starters."
+      },
+      "materials": {
+        "slides": "drive.google.com/file/d/slide-deck-W8L1",
+        "notebook": "https://observablehq.com/@school/ds5_w8l1_cer_mapper",
+        "handout": "docs.google.com/document/d/cer_sentence_starters",
+        "pythonNotebook": ""
+      },
+      "extension": "Analyse an online infographic: extract one claim and build a CER paragraph critiquing it.",
+      "aiIntegration": {
+        "assistantRole": "Explains why evidence–reasoning links are weak or strong; queues spaced-practice cards on CER components.",
+        "weeklySummaryHook": true
+      }
+    },
+    {
+      "lessonId": "W8L2",
+      "title": "Limitations & Uncertainty: Stress-Testing Conclusions",
+      "duration": "55 min",
+      "alignedNodes": ["DS5_N20"],
+      "learningOutcomes": [
+        { "syllabusCode": "SC5-DA2-01", "bloom": "Evaluate" },
+        { "syllabusCode": "SC5-WS-06", "bloom": "Evaluate" }
+      ],
+      "cognitiveLoadBand": 4,
+      "overview": "Students learn to critique scientific conclusions by identifying measurement error, sampling bias, variability and alternative explanations. An interactive critique template guides them through analysing a published temperature-trend conclusion, fostering healthy scepticism and the skill of articulating uncertainty explicitly.",
+      "activities": {
+        "warmUp": "5 min – Retrieval Q: “List one potential source of uncertainty in experimental data.” (DS5_N20 template #1).",
+        "main": [
+          "Interactive critique tool (node DS5_N20): students inspect a conclusion about rising rainfall, tick uncertainty sources present, and propose at least one alternative explanation.",
+          "Case-study carousel: groups rotate through three mini case studies (coffee-life expectancy, small drug trial, opinion poll) filling uncertainty matrix."
+        ],
+        "reflection": "Exit ticket: rate your confidence in one case-study conclusion and justify with two uncertainty points."
+      },
+      "assessment": {
+        "formative": "AI rubric checks each uncertainty matrix for at least three distinct sources plus one alternative explanation.",
+        "misconceptionCheck": "If student writes ‘statistically significant therefore true’, AI surfaces DS5_N20.adaptiveScaffold illustrating p-value vs certainty."
+      },
+      "materials": {
+        "slides": "drive.google.com/file/d/slide-deck-W8L2",
+        "notebook": "https://observablehq.com/@school/ds5_w8l2_uncertainty_critique",
+        "handout": "docs.google.com/document/d/uncertainty_matrix_template",
+        "pythonNotebook": ""
+      },
+      "extension": "Find a peer-reviewed paper abstract; highlight phrases signalling caution (e.g., ‘may’, ‘suggests’) and connect to uncertainty sources.",
+      "aiIntegration": {
+        "assistantRole": "Gives targeted feedback on missing uncertainty categories; schedules spaced retrieval on evaluation criteria.",
+        "weeklySummaryHook": true
+      }
+    },
+    {
+      "lessonId": "W8L3",
+      "title": "Building a Bullet-Proof Argument",
+      "duration": "55 min",
+      "alignedNodes": ["DS5_N5", "DS5_N20"],
+      "learningOutcomes": [
+        { "syllabusCode": "SC5-DA2-01", "bloom": "Create" },
+        { "syllabusCode": "SC5-WS-08", "bloom": "Evaluate" }
+      ],
+      "cognitiveLoadBand": 4,
+      "overview": "Combining CER construction with uncertainty critique, students craft a complete scientific argument from a chosen dataset, then peer-review it for strength and limitations. This synthesis task solidifies their capacity to communicate evidence convincingly while acknowledging uncertainty—essential for authentic scientific discourse.",
+      "activities": {
+        "warmUp": "5 min – Retrieval Q: “Name two common limitations that should be disclosed in a scientific conclusion.” (DS5_N20 template #1).",
+        "main": [
+          "Studio time: students select a variable pair from previous weeks, generate plot/summary stats, and draft a full CER paragraph in the Observable template blending nodes DS5_N5 and DS5_N20.",
+          "Peer-review round robin: each CER receives comments via built-in rubric focusing on clarity of reasoning and acknowledgment of uncertainty.",
+          "Revision: students edit their CER based on feedback and resubmit."
+        ],
+        "reflection": "Traffic-light self-assessment: Green = clear reasoning, Yellow = minor uncertainty gaps, Red = need help; teacher gathers data for next lesson planning."
+      },
+      "assessment": {
+        "formative": "AI scorer applies dual rubric: 1) logical CER link, 2) depth of uncertainty discussion; instant suggestions for improvement.",
+        "misconceptionCheck": "If reasoning ignores contradictory evidence, AI prompts DS5_N5 scaffold on addressing refuting data."
+      },
+      "materials": {
+        "slides": "drive.google.com/file/d/slide-deck-W8L3",
+        "notebook": "https://observablehq.com/@school/ds5_w8l3_cer_with_uncertainty",
+        "handout": "docs.google.com/document/d/cer_uncertainty_rubric",
+        "pythonNotebook": ""
+      },
+      "extension": "Record a 90-second video presentation of your argument, explicitly stating limitations; upload to class channel for peer stars.",
+      "aiIntegration": {
+        "assistantRole": "Provides line-by-line CER feedback, highlights vague uncertainty phrases, and auto-schedules spaced-practice on weak rubric areas.",
+        "weeklySummaryHook": true
+      }
+    },
+    {
+      "lessonId": "W9L1",
+      "title": "Setting the Bar: Designing Evaluation Criteria",
+      "duration": "55 min",
+      "alignedNodes": ["DS5_N21"],
+      "learningOutcomes": [
+        { "syllabusCode": "SC5-DA2-01", "bloom": "Create" },
+        { "syllabusCode": "SC5-WS-07", "bloom": "Apply" }
+      ],
+      "cognitiveLoadBand": 4,
+      "overview": "Students learn to create clear, measurable criteria for judging solutions to scientific problems. Using a SMART-framework template, they brainstorm and refine evaluation factors for a local energy-supply scenario, establishing the yardsticks that will guide upcoming decision-making activities.",
+      "activities": {
+        "warmUp": "5 min – Retrieval Q: “Why must evaluation criteria be specific and measurable?” (DS5_N21 template #3).",
+        "main": [
+          "Mini-lecture: SMART criteria + example (solar-oven project); address DS5_N21 misconceptions (e.g., ‘one criterion is enough’).",
+          "Interactive template (node DS5_N21): students draft four criteria for choosing a new school energy source; AI colour-codes vague vs specific entries.",
+          "Peer micro-consult: swap templates, highlight one unclear criterion and suggest improvement."
+        ],
+        "reflection": "Sticky-note exit: write your strongest criterion and why it matters."
+      },
+      "assessment": {
+        "formative": "AI rubric checks each student’s criteria list for Specific & Measurable tags; ≥3 SMART points passes.",
+        "misconceptionCheck": "If criterion is vague, DS5_N21.adaptiveScaffold prompts SMART checklist with examples."
+      },
+      "materials": {
+        "slides": "drive.google.com/file/d/slide-deck-W9L1",
+        "notebook": "https://observablehq.com/@school/ds5_w9l1_criteria_builder",
+        "handout": "docs.google.com/document/d/smart_criteria_guide",
+        "pythonNotebook": ""
+      },
+      "extension": "Draft criteria for evaluating two rival COVID-19 vaccines (effectiveness, cost, storage, side-effects).",
+      "aiIntegration": {
+        "assistantRole": "Detects vague language, offers sentence stems, and schedules spaced-practice flashcards on SMART components.",
+        "weeklySummaryHook": true
+      }
+    },
+    {
+      "lessonId": "W9L2",
+      "title": "Decision Matrix: Weighing Options with Data",
+      "duration": "55 min",
+      "alignedNodes": ["DS5_N22", "DS5_N18"],
+      "learningOutcomes": [
+        { "syllabusCode": "SC5-DA2-01", "bloom": "Evaluate" },
+        { "syllabusCode": "SC5-WS-07", "bloom": "Evaluate" }
+      ],
+      "cognitiveLoadBand": 4,
+      "overview": "Students apply their criteria to compare three feasible energy technologies (rooftop solar, grid-renewable plan, small gas generator). An interactive decision matrix auto-pulls cost, CO₂ data and reliability scores, allowing learners to weight criteria, compute totals and justify a preferred option.",
+      "activities": {
+        "warmUp": "5 min – Retrieval Q: “What is the purpose of a decision matrix?” (connect to DS5_N22).",
+        "main": [
+          "Teacher demo: populate matrix with default weights; show how rankings shift as weights change.",
+          "Hands-on: in pairs, enter their own criteria weights (from W9L1) into Observable decision-matrix tool (node DS5_N22 + dataset feeds for DS5_N18 scenario).",
+          "Gallery snapshot: class heat-map of which technology is leading under different weightings; brief discussion on why results vary."
+        ],
+        "reflection": "Jamboard: post one surprising insight from the weighting exercise."
+      },
+      "assessment": {
+        "formative": "AI checks matrix completeness and justification paragraph (≥120 words referencing at least two criteria).",
+        "misconceptionCheck": "If student ranks an option highest but selects a different favourite without justification, AI prompts comparison-table scaffold (DS5_N22.adaptiveScaffold)."
+      },
+      "materials": {
+        "slides": "drive.google.com/file/d/slide-deck-W9L2",
+        "notebook": "https://observablehq.com/@school/ds5_w9l2_decision_matrix",
+        "handout": "docs.google.com/document/d/decision_matrix_blank",
+        "pythonNotebook": ""
+      },
+      "extension": "Re-run matrix assuming a 20 % budget cut; note how ranking changes and why.",
+      "aiIntegration": {
+        "assistantRole": "Explains calculation errors, surfaces hidden biases (e.g., over-weighting cost), and schedules practice on matrix interpretation.",
+        "weeklySummaryHook": true
+      }
+    },
+    {
+      "lessonId": "W9L3",
+      "title": "Capstone Mini-Hearing: Presenting an Evidence-Based Decision",
+      "duration": "55 min",
+      "alignedNodes": ["DS5_N18", "DS5_N21", "DS5_N22"],
+      "learningOutcomes": [
+        { "syllabusCode": "SC5-DA2-01", "bloom": "Evaluate" },
+        { "syllabusCode": "SC5-WS-07", "bloom": "Create" }
+      ],
+      "cognitiveLoadBand": 5,
+      "overview": "Teams synthesise their work into a short oral ‘council hearing’. Each group defends its recommended energy option, referencing data, criteria weightings and potential implications. Peers act as council members, pose questions, and score presentations using a rubric, mirroring real-world evidence-based decision processes.",
+      "activities": {
+        "warmUp": "5 min – Retrieval Q: “State one implication (social, environmental or economic) of choosing rooftop solar for the school.” (DS5_N18 template #1).",
+        "main": [
+          "10 min – Preparation: teams finalise a two-slide summary (option, weighted score, key trade-offs).",
+          "25 min – Hearing rounds: each team gets 3 min to present + 2 min Q&A from peers; rubric projected for transparency.",
+          "10 min – Voting & debrief: class tallies rubric scores; discuss why winning option prevailed and whether any criteria were undervalued."
+        ],
+        "reflection": "Exit ticket: personal reflection on how your weighting influenced the final decision and one criterion you’d reconsider."
+      },
+      "assessment": {
+        "formative": "Peer-and-AI hybrid rubric marks presentations on evidence use (DS5_N18), criterion clarity (DS5_N21) and evaluation logic (DS5_N22). Immediate scores returned.",
+        "misconceptionCheck": "If justification ignores a high-impact negative criterion, AI prompts post-presentation feedback highlighting oversight."
+      },
+      "materials": {
+        "slides": "drive.google.com/file/d/slide-deck-W9L3",
+        "notebook": "https://observablehq.com/@school/ds5_w9l3_hearing_rubric",
+        "handout": "docs.google.com/document/d/presentation_rubric",
+        "pythonNotebook": ""
+      },
+      "extension": "Write a 250-word op-ed for the school newsletter arguing for or against the class-chosen option, citing at least two data sources.",
+      "aiIntegration": {
+        "assistantRole": "Generates presentation feedback, suggests stronger evidence links, and queues spaced-practice on decision-making vocabulary.",
+        "weeklySummaryHook": true
+      }
+    },
+
+    {
+      "lessonId": "W10L1",
+      "title": "Big Data, Big Discoveries: How Massive Evidence Builds Trust",
+      "duration": "55 min",
+      "alignedNodes": ["DS5_N17", "DS5_N23"],
+      "learningOutcomes": [
+        { "syllabusCode": "SC5-DA2-01", "bloom": "Understand" },
+        { "syllabusCode": "SC5-WS-08", "bloom": "Analyse" }
+      ],
+      "cognitiveLoadBand": 3,
+      "overview": "Students explore case studies where huge datasets—Mendel’s peas, climate records, COVID genomics—validated major theories. They dissect excerpts from journal articles, identifying how language, structure and visual evidence persuade audiences, thereby linking the power of large datasets to scientific argumentation strategies.",
+      "activities": {
+        "warmUp": "5 min – Retrieval Q: “Give an example where analysing large datasets led to a major discovery.” (DS5_N17 template #3).",
+        "main": [
+          "Narrative-stepper case study (node DS5_N17) on Mendel: students click through data-collection → statistical analysis → acceptance timeline.",
+          "Annotation task: using DS5_N23 tool, students highlight persuasive elements in a Nature climate-model abstract—evidence citations, cautious language, graph references.",
+          "Think-pair-share: compare how data volume and text features together build credibility."
+        ],
+        "reflection": "Padlet post: Which persuasive element would you copy for your own capstone poster, and why?"
+      },
+      "assessment": {
+        "formative": "Auto-graded 4-item quiz matching persuasive features to article sections.",
+        "misconceptionCheck": "If student claims ‘one breakthrough experiment suffices’, AI surfaces DS5_N17.adaptiveScaffold on statistical validation."
+      },
+      "materials": {
+        "slides": "drive.google.com/file/d/slide-deck-W10L1",
+        "notebook": "https://observablehq.com/@school/ds5_w10l1_big_data_discoveries",
+        "handout": "docs.google.com/document/d/persuasive_elements_guide",
+        "pythonNotebook": ""
+      },
+      "extension": "Skim an astronomy paper that uses sky-survey data; summarise how dataset size improved confidence.",
+      "aiIntegration": {
+        "assistantRole": "Explains missed quiz questions; suggests additional article excerpts tailored to weaknesses.",
+        "weeklySummaryHook": true
+      }
+    },
+    {
+      "lessonId": "W10L2",
+      "title": "Capstone Studio: Crafting the CER Data Poster",
+      "duration": "55 min",
+      "alignedNodes": ["DS5_N6", "DS5_N23", "DS5_N17"],
+      "learningOutcomes": [
+        { "syllabusCode": "SC5-DA2-01", "bloom": "Create" },
+        { "syllabusCode": "SC5-WS-08", "bloom": "Evaluate" }
+      ],
+      "cognitiveLoadBand": 4,
+      "overview": "In a workshop setting, students transform their analysed dataset into a Tufte-style poster that presents a clear Claim, robust Evidence and coherent Reasoning. They embed graphs, cite large-dataset credibility, and refine wording for precision and persuasiveness, applying lessons from scientific-text analysis.",
+      "activities": {
+        "warmUp": "5 min – Retrieval Q: “List the three components of the CER framework.” (DS5_N6 template #1).",
+        "main": [
+          "Template walkthrough: teacher models filling the digital CER poster canvas (node DS5_N6).",
+          "Independent build: students import final graphs, draft Claim and Evidence bullets, and write 150-word reasoning paragraph; live AI checker flags missing elements.",
+          "Peer mini-crit: swap posters, annotate one persuasive strength and one clarity improvement, referencing DS5_N23 features."
+        ],
+        "reflection": "Traffic-light self-rate on poster readiness; note one action for final polish."
+      },
+      "assessment": {
+        "formative": "AI rubric grades poster draft for CER completeness, data-ink clarity and reference to dataset scale; immediate feedback list generated.",
+        "misconceptionCheck": "If Evidence lacks numeric specifics, AI prompts DS5_N6.adaptiveScaffold sentence starters."
+      },
+      "materials": {
+        "slides": "drive.google.com/file/d/slide-deck-W10L2",
+        "notebook": "https://observablehq.com/@school/ds5_w10l2_cer_poster_builder",
+        "handout": "docs.google.com/document/d/poster_style_guide",
+        "pythonNotebook": ""
+      },
+      "extension": "Add a QR code linking to the raw dataset source and explain veracity checks in a caption.",
+      "aiIntegration": {
+        "assistantRole": "Provides inline wording suggestions, checks alt-text for graphs, and queues spaced-practice on weak rubric rows.",
+        "weeklySummaryHook": true
+      }
+    },
+    {
+      "lessonId": "W10L3",
+      "title": "Myth-Busting Finale: Evaluating Pseudoscientific Claims",
+      "duration": "55 min",
+      "alignedNodes": ["DS5_N10", "DS5_N6"],
+      "learningOutcomes": [
+        { "syllabusCode": "SC5-DA2-01", "bloom": "Evaluate" },
+        { "syllabusCode": "SC5-WS-08", "bloom": "Create" }
+      ],
+      "cognitiveLoadBand": 4,
+      "overview": "Teams apply science-vs-pseudoscience criteria to real marketing claims (e.g., detox patches). Using an interactive evaluator, they judge validity, then produce a concise CER rebuttal. A lightning-talk showcase lets students publicly debunk misinformation, demonstrating mastery of evidence-based communication.",
+      "activities": {
+        "warmUp": "5 min – Retrieval Q: “State one criterion for distinguishing science from pseudoscience.” (DS5_N10 template #1).",
+        "main": [
+          "Interactive rubric (node DS5_N10): each team evaluates an assigned claim, scoring testability, evidence quality, peer-review status.",
+          "CER rebuttal: teams draft a 120-word argument using DS5_N6 template; AI checks for Claim–Evidence–Reasoning alignment.",
+          "Lightning talks: 2-minute presentations; peers vote on ‘Most Convincing Debunk’ via Mentimeter."
+        ],
+        "reflection": "Exit ticket: personal pledge on how you’ll apply these skills when encountering future claims online."
+      },
+      "assessment": {
+        "formative": "Peer + AI hybrid rubric marks each rebuttal for evaluation logic (DS5_N10) and CER clarity (DS5_N6).",
+        "misconceptionCheck": "If evaluation relies on authority appeal only, AI prompts DS5_N10.adaptiveScaffold to revisit testability and evidence criteria."
+      },
+      "materials": {
+        "slides": "drive.google.com/file/d/slide-deck-W10L3",
+        "notebook": "https://observablehq.com/@school/ds5_w10l3_pseudoscience_evaluator",
+        "handout": "docs.google.com/document/d/debunking_rubric",
+        "pythonNotebook": ""
+      },
+      "extension": "Publish the rebuttal as an infographic on the class blog; include links to at least two primary scientific sources.",
+      "aiIntegration": {
+        "assistantRole": "Offers real-time slide feedback, highlights missing criteria, and schedules post-course spaced-revision emails.",
+        "weeklySummaryHook": true
+      }
+    }
+  ]
+}

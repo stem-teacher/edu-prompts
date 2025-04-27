@@ -146,7 +146,6 @@ The sequence scaffolds the learning process: Lesson 1 introduces the 'map' and t
 
 ## 2. Lesson Sequence Overview and Rationale (Narrative)
 
-*(This section provides the rationale from the LaTeX fragment above in a more narrative format if needed elsewhere.)*
 
 This three-lesson sequence is designed to be integrated within the NSW HSC Chemistry Module 7: Organic Chemistry, specifically targeting the understanding of functional group interconversions and the culminating skill of designing and representing multi-step syntheses (CHM\_M7\_SYNTH\_N1).
 

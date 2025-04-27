@@ -1,0 +1,94 @@
+{
+  "courseOverview": [
+    {
+      "week": 1,
+      "knowledgeNodes": ["DS5_N1", "DS5_N11"],
+      "outcomesCovered": ["SC5-DA2-01", "SC5-WS-02"],
+      "weeklyDrivingQuestion": "How do we formulate scientifically testable questions and what characterises the 'large datasets' needed to answer some of them?",
+      "corePracticalObservableProject": "Interactive Observable notebook for sorting investigable vs non-investigable questions; Infographic exploration of the '5 Vs' of Big Data.",
+      "plannedFormativeAssessmentMode": "Quick poll/quiz on investigable criteria; Drag-and-drop classification task; Concept map of '5 Vs'.",
+      "lessonIds": ["W1L1", "W1L2", "W1L3"]
+    },
+    {
+      "week": 2,
+      "knowledgeNodes": ["DS5_N2", "DS5_N3"],
+      "outcomesCovered": ["SC5-DA2-01", "SC5-WS-06"],
+      "weeklyDrivingQuestion": "How is scientific knowledge refined over time, and how can we critically evaluate the reliability of scientific information found online?",
+      "corePracticalObservableProject": "Interactive flowchart modelling the scientific verification process; Applying the CRAAP test to evaluate sample online science articles/websites using an Observable checklist.",
+      "plannedFormativeAssessmentMode": "Sequencing task (scientific method); Peer evaluation using CRAAP checklist; Auto-graded quiz on source evaluation criteria.",
+      "lessonIds": ["W2L1", "W2L2", "W2L3"]
+    },
+    {
+      "week": 3,
+      "knowledgeNodes": ["DS5_N4", "DS5_N5"],
+      "outcomesCovered": ["SC5-DA2-01", "SC5-WS-02", "SC5-WS-08", "SC5-WS-06"],
+      "weeklyDrivingQuestion": "How can we identify testable scientific claims within media reports and understand the logical link between evidence and reasoning?",
+      "corePracticalObservableProject": "Observable notebook for annotating claims in media excerpts and assessing testability; Interactive CER (Claim-Evidence-Reasoning) mapping tool with sample data.",
+      "plannedFormativeAssessmentMode": "Claim identification and testability assessment (short response); Mini-CER construction from provided data; Peer feedback on reasoning links.",
+      "lessonIds": ["W3L1", "W3L2", "W3L3"]
+    },
+    {
+      "week": 4,
+      "knowledgeNodes": ["DS5_N6", "DS5_N23"],
+      "outcomesCovered": ["SC5-DA2-01", "SC5-WS-08"],
+      "weeklyDrivingQuestion": "How do we construct a concise and logical scientific argument, and how are arguments strategically constructed in scientific texts?",
+      "corePracticalObservableProject": "Writing a scientific argument using a structured CER template in Observable based on provided experimental data; Analysing excerpts of scientific texts using an annotation tool to identify argumentative structures and persuasive language.",
+      "plannedFormativeAssessmentMode": "CER paragraph writing task (peer/AI feedback); Annotation task identifying evidence, claims, and rhetorical devices in sample texts; Short quiz on IMRaD structure.",
+      "lessonIds": ["W4L1", "W4L2", "W4L3"]
+    },
+    {
+      "week": 5,
+      "knowledgeNodes": ["DS5_N7", "DS5_N8"],
+      "outcomesCovered": ["SC5-DA2-01"],
+      "weeklyDrivingQuestion": "What distinguishes science from pseudoscience, and how can we recognise common pseudoscientific claims in society?",
+      "corePracticalObservableProject": "Interactive comparison table contrasting science vs pseudoscience with examples; Curated gallery of media examples (ads, headlines) for students to classify as science/pseudoscience in Observable.",
+      "plannedFormativeAssessmentMode": "Concept mapping (science characteristics); Classification task with justifications; Peer discussion identifying 'red flags' of pseudoscience.",
+      "lessonIds": ["W5L1", "W5L2", "W5L3"]
+    },
+    {
+      "week": 6,
+      "knowledgeNodes": ["DS5_N10", "DS5_N12"],
+      "outcomesCovered": ["SC5-DA2-01", "SC5-WS-07", "SC5-WS-02"],
+      "weeklyDrivingQuestion": "How can we systematically evaluate if a claim is pseudoscientific, and where can we find reliable large datasets to investigate genuine scientific questions?",
+      "corePracticalObservableProject": "Using an interactive rubric/checklist tool in Observable to evaluate sample pseudoscientific claims; Exploring reputable data portals (BoM, ABS, CSIRO) and formulating testable questions based on dataset metadata.",
+      "plannedFormativeAssessmentMode": "Application of evaluation criteria to a case study (rubric); Formulating SMART research questions for given datasets; Short presentation on a chosen data portal.",
+      "lessonIds": ["W6L1", "W6L2", "W6L3"]
+    },
+    {
+      "week": 7,
+      "knowledgeNodes": ["DS5_N13", "DS5_N14", "DS5_N15a"],
+      "outcomesCovered": ["SC5-DA2-01", "SC5-WS-05", "SC5-WS-06", "SC5-WS-08"],
+      "weeklyDrivingQuestion": "How do we calculate and interpret basic descriptive statistics from large datasets, and how can univariate visualisations help reveal patterns?",
+      "corePracticalObservableProject": "Using spreadsheet software (or Observable Data Table cells) to calculate mean, median, mode, range, IQR for a sample dataset; Interactive demo comparing raw data vs summaries/graphs; Creating histograms and box plots in Observable/spreadsheet.",
+      "plannedFormativeAssessmentMode": "Auto-graded quiz on spreadsheet functions/statistical definitions; Short response interpreting graph shapes (distribution); Graph creation task with interpretation.",
+      "lessonIds": ["W7L1", "W7L2", "W7L3"]
+    },
+    {
+      "week": 8,
+      "knowledgeNodes": ["DS5_N15b", "DS5_N16"],
+      "outcomesCovered": ["SC5-DA2-01", "SC5-WS-05", "SC5-WS-06"],
+      "weeklyDrivingQuestion": "How do we visualise and describe potential relationships between two variables, while critically evaluating the difference between correlation and causation?",
+      "corePracticalObservableProject": "Creating scatter plots in Observable/spreadsheet to explore bivariate relationships in a dataset; Analysing case studies/interactive examples illustrating correlation vs causation (e.g., spurious correlations website).",
+      "plannedFormativeAssessmentMode": "Scatter plot creation and interpretation task (identifying trend, strength); Scenario analysis distinguishing correlation/causation; Quiz on identifying confounding factors.",
+      "lessonIds": ["W8L1", "W8L2", "W8L3"]
+    },
+    {
+      "week": 9,
+      "knowledgeNodes": ["DS5_N19", "DS5_N9"],
+      "outcomesCovered": ["SC5-DA2-01", "SC5-WS-06"],
+      "weeklyDrivingQuestion": "How can graphical representations be used to make predictions (interpolation/extrapolation), and how can we identify common ways data visualisations might be distorted?",
+      "corePracticalObservableProject": "Interactive graph tool in Observable for interpolating/extrapolating values and discussing limitations; Analysing examples of misleading graphs (e.g., truncated axes, cherry-picking) using an interactive critique tool.",
+      "plannedFormativeAssessmentMode": "Prediction task using graph with justification of limitations; Identifying distortion techniques in provided graphs; Redesigning a misleading graph.",
+      "lessonIds": ["W9L1", "W9L2", "W9L3"]
+    },
+    {
+      "week": 10,
+      "knowledgeNodes": ["DS5_N20", "DS5_N17", "DS5_N18", "DS5_N21", "DS5_N22"],
+      "outcomesCovered": ["SC5-DA2-01", "SC5-WS-06", "SC5-WS-07"],
+      "weeklyDrivingQuestion": "How do we evaluate the strength of conclusions drawn from data, understand the role of large datasets in scientific validation, and apply data analysis to make evidence-based decisions about real-world problems?",
+      "corePracticalObservableProject": "Using an interactive template in Observable to critique a scientific conclusion considering uncertainty/alternatives; Analysing a case study on the role of large datasets in a scientific discovery (e.g., Mendel, climate science); Interactive decision-making scenario using provided data, requiring development of criteria (N21) and evaluation of options (N22).",
+      "plannedFormativeAssessmentMode": "Conclusion critique task; Case study analysis questions; Justification matrix for decision-making scenario; Peer review of criteria/evaluation.",
+      "lessonIds": ["W10L1", "W10L2", "W10L3"]
+    }
+  ]
+}

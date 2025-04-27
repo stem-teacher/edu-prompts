@@ -1,0 +1,1092 @@
+```json
+{
+  "courseCode": "SC5_DA2",
+  "courseName": "Data Science 2 (Stage 5)",
+  "totalWeeks": 10,
+  "lessonsPerWeek": 3,
+  "lessons": [
+    {
+      "lessonId": "W1L1",
+      "title": "What Makes a Question Investigable?",
+      "duration": "55 min",
+      "alignedNodes": ["DS5_N1"],
+      "learningOutcomes": [
+        {"syllabusCode": "SC5-DA2-01", "bloom": "Understand"},
+        {"syllabusCode": "SC5-WS-02", "bloom": "Apply"}
+      ],
+      "cognitiveLoadBand": 2,
+      "overview": "This lesson introduces the fundamental concept of scientific inquiry: distinguishing questions that can be practically investigated from those that cannot. Students will explore criteria like testability and measurability, setting the foundation for designing valid scientific investigations and critically evaluating claims encountered later in the course.",
+      "activities": {
+        "warmUp": "5 min – Retrieval Practice: 'What makes a scientific question 'investigable'?' (Template DS5_N1[0]). Quick poll on sample questions (e.g., 'Is chemistry fun?' vs 'Does temperature affect reaction rate?').",
+        "main": [
+          "15 min - Hands-on: Observable interactive notebook cell where students drag-and-drop example questions into 'Investigable' and 'Non-Investigable' bins, receiving immediate feedback based on DS5_N1 criteria.",
+          "15 min - Mini-lecture & Discussion: Explicitly define criteria for investigable questions (Testable, Measurable, Ethical, Resource-feasible – linked to DS5_N1.adaptiveScaffold hint). Discuss examples and common misconceptions (DS5_N1.misconceptions).",
+          "15 min - Small Group Activity: Groups analyse 3 provided questions, apply the criteria using a checklist, and justify their classification."
+        ],
+        "reflection": "5 min - Think-Pair-Share: 'Based on today's lesson, reformulate one 'non-investigable' question from the warm-up to make it investigable. What did you change and why?'"
+      },
+      "assessment": {
+        "formative": "Auto-graded 3-item quiz (in Observable or embedded AI agent) asking students to classify new questions and identify the limiting factor (e.g., resources, ethics).",
+        "misconceptionCheck": "If student mis-classifies ≥2 questions in the drag-and-drop or quiz, trigger adaptive hint from DS5_N1.adaptiveScaffold (Provide criteria checklist: Testable, Measurable, Ethical, Resource-feasible). Log common errors for teacher review."
+      },
+      "materials": {
+        "slides": "W1L1_InvestigableQuestions.pptx",
+        "notebook": "observablehq.com/@npcomplete/ds5-w1l1-investigable-questions",
+        "handout": "Investigable_Questions_Checklist.pdf",
+        "pythonNotebook": null
+      },
+      "extension": "Apply the investigable question criteria to analyse a scientific question posed in a recent news headline or science blog post.",
+      "aiIntegration": {
+        "assistantRole": "Explain *why* a question is classified as non-investigable based on specific criteria (e.g., 'This question is subjective because...'). Suggest ways to refine non-investigable questions. Offer retrieval practice questions for next lesson.",
+        "weeklySummaryHook": true
+      }
+    },
+    {
+        "lessonId": "W1L2",
+        "title": "Introduction to Large Datasets (Big Data)",
+        "duration": "55 min",
+        "alignedNodes": ["DS5_N11"],
+        "learningOutcomes": [
+          {"syllabusCode": "SC5-DA2-01", "bloom": "Remember"}
+        ],
+        "cognitiveLoadBand": 2,
+        "overview": "This lesson defines 'large datasets' (Big Data) and introduces the '5 Vs' framework (Volume, Velocity, Variety, Veracity, Value) used to characterise them. Students will explore real-world examples of how large datasets are generated and used in various scientific fields, understanding the scale and complexity involved.",
+        "activities": {
+          "warmUp": "5 min - Retrieval Practice: 'Give an example of an investigable question that might require a large dataset to answer.' Link back to W1L1.",
+          "main": [
+            "15 min - Interactive Infographic Exploration: Students explore an Observable notebook featuring the DS5_N11 visualisation (infographic explaining 5 Vs with icons, definitions, and hover tooltips).",
+            "15 min - Mini-lecture & Examples: Define each 'V' with scientific examples (e.g., Volume - genomics, Velocity - particle physics, Variety - climate models, Veracity - social media data, Value - disease tracking). Discuss collection methods (sensors, transactions, social media - DS5_N11.description). Address misconceptions (DS5_N11.misconceptions).",
+            "15 min - Think-Pair-Share: In pairs, students identify the most prominent 'Vs' for different scientific scenarios (e.g., analysing telescope data, tracking wildlife migration with GPS tags)."
+          ],
+          "reflection": "5 min - Exit Ticket: 'List the 5 Vs of Big Data and give one scientific example where 'Velocity' is a key challenge.'"
+        },
+        "assessment": {
+          "formative": "Concept map creation task (digital or paper) linking the 5 Vs to definitions and examples. Peer review of concept maps.",
+          "misconceptionCheck": "During discussion/exit ticket, check for confusion between Vs (e.g., mixing up Volume and Variety). If common, use DS5_N11.adaptiveScaffold hint (mnemonic VVVVV or short definitions)."
+        },
+        "materials": {
+          "slides": "W1L2_BigDataIntro.pptx",
+          "notebook": "observablehq.com/@npcomplete/ds5-w1l2-big-data-5vs",
+          "handout": null,
+          "pythonNotebook": null
+        },
+        "extension": "Research a specific large-scale scientific project (e.g., Large Hadron Collider, Human Genome Project) and describe the data challenges related to the 5 Vs.",
+        "aiIntegration": {
+          "assistantRole": "Provide definitions and contrasting examples for each of the 5 Vs. Quiz students on matching Vs to scenarios. Offer links to relevant scientific projects using Big Data.",
+          "weeklySummaryHook": true
+        }
+      },
+      {
+        "lessonId": "W1L3",
+        "title": "Formulating Questions for Large Datasets",
+        "duration": "55 min",
+        "alignedNodes": ["DS5_N1", "DS5_N11", "DS5_N12"],
+        "learningOutcomes": [
+          {"syllabusCode": "SC5-DA2-01", "bloom": "Apply"},
+          {"syllabusCode": "SC5-WS-02", "bloom": "Apply"}
+        ],
+        "cognitiveLoadBand": 3,
+        "overview": "Building on the concepts of investigable questions and large datasets, this lesson focuses on formulating specific, testable scientific questions relevant to the scope of real-world large datasets. Students will practise identifying suitable questions based on data descriptions and begin exploring reputable data sources.",
+        "activities": {
+          "warmUp": "5 min - Retrieval Practice: 'Define 'Big Data' using at least three of the '5 Vs'.' (Template DS5_N11[0]). Connect to previous lesson.",
+          "main": [
+            "15 min - Guided Exploration: Teacher demonstrates navigating a reputable data portal (e.g., BoM, ABS). Students explore portal descriptions of datasets (metadata) in pairs using laptops/devices.",
+            "20 min - Question Formulation Activity: Using a structured template in Observable (linked to DS5_N12 visualisation design), students work in pairs to formulate 2-3 specific, testable questions based on the metadata of a chosen dataset. Emphasis on matching question scope to available variables.",
+            "10 min - Class Discussion & Refinement: Pairs share their formulated questions. Class provides feedback based on investigable criteria (DS5_N1) and dataset relevance (DS5_N12)."
+          ],
+          "reflection": "5 min - Quick Write: 'What was the biggest challenge in formulating a testable question based *only* on the dataset description?'"
+        },
+        "assessment": {
+          "formative": "Peer review of formulated questions using a checklist based on DS5_N1 and DS5_N12 criteria (Specific, Measurable, Relevant to dataset variables, Testable). Teacher observes discussions.",
+          "misconceptionCheck": "If questions are too broad or not answerable by the dataset, trigger DS5_N12.adaptiveScaffold hint ('Check the metadata: What variables are included? What time period? What area?'). Log common formulation errors."
+        },
+        "materials": {
+          "slides": "W1L3_DataQuestions.pptx",
+          "notebook": "observablehq.com/@npcomplete/ds5-w1l3-data-question-formulation",
+          "handout": "Data_Portal_Links.pdf",
+          "pythonNotebook": null
+        },
+        "extension": "Explore an international data repository (e.g., NASA, WHO) and formulate a testable question relevant to a global scientific issue.",
+        "aiIntegration": {
+          "assistantRole": "Provide feedback on the clarity and testability of formulated questions. Suggest relevant variables from sample dataset descriptions. Offer links to different types of data repositories (gov, science, international). Generate weekly summary.",
+          "weeklySummaryHook": true
+        }
+      },
+      {
+        "lessonId": "W2L1",
+        "title": "How is Scientific Knowledge Verified?",
+        "duration": "55 min",
+        "alignedNodes": ["DS5_N2"],
+        "learningOutcomes": [
+          {"syllabusCode": "SC5-DA2-01", "bloom": "Understand"}
+        ],
+        "cognitiveLoadBand": 3,
+        "overview": "This lesson explores the iterative process through which scientific knowledge is developed, verified, and refined. Students will examine the roles of hypothesis testing, experimentation, data analysis, peer review, and replication in building reliable scientific understanding, addressing common misconceptions about scientific 'proof'.",
+        "activities": {
+          "warmUp": "5 min - Retrieval Practice: 'Why is replication important in verifying scientific findings?' (Template DS5_N2[2]). Discuss: Can science 'prove' something with 100% certainty?",
+          "main": [
+            "20 min - Interactive Flowchart: Students engage with an Observable notebook containing the DS5_N2 visualisation (animated flowchart of the scientific method). Clickable nodes reveal details on hypothesis testing, experimentation, analysis, peer review, and replication loops.",
+            "15 min - Mini-lecture & Case Study: Explain the cyclical process, emphasizing peer review and refinement (addressing DS5_N2 misconceptions). Briefly discuss a historical example (e.g., development of atomic theory, germ theory) showing refinement over time.",
+            "10 min - Small Group Discussion: Groups discuss the role of peer review using prompts: 'What does peer review check for?', 'Does peer review guarantee correctness? Why/why not?'"
+          ],
+          "reflection": "5 min - Exit Ticket: 'Describe one stage in the scientific verification process and explain its importance.'"
+        },
+        "assessment": {
+          "formative": "Sequencing task: Students arrange the key stages of scientific verification in the correct order using an interactive tool or worksheet. AI agent provides feedback on sequence logic.",
+          "misconceptionCheck": "During discussion and sequencing task, check for misunderstanding of peer review's role (e.g., thinking it guarantees correctness). Trigger DS5_N2.adaptiveScaffold hint if needed ('Explain peer review as critical evaluation by experts focusing on methodology and interpretation...')."
+        },
+        "materials": {
+          "slides": "W2L1_ScientificVerification.pptx",
+          "notebook": "observablehq.com/@npcomplete/ds5-w2l1-scientific-verification",
+          "handout": "Sci_Verification_CaseStudy_Summary.pdf",
+          "pythonNotebook": null
+        },
+        "extension": "Research a recent scientific finding reported in the news. Trace how it likely went through stages of verification (hypothesis, data, publication, peer review).",
+        "aiIntegration": {
+          "assistantRole": "Define key terms (hypothesis, peer review, replication). Explain the cyclical nature of the scientific method. Offer examples of how theories have been refined.",
+          "weeklySummaryHook": true
+        }
+      },
+      {
+        "lessonId": "W2L2",
+        "title": "Evaluating Online Information: The CRAAP Test",
+        "duration": "55 min",
+        "alignedNodes": ["DS5_N3"],
+        "learningOutcomes": [
+          {"syllabusCode": "SC5-DA2-01", "bloom": "Understand"},
+          {"syllabusCode": "SC5-WS-06", "bloom": "Apply"}
+        ],
+        "cognitiveLoadBand": 3,
+        "overview": "In an era of abundant online information, this lesson introduces a structured approach for evaluating its reliability. Students will learn the CRAAP test criteria (Currency, Relevance, Authority, Accuracy, Purpose) as a tool to critically assess the validity of scientific information found online.",
+        "activities": {
+          "warmUp": "5 min - Retrieval Practice: 'List the five components of the CRAAP test.' (Template DS5_N3[0]). Brainstorm: Where do you usually get science information online? How reliable is it?",
+          "main": [
+            "15 min - Mini-lecture & Introduction: Introduce the CRAAP test acronym and explain the importance of each criterion (Currency, Relevance, Authority, Accuracy, Purpose) in the context of online scientific information. Address misconceptions (e.g., .org guarantees reliability - DS5_N3.misconceptions).",
+            "20 min - Guided Practice: Teacher models applying the CRAAP test to evaluate two contrasting websites presenting scientific claims (e.g., a NASA page vs. a pseudoscience blog). Use a shared checklist/template (digital or paper).",
+            "10 min - Pair Discussion: Students discuss in pairs which CRAAP criteria might be hardest to evaluate and why."
+          ],
+          "reflection": "5 min - Quick Write: 'Why is understanding the 'Purpose' of a website crucial for evaluating its reliability?' (Template DS5_N3[2])"
+        },
+        "assessment": {
+          "formative": "Matching activity: Students match CRAAP criteria to guiding questions (e.g., Authority -> 'Who is the author/publisher?'). Auto-graded quiz on definitions.",
+          "misconceptionCheck": "During guided practice and discussion, check for superficial application of criteria (e.g., assuming .edu is always authoritative). If difficulty arises applying a criterion, trigger DS5_N3.adaptiveScaffold hint (e.g., for Authority: 'Who wrote this? Qualifications? Area of expertise?')."
+        },
+        "materials": {
+          "slides": "W2L2_CRAAP_Intro.pptx",
+          "notebook": "observablehq.com/@npcomplete/ds5-w2l2-craap-test-intro",
+          "handout": "CRAAP_Test_Checklist.pdf",
+          "pythonNotebook": null
+        },
+        "extension": "Find a website related to a science topic you are interested in and perform a preliminary CRAAP test evaluation.",
+        "aiIntegration": {
+          "assistantRole": "Define each CRAAP criterion with examples. Provide guiding questions for each criterion. Offer contrasting website examples for practice evaluation.",
+          "weeklySummaryHook": true
+        }
+      },
+      {
+        "lessonId": "W2L3",
+        "title": "Applying the CRAAP Test to Online Science Claims",
+        "duration": "55 min",
+        "alignedNodes": ["DS5_N3"],
+        "learningOutcomes": [
+          {"syllabusCode": "SC5-DA2-01", "bloom": "Apply"},
+          {"syllabusCode": "SC5-WS-06", "bloom": "Apply"}
+        ],
+        "cognitiveLoadBand": 3,
+        "overview": "This lesson provides hands-on practice in applying the CRAAP test. Students will work individually or in pairs to evaluate the validity and reliability of different online sources presenting scientific information, using an interactive checklist and justifying their assessments.",
+        "activities": {
+          "warmUp": "5 min - Retrieval Practice: 'Evaluate this [sample website link] using the CRAAP criteria.' (Template DS5_N3[1]). Quick review of CRAAP criteria.",
+          "main": [
+            "30 min - Hands-on Application: Students use the interactive CRAAP test checklist/rubric in the Observable notebook (DS5_N3 visualisation design) to evaluate 2-3 pre-selected online science articles/websites presenting varying levels of reliability. They must provide justifications for their ratings.",
+            "15 min - Peer Review & Discussion: Students share their evaluations with a partner, comparing justifications and discussing any discrepancies. Teacher facilitates whole-class discussion on challenging examples."
+          ],
+          "reflection": "5 min - Self-Assessment: 'Which CRAAP criterion did you find most useful today? Which was the most difficult to apply consistently? Why?'"
+        },
+        "assessment": {
+          "formative": "Submission of completed CRAAP test evaluations (via Observable notebook or worksheet) for teacher/AI review. Focus on the quality of justification.",
+          "misconceptionCheck": "Monitor justifications for consistent application of criteria. If struggling with a specific criterion (e.g., assessing Accuracy), provide targeted examples or use the DS5_N3.adaptiveScaffold hint ('Provide guiding questions...'). Use AI agent to flag evaluations with weak justifications."
+        },
+        "materials": {
+          "slides": "W2L3_CRAAP_Application.pptx",
+          "notebook": "observablehq.com/@npcomplete/ds5-w2l3-craap-test-application",
+          "handout": "List_of_Sample_Websites.pdf",
+          "pythonNotebook": null
+        },
+        "extension": "Find an online source promoting a controversial scientific claim (e.g., related to health or environment) and apply the CRAAP test rigorously. Write a brief report on its reliability.",
+        "aiIntegration": {
+          "assistantRole": "Provide feedback on student justifications within the CRAAP checklist. Flag potential biases identified in sample websites. Summarise common challenges faced by the class in applying specific criteria. Generate weekly summary.",
+          "weeklySummaryHook": true
+        }
+      },
+      {
+        "lessonId": "W3L1",
+        "title": "Identifying Testable Claims in the Media",
+        "duration": "55 min",
+        "alignedNodes": ["DS5_N4"],
+        "learningOutcomes": [
+          {"syllabusCode": "SC5-DA2-01", "bloom": "Analyse"},
+          {"syllabusCode": "SC5-WS-02", "bloom": "Apply"}
+        ],
+        "cognitiveLoadBand": 3,
+        "overview": "This lesson focuses on critically analysing information presented in various media. Students will learn to identify specific scientific claims within news articles, advertisements, or social media posts and evaluate whether these claims are formulated in a way that is specific, measurable, and potentially testable through scientific investigation.",
+        "activities": {
+          "warmUp": "5 min - Retrieval Practice: 'Identify the main scientific claim in this [news headline/advertisement].' (Template DS5_N4[0]). Discuss: Are all claims made in the media scientifically sound?",
+          "main": [
+            "15 min - Mini-lecture & Discussion: Define criteria for a testable claim (Specific, Measurable, potentially Testable - building on W1L1). Discuss vague vs. precise language. Address misconceptions (DS5_N4.misconceptions - e.g., vague claims like 'better' are testable without refinement).",
+            "20 min - Hands-on Annotation: Students use an Observable notebook featuring an annotation tool (DS5_N4 visualisation design) to highlight claims in sample media texts (news snippets, ads) and evaluate their testability using the defined criteria (Specific, Measurable).",
+            "10 min - Pair Analysis: In pairs, students compare their annotations and evaluations for one text, discussing disagreements and refining their understanding of testability."
+          ],
+          "reflection": "5 min - Think-Pair-Share: 'Reword this vague claim '[sample vague claim from activity]' to make it more scientifically testable.'"
+        },
+        "assessment": {
+          "formative": "Short response task: Students analyse a new media excerpt, identify the main claim, and write a brief evaluation of its testability, justifying their reasoning. Peer feedback possible.",
+          "misconceptionCheck": "If students struggle distinguishing testable/non-testable claims in the annotation task or short response, trigger DS5_N4.adaptiveScaffold hint ('Provide examples: 'Increases speed by 5%' (Testable) vs. 'Works wonders' (Non-testable)'). Log common errors in applying criteria."
+        },
+        "materials": {
+          "slides": "W3L1_IdentifyingClaims.pptx",
+          "notebook": "observablehq.com/@npcomplete/ds5-w3l1-claim-annotation",
+          "handout": "Media_Excerpts_for_Analysis.pdf",
+          "pythonNotebook": null
+        },
+        "extension": "Find a social media post making a scientific claim. Analyse its testability and discuss the challenges of verifying claims on such platforms.",
+        "aiIntegration": {
+          "assistantRole": "Help students break down claims to identify specific measurable components. Offer examples of how vague claims can be rephrased for testability. Provide feedback on justifications for testability evaluations.",
+          "weeklySummaryHook": true
+        }
+      },
+      {
+        "lessonId": "W3L2",
+        "title": "Linking Evidence to Claims: The Reasoning Step",
+        "duration": "55 min",
+        "alignedNodes": ["DS5_N5"],
+        "learningOutcomes": [
+          {"syllabusCode": "SC5-DA2-01", "bloom": "Understand"},
+          {"syllabusCode": "SC5-WS-08", "bloom": "Understand"},
+          {"syllabusCode": "SC5-WS-06", "bloom": "Analyse"}
+        ],
+        "cognitiveLoadBand": 3,
+        "overview": "This lesson introduces the crucial 'Reasoning' component that connects evidence to a scientific claim. Students will explore how specific data or observations logically support or refute a claim, focusing on articulating the underlying scientific principle or mechanism that explains the connection.",
+        "activities": {
+          "warmUp": "5 min - Retrieval Practice: 'Explain the reasoning that links this data [simple graph/table] to the claim that [simple claim].' (Template DS5_N5[0]). Discuss: Is just stating the data enough?",
+          "main": [
+            "15 min - Introduction to CER: Explicitly introduce the Claim-Evidence-Reasoning (CER) framework. Focus on defining 'Reasoning' as the 'why' or 'how' – the logical connection/scientific principle. Use simple examples.",
+            "20 min - Guided Analysis: Teacher models analysing a simple scientific scenario using CER. Then, students work through 2-3 guided examples (provided claim & evidence), focusing on articulating the reasoning step. Use think-aloud strategy.",
+            "10 min - Identifying Reasoning in Text: Students read short scientific argument excerpts and highlight the sentences representing the reasoning component."
+          ],
+          "reflection": "5 min - Exit Ticket: 'In the CER framework, what is the specific role of 'Reasoning'?'"
+        },
+        "assessment": {
+          "formative": "Short written task: Given a claim and evidence, students write 1-2 sentences articulating the reasoning. Peer feedback focusing on the clarity of the logical link.",
+          "misconceptionCheck": "Check for confusion between Evidence and Reasoning (e.g., just restating data as reasoning - DS5_N5 misconception). If reasoning is weak/missing, trigger DS5_N5.adaptiveScaffold hint (Prompt with 'How does this data show that the claim is true/false?' or provide sentence starters)."
+        },
+        "materials": {
+          "slides": "W3L2_EvidenceReasoningLink.pptx",
+          "notebook": null,
+          "handout": "CER_Examples_Worksheet.pdf",
+          "pythonNotebook": null
+        },
+        "extension": "Find a simple scientific explanation online (e.g., how vaccines work, why leaves change colour) and identify the Claim, Evidence, and Reasoning components.",
+        "aiIntegration": {
+          "assistantRole": "Explain the difference between Evidence and Reasoning with clear examples. Provide sentence starters for articulating reasoning. Offer feedback on the logical strength of student-generated reasoning statements.",
+          "weeklySummaryHook": true
+        }
+      },
+      {
+        "lessonId": "W3L3",
+        "title": "Mapping Arguments with Claim-Evidence-Reasoning",
+        "duration": "55 min",
+        "alignedNodes": ["DS5_N5"],
+        "learningOutcomes": [
+          {"syllabusCode": "SC5-DA2-01", "bloom": "Apply"},
+          {"syllabusCode": "SC5-WS-08", "bloom": "Apply"},
+          {"syllabusCode": "SC5-WS-06", "bloom": "Apply"}
+        ],
+        "cognitiveLoadBand": 3,
+        "overview": "This lesson provides practical application of the Claim-Evidence-Reasoning framework. Students will use an interactive tool to visually map the components of a scientific argument, explicitly linking specific pieces of evidence to a central claim through clear reasoning statements.",
+        "activities": {
+          "warmUp": "5 min - Retrieval Practice: 'How does the evidence [specific observation from previous lesson] support the claim [related claim]?' (Template DS5_N5[1]). Quick review of CER components.",
+          "main": [
+            "25 min - Hands-on CER Mapping: Students use the interactive CER mapping tool in an Observable notebook (DS5_N5 visualisation design). They are given a scientific scenario with data (e.g., graph, table) and a claim. They must select relevant evidence points and write concise reasoning statements to link them to the claim.",
+            "15 min - Peer Feedback & Refinement: Students share their completed CER maps (e.g., via screenshot or shared link) with a partner. Partners provide feedback focusing on the relevance of evidence chosen and the clarity/logic of the reasoning statements, using provided prompts.",
+            "10 min - Class Debrief: Discuss common challenges in selecting evidence or articulating reasoning. Showcase strong examples."
+          ],
+          "reflection": "5 min - Self-Correction: 'Review your CER map based on peer feedback. What is one change you would make to improve the reasoning link?'"
+        },
+        "assessment": {
+          "formative": "Completed CER map submitted via Observable notebook. Assessed based on accurate identification of relevant evidence and logical articulation of reasoning. AI agent can provide initial feedback on structure and clarity.",
+          "misconceptionCheck": "Monitor maps for weak reasoning links or inclusion of irrelevant evidence. If issues persist, use DS5_N5.adaptiveScaffold hint (e.g., sentence starters: 'The data shows [evidence], which supports/refutes the claim because [reasoning]...'). Flag maps with missing components for teacher review."
+        },
+        "materials": {
+          "slides": "W3L3_CER_Mapping.pptx",
+          "notebook": "observablehq.com/@npcomplete/ds5-w3l3-cer-mapping-tool",
+          "handout": "CER_Scenario_Data.pdf",
+          "pythonNotebook": null
+        },
+        "extension": "Use the CER mapping tool to analyse a slightly more complex scientific argument, potentially involving multiple pieces of evidence or counter-arguments.",
+        "aiIntegration": {
+          "assistantRole": "Guide students in selecting the most relevant evidence from a dataset. Offer feedback on the logical flow and scientific accuracy of reasoning statements. Identify potential gaps in arguments mapped by students. Generate weekly summary.",
+          "weeklySummaryHook": true
+        }
+      },
+      {
+        "lessonId": "W4L1",
+        "title": "Constructing Scientific Arguments (CER)",
+        "duration": "55 min",
+        "alignedNodes": ["DS5_N6"],
+        "learningOutcomes": [
+          {"syllabusCode": "SC5-DA2-01", "bloom": "Apply"},
+          {"syllabusCode": "SC5-WS-08", "bloom": "Apply"}
+        ],
+        "cognitiveLoadBand": 4,
+        "overview": "This lesson focuses on translating understanding of Claim-Evidence-Reasoning into practice by constructing concise written scientific arguments. Students will use a structured template and provided data to articulate a clear claim, support it with relevant evidence, and logically explain the reasoning linking them, reinforcing scientific communication skills.",
+        "activities": {
+          "warmUp": "5 min - Retrieval Practice: 'Identify the Claim, Evidence, and Reasoning in this sample scientific argument [short example].' (Template DS5_N6[1]). Recap CER components.",
+          "main": [
+            "10 min - Worked Example: Teacher models writing a CER paragraph using the structured template (DS5_N6 visualisation design) based on data from W3L3's mapping activity. Emphasis on precise language and logical flow.",
+            "25 min - Hands-on Writing Task: Students use the digital CER template in an Observable notebook to write their own short scientific argument based on a new, simple dataset provided. Focus on articulating the reasoning clearly.",
+            "10 min - Peer Feedback: Students share their draft CER paragraphs (e.g., via shared doc/Observable comments) and provide feedback using specific prompts based on CER criteria (Clear Claim? Relevant Evidence? Logical Reasoning?)."
+          ],
+          "reflection": "5 min - Self-Correction: 'Based on peer feedback, what is the single most important change you need to make to strengthen your argument?'"
+        },
+        "assessment": {
+          "formative": "Submission of the written CER paragraph. Peer feedback using a simple rubric. AI writing assistant can provide feedback on structure, clarity, and linking phrases.",
+          "misconceptionCheck": "Check for arguments based on opinion rather than evidence, or listing facts without connection (DS5_N6 misconceptions). If reasoning is weak, trigger DS5_N6.adaptiveScaffold hint (Highlight missing section or provide sentence starters)."
+        },
+        "materials": {
+          "slides": "W4L1_ConstructingArguments.pptx",
+          "notebook": "observablehq.com/@npcomplete/ds5-w4l1-cer-writing-template",
+          "handout": "CER_Writing_Data_Scenario2.pdf",
+          "pythonNotebook": null
+        },
+        "extension": "Rewrite a weak argument example (provided) to strengthen the claim, evidence selection, and reasoning.",
+        "aiIntegration": {
+          "assistantRole": "Provide feedback on draft CER paragraphs focusing on clarity, conciseness, and the logical connection between evidence and reasoning. Offer suggestions for stronger topic sentences or transition words. Check for potential plagiarism if external sources were allowed.",
+          "weeklySummaryHook": true
+        }
+      },
+      {
+        "lessonId": "W4L2",
+        "title": "Analysing How Scientific Texts Persuade",
+        "duration": "55 min",
+        "alignedNodes": ["DS5_N23"],
+        "learningOutcomes": [
+          {"syllabusCode": "SC5-DA2-01", "bloom": "Analyse"},
+          {"syllabusCode": "SC5-WS-08", "bloom": "Analyse"}
+        ],
+        "cognitiveLoadBand": 4,
+        "overview": "This lesson shifts focus to deconstructing how scientific arguments are presented professionally. Students will learn to analyse how scientific texts strategically use evidence, specific language (technical terms, cautious phrasing), structure (e.g., IMRaD), and visual aids to build arguments and establish authority.",
+        "activities": {
+          "warmUp": "5 min - Retrieval Practice: 'Analyse this [scientific article abstract]. How does the author establish the importance of their research?' (Template DS5_N23[0]). Discuss: Is scientific writing purely objective?",
+          "main": [
+            "20 min - Mini-lecture & Examples: Introduce key concepts for analysing scientific texts: structure (IMRaD - Intro, Methods, Results, Discussion), language (technical terms, cautious phrasing, establishing authority), strategic use of evidence (citations, data presentation), visual aids. Use annotated examples.",
+            "15 min - Small Group Analysis: Provide groups with different sections of a simplified research paper (e.g., Abstract, part of Discussion). Groups identify features related to structure, language, and evidence use based on the lecture.",
+            "10 min - Class Discussion: Groups share their findings. Discuss how different sections contribute to the overall argument and persuasion. Address misconceptions (DS5_N23 misconceptions)."
+          ],
+          "reflection": "5 min - Quick Write: 'Identify one technique scientists use in writing to make their arguments more persuasive or credible.'"
+        },
+        "assessment": {
+          "formative": "Short quiz identifying the purpose of different IMRaD sections. Students annotate a short text excerpt identifying specific persuasive language or structural elements.",
+          "misconceptionCheck": "Check for the misconception that scientific writing is devoid of persuasive elements. If students struggle to identify features, use DS5_N23.adaptiveScaffold hint (Provide checklist: specific word choices, citation use, section goals in IMRaD)."
+        },
+        "materials": {
+          "slides": "W4L2_AnalysingSciTexts.pptx",
+          "notebook": null,
+          "handout": "Simplified_Research_Paper_Excerpts.pdf; Analysis_Features_Checklist.pdf",
+          "pythonNotebook": null
+        },
+        "extension": "Compare the language and structure used in a formal scientific paper abstract versus a popular science news article reporting on the same research.",
+        "aiIntegration": {
+          "assistantRole": "Define key terms (IMRaD, abstract, cautious phrasing). Explain the typical purpose of each section of a scientific paper. Provide examples of different types of evidence used in scientific writing.",
+          "weeklySummaryHook": true
+        }
+      },
+      {
+        "lessonId": "W4L3",
+        "title": "Hands-on Text Analysis: Deconstructing Arguments",
+        "duration": "55 min",
+        "alignedNodes": ["DS5_N23"],
+        "learningOutcomes": [
+          {"syllabusCode": "SC5-DA2-01", "bloom": "Analyse"},
+          {"syllabusCode": "SC5-WS-08", "bloom": "Analyse"}
+        ],
+        "cognitiveLoadBand": 4,
+        "overview": "Students apply their understanding of scientific rhetoric by using an interactive annotation tool. They will analyse excerpts from scientific articles, highlighting features related to argument construction, evidence use, persuasive language, structure, and authority markers, deepening their critical reading skills.",
+        "activities": {
+          "warmUp": "5 min - Retrieval Practice: 'How does the structure of a typical research paper (IMRaD) help build a scientific argument?' (Template DS5_N23[2]). Review key features from W4L2.",
+          "main": [
+            "30 min - Hands-on Annotation Task: Students use the interactive annotation tool in an Observable notebook (DS5_N23 visualisation design). They read 2-3 excerpts from scientific articles (e.g., abstract, discussion) and highlight/tag features (e.g., 'Claim', 'Evidence Citation', 'Cautious Language', 'Methodology Marker').",
+            "15 min - Pair & Share Comparison: Students compare their annotations with a partner. They discuss why they tagged certain elements and resolve any disagreements, referring back to the feature checklist from W4L2."
+          ],
+          "reflection": "5 min - Exit Ticket: 'What was the most surprising or interesting rhetorical technique you observed in the scientific texts today?'"
+        },
+        "assessment": {
+          "formative": "Submission of annotated text excerpts via the Observable tool. Assessed for accurate identification and tagging of relevant features. AI can compare student annotations against an expert-annotated version and provide feedback.",
+          "misconceptionCheck": "Monitor annotations for consistent application of concepts. If students struggle with identifying subtle techniques (e.g., cautious phrasing), use DS5_N23.adaptiveScaffold hint (Provide checklist of features and examples)."
+        },
+        "materials": {
+          "slides": "W4L3_TextAnnotation.pptx",
+          "notebook": "observablehq.com/@npcomplete/ds5-w4l3-sci-text-analysis-tool",
+          "handout": "Analysis_Features_Checklist.pdf (re-use)",
+          "pythonNotebook": null
+        },
+        "extension": "Analyse the reference list of a scientific paper. What does the choice of cited sources suggest about the author's argument and positioning within the field?",
+        "aiIntegration": {
+          "assistantRole": "Provide definitions and examples for different annotation tags within the tool. Offer hints if a student repeatedly mis-tags a feature. Summarise the key rhetorical strategies identified across the class's annotations. Generate weekly summary.",
+          "weeklySummaryHook": true
+        }
+      },
+      {
+        "lessonId": "W5L1",
+        "title": "Science vs. Pseudoscience: What's the Difference?",
+        "duration": "55 min",
+        "alignedNodes": ["DS5_N7"],
+        "learningOutcomes": [
+          {"syllabusCode": "SC5-DA2-01", "bloom": "Understand"}
+        ],
+        "cognitiveLoadBand": 2,
+        "overview": "This lesson introduces the critical distinction between science and pseudoscience. Students will explore the defining characteristics of science (e.g., testable, falsifiable, evidence-based, peer-reviewed) and contrast them with common features of pseudoscience (e.g., reliance on anecdote, lack of rigorous methodology, avoids falsification).",
+        "activities": {
+          "warmUp": "5 min - Retrieval Practice: 'List two key differences between science and pseudoscience.' (Template DS5_N7[0]). Brainstorm: What comes to mind when you hear 'pseudoscience'?",
+          "main": [
+            "20 min - Interactive Comparison Table: Students explore the DS5_N7 visualisation in an Observable notebook – a table contrasting key features of science (Testable, Falsifiable, Evidence-based, Peer-reviewed, Replicable) vs. pseudoscience (Untestable, Non-falsifiable, Anecdotal, No peer review, Non-replicable) with definitions and linked examples.",
+            "15 min - Mini-lecture & Discussion: Elaborate on key characteristics, focusing on 'falsifiability' and the role of evidence vs. anecdotes. Address common misconceptions (e.g., longevity of belief doesn't equal scientific validity - DS5_N7.misconceptions).",
+            "10 min - Concept Mapping: Individually or in pairs, students create a concept map illustrating the core characteristics of science."
+          ],
+          "reflection": "5 min - Exit Ticket: 'Why is it important for a scientific claim to be 'falsifiable'?' (Related to DS5_N7[1])"
+        },
+        "assessment": {
+          "formative": "Review of concept maps for accurate representation of scientific characteristics. Short quiz (auto-graded) matching definitions to terms (science, pseudoscience, falsifiable, peer review, anecdote).",
+          "misconceptionCheck": "During discussion/concept mapping, check for difficulty differentiating key features. Trigger DS5_N7.adaptiveScaffold hint if needed ('Focus on core concepts: evidence, testability, falsifiability, and peer review')."
+        },
+        "materials": {
+          "slides": "W5L1_SciVsPseudo.pptx",
+          "notebook": "observablehq.com/@npcomplete/ds5-w5l1-science-vs-pseudo-comparison",
+          "handout": "Concept_Map_Template.pdf",
+          "pythonNotebook": null
+        },
+        "extension": "Research the concept of 'demarcation problem' in the philosophy of science – the challenge of drawing a clear line between science and non-science.",
+        "aiIntegration": {
+          "assistantRole": "Provide clear definitions and contrasting examples for science vs. pseudoscience characteristics. Offer feedback on student-created concept maps. Quiz students on key differentiators.",
+          "weeklySummaryHook": true
+        }
+      },
+      {
+        "lessonId": "W5L2",
+        "title": "Identifying Examples and Red Flags of Pseudoscience",
+        "duration": "55 min",
+        "alignedNodes": ["DS5_N7", "DS5_N8"],
+        "learningOutcomes": [
+          {"syllabusCode": "SC5-DA2-01", "bloom": "Apply"}
+        ],
+        "cognitiveLoadBand": 2,
+        "overview": "Building on the definition of pseudoscience, this lesson focuses on identifying common examples encountered in society and recognising typical 'red flags'. Students will analyse sample claims and learn to spot indicators like untestable assertions, reliance on testimonials, and use of vague or 'sciency' language.",
+        "activities": {
+          "warmUp": "5 min - Retrieval Practice: 'Why is reliance on anecdotes a characteristic of pseudoscience?' (Template DS5_N7[2]). Connect anecdote use to lack of rigorous evidence.",
+          "main": [
+            "15 min - Discussion & Examples: Discuss common examples of pseudoscience (astrology, homeopathy, miracle cures - DS5_N8.examples). Introduce 'red flags' that suggest a claim might be pseudoscientific (e.g., untestable, anecdotal evidence, conspiracy tones, appeals to nature/tradition, complex jargon without substance).",
+            "20 min - Case Study Analysis: Students work in small groups to analyse 1-2 short descriptions of pseudoscientific claims/products. They identify which characteristics of science are violated and which 'red flags' are present.",
+            "10 min - Class Debrief: Groups share their analyses. Discuss why people might believe pseudoscientific claims (addressing DS5_N8 misconceptions like celebrity testimonials, 'natural' fallacy)."
+          ],
+          "reflection": "5 min - Quick Write: 'List two 'red flags' that might make you suspicious of a scientific claim you encounter online.'"
+        },
+        "assessment": {
+          "formative": "Short analysis task: Given a new pseudoscientific claim, students identify 2-3 reasons why it fails scientific criteria, citing specific characteristics/red flags. Peer feedback on justification.",
+          "misconceptionCheck": "Check for oversimplification or difficulty linking specific claims to scientific criteria. If students struggle to identify red flags, trigger DS5_N8.adaptiveScaffold hint ('Highlight pseudoscientific indicators: untestable claims, reliance on anecdotes, lack of verifiable evidence...')."
+        },
+        "materials": {
+          "slides": "W5L2_PseudoExamplesFlags.pptx",
+          "notebook": null,
+          "handout": "Pseudoscience_CaseStudies.pdf; Red_Flags_Checklist.pdf",
+          "pythonNotebook": null
+        },
+        "extension": "Find an example of a product advertisement that uses 'sciency' language. Analyse the language – does it provide specific, testable claims or just sound impressive?",
+        "aiIntegration": {
+          "assistantRole": "Provide examples of different 'red flags' in context. Help students connect specific case study details to the criteria for science vs. pseudoscience. Offer resources debunking common pseudosciences.",
+          "weeklySummaryHook": true
+        }
+      },
+      {
+        "lessonId": "W5L3",
+        "title": "Spotting Pseudoscience in the Wild",
+        "duration": "55 min",
+        "alignedNodes": ["DS5_N8"],
+        "learningOutcomes": [
+          {"syllabusCode": "SC5-DA2-01", "bloom": "Apply"}
+        ],
+        "cognitiveLoadBand": 2,
+        "overview": "This lesson provides hands-on practice in recognising pseudoscientific claims presented in various media formats. Students will use an interactive gallery to classify real or mock examples from advertisements, headlines, and social media, justifying their decisions based on the characteristics and red flags learned.",
+        "activities": {
+          "warmUp": "5 min - Retrieval Practice: 'Find an example of a pseudoscientific claim in a recent news article or advertisement.' (Template DS5_N8[0]). Share examples.",
+          "main": [
+            "30 min - Interactive Gallery Classification: Students work individually or in pairs through the DS5_N8 visualisation in an Observable notebook – a gallery of media examples (ads, headlines, social posts). They classify each as likely 'Science-based' or 'Pseudoscience' and provide a brief justification citing relevant criteria or red flags.",
+            "15 min - Peer Discussion & Debate: Students compare their classifications and justifications for 2-3 challenging examples from the gallery. Teacher facilitates discussion around borderline or subtly misleading cases."
+          ],
+          "reflection": "5 min - Exit Poll: 'Which type of media (ads, news, social media) do you think presents the most challenges for spotting pseudoscience, and why?'"
+        },
+        "assessment": {
+          "formative": "Submission of classifications and justifications via the Observable gallery tool. Assessed for accuracy of classification and logical reasoning in justifications. AI can provide immediate feedback on classification based on pre-defined answers.",
+          "misconceptionCheck": "If students incorrectly classify examples, trigger DS5_N8.adaptiveScaffold hint highlighting relevant indicators (e.g., 'Notice the reliance on testimonials here...' or 'Is this claim actually testable?'). Log items frequently misclassified for class review."
+        },
+        "materials": {
+          "slides": "W5L3_SpottingPseudoscience.pptx",
+          "notebook": "observablehq.com/@npcomplete/ds5-w5l3-pseudo-claims-gallery",
+          "handout": null,
+          "pythonNotebook": null
+        },
+        "extension": "Analyse a health or wellness trend popular on social media. Evaluate it against the criteria for science vs. pseudoscience.",
+        "aiIntegration": {
+          "assistantRole": "Explain the reasoning behind the correct classification of gallery items. Provide specific feedback on student justifications (e.g., 'Your justification mentions anecdotes, which is relevant here because...'). Collate common justifications/errors for teacher review. Generate weekly summary.",
+          "weeklySummaryHook": true
+        }
+      },
+      {
+        "lessonId": "W6L1",
+        "title": "Systematically Evaluating Pseudoscientific Claims",
+        "duration": "55 min",
+        "alignedNodes": ["DS5_N10"],
+        "learningOutcomes": [
+          {"syllabusCode": "SC5-DA2-01", "bloom": "Evaluate"},
+          {"syllabusCode": "SC5-WS-07", "bloom": "Evaluate"}
+        ],
+        "cognitiveLoadBand": 4,
+        "overview": "This lesson equips students with a systematic method for evaluating potentially pseudoscientific assertions. Using specific criteria (testability, evidence quality, falsifiability, peer review, logic), students will apply an interactive rubric to analyse a case study claim, honing their critical evaluation skills.",
+        "activities": {
+          "warmUp": "5 min - Retrieval Practice: 'Outline the steps you would take to evaluate if a new health trend is based on science or pseudoscience.' (Template DS5_N10[2]). Recap science vs. pseudoscience criteria (W5).",
+          "main": [
+            "15 min - Introduce Evaluation Framework: Explicitly define the evaluation criteria (testability, evidence quality, falsifiability, peer review, logical consistency - derived from DS5_N7/N10). Model applying one criterion to a simple example claim.",
+            "25 min - Interactive Rubric Application: Students use the interactive evaluation tool/rubric in an Observable notebook (DS5_N10 visualisation design) to assess a detailed case study claim (e.g., effectiveness of crystal healing, energy bracelets). They must provide justifications against each criterion.",
+            "10 min - Small Group Discussion: Students compare their rubric scores and justifications in small groups, focusing on areas of agreement/disagreement regarding evidence quality or testability."
+          ],
+          "reflection": "5 min - Exit Ticket: 'Which evaluation criterion was most decisive in assessing the case study claim today, and why?'"
+        },
+        "assessment": {
+          "formative": "Submission of the completed interactive rubric with justifications via Observable. AI/Teacher reviews justifications for logical application of criteria.",
+          "misconceptionCheck": "Monitor for superficial evaluations or misapplication of criteria (e.g., confusing 'widespread belief' with 'evidence' - DS5_N10 misconceptions). If evaluation is weak, trigger DS5_N10.adaptiveScaffold hint ('Prompt student to explicitly address each criterion: What testable evidence exists? Is it falsifiable?...')."
+        },
+        "materials": {
+          "slides": "W6L1_EvaluatingClaims.pptx",
+          "notebook": "observablehq.com/@npcomplete/ds5-w6l1-pseudoscience-evaluator",
+          "handout": "Pseudoscience_CaseStudy_Detailed.pdf; Evaluation_Criteria_Summary.pdf",
+          "pythonNotebook": null
+        },
+        "extension": "Apply the evaluation framework to a different pseudoscientific claim found through independent research (e.g., related to conspiracy theories, alternative archaeology).",
+        "aiIntegration": {
+          "assistantRole": "Clarify the meaning of evaluation criteria (e.g., 'What does falsifiability mean in this context?'). Provide feedback on the strength and relevance of student justifications in the rubric. Link criteria back to characteristics of science (DS5_N7).",
+          "weeklySummaryHook": true
+        }
+      },
+      {
+        "lessonId": "W6L2",
+        "title": "Finding Reliable Large Datasets: Portals & Metadata",
+        "duration": "55 min",
+        "alignedNodes": ["DS5_N12"],
+        "learningOutcomes": [
+          {"syllabusCode": "SC5-DA2-01", "bloom": "Apply"},
+          {"syllabusCode": "SC5-WS-02", "bloom": "Apply"}
+        ],
+        "cognitiveLoadBand": 3,
+        "overview": "Moving from evaluating claims to investigating them, this lesson introduces students to reputable sources of large scientific datasets. Students will explore key Australian data portals (e.g., BoM, ABS, CSIRO) and learn the importance of reading metadata to understand dataset scope and limitations.",
+        "activities": {
+          "warmUp": "5 min - Retrieval Practice: 'What kind of scientific question could you investigate using Australian census data (ABS)?' (Template DS5_N12[1]). Connect to W1's question formulation.",
+          "main": [
+            "15 min - Guided Tour of Data Portals: Teacher demonstrates navigating 1-2 key portals (e.g., BoM Climate Data Online, ABS Data APIs), highlighting search functions, dataset categories, and crucially, where to find metadata (documentation, variable lists, collection methods).",
+            "25 min - Metadata Exploration Task: In pairs using laptops/devices, students explore a specific dataset within one portal (assigned or chosen). They use a worksheet/Observable template to summarise key metadata: variables included, time period, geographic scope, collection method, potential limitations.",
+            "10 min - Class Discussion: Pairs share key findings from their metadata exploration. Discuss how metadata helps determine if a dataset is suitable for answering a specific research question (linking back to DS5_N1)."
+          ],
+          "reflection": "5 min - Quick Write: 'Why is it essential to read the metadata *before* downloading or analysing a large dataset?'"
+        },
+        "assessment": {
+          "formative": "Completed metadata summary worksheet/template. Assessed for accurate extraction of key information from the portal.",
+          "misconceptionCheck": "Check for assumptions about data availability or misunderstanding of variable definitions based on dataset titles alone. Reinforce the need to check metadata details via DS5_N12.adaptiveScaffold prompt if needed ('What variables are actually included? What time period?...')."
+        },
+        "materials": {
+          "slides": "W6L2_FindingData.pptx",
+          "notebook": "observablehq.com/@npcomplete/ds5-w6l2-metadata-explorer",
+          "handout": "Data_Portal_Links_Aus.pdf; Metadata_Summary_Worksheet.pdf",
+          "pythonNotebook": null
+        },
+        "extension": "Explore the CSIRO Data Access Portal. Find a dataset related to environmental science and summarise its metadata.",
+        "aiIntegration": {
+          "assistantRole": "Provide links to specific sections of data portals (e.g., 'BoM metadata is usually found here...'). Define metadata terms (variable, scope, methodology). Help students interpret technical details in metadata summaries.",
+          "weeklySummaryHook": true
+        }
+      },
+      {
+        "lessonId": "W6L3",
+        "title": "Matching Datasets to Research Questions",
+        "duration": "55 min",
+        "alignedNodes": ["DS5_N12"],
+        "learningOutcomes": [
+          {"syllabusCode": "SC5-DA2-01", "bloom": "Apply"},
+          {"syllabusCode": "SC5-WS-02", "bloom": "Apply"}
+        ],
+        "cognitiveLoadBand": 3,
+        "overview": "This lesson consolidates skills in finding data and formulating relevant questions. Students will independently explore data portals or specific datasets, refine investigable questions based on available variables and metadata, and present their findings, justifying the suitability of the chosen data.",
+        "activities": {
+          "warmUp": "5 min - Retrieval Practice: 'Formulate a question answerable by the [specific dataset description provided].' (Template DS5_N12[2]). Review SMART question criteria.",
+          "main": [
+            "25 min - Independent Exploration & Question Refinement: Students individually (or in pairs) select a data portal/dataset (from W6L2 or a new one) and identify a specific dataset of interest. They refine an initial research idea into a specific, testable question that *can* be addressed using the available variables identified in the metadata. Document findings in Observable template.",
+            "15 min - Mini-Presentations/Gallery Walk: Students briefly present their chosen dataset and refined question to a small group or the class (using a structured format: Portal/Dataset, Key Variables, Refined Question, Justification). Peer feedback on question clarity and suitability.",
+            "10 min - Synthesis Discussion: What makes a 'good match' between a research question and a large dataset?"
+          ],
+          "reflection": "5 min - Self-Assessment: 'How confident are you now in finding a suitable large dataset for a given scientific topic? What is still challenging?'"
+        },
+        "assessment": {
+          "formative": "Brief presentation/summary of dataset-question match, assessed using a simple rubric (Clarity of question, Relevance of dataset variables, Justification). Peer feedback during presentations.",
+          "misconceptionCheck": "Monitor presentations for questions that are still too broad or mismatched with the described dataset variables. Use DS5_N12.adaptiveScaffold prompts ('Does the dataset contain variables to measure both your independent and dependent factors?')."
+        },
+        "materials": {
+          "slides": "W6L3_MatchingDataQuestions.pptx",
+          "notebook": "observablehq.com/@npcomplete/ds5-w6l3-dataset-question-match",
+          "handout": "Presentation_Template_Guide.pdf",
+          "pythonNotebook": null
+        },
+        "extension": "Identify potential ethical considerations or biases associated with the collection or use of the dataset you explored.",
+        "aiIntegration": {
+          "assistantRole": "Provide feedback on the specificity and measurability of refined questions. Help students identify key variables within sample metadata descriptions. Offer suggestions for alternative data sources if a chosen one is unsuitable. Generate weekly summary.",
+          "weeklySummaryHook": true
+        }
+      },
+      {
+        "lessonId": "W7L1",
+        "title": "Describing Data: Central Tendency & Spread",
+        "duration": "55 min",
+        "alignedNodes": ["DS5_N13"],
+        "learningOutcomes": [
+          {"syllabusCode": "SC5-DA2-01", "bloom": "Apply"},
+          {"syllabusCode": "SC5-WS-05", "bloom": "Apply"}
+        ],
+        "cognitiveLoadBand": 3,
+        "overview": "This lesson introduces basic descriptive statistics used to summarise large datasets. Students will learn to calculate and interpret measures of central tendency (mean, median, mode) and spread (range, interquartile range) using spreadsheet software, understanding how these summaries capture key features of the data.",
+        "activities": {
+          "warmUp": "5 min - Retrieval Practice: 'When might the median be a better measure of central tendency than the mean?' (Template DS5_N13[1]). Discuss outliers.",
+          "main": [
+            "15 min - Screencast Tutorial & Demo: Watch/follow a short tutorial (pre-recorded or live demo based on DS5_N13 visualisation design) showing how to use spreadsheet functions (AVERAGE, MEDIAN, MODE, MAX, MIN, QUARTILE.INC) on a sample dataset.",
+            "25 min - Hands-on Practice: Students work individually or in pairs using spreadsheet software (e.g., Google Sheets, Excel - ensure school accessibility) with a provided practice dataset (DS5_N13.media) to calculate the specified descriptive statistics for different variables. Document results.",
+            "10 min - Interpretation Discussion: Class discusses the calculated statistics. 'What does the difference between the mean and median tell us about this variable's distribution?' Address mean vs. median misconception (DS5_N13.misconceptions)."
+          ],
+          "reflection": "5 min - Exit Ticket: 'What does the interquartile range (IQR) tell you about data spread that the range doesn't?' (Template DS5_N13[2])"
+        },
+        "assessment": {
+          "formative": "Submission of spreadsheet with calculated statistics. Auto-graded quiz on spreadsheet function syntax and definitions of statistical terms (mean, median, mode, range, IQR).",
+          "misconceptionCheck": "Monitor calculations and discussion for confusion (e.g., mean vs. median sensitivity to outliers). If incorrect function usage, trigger DS5_N13.adaptiveScaffold hint ('Show correct function syntax... link to help documentation')."
+        },
+        "materials": {
+          "slides": "W7L1_DescriptiveStats.pptx",
+          "notebook": null,
+          "handout": "Spreadsheet_Functions_Guide.pdf",
+          "pythonNotebook": null,
+          "other": ["media/spreadsheet_stats_tutorial.mp4 (or live demo)", "media/practice_dataset.xlsx (or Google Sheet link)"]
+        },
+        "extension": "Calculate descriptive statistics for a subset of the data (e.g., comparing stats for males vs. females) and discuss any differences observed.",
+        "aiIntegration": {
+          "assistantRole": "Explain the purpose and calculation of each descriptive statistic. Provide correct spreadsheet function syntax. Help students interpret what calculated values mean in the context of the data. Offer practice calculation problems.",
+          "weeklySummaryHook": true
+        }
+      },
+      {
+        "lessonId": "W7L2",
+        "title": "Why Summarise? The Power of Stats & Graphs",
+        "duration": "55 min",
+        "alignedNodes": ["DS5_N14"],
+        "learningOutcomes": [
+          {"syllabusCode": "SC5-DA2-01", "bloom": "Understand"},
+          {"syllabusCode": "SC5-WS-06", "bloom": "Understand"},
+          {"syllabusCode": "SC5-WS-08", "bloom": "Understand"}
+        ],
+        "cognitiveLoadBand": 2,
+        "overview": "This lesson explores the rationale behind using descriptive statistics and graphical representations, especially with large datasets. Students will understand how summaries help identify patterns, trends, and communicate key findings more effectively than raw data alone, appreciating the value of data reduction.",
+        "activities": {
+          "warmUp": "5 min - Retrieval Practice: 'Why are summary statistics like the mean useful when dealing with large datasets?' (Template DS5_N14[0]). Connect to previous lesson's calculations.",
+          "main": [
+            "20 min - Interactive Demonstration: Engage with the DS5_N14 visualisation in an Observable notebook – comparing a large raw data table side-by-side with its summary statistics and a relevant graph (e.g., histogram). Teacher/students highlight how patterns become clearer with summaries/graphs.",
+            "15 min - Mini-lecture & Discussion: Explain the benefits: data reduction, pattern identification, effective communication. Contrast clarity of a graph vs. a large table. Address misconceptions (e.g., raw data is clearest, stats obscure info - DS5_N14.misconceptions).",
+            "10 min - Think-Pair-Share: 'Think of a real-world example where presenting a summary statistic or graph would be much more useful than showing all the raw data. Explain why.'"
+          ],
+          "reflection": "5 min - Exit Ticket: 'List two benefits of using descriptive statistics or graphs when analysing large datasets.' (Related to DS5_N14[2])"
+        },
+        "assessment": {
+          "formative": "Short written response explaining why summary statistics are necessary for large datasets, citing examples from the interactive demo. Peer discussion contribution.",
+          "misconceptionCheck": "During discussion, check for persistent belief that raw data is superior. Use DS5_N14.adaptiveScaffold hint if students struggle to articulate benefits ('Use analogy: Understanding a crowd by looking at every single person vs. getting average height/age range...')."
+        },
+        "materials": {
+          "slides": "W7L2_WhySummarise.pptx",
+          "notebook": "observablehq.com/@npcomplete/ds5-w7l2-benefit-of-summaries",
+          "handout": null,
+          "pythonNotebook": null
+        },
+        "extension": "Find a news article that uses summary statistics or a graph to present data. Discuss how effectively it communicates the main findings.",
+        "aiIntegration": {
+          "assistantRole": "Explain the concept of data reduction. Provide analogies for why summaries are useful. Help students articulate the communication benefits of graphs over tables for specific data patterns.",
+          "weeklySummaryHook": true
+        }
+      },
+      {
+        "lessonId": "W7L3",
+        "title": "Visualising One Variable: Histograms & Box Plots",
+        "duration": "55 min",
+        "alignedNodes": ["DS5_N15a"],
+        "learningOutcomes": [
+          {"syllabusCode": "SC5-DA2-01", "bloom": "Apply"},
+          {"syllabusCode": "SC5-WS-05", "bloom": "Apply"},
+          {"syllabusCode": "SC5-WS-06", "bloom": "Apply"}
+        ],
+        "cognitiveLoadBand": 3,
+        "overview": "This lesson introduces univariate data visualisation techniques. Students will learn how to create and interpret histograms and box plots using digital tools to understand the distribution (shape, centre, spread) of a single variable within a large dataset.",
+        "activities": {
+          "warmUp": "5 min - Retrieval Practice: 'What type of graph is best for showing the distribution of a single numerical variable?' (Template DS5_N15a[2]). Discuss: What does 'distribution' mean?",
+          "main": [
+            "15 min - Introduction & Demo: Introduce histograms (showing frequency distribution) and box plots (showing median, quartiles, range, outliers). Demonstrate how to create them using spreadsheet software or an interactive Observable tool (DS5_N15a visualisation design).",
+            "25 min - Hands-on Visualisation Task: Students use the chosen digital tool with the practice dataset (from W7L1) to create a histogram for one variable and a box plot for another variable. They then write brief interpretations describing the distribution shape (e.g., skewed, symmetrical) and key features (e.g., median, IQR, potential outliers).",
+            "10 min - Peer Review & Comparison: Students share their created graphs and interpretations with a partner, providing feedback on graph clarity and interpretation accuracy. Discuss different distribution shapes observed."
+          ],
+          "reflection": "5 min - Quick Write: 'What information does a box plot show clearly that a histogram might not (and vice versa)?'"
+        },
+        "assessment": {
+          "formative": "Submission of created histogram and box plot with written interpretations. Assessed for correct graph creation and accurate description of distribution shape/features. AI agent could potentially check graph parameters and basic interpretation.",
+          "misconceptionCheck": "Check interpretations for confusion about what histograms/box plots show (e.g., thinking univariate shows relationships between variables - DS5_N15a misconception). If difficulty interpreting shape/features, trigger DS5_N15a.adaptiveScaffold hint ('Provide examples of different distribution shapes... explain features of a box plot...')."
+        },
+        "materials": {
+          "slides": "W7L3_UnivariateViz.pptx",
+          "notebook": "observablehq.com/@npcomplete/ds5-w7l3-univariate-vis-tool (optional interactive tool)",
+          "handout": "Histogram_BoxPlot_Guide.pdf",
+          "pythonNotebook": null,
+          "other": ["media/practice_dataset.xlsx (or Google Sheet link)"]
+        },
+        "extension": "Create histograms with different bin widths for the same variable. Discuss how changing the bin width affects the perceived shape of the distribution.",
+        "aiIntegration": {
+          "assistantRole": "Explain the purpose of histograms and box plots. Guide students on choosing appropriate bin widths. Help interpret features like skewness, modality, and outliers from the graphs. Offer feedback on written interpretations of distributions. Generate weekly summary.",
+          "weeklySummaryHook": true
+        }
+      },
+      {
+        "lessonId": "W8L1",
+        "title": "Visualising Relationships: Scatter Plots",
+        "duration": "55 min",
+        "alignedNodes": ["DS5_N15b"],
+        "learningOutcomes": [
+          {"syllabusCode": "SC5-DA2-01", "bloom": "Apply"},
+          {"syllabusCode": "SC5-WS-05", "bloom": "Apply"},
+          {"syllabusCode": "SC5-WS-06", "bloom": "Apply"}
+        ],
+        "cognitiveLoadBand": 4,
+        "overview": "This lesson introduces bivariate data visualisation using scatter plots. Students will learn how to create scatter plots using digital tools to explore potential relationships between two variables, and how to interpret the resulting plots to identify visual correlations (positive, negative, none) and estimate their strength.",
+        "activities": {
+          "warmUp": "5 min - Retrieval Practice: 'What type of graph is best for showing the distribution of a *single* numerical variable?' (Review W7L3). Discuss: How might we show the relationship between *two* variables?",
+          "main": [
+            "15 min - Introduction & Demo: Introduce scatter plots and their purpose. Explain axes, plotting points, and interpreting patterns (positive/negative/no correlation, linear/non-linear, strong/weak). Demonstrate creating a scatter plot using spreadsheet software or an interactive Observable tool (DS5_N15b visualisation design).",
+            "25 min - Hands-on Scatter Plot Creation: Students use the chosen digital tool with a practice dataset (containing multiple variable pairs) to create 2-3 different scatter plots. For each plot, they write a brief interpretation describing the apparent relationship (direction and strength).",
+            "10 min - Gallery Walk & Peer Review: Students share their created scatter plots and interpretations (e.g., on screen, shared doc). They provide feedback to peers on graph clarity and the description of the relationship, using prompts like 'Does the description match the visual pattern?'."
+          ],
+          "reflection": "5 min - Exit Ticket: 'What does a positive correlation look like on a scatter plot?' (Template DS5_N15b[1]) 'Does a strong visual correlation prove one variable causes the other? (Initial thought)'"
+        },
+        "assessment": {
+          "formative": "Submission of created scatter plots with written interpretations. Assessed for correct graph creation and appropriate description of visual correlation. AI agent could check graph type and basic pattern description.",
+          "misconceptionCheck": "Monitor interpretations for assumptions of causality or confusion about correlation types (DS5_N15b misconceptions). If difficulty identifying/describing correlation, trigger DS5_N15b.adaptiveScaffold hint ('Show examples of positive, negative, no correlation... Provide descriptive terms'). High CL node, so monitor for overload."
+        },
+        "materials": {
+          "slides": "W8L1_ScatterPlots.pptx",
+          "notebook": "observablehq.com/@npcomplete/ds5-w8l1-bivariate-vis-tool (optional interactive tool)",
+          "handout": "Scatter_Plot_Interpretation_Guide.pdf",
+          "pythonNotebook": null,
+          "other": ["media/practice_dataset_bivariate.xlsx (or Google Sheet link)"]
+        },
+        "extension": "Explore datasets with non-linear relationships. Create scatter plots and discuss how to describe these patterns.",
+        "aiIntegration": {
+          "assistantRole": "Guide students on selecting appropriate variables for X and Y axes. Help interpret scatter plot patterns (direction, strength, linearity). Offer feedback on written interpretations of correlation. Introduce vocabulary (positive, negative, linear, outlier).",
+          "weeklySummaryHook": true
+        }
+      },
+      {
+        "lessonId": "W8L2",
+        "title": "Correlation Doesn't Equal Causation!",
+        "duration": "55 min",
+        "alignedNodes": ["DS5_N16"],
+        "learningOutcomes": [
+          {"syllabusCode": "SC5-DA2-01", "bloom": "Understand"},
+          {"syllabusCode": "SC5-WS-06", "bloom": "Understand"}
+        ],
+        "cognitiveLoadBand": 3,
+        "overview": "This crucial lesson introduces the critical distinction between correlation and causation. Students will explore why two variables might move together without one directly causing the other, learning about spurious correlations and the concept of confounding factors through engaging examples and visualisations.",
+        "activities": {
+          "warmUp": "5 min - Retrieval Practice: 'In your own words, explain 'correlation does not necessarily imply causation'.' (Template DS5_N16[0]). Discuss the initial thought from W8L1 reflection.",
+          "main": [
+            "20 min - Explaining the Distinction: Mini-lecture defining correlation (statistical association) and causation (direct causal link). Use classic examples (ice cream sales vs crime rates - DS5_N16 examples). Introduce the idea of confounding variables (e.g., weather). Show relevant 'Spurious Correlations' website examples.",
+            "20 min - Interactive Visualisation Analysis: Students engage with the DS5_N16 visualisation in an Observable notebook – displaying scatter plots with strong correlation but explained by a confounding variable (e.g., linked views showing ice cream sales, crime rates, and temperature). Students identify the correlation and discuss the confounding factor.",
+            "10 min - Brainstorming Confounding Factors: In pairs, students are given 2-3 scenarios describing a correlation (e.g., shoe size and reading ability). They brainstorm potential confounding factors that could explain the relationship."
+          ],
+          "reflection": "5 min - Exit Ticket: 'Give an example of two variables that are correlated but one does not cause the other, and suggest a possible confounding factor.' (Related to DS5_N16[1])"
+        },
+        "assessment": {
+          "formative": "Scenario analysis task: Given a correlation, students explain why causation cannot be assumed and propose a plausible confounding factor. Short quiz on definitions (correlation, causation, confounding factor).",
+          "misconceptionCheck": "Monitor discussions for persistence of the 'correlation = causation' fallacy (DS5_N16 misconception). If students incorrectly assume causation, trigger DS5_N16.adaptiveScaffold hint ('Prompt student to brainstorm other factors: What else could cause both X and Y to increase?')."
+        },
+        "materials": {
+          "slides": "W8L2_CorrVsCaus.pptx",
+          "notebook": "observablehq.com/@npcomplete/ds5-w8l2-correlation-vs-causation",
+          "handout": "Correlation_Scenarios.pdf",
+          "pythonNotebook": null
+        },
+        "extension": "Research the Bradford Hill criteria used in epidemiology to help infer causation from observational studies, noting the cautious approach required.",
+        "aiIntegration": {
+          "assistantRole": "Provide clear definitions and contrasting examples of correlation and causation. Explain confounding variables. Offer feedback on students' proposed confounding factors for scenarios. Link to reliable sources discussing specific correlation/causation examples.",
+          "weeklySummaryHook": true
+        }
+      },
+      {
+        "lessonId": "W8L3",
+        "title": "Critically Analysing Relationships in Data",
+        "duration": "55 min",
+        "alignedNodes": ["DS5_N15b", "DS5_N16"],
+        "learningOutcomes": [
+          {"syllabusCode": "SC5-DA2-01", "bloom": "Analyse"},
+          {"syllabusCode": "SC5-WS-06", "bloom": "Analyse"}
+        ],
+        "cognitiveLoadBand": 4, // High due to applying both concepts critically
+        "overview": "This lesson integrates the skills of creating scatter plots and understanding correlation vs. causation. Students will critically re-evaluate relationships observed in data, considering potential confounding factors and the limitations of inferring causality from correlational patterns found in real-world datasets.",
+        "activities": {
+          "warmUp": "5 min - Retrieval Practice: 'What is a 'confounding factor' and why is it important when looking at correlations?' (Template DS5_N16[2]). Recap key ideas from W8L2.",
+          "main": [
+            "20 min - Re-evaluating Scatter Plots: Students revisit the scatter plots they created in W8L1. For each plot showing a correlation, they now discuss in pairs: a) Can we infer causation? Why/why not? b) What are potential confounding factors? c) What additional information or type of study would be needed to investigate causation?",
+            "20 min - Case Study Critique: Students analyse a short case study or news report that implies causation from correlational data. They identify the flawed reasoning, propose confounding factors, and suggest how the claim could be investigated more rigorously (e.g., controlled experiment if feasible).",
+            "10 min - Class Discussion: Share critiques of case studies. Discuss the challenges of establishing causation in complex real-world systems (e.g., social sciences, environmental science)."
+          ],
+          "reflection": "5 min - Quick Write: 'What is the most important question to ask yourself when you see a graph showing a strong correlation between two variables?'"
+        },
+        "assessment": {
+          "formative": "Written critique of the case study, assessed for correct identification of correlation vs. causation issue, plausible confounding factors, and suggestion for better investigation. Peer review of critiques.",
+          "misconceptionCheck": "Check critiques for any remaining confusion between correlation and causation, or difficulty identifying relevant confounding factors in context. Provide targeted feedback or small group reteaching if needed."
+        },
+        "materials": {
+          "slides": "W8L3_CritiquingRelationships.pptx",
+          "notebook": null, // Refer back to W8L1 notebook/outputs
+          "handout": "Case_Study_Correlation_Causation.pdf",
+          "pythonNotebook": null
+        },
+        "extension": "Find a real scientific study online that investigates a causal relationship. Briefly describe the methodology used (e.g., RCT, observational with controls) and how it attempted to address confounding factors.",
+        "aiIntegration": {
+          "assistantRole": "Help students brainstorm potential confounding factors for specific scatter plots or scenarios. Provide sentence frames for critiquing causal claims based on correlational data. Explain different research methodologies used to investigate causation (e.g., RCTs). Generate weekly summary.",
+          "weeklySummaryHook": true
+        }
+      },
+      {
+        "lessonId": "W9L1",
+        "title": "Predicting from Graphs: Interpolation & Extrapolation",
+        "duration": "55 min",
+        "alignedNodes": ["DS5_N19"],
+        "learningOutcomes": [
+          {"syllabusCode": "SC5-DA2-01", "bloom": "Apply"},
+          {"syllabusCode": "SC5-WS-06", "bloom": "Apply"}
+        ],
+        "cognitiveLoadBand": 3,
+        "overview": "This lesson explores how graphical representations, particularly those with trendlines, can be used for prediction. Students will learn to interpolate (estimate values within the data range) and extrapolate (predict values beyond the data range), critically evaluating the assumptions and limitations involved, especially the risks of extrapolation.",
+        "activities": {
+          "warmUp": "5 min - Retrieval Practice: 'Why must extrapolation be treated with more caution than interpolation?' (Template DS5_N19[2]). Discuss: When might we need to predict future values from data?",
+          "main": [
+            "15 min - Introduction & Definitions: Define interpolation and extrapolation using clear visual examples on graphs. Discuss the concept of a trendline or line of best fit. Emphasise assumptions (trend continues) and limitations (uncertainty increases further from data).",
+            "25 min - Interactive Graph Activity: Students use the interactive graph tool in an Observable notebook (DS5_N19 visualisation design). They interact with a scatter plot with a trendline, clicking/dragging to interpolate values within the data range and extending the line (visually distinct) to extrapolate. They answer prompts about the predicted values and confidence/limitations.",
+            "10 min - Pair Discussion: Students discuss scenarios where extrapolation might be reasonable vs. highly unreliable, justifying their reasoning based on the context (e.g., predicting population growth vs. weather)."
+          ],
+          "reflection": "5 min - Exit Ticket: 'Using this graph [graph with trendline], interpolate the approximate value for Y when X is [x-value within range]. Extrapolate for Y when X is [x-value outside range]. State one limitation of the extrapolation.' (Based on DS5_N19[0, 1])"
+        },
+        "assessment": {
+          "formative": "Completion of interactive graph activity with answers to prompts. Assessed for reasonable interpolation/extrapolation readings and articulation of limitations. AI agent checks numerical estimates against the graph.",
+          "misconceptionCheck": "Check for overconfidence in extrapolation or failure to state limitations (DS5_N19 misconceptions). If limitations are ignored, trigger DS5_N19.adaptiveScaffold hint ('Display warnings about uncertainty. Show examples where trends change direction...')."
+        },
+        "materials": {
+          "slides": "W9L1_InterpolateExtrapolate.pptx",
+          "notebook": "observablehq.com/@npcomplete/ds5-w9l1-interpolate-extrapolate-graph",
+          "handout": "Interpolation_Extrapolation_Examples.pdf",
+          "pythonNotebook": null
+        },
+        "extension": "Find a real-world graph in the media that makes a prediction (extrapolation). Evaluate the potential reliability of the prediction based on the data shown and the context.",
+        "aiIntegration": {
+          "assistantRole": "Explain the difference between interpolation and extrapolation using graph examples. Guide students on reading values from the interactive graph. Provide feedback on their stated limitations for extrapolation, prompting consideration of context.",
+          "weeklySummaryHook": true
+        }
+      },
+      {
+        "lessonId": "W9L2",
+        "title": "How Graphs Can Lie: Identifying Distortion Techniques",
+        "duration": "55 min",
+        "alignedNodes": ["DS5_N9"],
+        "learningOutcomes": [
+          {"syllabusCode": "SC5-DA2-01", "bloom": "Analyse"},
+          {"syllabusCode": "SC5-WS-06", "bloom": "Analyse"}
+        ],
+        "cognitiveLoadBand": 4,
+        "overview": "This lesson focuses on developing critical graph literacy by identifying common ways data visualisations can be manipulated to mislead. Students will learn to recognise techniques such as truncated axes, non-zero baselines, cherry-picking data, inappropriate graph types, and confusing correlation with causation.",
+        "activities": {
+          "warmUp": "5 min - Retrieval Practice: 'What is 'cherry-picking' data and why is it problematic?' (Template DS5_N9[1]). Discuss: Can numbers/graphs lie?",
+          "main": [
+            "20 min - Mini-lecture & Catalogue of Distortions: Introduce and illustrate common distortion techniques using clear examples (e.g., truncated Y-axis, inappropriate 3D effects, misleading pictograms, choosing graph type to hide/exaggerate patterns, correlation/causation confusion). Use DS5_N9 examples (climate denial charts, advertising graphs).",
+            "20 min - Interactive Comparison Tool: Students engage with the DS5_N9 visualisation in an Observable notebook – side-by-side comparison of honest vs. misleading graphs using the same dataset. They interactively manipulate scales (e.g., truncate axis) to see the distortion effect.",
+            "10 min - Small Group Identification: Groups analyse a set of provided graphs (some honest, some misleading) and identify any distortion techniques used, referencing a checklist based on the lecture."
+          ],
+          "reflection": "5 min - Think-Pair-Share: 'Which distortion technique do you think is most common or most effective at misleading people? Why?'"
+        },
+        "assessment": {
+          "formative": "Identification task: Students label the distortion technique(s) used in several sample graphs. Short quiz on definitions of techniques.",
+          "misconceptionCheck": "Check for difficulty distinguishing legitimate design choices from deliberate distortion (DS5_N9 misconceptions). If struggling to identify a technique, trigger DS5_N9.adaptiveScaffold hint ('Provide checklist: Truncated Y-axis, Non-zero baseline, Cherry-picking...?'). High CL node - monitor for understanding."
+        },
+        "materials": {
+          "slides": "W9L2_MisleadingGraphsIntro.pptx",
+          "notebook": "observablehq.com/@npcomplete/ds5-w9l2-misleading-graphs-interactive",
+          "handout": "Graph_Distortion_Techniques_Checklist.pdf; Sample_Graphs_for_Analysis.pdf",
+          "pythonNotebook": null
+        },
+        "extension": "Find an example of a potentially misleading graph used in advertising or a political campaign online. Analyse the techniques used.",
+        "aiIntegration": {
+          "assistantRole": "Define and illustrate each distortion technique. Explain *how* each technique creates a misleading impression. Provide feedback on student identification of techniques in sample graphs. Link identified technique back to visual effect.",
+          "weeklySummaryHook": true
+        }
+      },
+      {
+        "lessonId": "W9L3",
+        "title": "Critiquing Data Visualisations",
+        "duration": "55 min",
+        "alignedNodes": ["DS5_N9"],
+        "learningOutcomes": [
+          {"syllabusCode": "SC5-DA2-01", "bloom": "Evaluate"},
+          {"syllabusCode": "SC5-WS-06", "bloom": "Evaluate"}
+        ],
+        "cognitiveLoadBand": 4,
+        "overview": "Applying the knowledge from the previous lesson, students will critically evaluate potentially misleading data visualisations found in real-world contexts. They will practise identifying distortion techniques, explaining their impact, and suggesting ways to represent the data more honestly.",
+        "activities": {
+          "warmUp": "5 min - Retrieval Practice: 'Analyse this graph [misleading graph]. Identify and explain the distortion technique used.' (Template DS5_N9[2]). Quick review of techniques from W9L2.",
+          "main": [
+            "30 min - Graph Critique Task: Students work individually or in pairs analysing 2-3 real-world examples of graphs (e.g., from media, reports - provided). Using a structured critique template (digital or paper), they identify potential distortions, explain *how* they mislead, and sketch or describe a more honest representation.",
+            "15 min - Peer Review & Redesign Showcase: Students share their critiques and proposed redesigns with another pair. They provide feedback on the accuracy of the critique and the effectiveness of the redesign. Teacher showcases some strong critiques/redesigns."
+          ],
+          "reflection": "5 min - Exit Ticket: 'What is the single most important thing to check for when evaluating a graph you encounter in the media?'"
+        },
+        "assessment": {
+          "formative": "Submission of graph critiques and redesign suggestions. Assessed for accurate identification of distortions, clear explanation of impact, and reasonable redesign proposals. AI could potentially check identification against known issues in provided examples.",
+          "misconceptionCheck": "Monitor critiques for accurate application of concepts. Check redesigns for clarity and honesty. If students struggle to articulate the *impact* of the distortion, prompt them: 'How does this change what the viewer might conclude?' High CL node - focus on clear explanations."
+        },
+        "materials": {
+          "slides": "W9L3_CritiquingGraphs.pptx",
+          "notebook": null, // Could have critique template embedded
+          "handout": "Real_World_Graph_Examples.pdf; Graph_Critique_Template.pdf",
+          "pythonNotebook": null
+        },
+        "extension": "Find a dataset and deliberately create two visualisations: one honest, one misleading (using a technique learned). Explain your choices.",
+        "aiIntegration": {
+          "assistantRole": "Help students articulate the specific misleading effect of an identified technique. Provide feedback on the clarity and honesty of proposed graph redesigns. Offer resources on data visualisation best practices (e.g., Tufte's principles). Generate weekly summary.",
+          "weeklySummaryHook": true
+        }
+      },
+      {
+        "lessonId": "W10L1",
+        "title": "Evaluating Conclusions: Uncertainty & Alternatives",
+        "duration": "55 min",
+        "alignedNodes": ["DS5_N20"],
+        "learningOutcomes": [
+          {"syllabusCode": "SC5-DA2-01", "bloom": "Evaluate"},
+          {"syllabusCode": "SC5-WS-06", "bloom": "Evaluate"}
+        ],
+        "cognitiveLoadBand": 4,
+        "overview": "This lesson focuses on the critical evaluation of conclusions drawn from scientific data. Students will learn to identify and assess sources of uncertainty (e.g., measurement error, sampling bias, sample size) and consider plausible alternative explanations for observed patterns, fostering a nuanced understanding of scientific confidence.",
+        "activities": {
+          "warmUp": "5 min - Retrieval Practice: 'Critically evaluate the conclusion: '[conclusion based on data]'. How confident can we be, and why?' (Template DS5_N20[1]). Discuss: What makes a scientific conclusion 'strong'?",
+          "main": [
+            "15 min - Mini-lecture & Discussion: Introduce concepts of uncertainty in data (measurement error, sampling limitations, natural variability). Discuss how uncertainty affects confidence in conclusions. Introduce brainstorming alternative explanations.",
+            "25 min - Interactive Critique Task: Students use the interactive critique tool/template in an Observable notebook (DS5_N20 visualisation design). Presented with a dataset and conclusion, they use the template to identify specific sources of uncertainty and brainstorm/list plausible alternative explanations for the observed pattern.",
+            "10 min - Pair & Share: Students share their identified uncertainties and alternative explanations with a partner, discussing the plausibility and impact of each."
+          ],
+          "reflection": "5 min - Exit Ticket: 'Suggest an alternative explanation, other than [stated conclusion], for the pattern observed in this data [data/graph].' (Template DS5_N20[2])"
+        },
+        "assessment": {
+          "formative": "Submission of completed critique template via Observable. Assessed for identification of relevant uncertainties and generation of plausible alternative explanations. AI agent could check for completion and keyword relevance.",
+          "misconceptionCheck": "Monitor for difficulty identifying specific uncertainties or generating alternatives (DS5_N20 misconception: First explanation is only one). Trigger DS5_N20.adaptiveScaffold hint ('Provide categories of uncertainty... Prompt brainstorming: Could something else be causing this?'). High CL node."
+        },
+        "materials": {
+          "slides": "W10L1_EvaluatingConclusions.pptx",
+          "notebook": "observablehq.com/@npcomplete/ds5-w10l1-evaluate-conclusions-tool",
+          "handout": "Conclusion_Critique_Scenario.pdf; Uncertainty_Sources_List.pdf",
+          "pythonNotebook": null
+        },
+        "extension": "Analyse a conclusion from a study discussed earlier in the course (e.g., related to correlation/causation). Apply the uncertainty/alternative explanations framework.",
+        "aiIntegration": {
+          "assistantRole": "Define different types of uncertainty (e.g., systematic vs. random error). Help students brainstorm alternative explanations by prompting with 'What if...?' questions based on the context. Provide feedback on the plausibility of generated alternatives.",
+          "weeklySummaryHook": true
+        }
+      },
+      {
+        "lessonId": "W10L2",
+        "title": "Big Data's Role & Defining Decision Criteria",
+        "duration": "55 min",
+        "alignedNodes": ["DS5_N17", "DS5_N21"],
+        "learningOutcomes": [
+          {"syllabusCode": "SC5-DA2-01", "bloom": "Understand"}, // N17
+          {"syllabusCode": "SC5-DA2-01", "bloom": "Create"},     // N21
+          {"syllabusCode": "SC5-WS-07", "bloom": "Create"}      // N21
+        ],
+        "cognitiveLoadBand": 4, // Average of Band 3 (N17) and Band 4 (N21)
+        "overview": "This lesson explores the significant role large datasets play in validating major scientific findings and building confidence in theories. It then transitions to practical problem-solving by having students develop specific, measurable criteria for evaluating potential solutions to a defined real-world scientific problem.",
+        "activities": {
+          "warmUp": "5 min - Retrieval Practice: 'Why is statistical analysis often essential for validating claims based on large datasets?' (Template DS5_N17[1]). Connect to uncertainty (W10L1).",
+          "main": [
+            "15 min - Case Study Analysis (N17): Students analyse an interactive case study (DS5_N17 visualisation design, e.g., climate models, epidemiology) showing how large datasets and analysis strengthened a scientific theory. Discuss the importance of scale and statistics.",
+            "10 min - Introduce Problem Scenario & Criteria Need (N21): Present a real-world scientific problem scenario (e.g., managing local water resources, choosing a sustainable energy option for the school – link to N18). Discuss the need for clear criteria before evaluating solutions.",
+            "20 min - Criteria Development Task: Using an interactive template/brainstorming tool (DS5_N21 visualisation design), students work in small groups to brainstorm, refine (using SMART framework?), and justify specific, measurable criteria for evaluating solutions to the presented problem."
+          ],
+          "reflection": "5 min - Peer Review of Criteria: Groups briefly share their top 3 criteria. Peers offer quick feedback: 'Is it specific? Measurable?'"
+        },
+        "assessment": {
+          "formative": "Answers to case study questions (N17). Drafted list of evaluation criteria with justifications (N21), assessed via peer review and teacher observation for specificity and measurability.",
+          "misconceptionCheck": "For N17, check understanding of scale/stats role. For N21, check for vague or subjective criteria (DS5_N21 misconceptions). Trigger DS5_N21.adaptiveScaffold hint ('Prompt with categories... Suggest using SMART framework')."
+        },
+        "materials": {
+          "slides": "W10L2_BigDataCriteria.pptx",
+          "notebook": "observablehq.com/@npcomplete/ds5-w10l2-criteria-developer", // contains N17 case study + N21 tool
+          "handout": "RealWorld_Problem_Scenario.pdf; SMART_Criteria_Guide.pdf",
+          "pythonNotebook": null
+        },
+        "extension": "Research existing criteria used by organisations (e.g., government, NGOs) for evaluating similar real-world problems (e.g., environmental impact assessments).",
+        "aiIntegration": {
+          "assistantRole": "Summarise the key findings of the N17 case study. Help students refine vague criteria using the SMART framework. Provide examples of measurable vs. non-measurable criteria for different contexts. Check alignment of criteria with the problem scenario.",
+          "weeklySummaryHook": true
+        }
+      },
+      {
+        "lessonId": "W10L3",
+        "title": "Making Evidence-Based Decisions",
+        "duration": "55 min",
+        "alignedNodes": ["DS5_N18", "DS5_N21", "DS5_N22"],
+        "learningOutcomes": [
+          {"syllabusCode": "SC5-DA2-01", "bloom": "Evaluate"}, // N18, N22
+          {"syllabusCode": "SC5-WS-07", "bloom": "Evaluate"}  // N18, N22
+        ],
+        "cognitiveLoadBand": 5, // N18 is Band 5, N22 is Band 4. Very high load.
+        "overview": "Culminating the course, this lesson challenges students to apply their data analysis and critical evaluation skills to a complex real-world problem. Using provided data and the criteria they developed, students evaluate different potential solutions/strategies and make a justified, evidence-based decision.",
+        "activities": {
+          "warmUp": "5 min - Retrieval Practice: 'Evaluate Method A vs. Method B for measuring plant growth, using criteria of accuracy, cost, and ease of use.' (Template DS5_N22[0]). Recap criteria from W10L2.",
+          "main": [
+            "35 min - Interactive Decision Scenario (N18, N22): Students work in groups using the interactive case study/decision tree in Observable (DS5_N18 visualisation design). They access relevant datasets for different proposed solutions to the problem from W10L2. They apply their criteria (N21), evaluate each option's pros/cons based on data (N22), potentially using a decision matrix, and arrive at a recommended solution.",
+            "10 min - Justification & Discussion: Each group prepares a brief (1-2 min) verbal justification for their chosen solution, explicitly referencing the data and their evaluation criteria. Class discusses different conclusions and the weighting of criteria."
+          ],
+          "reflection": "5 min - Final Thought: 'What was the most challenging aspect of making an evidence-based decision in this complex scenario?'"
+        },
+        "assessment": {
+          "formative": "Group justification presentation. Submission of completed decision matrix or rationale document. Assessed on logical application of criteria, use of data as evidence, and clear justification.",
+          "misconceptionCheck": "High cognitive load - watch for students being overwhelmed or making decisions without fully analysing data (DS5_N18 misconceptions). Trigger DS5_N18.adaptiveScaffold hint ('Provide decision-making matrix template... Prompt consideration of different stakeholder perspectives/timeframes'). Ensure criteria from N21 are actively used in N22 evaluation."
+        },
+        "materials": {
+          "slides": "W10L3_EvidenceBasedDecisions.pptx",
+          "notebook": "observablehq.com/@npcomplete/ds5-w10l3-real-world-decision-scenario",
+          "handout": "Decision_Matrix_Template.pdf", // Optional scaffold
+          "pythonNotebook": null
+        },
+        "extension": "Research the potential long-term implications or unintended consequences of the solution your group recommended.",
+        "aiIntegration": {
+          "assistantRole": "Help students interpret the provided datasets within the decision scenario. Guide groups in systematically applying their criteria to each option using the decision matrix. Prompt consideration of trade-offs between criteria. Check justifications for clear links to evidence. Generate final course summary/review prompts.",
+          "weeklySummaryHook": true // Final summary
+        }
+      }
+    // ... Placeholder for remaining 27 lesson plan objects ...
+    // Each lesson object would follow the same structure as W1L1 above,
+    // covering the content outlined in the course overview for weeks 2-10.
+  ]
+}
+```
