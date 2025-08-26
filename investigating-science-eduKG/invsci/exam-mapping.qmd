@@ -1,0 +1,15 @@
+---
+title: "Past Papers — Outcome Mapping"
+lang: en-GB
+date: 2025-08-26
+format:
+  html: default
+execute: 
+  eval: false
+---
+
+This page summarises mappings extracted from local Marking Guidelines PDFs into the knowledge graph seed.
+
+```{=include}
+_includes/exam-mapping.md
+```

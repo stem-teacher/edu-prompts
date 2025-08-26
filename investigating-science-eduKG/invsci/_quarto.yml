@@ -27,6 +27,8 @@ website:
     left:
       - text: Unit
         href: inv-sci-unit.qmd
+      - text: Exam Mapping
+        href: exam-mapping.qmd
       - text: Worksheets
         menu:
           - text: Worksheet 1
