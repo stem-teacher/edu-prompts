@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "graph-kg/entity.schema.json",
+  "type": "object",
+  "required": ["id","type","provenance"],
+  "properties": {
+    "id": {"type": "string", "minLength": 1},
+    "type": {"type": "string", "enum": ["Agent","Prompt","Deliverable","Decision","Tool"]},
+    "props": {"type": "object"},
+    "provenance": {
+      "type": "object",
+      "required": ["source","captured_at","agent_id","tool"],
+      "properties": {
+        "source": {"type": "string"},
+        "captured_at": {"type": "string"},
+        "agent_id": {"type": "string"},
+        "tool": {"type": "string"},
+        "evidence_refs": {"type": "array", "items": {"type": "string"}}
+      }
+    }
+  }
+}

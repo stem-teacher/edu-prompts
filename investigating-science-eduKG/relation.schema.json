@@ -1,0 +1,12 @@
+{
+  "$id": "graph-kg/relation.schema.json",
+  "type": "object",
+  "required": ["from","to","label","provenance"],
+  "properties": {
+    "from":{"type":"string"},
+    "to":{"type":"string"},
+    "label":{"type":"string","enum":["IMPLEMENTS","HANDOFFS_TO","PRODUCES","DERIVES_FROM","VERIFIES","DECIDES"]},
+    "props":{"type":"object"},
+    "provenance":{"$ref":"graph-kg/entity.schema.json#/properties/provenance"}
+  }
+}

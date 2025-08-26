@@ -1,0 +1,27 @@
+---
+title: "Worksheet 2 — Analysing and Communicating Data"
+lang: en-GB
+date: 2025-08-26
+format:
+  html: default
+  pdf: default
+---
+
+## Purpose
+
+Practise processing, analysing and communicating data using appropriate graphs, models and terminology.
+
+## Outcomes (map)
+
+- INS11‑12‑4: Selects and processes data and information
+- INS11‑12‑5: Analyses and evaluates data and information
+- INS11‑12‑7: Communicates scientific understanding
+
+## Tasks
+
+1) Compute descriptive statistics (mean, median, standard deviation) for the provided dataset (SI units).
+2) Plot an appropriate graph and identify trends; comment on outliers.
+3) Propose an appropriate model (linear/exponential/other) and justify.
+4) Write a 150‑word abstract communicating findings to a non‑expert audience.
+
+> TO‑VERIFY: Replace dataset with context‑relevant values.

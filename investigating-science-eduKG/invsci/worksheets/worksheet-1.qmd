@@ -1,0 +1,30 @@
+---
+title: "Worksheet 1 — Designing Investigations"
+lang: en-GB
+date: 2025-08-26
+format:
+  html: default
+  pdf: default
+---
+
+## Purpose
+
+Practise planning a valid, reliable investigation using SI units and scientific notation.
+
+## Outcomes (map)
+
+- INS11‑12‑2: Designs and evaluates investigations
+- INS11‑12‑3: Conducts investigations to collect valid and reliable data
+- INS11‑12‑7: Communicates scientific understanding
+
+## Tasks
+
+1) Identify the independent, dependent and controlled variables for the scenario below. Specify ranges in SI units.
+2) Sketch a method that addresses reliability, validity and safety.
+3) Identify potential sources of error and how to minimise them.
+
+> TO‑VERIFY: Insert context aligned with current unit scope.
+
+## Evidence
+
+Attach a photo of your setup (if practical) or a diagram with labels and units.

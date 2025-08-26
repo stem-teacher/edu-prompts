@@ -1,0 +1,61 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "graph-kg/intake.schema.json",
+  "type": "object",
+  "required": [
+    "use_case", "primary_goal", "deliverables",
+    "constraints", "tools", "evidence", "kg_contract",
+    "intake_complete"
+  ],
+  "properties": {
+    "use_case": {
+      "type": "string",
+      "enum": [
+        "High School STEM Teaching","AI Software Process Design","Rust Engineering",
+        "Quarto Websites & APA Papers","Academic Research & Writing","Masters Study",
+        "Fly.io Operations","MCP System","Educational Knowledge Graphs","Other"
+      ]
+    },
+    "primary_goal": {"type": "string", "minLength": 3},
+    "deliverables": {"type": "array", "items": {"type": "string"}, "minItems": 1},
+    "constraints": {
+      "type": "object",
+      "properties": {
+        "time_budget_min": {"type": "integer", "minimum": 0},
+        "token_budget_max": {"type": "integer", "minimum": 0},
+        "privacy": {"type": "string"},
+        "licensing": {"type": "string"},
+        "standards": {"type": "array", "items": {"type": "string"}}
+      }
+    },
+    "tools": {
+      "type": "object",
+      "properties": {
+        "allow": {"type": "array", "items": {"type": "string",
+          "enum": ["cargo","rustfmt","clippy","quarto","surreal","fly","git"]}},
+        "deny": {"type": "array", "items": {"type": "string"}},
+        "unsafe_actions": {"type": "array", "items": {"type": "string"}}
+      }
+    },
+    "evidence": {
+      "type": "object",
+      "properties": {
+        "citations_required": {"type": "boolean"},
+        "style": {"type": "string", "const": "APA7"},
+        "source_quality_floor": {"type": "string",
+          "enum": ["peer-reviewed","standards/specs","official vendor docs","reputable tech blog"]}
+      }
+    },
+    "kg_contract": {
+      "type": "object",
+      "required": ["ndjson_per_DD_001","namespaces","identity_policy","integrity_constraints"],
+      "properties": {
+        "ndjson_per_DD_001": {"type": "boolean"},
+        "namespaces": {"type": "array", "items": {"type": "string", "pattern": "^[a-z]+:$"}},
+        "identity_policy": {"type": "string"},
+        "integrity_constraints": {"type": "array", "items": {"type": "string"}}
+      }
+    },
+    "intake_complete": {"type": "boolean"}
+  }
+}

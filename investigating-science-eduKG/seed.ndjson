@@ -1,0 +1,10 @@
+{"id":"project:invsci_stage6","type":"Deliverable","props":{"title":"Investigating Science Stage 6 KG","version":"0.1"},"provenance":{"source":"prompt","captured_at":"2025-08-26T00:00:00Z","agent_id":"agent:planner","tool":"llm","evidence_refs":["TO-VERIFY:NSW syllabus URL"]}}
+{"id":"doc:unit_intro","type":"Deliverable","props":{"kind":"quarto","slug":"inv-sci-unit-1"},"provenance":{"source":"prompt","captured_at":"2025-08-26T00:00:00Z","agent_id":"agent:scribe","tool":"llm"}}
+{"id":"decision:DD-001","type":"Decision","props":{"topic":"Use NDJSON staging + SurrealDB"},"provenance":{"source":"framework","captured_at":"2025-08-26T00:00:00Z","agent_id":"agent:auditor","tool":"policy"}}
+{"id":"deliverable:worksheets","type":"Deliverable","props":{"kind":"qmd","count":2},"provenance":{"source":"prompt","captured_at":"2025-08-26T00:00:00Z","agent_id":"agent:actor","tool":"llm"}}
+{"id":"tool:quarto","type":"Tool","props":{"name":"quarto","version":"TO-VERIFY"},"provenance":{"source":"system","captured_at":"2025-08-26T00:00:00Z","agent_id":"agent:actor","tool":"env"}}
+{"from":"project:invsci_stage6","to":"doc:unit_intro","label":"PRODUCES","props":{},"provenance":{"source":"prompt","captured_at":"2025-08-26T00:00:00Z","agent_id":"agent:planner","tool":"llm"}}
+{"from":"decision:DD-001","to":"project:invsci_stage6","label":"DECIDES","props":{},"provenance":{"source":"framework","captured_at":"2025-08-26T00:00:00Z","agent_id":"agent:auditor","tool":"policy"}}
+{"from":"project:invsci_stage6","to":"deliverable:worksheets","label":"PRODUCES","props":{},"provenance":{"source":"prompt","captured_at":"2025-08-26T00:00:00Z","agent_id":"agent:planner","tool":"llm"}}
+{"id":"doc:outcomes","type":"Deliverable","props":{"kind":"table","notes":"Stage 6 Investigating Science outcomes — codes TO‑VERIFY"},"provenance":{"source":"prompt","captured_at":"2025-08-26T00:00:00Z","agent_id":"agent:scribe","tool":"llm"}}
+{"from":"doc:outcomes","to":"project:invsci_stage6","label":"DERIVES_FROM","props":{},"provenance":{"source":"prompt","captured_at":"2025-08-26T00:00:00Z","agent_id":"agent:verifier","tool":"llm"}}

@@ -1,0 +1,64 @@
+---
+title: "Investigating Science — Unit Overview"
+subtitle: "NSW Stage 6"
+lang: en-GB
+date: 2025-08-26
+timezone: Australia/Sydney
+bibliography: references.bib
+link-citations: true
+format:
+  html: default
+  pdf: default
+---
+
+# Overview
+
+This unit skeleton is aligned to the NSW Stage 6 Investigating Science syllabus (NESA, 2017). It provides:
+
+- Outcomes table (mapped from syllabus codes)
+- Lesson structure placeholders (SI units, British English)
+- Assessment map placeholders
+
+References are formatted in APA 7th; specific URLs and DOIs are marked TO‑VERIFY where appropriate.
+
+# Learning Outcomes
+
+The following outcomes (Stage 6) are extracted from the local `learning-outcomes.md` and grouped under Working Scientifically strands. Codes and some placements are TO‑VERIFY against the official syllabus PDF.
+
+| Code         | Strand                         | Statement |
+|--------------|--------------------------------|-----------|
+| INS11-12-1   | Questioning and predicting     | Develops and evaluates questions and hypotheses for scientific investigation |
+| INS11-12-2   | Planning investigations        | Designs and evaluates investigations to obtain primary and secondary data and information |
+| INS12-12     | Planning investigations; Communicating | Develops and evaluates the process of undertaking scientific investigations |
+| INS11-12-3   | Conducting investigations      | Conducts investigations to collect valid and reliable primary and secondary data and information |
+| INS11-8      | Conducting investigations      | Identifies that the collection of primary and secondary data initiates scientific investigations |
+| INS11-12-4   | Processing data and information| Selects and processes appropriate qualitative and quantitative data and information using a range of appropriate media |
+| INS11-10     | Processing data and information| Develops, and engages with, modelling as an aid in predicting and simplifying scientific objects and processes |
+| INS11-12-5   | Analysing data and information | Analyses and evaluates primary and secondary data and information |
+| INS11-12-6   | Problem solving                | Solves scientific problems using primary and secondary data, critical thinking skills and scientific processes |
+| INS11-9      | Problem solving                | Examines the use of inferences and generalisations in scientific investigations |
+| INS12-14     | Problem solving                | Uses evidence‑based analysis in a scientific investigation to support or refute a hypothesis |
+| INS11-12-7   | Communicating                  | Communicates scientific understanding using suitable language and terminology for a specific audience or purpose |
+| INS12-13     | Communicating                  | Describes and explains how science drives the development of technologies |
+| INS11-11     | Communicating                  | Describes and assesses how scientific explanations, laws and theories have developed |
+| INS12-15     | Communicating                  | Evaluates the implications of ethical, social, economic and political influences on science |
+
+Note: Strand placements and codes are TO‑VERIFY against the current NESA syllabus publication.
+
+# Lesson Structure (skeleton)
+
+1. Engage: real‑world context; clarify prior knowledge; elicit questions.
+2. Explore: design or critique an investigation plan; identify variables; ensure SI units.
+3. Explain: analyse sample data; practise modelling and error analysis.
+4. Elaborate: extend to unfamiliar contexts; connect to technology and society.
+5. Evaluate: formative checks; map to outcomes; literacy/numeracy progression notes.
+
+# Assessment Map (skeleton)
+
+- Task A (Depth Study brief) — maps to INS11‑12‑2, INS11‑12‑3, INS11‑12‑5, INS11‑12‑7. TO‑VERIFY weightings.
+- Task B (Data analysis) — maps to INS11‑12‑4, INS11‑12‑6, INS12‑14. TO‑VERIFY weightings.
+- Exam‑style items — link to past HSC papers (2019–2024) for practice; question‑to‑outcome mappings are TO‑VERIFY.
+
+# References
+
+See bibliography entries (APA 7th) in `references.bib`.
