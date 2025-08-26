@@ -79,7 +79,7 @@ JSON
 
 # Build a simplified event stream: ::SEC, ::Q, ::M, ::S
 awk '
-  BEGIN{sec=""; want_mark=0; want_codes=0; want_qnum=0}
+  BEGIN{sec=""; want_mark=0; want_codes=0; want_qnum=0; want_content=0}
   {
     gsub(/\r/, "");
     if ($1=="Section" && $2=="I")  { print "::SEC I"; next }
@@ -103,6 +103,12 @@ awk '
       if ($1 ~ /^[0-9]+$/) { print "::M " $1; want_mark=0; next } else { want_mark=0 }
     }
 
+    if ($1=="Content" && NF==1) { want_content=1; next }
+    if (want_content==1) {
+      if ($1=="Mod" && $2 ~ /^[0-9]+$/) { print "::C " $2; want_content=0; next } else if ($0 ~ /./) { want_content=0 }
+    }
+    if ($1=="Mod" && $2 ~ /^[0-9]+$/) { print "::C " $2; next }
+
     if ($1=="Syllabus" && $2=="outcomes") { want_codes=1; next }
     if (want_codes==1) {
       if ($0 ~ /./) { print "::S " $0; want_codes=0; next } else { next }
@@ -110,7 +116,7 @@ awk '
   }
 ' "$TXT" | (
   # Now in shell: interpret the stream and emit NDJSON lines
-  current_q=""; current_part=""; current_marks="";
+  current_q=""; current_part=""; current_marks=""; current_mod=""; emitted=0;
   current_sec="";
   while IFS= read -r line; do
     case "$line" in
@@ -121,23 +127,30 @@ awk '
         if [ -n "$current_q" ]; then
           split_q
           marks="$current_marks"
-          section="$current_sec" emit_question_node
+          if [ $emitted -eq 0 ]; then section="$current_sec" emit_question_node; emitted=1; fi
+          : # no module edge at Q-flush; emit with outcomes or at EOF
         fi
         # start new
         set -- $line; # ::Q <n> <part|
         current_q="$2-${3:--}"
         current_marks=""
+        emitted=0
         ;;
+      '::C '* )
+        current_mod="${line#::C }" ;;
       '::M '* )
         current_marks="${line#::M }"
         ;;
       '::S '* )
         codes_line="${line#::S }"
         norm=$(printf "%s\n" "$codes_line" | normalize_codes | tr '\n' ' ')
-        # Emit node (if not yet) and outcome edges
+        # Emit node (if not yet), module edge, and outcome edges
         split_q
         marks="$current_marks"
-        section="$current_sec" emit_question_node
+        if [ $emitted -eq 0 ]; then section="$current_sec" emit_question_node; emitted=1; fi
+        if [ -n "$current_mod" ]; then
+          echo "{\"from\":\"question:${YEAR}:${qnum}${qpart}\",\"to\":\"module:M${current_mod}\",\"label\":\"DERIVES_FROM\",\"props\":{},\"provenance\":{\"source\":\"pdf\",\"captured_at\":\"$(date -u +%Y-%m-%dT%H:%M:%SZ)\",\"agent_id\":\"agent:extractor\",\"tool\":\"pdftotext\"}}"
+        fi
         for oc in $norm; do
           emit_q_outcome_edge "$oc"
         done
@@ -148,6 +161,7 @@ awk '
   if [ -n "$current_q" ]; then
     split_q
     marks="$current_marks"
-    section="$current_sec" emit_question_node
+    if [ $emitted -eq 0 ]; then section="$current_sec" emit_question_node; fi
+    : # no module edge at EOF unless outcomes were seen
   fi
 )

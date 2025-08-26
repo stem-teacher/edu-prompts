@@ -1,0 +1,109 @@
+---
+title: "8‑Week HSC Success Plan — Investigating Science (Modules 5–8)"
+lang: en-GB
+date: 2025-08-26
+format: { html: default, pdf: default }
+execute: { eval: false }
+---
+
+This plan is built for busy students who need structure, repetition, and encouragement. You can do it.
+
+Guiding principles
+
+- Consistency: short, daily sessions beat cramming.
+- Spiral learning: revisit skills with increasing challenge.
+- Feedback loops: check answers, reflect, fix misunderstandings quickly.
+- SI units, clear definitions, and structured writing every day.
+
+Weekly structure (Mon–Fri; adapt for your timetable)
+
+- Mon: Multiple choice (MC) drills (accuracy + speed)
+- Tue: Core definitions + flashcards + scientific writing micro‑tasks
+- Wed: Short‑answer practice (mark with criteria)
+- Thu: Extended response practice (scaffold → independent)
+- Fri: Mixed set under time pressure; reflect and plan next week
+
+Week‑by‑week plan (Modules 5–8)
+
+Week 1 — Foundations (M5 Scientific Investigations)
+
+- MC: 30 items from M5 (variables, reliability/validity, error, controls, graphing)
+- Definitions: variable types, accuracy vs precision, systematic vs random error, validity, reliability
+- Writing: 3× 100‑word method paragraphs using SI units and safety
+- Short answers: 3× 4‑mark items (validity improvements; uncertainty propagation basics)
+- Extended: 6‑mark investigation design (clear IV/DV, controls, risk assessment)
+- Reflection: error sources you personally make; strategies to avoid
+
+Week 2 — Measurement and Data (M6 Technologies)
+
+- MC: 30 items from M6 (resolution, ADC/DAQ, calibration, drift, bandwidth)
+- Definitions: resolution, sensitivity, accuracy, hysteresis, saturation, aliasing, Nyquist
+- Writing: Explain calibration procedures; produce a labelled calibration plot with equation and R²
+- Short answers: 3× 4‑mark items (choose sensors, justify specs; mitigate drift/hysteresis)
+- Extended: 6‑mark analysis (design a DAQ chain for a phenomenon, with sampling and filtering)
+- Reflection: equipment you have access to; how to achieve good data with it
+
+Week 3 — Claims and Evidence (M7 Fact or Fallacy?)
+
+- MC: 30 items from M7 (bias, fallacies, causation vs correlation, RCT basics, meta‑analysis)
+- Definitions: confounder, blind/double‑blind, effect size, confidence interval, replication
+- Writing: Critique a media claim (150 words) with evidence checklist
+- Short answers: 3× 4‑mark items (identify bias; propose controls)
+- Extended: 6–8‑mark evaluation (design a fair test to verify a public claim)
+- Reflection: your information diet; simple rules to spot weak claims
+
+Week 4 — Science and Society (M8)
+
+- MC: 30 items from M8 (ethics, risk, equity, communication, policy interface)
+- Definitions: precautionary principle, risk–benefit, stakeholders, open science, conflict of interest
+- Writing: 150‑word brief to a non‑expert audience with a figure (SI units)
+- Short answers: 3× 4‑mark items (stakeholder analysis; equity and access)
+- Extended: 8‑mark policy brief (evidence + values + uncertainty)
+- Reflection: who is affected by your investigation? How to involve them fairly
+
+Week 5 — Integrated skills (M5–M8)
+
+- MC: 45 mixed items (build speed: 45 min)
+- Definitions: daily 15 mins of flashcards (spaced repetition)
+- Writing: methods → results → discussion for a mini‑investigation (scaffolded prompts)
+- Short answers: focus on graph interpretation and uncertainty
+- Extended: 8‑mark critique of a study (strengths, limitations, improvements)
+- Reflection: log of common mistakes; make a personalised checklist
+
+Week 6 — Exam techniques (timed)
+
+- MC: 60 mixed items (50 min) — target ≥85% with review
+- Short answers: two sets under time limits (mark with criteria + exemplar answers)
+- Extended: one 10‑mark response under time; compare with marking guidelines
+- Communication: practise concise, structured paragraphs; verb cues (describe, explain, evaluate)
+
+Week 7 — Weakness fixes + depth
+
+- MC: 30 targeted items in weakest topics
+- Definitions/writing: concentrate on the 10 terms you miss most
+- Short answers: rewrite three questions you previously got wrong (with annotations)
+- Extended: one 10‑mark response; teacher/peer feedback and re‑draft
+- Practical: simulate experiment planning on paper with tables for variables/controls/risks
+
+Week 8 — Full exam simulation and polish
+
+- Two full papers (on different days) under exam conditions
+- Post‑mortem after each: classify errors (knowledge, method, rush, misread)
+- Final review: definitions deck; 20 tricky MC; 2 short answers; 1 extended
+- Logistics: sleep, nutrition, transport plan; calming routine; “You can do it.”
+
+Daily micro‑routines (20–40 minutes)
+
+- 10 MC (aim for 1 min each, then review)
+- 5 definitions (retrieve + use in a sentence)
+- 1 graph interpretation
+- 1 method improvement suggestion
+- 1 communication snippet (2–3 sentences to a non‑expert)
+
+Motivation and support
+
+- Celebrate small wins daily; track streaks.
+- Study buddy system or quick check‑ins.
+- Use timers (25/5 min) and remove distractions.
+- Ask for help early; your effort compounds. You can do it.
+

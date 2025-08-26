@@ -1,0 +1,120 @@
+---
+title: "M5–M8 Mixed Quiz 5 (15 MC)"
+lang: en-GB
+date: 2025-08-26
+format: { html: default, pdf: default }
+execute: { eval: false }
+---
+
+## Questions
+
+1) M5 — Which is the best operational definition for “reaction rate” in a catalase experiment?
+- A. How fast it goes
+- B. Volume of O2 produced per second measured with a gas syringe at STP
+- C. The speed of bubbles
+- D. The change in colour
+
+2) M6 — A GPS unit claims accuracy ±3 m (95% CI). Which is true?
+- A. All readings are within ±3 m
+- B. About 95% of readings fall within ±3 m of true position under test conditions
+- C. The resolution is 3 m
+- D. Readings are unbiased by environment
+
+3) M7 — In evaluating an extraordinary claim, which standard applies?
+- A. Ordinary evidence suffices
+- B. Extraordinary claims require stronger evidence, replication, and converging lines of support
+- C. Only expert opinion is needed
+- D. Single case studies are conclusive
+
+4) M8 — “Open science” practices include:
+- A. Hiding code to prevent misuse
+- B. Pre‑registration, sharing data/code (where ethical), and open peer review
+- C. Publishing only positive results
+- D. Fast‑tracking without review
+
+5) M5 — The most suitable control for testing a new fertiliser’s effect on plant growth is:
+- A. Different plant species with fertiliser
+- B. Same species under identical conditions without fertiliser
+- C. No water
+- D. Different soil
+
+6) M6 — Time synchronisation across sensors is critical for:
+- A. Slowly varying signals only
+- B. Multi‑sensor fusion and event correlation; use NTP/GPS or shared clocking
+- C. Single sensor systems
+- D. Avoiding random error
+
+7) M7 — A funnel plot asymmetry in meta‑analysis suggests:
+- A. No publication bias
+- B. Possible publication bias or heterogeneity
+- C. Measurement error only
+- D. Perfect symmetry always occurs
+
+8) M8 — In risk matrices, “likelihood × consequence” is limited because:
+- A. It is too quantitative
+- B. It may ignore uncertainty ranges and interdependencies; sensitivity analysis is required
+- C. It cannot be visualised
+- D. It ignores stakeholders
+
+9) M5 — Which technique best checks for outliers influencing the mean?
+- A. Use median/IQR and residual plots; apply robust methods where appropriate
+- B. Increase decimals
+- C. Convert to percentages
+- D. Remove all extreme values automatically
+
+10) M6 — If an accelerometer shows cross‑axis sensitivity:
+- A. It measures only one axis accurately
+- B. Inputs on one axis appear on another; mount carefully and correct in calibration matrix
+- C. This is random noise
+- D. Increase gain
+
+11) M7 — Which practice improves reproducibility?
+- A. Keep protocols informal
+- B. Version‑control code/data and specify seeds, software versions, and analysis notebooks
+- C. Summarise methods loosely
+- D. Share figures only
+
+12) M8 — A transparent conflict‑of‑interest declaration means:
+- A. The evidence is invalid
+- B. Readers can interpret findings with awareness of potential influence
+- C. The work is biased
+- D. It is not needed
+
+13) M5 — A 95% CI for a mean difference excludes zero. This implies:
+- A. Statistically significant difference at α = 0.05
+- B. No difference
+- C. Practical significance guaranteed
+- D. The true difference is exactly the CI midpoint
+
+14) M6 — A 10‑bit ADC over 0–3.3 V has LSB approximately:
+- A. 3.2 mV
+- B. 6.4 mV
+- C. 1.6 mV
+- D. 0.33 mV
+
+15) M7/M8 — Communicating uncertainty effectively involves:
+- A. Hiding ranges to avoid confusion
+- B. Using ranges/intervals, scenario bands, and plain‑language explanations of what uncertainty means
+- C. Only quoting p‑values
+- D. Avoiding numbers completely
+
+## Answer key
+
+| Q | Ans | Rationale |
+|---|-----|-----------|
+| 1 | B | Operational definition specifies how measured (gas syringe, SI). |
+| 2 | B | ±3 m applies to ~95% under conditions; not all points. |
+| 3 | B | Stronger, converging evidence required. |
+| 4 | B | Core open‑science practices. |
+| 5 | B | Same species/conditions; only fertiliser differs. |
+| 6 | B | Synchronisation critical for fusion/correlation. |
+| 7 | B | Asymmetry suggests bias/heterogeneity. |
+| 8 | B | Address uncertainty/interdependence with sensitivity analysis. |
+| 9 | A | Robust stats and residuals help detect/mitigate outliers. |
+|10 | B | Cross‑axis sensitivity managed via mounting/calibration. |
+|11 | B | Versions/seeds/notebooks improve reproducibility. |
+|12 | B | Transparency allows informed interpretation. |
+|13 | A | CI excluding zero ⇒ significant at 5%. |
+|14 | A | 3.3/1024 ≈ 0.00322 V ≈ 3.2 mV. |
+|15 | B | Communicate ranges with clear explanations. |
+

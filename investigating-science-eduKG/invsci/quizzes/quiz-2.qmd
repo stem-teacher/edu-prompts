@@ -1,0 +1,121 @@
+---
+title: "M5–M8 Mixed Quiz 2 (15 MC)"
+lang: en-GB
+date: 2025-08-26
+format: { html: default, pdf: default }
+execute: { eval: false }
+---
+
+## Questions
+
+1) M5 — Which action most improves precision without changing accuracy?
+- A. Calibrate against a certified standard
+- B. Use an instrument with finer resolution and average repeated trials
+- C. Remove zero offset
+- D. Switch to SI base units
+
+2) M6 — A thermistor–bridge circuit is non‑linear. The most appropriate correction is:
+- A. Increase sampling rate
+- B. Apply a calibration curve fit to convert voltage to temperature
+- C. Assume linearity for small ranges only
+- D. Use more significant figures
+
+3) M7 — A claim is supported by an RCT with p = 0.04. Which is true?
+- A. The claim is proven true
+- B. The result is statistically significant at α = 0.05 but practical significance requires effect size and context
+- C. The result will replicate 96% of the time
+- D. p indicates the probability the hypothesis is true
+
+4) M8 — Which consideration best addresses equity in science policy?
+- A. Maximise total benefit regardless of distribution
+- B. Ensure access across socio‑economic groups and remote communities
+- C. Prioritise lowest cost options only
+- D. Ignore stakeholder consultation to avoid bias
+
+5) M5 — A variable should be controlled when it:
+- A. Is independent
+- B. Is dependent
+- C. Could affect the dependent variable but is not the focus of the study
+- D. Is a systematic error
+
+6) M6 — The Nyquist criterion states that to avoid aliasing you must sample:
+- A. At least twice the highest frequency component in the signal
+- B. At least the same as the highest frequency
+- C. Every 1 s
+- D. At random intervals
+
+7) M7 — “Post hoc ergo propter hoc” is a fallacy meaning:
+- A. After this, therefore because of this
+- B. To this, therefore according to this
+- C. Without this, therefore because of this
+- D. Straw man argument
+
+8) M8 — The most ethical approach to environmental sampling on culturally significant land is:
+- A. Proceed immediately; scientific benefit overrides concerns
+- B. Seek permission, consult Traditional Owners, minimise harm, and share results
+- C. Outsource to avoid liability
+- D. Compensate and proceed without consultation
+
+9) M5 — A Bland–Altman plot primarily assesses:
+- A. Correlation between variables
+- B. Agreement between two measurement methods
+- C. Linearity of calibration
+- D. Random error magnitude only
+
+10) M6 — Sensor hysteresis implies:
+- A. Output depends only on current input
+- B. Output depends on input history; use up/down calibration cycles to quantify
+- C. Random spikes at high frequency
+- D. Saturation at low input
+
+11) M7 — Which best reduces confirmation bias during analysis?
+- A. Pre‑register analysis plans and conduct blinded assessments where feasible
+- B. Use complex models
+- C. Increase sample size only
+- D. Select results matching expectations
+
+12) M8 — Risk communication should:
+- A. Avoid uncertainty to prevent panic
+- B. Be transparent about uncertainty and actions people can take
+- C. Focus on worst‑case scenarios only
+- D. Use technical jargon to ensure accuracy
+
+13) M5 — Measurement uncertainty (±) attached to a mean originates primarily from:
+- A. Systematic error only
+- B. Random variation (e.g., standard error) and instrument resolution
+- C. Unit conversions
+- D. Population variance only
+
+14) M6 — A 16‑bit ADC over ±10.0 V has resolution of approximately:
+- A. 0.0003 V
+- B. 0.00015 V
+- C. 0.0006 V
+- D. 0.0015 V
+
+15) M7/M8 — A public health intervention shows small individual benefit but large population impact. This is an example of:
+- A. Ecological fallacy
+- B. Population attributable effect relevant to policy decisions
+- C. Simpson’s paradox
+- D. Publication bias
+
+## Answer key
+
+| Q | Ans | Rationale |
+|---|-----|-----------|
+| 1 | B | Precision: spread; averaging and finer resolution improve precision. |
+| 2 | B | Use calibration curve to correct non‑linearity. |
+| 3 | B | p<0.05 ⇒ statistical significance; practical significance needs effect size. |
+| 4 | B | Equity: ensure fair access and participation. |
+| 5 | C | Control potential confounders. |
+| 6 | A | Nyquist ≥ 2× highest frequency. |
+| 7 | A | Classic causal fallacy. |
+| 8 | B | Respect, minimise harm, share benefits. |
+| 9 | B | Agreement between methods. |
+|10 | B | Hysteresis depends on history; quantify via cycles. |
+|11 | A | Pre‑registration/blinding mitigates bias. |
+|12 | B | Transparent, actionable communication. |
+|13 | B | Random variation and resolution dominate uncertainty around mean. |
+|14 | A | Range 20 V/65536 ≈ 0.000305 V per count (≈0.0003 V). |
+|15 | B | Small individual, large population effect guides policy. |
+
+Note Q14: Correct is ≈0.000305 V; answer A.

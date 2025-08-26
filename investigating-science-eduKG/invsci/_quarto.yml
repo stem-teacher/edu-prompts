@@ -29,6 +29,20 @@ website:
         href: inv-sci-unit.qmd
       - text: Exam Mapping
         href: exam-mapping.qmd
+      - text: Quizzes
+        menu:
+          - text: M5–M8 Mixed Quiz 1
+            href: quizzes/quiz-1.qmd
+          - text: M5–M8 Mixed Quiz 2
+            href: quizzes/quiz-2.qmd
+          - text: M5–M8 Mixed Quiz 3
+            href: quizzes/quiz-3.qmd
+          - text: M5–M8 Mixed Quiz 4
+            href: quizzes/quiz-4.qmd
+          - text: M5–M8 Mixed Quiz 5
+            href: quizzes/quiz-5.qmd
+      - text: Study Plan (8 weeks)
+        href: study-plan.qmd
       - text: Worksheets
         menu:
           - text: Worksheet 1

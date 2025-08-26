@@ -1,0 +1,120 @@
+---
+title: "M5–M8 Mixed Quiz 3 (15 MC)"
+lang: en-GB
+date: 2025-08-26
+format: { html: default, pdf: default }
+execute: { eval: false }
+---
+
+## Questions
+
+1) M5 — Which best describes a pilot study?
+- A. The final investigation with full sample
+- B. A small‑scale preliminary test to refine methods, instruments, and variables
+- C. A literature review only
+- D. A replication by another group after publication
+
+2) M6 — A load cell saturates above 500 N. Data above 500 N show a plateau. This is:
+- A. Quantisation error
+- B. Sensor saturation; extend range or choose a different transducer
+- C. Drift
+- D. Hysteresis
+
+3) M7 — A claim cites only cherry‑picked studies with positive outcomes. This exemplifies:
+- A. Publication bias
+- B. Selection bias in evidence use
+- C. Recall bias
+- D. Attrition bias
+
+4) M8 — Which is most appropriate when weighing competing stakeholder values?
+- A. Choose the majority view automatically
+- B. Use a transparent framework (criteria, weighting, evidence) and record reasons for decisions
+- C. Defer to a single expert
+- D. Select the cheapest option
+
+5) M5 — Which improves accuracy most directly?
+- A. Averaging repeats
+- B. Calibration against traceable standards and correcting systematic error
+- C. Increasing sample size without calibration
+- D. Converting to SI base units
+
+6) M6 — A digital filter reduces high‑frequency noise. Which risk must be managed?
+- A. Increased random error
+- B. Phase lag distorting time‑critical features
+- C. Sensor drift
+- D. ADC clipping
+
+7) M7 — An observational study finds a strong association between two variables. To strengthen causal inference you should:
+- A. Increase p‑value threshold
+- B. Control confounders, establish temporality, dose–response, and plausibility
+- C. Only use cross‑sectional data
+- D. Ignore negative controls
+
+8) M8 — The most ethical handling of secondary data containing personal information is to:
+- A. Share raw identifiable data for transparency
+- B. De‑identify data, store securely, and comply with consent conditions and law
+- C. Delete immediately after analysis regardless of consent
+- D. Email datasets to collaborators without encryption
+
+9) M5 — Which graph is most appropriate for showing repeatability of a measurement method?
+- A. Pie chart
+- B. Box‑and‑whisker plot of repeated measures
+- C. Sankey diagram
+- D. Choropleth map
+
+10) M6 — The sensitivity of a sensor is best defined as:
+- A. The smallest change it can detect (resolution)
+- B. The slope of output vs input over a specified range
+- C. The time taken to reach steady state
+- D. The uncertainty in calibration
+
+11) M7 — A study reports an impressive effect size, but confidence intervals are wide. This implies:
+- A. High precision
+- B. Low precision; more data or better design needed
+- C. No bias present
+- D. Publication bias
+
+12) M8 — In presenting findings to a non‑expert audience, the best approach is to:
+- A. Use technical jargon to be precise
+- B. Use clear visuals, analogies, SI units, and define terms
+- C. Use emotive language to persuade
+- D. Avoid numbers to prevent confusion
+
+13) M5 — Random error primarily affects:
+- A. Validity only
+- B. Reliability/precision; it can be reduced by replication and averaging
+- C. Accuracy only
+- D. Ethical approval
+
+14) M6 — A sensor has a response time (time constant) of 2.0 s. A step change is applied. Approximately how long to reach ~95% of final value?
+- A. 2 s
+- B. 4 s
+- C. 6 s
+- D. 10 s
+
+15) M7/M8 — A meta‑analysis of multiple RCTs finds no effect; one small study finds a large effect. Best conclusion?
+- A. Adopt the intervention based on the large effect
+- B. Weight the totality of evidence; meta‑analysis is more reliable than a single small outlier
+- C. Discard the meta‑analysis
+- D. Results are identical
+
+## Answer key
+
+| Q | Ans | Rationale |
+|---|-----|-----------|
+| 1 | B | Pilot studies refine design before full study. |
+| 2 | B | Saturation beyond range flattens output. |
+| 3 | B | Selective citation of positive studies. |
+| 4 | B | Transparent, criteria‑based decision framework. |
+| 5 | B | Calibration corrects systematic error → improves accuracy. |
+| 6 | B | Filters can add phase lag. |
+| 7 | B | Bradford‑Hill style considerations. |
+| 8 | B | De‑identify, secure storage, lawful use. |
+| 9 | B | Box plots display spread/repeatability. |
+|10 | B | Sensitivity = slope. |
+|11 | B | Wide CI ⇒ low precision. |
+|12 | B | Audience‑appropriate communication. |
+|13 | B | Random error → precision. |
+|14 | C | ~3τ ≈ 6 s for ~95% (first‑order). |
+|15 | B | Synthesis across RCTs outweighs a small outlier. |
+

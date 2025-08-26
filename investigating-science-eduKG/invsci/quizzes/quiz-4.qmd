@@ -1,0 +1,120 @@
+---
+title: "M5–M8 Mixed Quiz 4 (15 MC)"
+lang: en-GB
+date: 2025-08-26
+format: { html: default, pdf: default }
+execute: { eval: false }
+---
+
+## Questions
+
+1) M5 — The dependent variable is best described as the variable that:
+- A. Is manipulated by the investigator
+- B. Is kept constant throughout
+- C. Responds to changes in the independent variable and is measured
+- D. Is a nuisance factor
+
+2) M6 — You need to measure rapidly changing accelerations. The most important specification is:
+- A. Sensor housing colour
+- B. ADC bit‑depth only
+- C. Bandwidth/response time and sampling rate fulfilling Nyquist
+- D. Supply voltage
+
+3) M7 — A press release claims “scientists prove X works” based on a preprint. Most appropriate stance?
+- A. Accept result; it’s scientific
+- B. Treat cautiously; preprints are not peer‑reviewed and context matters
+- C. Dismiss entirely
+- D. Assume bias
+
+4) M8 — Which best describes stakeholder analysis?
+- A. Statistical test selection
+- B. Identifying groups affected, their interests, influence, and concerns
+- C. Budget planning
+- D. Media strategy only
+
+5) M5 — Systematic error can often be detected by:
+- A. Repeating trials and averaging
+- B. Comparing with an independent, calibrated method or reference
+- C. Increasing sample size
+- D. Using more decimals
+
+6) M6 — A sensor–amplifier chain clips on peaks. A remedy is to:
+- A. Reduce gain or increase headroom so peaks stay within linear range
+- B. Increase sampling rate only
+- C. Smooth with moving average
+- D. Remove offset
+
+7) M7 — The “file drawer problem” results in:
+- A. More null results published
+- B. Underreporting of null results and overestimation of effects in literature
+- C. Better meta‑analyses
+- D. Improved statistical power
+
+8) M8 — When engaging communities in citizen science, best practice includes:
+- A. Ignore co‑design to avoid complexity
+- B. Co‑design questions, provide training, ensure data quality and feedback
+- C. Limit involvement to data collection only
+- D. Avoid publishing results
+
+9) M5 — A result is precise but inaccurate. This suggests:
+- A. High random error
+- B. Low random error, high systematic error
+- C. Low systematic error only
+- D. Valid and reliable
+
+10) M6 — If an infrared thermometer is highly emissivity‑dependent, you should:
+- A. Ignore emissivity; it’s a constant
+- B. Set emissivity appropriate to the surface or use emissivity tape
+- C. Increase sampling rate
+- D. Use ambient correction only
+
+11) M7 — Which best describes a double‑blind trial?
+- A. Only participants are unaware of group allocation
+- B. Participants and assessors are unaware of group allocation
+- C. Everyone including statisticians is blinded
+- D. Only analysts are blinded
+
+12) M8 — “Science literacy” in society chiefly involves:
+- A. Memorising facts
+- B. Understanding processes, evaluating claims, interpreting data, and using evidence for decisions
+- C. Agreeing with scientists
+- D. Following rules
+
+13) M5 — The purpose of a depth study (Stage 6) includes:
+- A. Memorisation of content only
+- B. Developing Working Scientifically skills through extended investigation
+- C. Practising multiple‑choice only
+- D. Preparing lab reports only
+
+14) M6 — A DAQ chain has 1 kHz anti‑alias filter and samples at 2 kHz. Highest reliable frequency is roughly:
+- A. 1000 Hz
+- B. 500 Hz
+- C. 2000 Hz
+- D. 250 Hz
+
+15) M7/M8 — A “science–policy interface” aims to:
+- A. Ensure politicians run experiments
+- B. Translate robust evidence into policy options while acknowledging uncertainty and values
+- C. Remove public consultation
+- D. Replace peer review
+
+## Answer key
+
+| Q | Ans | Rationale |
+|---|-----|-----------|
+| 1 | C | Dependent responds; measured outcome. |
+| 2 | C | Bandwidth/response time + sampling rate matter most. |
+| 3 | B | Preprints not peer‑reviewed; be cautious. |
+| 4 | B | Stakeholders: who’s affected, interests, influence. |
+| 5 | B | Compare with reference to detect bias. |
+| 6 | A | Avoid clipping: adjust gain/headroom. |
+| 7 | B | File drawer ⇒ inflated published effects. |
+| 8 | B | Co‑design, training, feedback. |
+| 9 | B | Tight cluster off‑target ⇒ systematic error. |
+|10 | B | Set emissivity or use tape. |
+|11 | B | Participants and assessors blinded. |
+|12 | B | Evaluate claims and evidence use. |
+|13 | B | Depth study builds WS skills. |
+|14 | B | Nyquist ⇒ 1 kHz sampling Nyquist 1 kHz? Here fs=2 kHz ⇒ f_N=1 kHz; filter at 1 kHz, highest reliable ≈500 Hz passband. |
+|15 | B | Bridge between science and policy. |
+

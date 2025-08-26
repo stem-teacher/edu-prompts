@@ -1,0 +1,141 @@
+---
+title: "M5–M8 Mixed Quiz 1 (15 MC)"
+lang: en-GB
+date: 2025-08-26
+format:
+  html: default
+  pdf: default
+execute:
+  eval: false
+---
+
+Instructions: Choose the best answer. SI units and precise terminology are expected.
+
+## Questions
+
+1) Module 5 — In planning a fair test, which statement best distinguishes validity from reliability?
+
+- A. Validity refers to how close measurements are to the true value; reliability refers to random error only.
+- B. Validity concerns whether the investigation answers the research question; reliability concerns consistency of repeated measurements.
+- C. Validity is improved by increasing sample size; reliability is improved by eliminating systematic error only.
+- D. Validity is about calibration; reliability is about accuracy.
+
+2) Module 5 — A data logger sampling temperature every 0.20 s records 5 significant figures. The sampling rate is best reported as:
+
+- A. 0.20 Hz
+- B. 2.0 Hz
+- C. 5.0 Hz
+- D. 20 Hz
+
+3) Module 6 — A strain gauge is calibrated using standard masses. The best practice to reduce systematic error in calibration is to:
+
+- A. Randomise the order of applied masses and repeat each three times.
+- B. Zero the gauge before each mass and verify linearity across the full range.
+- C. Increase the sampling frequency during calibration runs only.
+- D. Use more decimal places when reading the masses.
+
+4) Module 7 — A media article claims a new supplement “doubles energy levels” based on an online poll (n = 84). The most critical flaw is:
+
+- A. Absence of double-blind procedure
+- B. Small sample size alone
+- C. Non-representative, self-selected sample lacking experimental control
+- D. Failure to report p-values below 0.05
+
+5) Module 8 — Which statement best captures a precautionary approach in science and society decisions?
+
+- A. Adopt new technologies immediately; risks can be mitigated later.
+- B. Delay adoption until proof of zero risk is obtained.
+- C. Where plausible serious harm is indicated, shift burden of proof to proponents to demonstrate safety.
+- D. Use cost–benefit analysis and ignore uncertainty.
+
+6) Module 5 — In an investigation of enzyme activity vs temperature, the independent variable is:
+
+- A. Enzyme concentration
+- B. Reaction temperature
+- C. Rate of product formation
+- D. pH buffer identity
+
+7) Module 6 — The resolution of a 12‑bit ADC over 0–5.0 V is approximately:
+
+- A. 1.2 mV per count
+- B. 0.61 mV per count
+- C. 5.0 mV per count
+- D. 0.12 mV per count
+
+8) Module 7 — Which best distinguishes correlation from causation when evaluating claims?
+
+- A. Correlation implies causation when r > 0.7.
+- B. Causation requires controlled manipulation of variables with confounders accounted for; correlation alone does not.
+- C. Correlation requires temporal precedence; causation does not.
+- D. Causation exists if two variables change together in observational data.
+
+9) Module 8 — Which is the most ethical approach when human participants are involved?
+
+- A. Proceed with implied consent if the risk is minimal.
+- B. Obtain informed consent, ensure confidentiality, and allow withdrawal without penalty.
+- C. Provide incentives sufficient to ensure participation.
+- D. Blind participants to risks to avoid nocebo effects.
+
+10) Module 5 — A control improves an investigation by:
+
+- A. Eliminating both systematic and random errors.
+- B. Providing a baseline for comparison to isolate the effect of the independent variable.
+- C. Increasing accuracy by adding more instruments.
+- D. Ensuring validity through replication alone.
+
+11) Module 6 — A sensor has drift over time. The most appropriate mitigation is to:
+
+- A. Increase the sampling frequency.
+- B. Apply frequent zeroing and schedule periodic recalibration against standards.
+- C. Use moving average smoothing on outputs only.
+- D. Replace the sensor with a higher-resolution model.
+
+12) Module 7 — An advertisement quotes a single expert’s opinion without data. This is an example of:
+
+- A. Appeal to authority
+- B. Ad hominem
+- C. Slippery slope
+- D. Straw man
+
+13) Module 8 — In risk–benefit assessment for a new diagnostic test, which is most appropriate?
+
+- A. Prioritise benefits; risks are acceptable if optional.
+- B. Weigh sensitivity/specificity, cost, equity of access, and potential harms from false outcomes.
+- C. Adopt if the mean benefit exceeds the mean risk.
+- D. Seek only expert views; public values are not relevant.
+
+14) Module 5 — Which source of error is most reduced by increasing sample size and averaging?
+
+- A. Calibration bias
+- B. Zero offset
+- C. Random error
+- D. Scale factor error
+
+15) Module 6 — A thermal camera reports ±2 °C accuracy and 0.05 °C resolution. Which statement is best?
+
+- A. Readings within 0.05 °C are accurate.
+- B. High resolution guarantees low uncertainty.
+- C. The device can show small changes, but absolute values may still be off by up to ~2 °C.
+- D. Accuracy equals precision here.
+
+## Answer key
+
+| Q | Ans | Rationale |
+|---|-----|-----------|
+| 1 | B | Validity: answers the question; Reliability: consistency of repeated measurements. |
+| 2 | D | 0.20 s period ⇒ 5 Hz; sampling rate reported as 5 Hz (not 0.20 Hz). |
+| 3 | B | Zeroing and verifying linearity reduce systematic bias across range. |
+| 4 | C | Self-selected poll lacks control; cannot infer causal effect. |
+| 5 | C | Precautionary principle shifts burden to show safety when serious harm is plausible. |
+| 6 | B | Independent variable manipulated: temperature. |
+| 7 | A | 5.0 V/4096 ≈ 0.00122 V per count ≈ 1.22 mV per count. |
+| 8 | B | Causation requires control and addressing confounders; correlation alone insufficient. |
+| 9 | B | Informed consent, confidentiality, and right to withdraw are essential. |
+|10 | B | Controls isolate the independent variable’s effect. |
+|11 | B | Drift is mitigated via zeroing and scheduled recalibration. |
+|12 | A | Appeal to authority without data. |
+|13 | B | Consider diagnostic metrics, costs, equity, and harms from false results. |
+|14 | C | Averaging reduces random error; systematic errors persist. |
+|15 | C | Resolution shows small changes; accuracy bounds absolute error. |
+
+Note on Q7: 12‑bit ADC over 0–5.0 V: 5.0/4096 ≈ 1.22 mV per count; the correct option is A (1.2 mV per count).
