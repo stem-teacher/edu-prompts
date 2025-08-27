@@ -1,0 +1,838 @@
+---
+title: '2020 HSC Investigating Science Examination'
+subtitle: 'NSW Education Standards Authority'
+format:
+  html:
+    toc: true
+    toc-depth: 3
+  pdf:
+    toc: true
+    toc-depth: 3
+date: '2020'
+---
+
+# General Instructions
+
+- Reading time – 5 minutes
+- Working time – 3 hours
+- Write using black pen
+- Draw diagrams using pencil
+- Calculators approved by NESA may be used
+
+**Total marks: 100**
+
+# Section I – Multiple Choice (20 marks)
+
+*Allow about 35 minutes for this section*
+
+## Question 1
+Which scientist's investigations were used for the development of the microwave oven?
+
+A. Fleischmann  
+B. Smolyanitsky  
+C. Spencer  
+D. van Helmont
+
+## Question 2
+Some parents claim that playing classical music will enhance their child's intelligence.
+
+What is the name given to this claim?
+
+A. The halo effect  
+B. The Mozart effect  
+C. The Doppler effect  
+D. The Hawthorne effect
+
+## Question 3
+What observation led to Edward Jenner's development of a vaccine for smallpox?
+
+A. The smallpox virus had an incubation period of 1–2 weeks.  
+B. People with smallpox developed a rash and blisters containing pus.  
+C. People given the smallpox vaccine did not develop the symptoms of smallpox.  
+D. Milkmaids exposed to cowpox did not generally show symptoms of smallpox.
+
+## Question 4
+The graph shows the total distance travelled by airline passengers globally, and the number of airline accidents resulting in fatalities.
+
+![Graph showing airline passenger distance traveled and fatal accidents from 1936-2016. The graph has two y-axes - left showing total distance (× 10^12 km) from 0-7, right showing fatal airline accidents per year from 0-70. The solid line shows total distance traveled increasing from near 0 in 1936 to about 7 in 2016. The dashed line shows fatal accidents fluctuating between 20-60 from 1936-2000, then declining to about 20 by 2016.](2020-images/question-4-airline-statistics-graph.png)
+
+Which row in the table summarises the general trends in the data shown in the graph?
+
+| | Total distance travelled | Number of fatal accidents |
+|---|---|---|
+| A. | Increases | Decreases |
+| B. | Increases | Increases |
+| C. | Decreases | Increases |
+| D. | Decreases | Decreases |
+
+## Question 5
+Aboriginal Peoples have known of the medicinal properties of tea-tree oil for thousands of years, but this has not been acknowledged as their cultural and intellectual property.
+
+A company wants to develop a new drug formulation using tea-tree oil. Which of the following is the most ethical response to the information given?
+
+A. Scientists conduct a review to ensure that tea-tree oil has not been used in a similar formulation.  
+B. Scientists analyse the active ingredients in tea-tree oil and apply to an ethics committee to allow testing of the new formulation.  
+C. Aboriginal Peoples are consulted and offered a governance role in the company, with an economic agreement for the use of the knowledge.  
+D. Aboriginal Peoples are consulted to help determine the best formulation to use, then the company's scientists apply for patents to protect the formulation.
+
+## Question 6
+A researcher conducted a double-blind trial to determine the effectiveness of a new cancer drug. Patients involved in the trial were assigned randomly to receive either a placebo or the new drug.
+
+Which row of the table shows who should be aware of the drug allocation in the double-blind trial?
+
+| | Patients | Researcher |
+|---|---|---|
+| A. | Yes | Yes |
+| B. | Yes | No |
+| C. | No | Yes |
+| D. | No | No |
+
+## Question 7
+*Clostridium difficile* is a pathogenic bacteria often found in the human gut. It causes a common, life threatening illness. One treatment is for a doctor to conduct a faecal transplant, where the gut microbes from the patient are removed and a faecal sample from a healthy human is inserted, re-populating the patient's gut with beneficial microbes.
+
+What measure must be taken to ensure the success of this type of transplant?
+
+A. The faeces to be transplanted must be sterilised.  
+B. The faeces to be transplanted must not contain pathogens.  
+C. The donor must be chosen from immediate family members of the patient.  
+D. The patient must be on a cranberry gut cleansing diet prior to the transplant.
+
+## Question 8
+A new drug was tested on six healthy humans. They all immediately became very sick.
+
+What step should have been taken to ensure this was an ethical investigation?
+
+A. Choose the subjects randomly  
+B. Pay subjects for their participation  
+C. Inform subjects of possible side effects  
+D. Choose subjects with highly effective immune systems
+
+## Question 9
+An experiment was conducted where several small plots with the same soil type were prepared. Some were planted with a single crop species (monospecies) and some were planted with a variety of crop species (multispecies).
+
+They were all exposed to the same weather conditions. Soil biomass was measured before and after the growing period of the crops.
+
+Which row in the table identifies variables in this experiment?
+
+| | The independent variable | A controlled variable |
+|---|---|---|
+| A. | Biomass | Monospecies or multispecies crop |
+| B. | Biomass | Soil type |
+| C. | Monospecies or multispecies crop | Weather conditions |
+| D. | Monospecies or multispecies crop | Biomass |
+
+## Question 10
+A student compared the claims made on the labels of two health supplements.
+
+![Two supplement bottles side by side. Product P shows: "Remarkable results in 28 days, Supplements gut health, Contains B vitamins". Product Q shows: "High strength ingredients, Supports digestive health, Relieves indigestion and heartburn, Contains 60 capsules"](2020-images/question-10-supplement-bottles.png)
+
+Which of the following is a correct statement about the claims made on the labels?
+
+A. Both products make a claim that can be proven.  
+B. All claims made by Product P are evidence-based.  
+C. Both products are equally effective at improving gut health.  
+D. All claims made by Product Q can be tested by using a randomised double-blind study.
+
+## Question 11
+A laboratory experiment was conducted in a closed system where iron was added to ocean water and the population of phytoplankton (microscopic aquatic plants) and carbon dioxide levels were measured daily. The results are shown.
+
+The iron was added on Day 3 of the experiment.
+
+![Graph showing phytoplankton population over 10 days, with population (mg m^-3) on y-axis (0-14) and time in days on x-axis (0-10). Line shows population staying at 1 from days 0-3, then rapidly increasing to 12 by day 9](2020-images/question-11-phytoplankton-graph.png)
+
+| Time (days) | Carbon dioxide level (ppm) |
+|---|---|
+| 0 | 415 |
+| 1 | 415 |
+| 2 | 415 |
+| 3 | 415 |
+| 4 | 401 |
+| 5 | 387 |
+| 6 | 360 |
+| 7 | 310 |
+| 8 | 290 |
+| 9 | 280 |
+
+What conclusion can be drawn from the results shown in the graph and table?
+
+A. An increase in the amount of iron led to an increase in carbon dioxide levels.  
+B. The iron led to an increase in the phytoplankton population and a decrease in the carbon dioxide levels.  
+C. The iron caused a decrease in carbon dioxide levels which led to an increase in phytoplankton photosynthesis and population growth.  
+D. The phytoplankton population would continue to increase and the carbon dioxide levels would continue to decrease over the next two days.
+
+## Question 12
+A student found the following information that could be used to predict the intensity of industrial fires.
+
+Intensity of fire (kW/m) = Heat yield (J/g) × Fuel load (kg/m²) × Rate of spread (m/s)
+
+| Estimated fire intensity (kW/m) | Impact on building |
+|---|---|
+| < 500 | Smoke detected |
+| 1000 | Pallets charred |
+| 5000 | Flames detected |
+| > 7000 | Roof of factory on fire |
+
+The student researched a fire in a large warehouse that contained new hardwood timber pallets with an approximate heat yield of 17 000 J/g and an estimated fuel load of 11 kg/m². Flames had been reported inside the factory but the roof was not on fire.
+
+Using the above data, approximately how far would the fire travel each second?
+
+A. 0.0053 m  
+B. 0.027 m  
+C. 37 m  
+D. 190 m
+
+## Questions 13-15
+*Use the information provided to answer Questions 13-15.*
+
+An analogue thermometer and a digital temperature probe were both placed in water that was at exactly 0°C and then in water that was at exactly 100°C. The readings for each device were recorded and the procedure was repeated.
+
+| Device | Reading in 0°C water (°C) | | Reading in 100°C water (°C) | |
+|---|---|---|---|---|
+| | Trial 1 | Trial 2 | Trial 1 | Trial 2 |
+| Analogue thermometer | −0.5 | −0.5 | 99.5 | 99.5 |
+| Digital temperature probe | 5.37 | 5.37 | 105.59 | 105.59 |
+
+## Question 13
+What is the best explanation for the differences in readings on the devices compared to the exact temperature of the water?
+
+A. Human errors  
+B. Parallax errors  
+C. Random errors  
+D. Systematic errors
+
+## Question 14
+Based on the information provided, which statement about the devices is correct?
+
+A. The analogue thermometer is as reliable as the digital temperature probe.  
+B. The analogue thermometer is as accurate as the digital temperature probe.  
+C. The analogue thermometer is less reliable than the digital temperature probe.  
+D. The analogue thermometer is more accurate than the digital temperature probe.
+
+## Question 15
+These devices were then used to measure the temperature of a gas sample. The reading on the digital temperature probe was 55.48°C.
+
+Which row of the table shows the values closest to the actual temperature of the gas sample and the temperature reading on the analogue thermometer?
+
+| | Actual temperature of gas sample (°C) | Reading on the analogue thermometer (°C) |
+|---|---|---|
+| A. | 50 | 50.5 |
+| B. | 50 | 49.5 |
+| C. | 61 | 61.5 |
+| D. | 61 | 60.5 |
+
+## Question 16
+The graph shows the rate of cataract surgery in four countries over a period of time.
+
+![Bar graph showing cataract surgery rates per million people for Mexico, India, China, and Argentina in years 2007, 2009, and 2011. Y-axis shows rates from 0-5500, with different patterns for each country across the three years.](2020-images/question-16-cataract-surgery-graph.png)
+
+Populations of each country in 2009 are shown.
+
+| Country | Population (× 10⁶) |
+|---|---|
+| Mexico | 115.5 |
+| India | 1214 |
+| China | 1335 |
+| Argentina | 40.80 |
+
+Which country had the LOWEST total number of cataract operations in 2009?
+
+A. Argentina  
+B. China  
+C. India  
+D. Mexico
+
+## Questions 17-18
+*Use the information provided to answer Questions 17 and 18.*
+
+Students conducted an experiment to investigate the relationship between the speed of an object and the distance that it travels.
+
+1. They rolled a marble down a ramp.
+2. The marble then rolled across a bench and off the end of the bench.
+3. A data logger measured the speed of the marble as it reached the end of the bench.
+4. The students measured the horizontal distance from the end of the bench to where the marble landed on the floor.
+
+![Diagram showing experimental setup with a ramp leading to a bench, with a data logger at the end of the bench. The marble's path is shown going down the ramp, across the bench, and falling to the floor. The horizontal distance traveled from the bench is labeled.](2020-images/question-17-18-marble-experiment.png)
+
+## Question 17
+What must be kept the same in each trial of the experiment?
+
+A. The height of the bench  
+B. The mass of the marble used  
+C. The release point on the ramp  
+D. The angle of inclination of the ramp
+
+## Question 18
+Assuming the investigation was valid, which would be the best representation of the expected results?
+
+![Four graphs labeled A-D showing different relationships between Speed (x-axis) and Distance (y-axis). A shows constant horizontal line, B shows decreasing line, C shows increasing line, D shows curved increasing line](2020-images/question-18-speed-distance-graphs.png)
+
+## Question 19
+The table shows the number of deaths from three diseases before and after the implementation of vaccination programs. The comparisons are made over similar periods of time.
+
+| Disease | Deaths before vaccination program | Deaths after vaccination program |
+|---|---|---|
+| Measles | 542 000 | 122 000 |
+| Polio | 350 000 | 1 315 |
+| Tetanus | 200 000 | 48 000 |
+
+Based on the information provided, which row of the table correctly compares the percentage effectiveness of the vaccination programs?
+
+| | Most effective | Least effective |
+|---|---|---|
+| A. | Measles | Tetanus |
+| B. | Polio | Measles |
+| C. | Tetanus | Polio |
+| D. | Polio | Tetanus |
+
+## Question 20
+A recent study examined the combined effect of high-dose vitamin C and conventional cancer treatment on human brain tumour cells.
+
+Results from this study are shown.
+
+![Three bar graphs showing fraction of cells that survive treatment for Brain tumour cells Type 1, Type 2, and Normal brain cells. Each graph shows four bars: Control (dotted), Vitamin C (solid black), Conventional treatment (diagonal lines), and Combined treatments (light dotted). Combined treatments show the lowest survival fraction for tumor cells but similar survival for normal cells.](2020-images/question-20-vitamin-c-treatment-graphs.png)
+
+Using the information above, which row of the table is correct?
+
+| | Conclusion | Reason for drawing the conclusion |
+|---|---|---|
+| A. | The effect of vitamin C varies between Type 1 and Type 2 brain tumour cells | Conventional treatment has the same effect on Type 1 and Type 2 brain tumour cells |
+| B. | Vitamin C decreased the tumours in patients | There was a decrease in the fraction of tumour cells surviving after combined treatments were applied |
+| C. | Combined treatments are the most effective in treating brain tumour patients | Combined treatments decreased the number of brain tumour cells more than the other treatments |
+| D. | Vitamin C is effective without conventional tumour treatment | Brain tumour cells decreased in number by the application of vitamin C more significantly than when treated with conventional treatments alone |
+
+# Section II – Extended Response (80 marks)
+
+*Allow about 2 hours and 25 minutes for this section*
+
+## Question 21 (3 marks)
+Outline TWO experiments Priestley conducted. In your answer, refer to the data he collected in each experiment.
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+## Question 22 (7 marks)
+A student conducted an investigation into the relationship between the pressure and volume of a sample of a gas, which was kept at a constant temperature of 25°C. It was kept in a calibrated container with a volume that could be adjusted. The pressure of the gas inside the container was recorded as the volume of the gas in the container was altered.
+
+After analysing the raw data, the student hypothesised that an inverse relationship existed between the volume and the pressure of the gas sample. The student produced the table from the data collected.
+
+| 1/volume (L⁻¹) | 0.42 | 0.71 | 0.83 | 1.01 | 1.30 |
+|---|---|---|---|---|---|
+| Pressure (kPa) | 30 | 51 | 62 | 74 | 80 |
+
+### (a) Graph the data on the grid and draw a straight line of best fit. (2 marks)
+
+![Grid for plotting graph with x-axis labeled "1/volume (L⁻¹)" from 0 to 1.4 and y-axis labeled "Pressure (kPa)" from 0 to 100](2020-images/question-22-blank-graph.png)
+
+### (b) The student extrapolated their line of best fit to 300 kPa and calculated the volume of the gas to be approximately 0.25 L. (3 marks)
+
+Assess the validity of the student's method for determining the volume of the gas at 300 kPa.
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+### (c) Using the information from the graph, calculate the pressure of the gas sample at 25°C when the volume was 1.1 L. (2 marks)
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+## Question 23 (6 marks)
+
+### (a) Describe, using an example, how fraudulent scientific research can be uncovered. (3 marks)
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+### (b) Explain TWO implications of the need for scientists to 'publish or perish'. (3 marks)
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+## Question 24 (5 marks)
+The graph shows approximate US government spending over time on space research and welfare from 1960 to 2015.
+
+![Dual-axis graph showing US spending from 1960-2015. Left y-axis shows spending on space research ($×10⁹) from 0-40, right y-axis shows spending on welfare ($×10¹¹) from 0-20. Space spending (diagonal lines) peaks around 1965 at ~40 billion then declines. Welfare spending (dotted) steadily increases from near 0 to ~20 trillion by 2015.](2020-images/question-24-spending-graph.png)
+
+### (a) What conclusion can be drawn from the data in the graph concerning the relative spending on space research and welfare in 1970? (1 mark)
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+### (b) Explain how data presented in this format can affect the public perception of spending on space research. (4 marks)
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+## Question 25 (6 marks)
+A researcher hypothesised that a particular condition was caused by a specific bacterium. The researcher did not suffer from the condition. She isolated the suspected bacteria from a sufferer, injected it into herself and developed symptoms of the condition. After taking the appropriate antibiotics, she no longer displayed the symptoms and concluded that the condition was caused by this bacterium.
+
+### (a) Explain why the experiment is unreliable. (2 marks)
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+### (b) If this investigation was proposed to an ethics committee, justify TWO recommendations they are likely to make. (4 marks)
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+## Question 26 (7 marks)
+
+### (a) Describe how a technology has had a significant impact on the development of atomic theory. (3 marks)
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+### (b) How has our understanding of radioactivity affected the development of radiotherapy? (4 marks)
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+## Question 27 (6 marks)
+Astronomers define retrograde motion as the appearance of planets moving backwards along their orbit, due to an optical illusion from Earth. This happens at various times throughout the year.
+
+Astrologists believe that when Mercury is in 'retrograde', chaos and frustration increase, particularly when travelling.
+
+### (a) How might astrologists' use of the term retrograde influence the public's opinion of astrology? (2 marks)
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+### (b) Design an investigation that could be used to test the claim that Mercury's period of retrograde motion correlates with disruptions to travel. (4 marks)
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+## Question 28 (6 marks)
+
+### (a) How did the use of X-ray diffraction lead to an understanding of the structure of deoxyribonucleic acid (DNA)? (2 marks)
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+### (b) Explain how knowledge of the structure of DNA has led to the development of TWO technologies. (4 marks)
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+## Question 29 (8 marks)
+In 1845 a hypothesis was tested by setting up two groups of people playing trumpets. Fifteen of the trumpeters were on a moving train travelling at constant speed while another fifteen were stationary on the ground next to the railway line. All thirty trumpeters continuously played the same note as the train passed the stationary group.
+
+A stationary observer on the ground listened carefully as the train moved past.
+
+### (a) Write a suitable hypothesis for this experiment. (1 mark)
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+### (b) Sketch an appropriate graph that shows how the pitch, measured in Hertz (Hz), of the note produced by the two groups of trumpeters would be heard by the stationary observer over time. Include relevant labels and units on the axes. (3 marks)
+
+![Blank graph with axes for sketching, includes key showing "Sound from trumpeters on ground" (solid line) and "Sound from trumpeters on train" (dashed line)](2020-images/question-29-blank-graph.png)
+
+### (c) Explain the expected results of the experiment in terms of a scientific phenomenon. (4 marks)
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+## Question 30 (7 marks)
+Dirty water causes the death of a human every 10 seconds, worldwide.
+
+Evaluate the effects of scientific research into water quality on global health and human wellbeing. In your answer, refer to different methods of water treatment.
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+## Question 31 (7 marks)
+An international health advisory agency, related to the United Nations, states that asbestos causes mesothelioma and other cancers. It also states that building products release asbestos fibres during production, building, maintenance and demolition.
+
+Sixty-six countries, including Australia, have stopped mining asbestos. Russia and Kazakhstan are the two largest miners and exporters of asbestos. Asian countries import 75% of all asbestos.
+
+An industry-funded asbestos information agency states that asbestos is a safe product, and should fibres be inhaled, they will dissolve within two weeks.
+
+### (a) Provide possible reasons for the differences in the statements made by these two agencies. (3 marks)
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+### (b) Discuss the decision made by countries to continue to mine asbestos. (4 marks)
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+## Question 32 (12 marks)
+A student is researching climate change and wrote summaries of three pieces of information.
+
+**Student summary 1: An article from a daily newspaper in 2019**
+
+An astrophysicist stated that when water vapour levels rise, so does global air temperature, as shown in the graph. This relationship has been verified by other scientists.
+
+![Graph showing variation from average for water vapour (solid line) and global air temperature (dashed line) from 1988-2014. Both lines show similar fluctuating patterns, generally moving together.](2020-images/question-32-climate-graph.png)
+
+The astrophysicist suggested that water vapour is the main contributor to climate change, while carbon dioxide is only a minor contributor to the greenhouse effect.
+
+Another scientist said this is misleading since increasing air temperatures cause increased evaporation. Therefore increasing carbon dioxide levels can still lead to increased water vapour.
+
+Later the article mentions that the astrophysicist's work is paid for by oil companies.
+
+**Student summary 2: Review of the same article by scientists**
+
+Scientists reviewing the newspaper article stated that it used flawed reasoning and gave a single scientist's conclusion the same value as the findings of the majority of scientists.
+
+The organisation that published this review stated that it is an 'unbiased, non-profit organisation'.
+
+**Student summary 3: Quotation**
+
+'It's not climate change that needs to be tackled. It is the political power of the fossil fuel industry.'
+
+RICHARD DENNISS  
+Chief Economist  
+The Australia Institute
+
+© Dr Richard Denniss, Chief Economist. Reproduced by permission of the Australia Institute
+
+### (a) Using data from the graph in student summary 1, describe the relationship between water vapour and global air temperature. (2 marks)
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+### (b) Assess the reliability of the information given in student summary 1. (3 marks)
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+### (c) Analyse the effects that conflicts of interest can have on collection and interpretation of climate change data. Refer to information in the three student summaries to support your response. (7 marks)
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________
+
+_______________________________________________________________________

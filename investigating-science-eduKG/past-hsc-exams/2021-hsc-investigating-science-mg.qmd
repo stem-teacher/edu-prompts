@@ -1,0 +1,420 @@
+---
+title: '2021 HSC Investigating Science Marking Guidelines'
+subtitle: 'NSW Education Standards Authority'
+format:
+  html:
+    toc: true
+    toc-depth: 3
+  pdf:
+    toc: true
+    toc-depth: 3
+date: '2021'
+---
+
+![NSW Government logo](2021-images/nsw-government-logo.png)
+
+# Section I
+
+## Multiple-choice Answer Key
+
+| Question | Answer |
+|----------|--------|
+| 1 | D |
+| 2 | C |
+| 3 | A |
+| 4 | C |
+| 5 | A |
+| 6 | C |
+| 7 | B |
+| 8 | D |
+| 9 | D |
+| 10 | B |
+| 11 | A |
+| 12 | D |
+| 13 | C |
+| 14 | C |
+| 15 | B |
+| 16 | D |
+| 17 | B |
+| 18 | C |
+| 19 | D |
+| 20 | A |
+
+\newpage
+
+# Section II
+
+## Question 21
+
+**Criteria** | **Marks**
+---|---
+• Outlines a need for regulation and gives a relevant example | 3
+• Outlines a need for regulation<br>OR<br>• Provides a relevant example without specific link to regulation | 2
+• Provides some relevant information | 1
+
+**Sample answer:**
+
+It is essential to regulate scientific research to ensure ethical conduct of scientists and overall safety of the public. For example, in countries with nuclear energy, regulations exist that decrease the likelihood of nuclear accidents. This increases public safety for those living close to a reactor.
+
+## Question 22 (a)
+
+**Criteria** | **Marks**
+---|---
+• Relates a structural feature of DNA to the development of genetically modified organisms | 2
+• Provides some relevant information | 1
+
+**Sample answer:**
+
+Scientists found that the base pairing rules were the same in all organisms. This discovery allowed them to take DNA from one organism and introduce it into another.
+
+## Question 22 (b)
+
+**Criteria** | **Marks**
+---|---
+• Identifies that the experiment has two independent variables<br>• Relates the purpose of each group to the hypothesis | 4
+• Identifies that the experiment has two independent variables<br>AND/OR<br>• Relates the purpose for some groups | 2–3
+• Provides some relevant information | 1
+
+**Sample answer:**
+
+There are two independent variables in this experiment, the genetic modification and the diet. Group 1 is the control group. Group 2 shows if diet causes an increase in weight. Group 3 shows if the genetic modification alone causes the change in weight. Group 4 can be compared to Groups 2 and 3 to see if the hypothesis can be supported. Without all 4 groups the hypothesis cannot be validly investigated.
+
+## Question 23
+
+**Criteria** | **Marks**
+---|---
+• Outlines how to determine reliability and validity of secondary sources | 2
+• Identifies a feature of reliability OR validity | 1
+
+**Sample answer:**
+
+The validity of a secondary source would be determined by using trusted sources such as scientific publications. Reliability would be determined by finding consistent information across multiple valid sources.
+
+## Question 24
+
+**Criteria** | **Marks**
+---|---
+• Demonstrates an understanding of a linear model of scientific investigation<br>• Identifies a deviation from this model<br>• Uses features of Spencer's research to support both the linear model and the deviation from this model | 4
+• Demonstrates an understanding of a linear model of scientific investigation<br>AND/OR<br>• Identifies a deviation from this model<br>AND/OR<br>• Uses feature(s) of Spencer's research to support the linear model and/or the deviation from this model | 2–3
+• Provides some relevant information | 1
+
+**Sample answer:**
+
+The linear model of investigation involves hypothesis, experiment, collect and analyse data and conclude.
+
+Spencer was originally investigating microwave technology for military purposes. He made the observation that a candy bar melted in his pocket. He produced a new hypothesis that the microwaves being produced were heating the food. Thus, he deviated from the linear model of investigation and decided to change his investigation.
+
+He then followed a more linear approach, by testing a range of foods and monitoring the effect on the food (eg temperature) and safety for the users.
+
+## Question 25
+
+**Criteria** | **Marks**
+---|---
+• Links evidence from the graph to statements concerning the hypothesis | 3
+• Provides some evidence from the graph to statement(s) about the hypothesis | 2
+• Provides some relevant information | 1
+
+**Sample answer:**
+
+At the time of the Three Mile Island and Fukushima accidents the percentage of people supporting nuclear energy was already falling before these events occurred. The percentage of support remained unchanged after the Chernobyl accident. Therefore, the graph does not support the hypothesis.
+
+## Question 26 (a)
+
+**Criteria** | **Marks**
+---|---
+• Provides appropriate matching units on each axis | 2
+• Provides appropriate units on one axis | 1
+
+**Sample answer:**
+
+![Graph showing Distance (m) vs Speed (m/s) with KEY showing Time period A (circles) and Time period B (crosses)](2021-images/question-26a-distance-speed-graph.png)
+
+Answers could include:
+
+Any appropriate units (km, km/h, m/s).
+
+## Question 26 (b)
+
+**Criteria** | **Marks**
+---|---
+• Draws a table (includes columns and headings)<br>• Correctly transfers data from the graph to a table | 2
+• Provides some relevant information | 1
+
+**Sample answer:**
+
+| | Distance travelled |
+|---|---|
+| **Speed** | **Time period A** | **Time period B** |
+| 10 | 20 | 10 |
+
+## Question 26 (c)
+
+**Criteria** | **Marks**
+---|---
+• Relates distance travelled to time each object travelled<br>• Uses a calculation to support response | 3
+• Calculates time period A and/or time period B<br>• States time period A is longer than time period B<br>OR<br>• Calculates one time period | 2
+• Provides some relevant information | 1
+
+**Sample answer:**
+
+Time A = 20 m / 10 m s⁻¹ = 2.0 s
+
+Time B = 10 m / 10 m s⁻¹ = 1.0 s
+
+Since the object is travelling at a constant speed, in 2.0 seconds (time period A) it will travel further than in 1.0 s (time period B).
+
+## Question 27 (a)
+
+**Criteria** | **Marks**
+---|---
+• Outlines TWO pieces of information | 2
+• Identifies ONE piece of information | 1
+
+**Sample answer:**
+
+The volunteers would have to be informed of the risks associated with their being given the new vaccine.
+
+The volunteers would have to be informed that they may be given a placebo, not the actual vaccine.
+
+## Question 27 (b)
+
+**Criteria** | **Marks**
+---|---
+• Provides a detailed comparison of the two processes | 4
+• Provides some comparison of the processes | 3
+• Outlines a feature of a process OR identifies features of the process(es) | 2
+• Provides some relevant information | 1
+
+**Sample answer:**
+
+In contrast to the large number of people on whom the company tested their vaccine, Jenner tested his smallpox vaccine initially on only one boy without a control/placebo group. The company's use of a large placebo group provided an effective control group. Jenner's method would not be considered to be a good scientific trial today because of the small number of participants and the lack of control group.
+
+Also, unlike the company's trial, the ethics of Jenner's trial would not meet modern standards. Jenner tested his vaccine on the son of his gardener and one could probably assume that there was a feeling of obligation to participate, given the work relationship.
+
+## Question 28 (a)
+
+**Criteria** | **Marks**
+---|---
+• Demonstrates the difference between a theory and a law, with reference to an example of each | 4
+• Outlines a feature of a theory and a feature of a law and provides an example of EITHER a law or a theory<br>OR<br>• Provides an example of a theory and a law and outlines a feature of EITHER a theory or a law | 3
+• Outlines a feature of a theory or a law<br>OR<br>• Identifies a theory AND a law | 2
+• Identifies a law<br>OR<br>• Identifies a theory<br>OR<br>• States one feature of a theory or a law | 1
+
+**Sample answer:**
+
+A theory is an explanation for how or why a phenomenon occurs based on some assumptions and a large amount of evidence and observations. For example, Theory of Evolution. A Law is a statement describing what will happen in a given situation that has been proven true, often using mathematical equations. For example, Newton's Laws of Motion.
+
+## Question 28 (b)
+
+**Criteria** | **Marks**
+---|---
+• Presents argument(s) that provide valid support for whether the terms used are scientifically appropriate<br>• Demonstrates thorough understanding of hypothesis and theory | 3
+• Presents an argument whether the terms used are scientifically appropriate<br>• Demonstrates sound understanding of hypothesis and/or theory | 2
+• Provides some relevant information | 1
+
+**Sample answer:**
+
+A hypothesis is a statement that is testable using scientific methods. There is no hypothesis in the quote. The theory of gravity is not a hypothesis because a theory is a scientifically accepted explanation that predicts many different things. The report does not use the terms appropriately.
+
+## Question 29
+
+**Criteria** | **Marks**
+---|---
+• Provides a detailed investigation that includes the use of a placebo-controlled double-blind trial | 5
+• Provides a substantially correct investigation that includes the use of a placebo-controlled double-blind trial | 4
+• Provides a substantially correct investigation that includes the use of placebos OR double-blind trial | 3
+• Provides some parts of a relevant investigation | 2
+• Provides some relevant information | 1
+
+**Sample answer:**
+
+1. Randomly choose 200 people and divide them into two groups.
+2. Weigh each person and find the average mass per group.
+3. Assign all participants the same diet for a six-month time period and same exercise classes.
+4. Assign one group to receive one Green Tea Extract capsule per day and the other group (the placebo group) to receive one capsule filled with non-active ingredients each day. Do not let the researcher or the participants know which group is which.
+5. Once a week, weigh each participant.
+6. After 6 months, average the results and compare the two groups to see if the average masses of each group have changed since the beginning of the trial.
+
+## Question 30
+
+**Criteria** | **Marks**
+---|---
+• Provides arguments for and/or against considering this to be an example of the halo effect<br>• Demonstrates comprehensive understanding of the halo effect | 4
+• Provides arguments for and/or against considering this to be an example of the halo effect<br>OR<br>• Demonstrates thorough understanding of the halo effect and an argument for or against this being an example | 3
+• Provides an argument for or against considering this to be an example of the halo effect | 2
+• Provides some relevant information | 1
+
+**Sample answer:**
+
+It is an example of the halo effect because Einstein used his celebrity status to help convince the President to support the development of the nuclear bomb. If the letter had come from an unknown scientist, it would have had a lot less impact. However, since Einstein was also an excellent scientist, the scientific information he may have provided to the President is NOT an example of the halo effect, it may be an example of a scientific communication.
+
+## Question 31 (a)
+
+**Criteria** | **Marks**
+---|---
+• Explains a benefit of damming the river | 2
+• Identifies a benefit | 1
+
+**Sample answer:**
+
+It is useful to dam the river so that there is more fresh water available to the local residents. The dam provides a stored regular supply of water even when river levels are low.
+
+## Question 31 (b)
+
+**Criteria** | **Marks**
+---|---
+• Identifies misrepresentations<br>• States why these are misrepresentations using data from the stimulus | 4
+• Identifies misrepresentation(s)<br>AND/OR<br>• States why these are misrepresentation(s) using evidence from the stimulus | 2–3
+• Provides some relevant information | 1
+
+**Sample answer:**
+
+The council states that 95% of residents supported the dam, however, the correct percentage is 86%. It overstates the percentage of residents FOR the dam, thus misrepresenting their views.
+
+The number of residents surveyed from Town B (286) was much less than Town A (2771). This means that the views of Town B residents are under-represented.
+
+Because only the total results from the surveys were used, rather than the results for each town, the council misrepresented the views of those in Town B. Many people in Town B were against it (275), rather than for it (11).
+
+Answers could include:
+
+The council used only the results from Town A (approx. 94% were 'for'), ignoring the results from Town B.
+
+## Question 32
+
+**Criteria** | **Marks**
+---|---
+• Provides a comprehensive analysis of reliability, accuracy (including error) and validity, relevant to the results of both groups | 8–9
+• Analyses TWO of these (reliability, accuracy and validity) relevant to the results of both groups<br>OR<br>• Analyses reliability, accuracy and validity relevant to the results of one group | 6–7
+• Describes reliability and/or accuracy and/or validity relevant to the results of the experiment | 4–5
+• Outlines features of results and/or reliability and/or accuracy and/or validity | 2–3
+• Provides some relevant information | 1
+
+**Sample answer:**
+
+Both groups have addressed reliability by producing a line of best fit for their data which showed the results were relatively consistent with no obvious outliers. However, Group B have repeated their measurements three times for each temperature, whereas Group A have no repetition. Therefore, Group B's results are more reliable.
+
+The literature predicted a doubling in rate for every 10°C increase in temperature. Group A's results show rate changed from about 20 mL/min to 40 mL/min over a temperature range of 20°C to 30°C, indicating that Group A's results agree with the literature value and are therefore accurate. Not all points fall on the line suggesting a small amount of random error in Group A's experiments. However, Group B's results show that the rate increased from about 18 mL/min to only 28 mL/min over the same temperature range. This does not show a doubling of the rate for a 10°C increase, suggesting their results are inaccurate. Group B's data points consistently show a lower reaction rate at a given temperature, indicating there is systematic error in their experiment.
+
+Given that the temperature is the only variable being changed in this investigation, with all others being controlled, both experiments are deemed valid as no other factors are likely to have influenced the reaction rate. However, given that Group B's results are not consistent with the literature value and are therefore likely to have been influenced by a systematic error, these are deemed less valid than Group A's.
+
+## Question 33 (a)
+
+**Criteria** | **Marks**
+---|---
+• Provides an appropriate hypothesis<br>• Provides an appropriate conclusion that links to the hypothesis | 2
+• Provides an appropriate hypothesis OR an appropriate conclusion | 1
+
+**Sample answer:**
+
+Hypothesis: Placing a plant in a sealed jar will make the mouse live for a longer period of time than without the plant in the jar.
+
+Conclusion: Having a plant in the jar caused the mouse to live a longer time period.
+
+## Question 33 (b)
+
+**Criteria** | **Marks**
+---|---
+• Identifies TWO variables that need to be kept constant<br>• Provides a valid justification | 4
+• Identifies variable(s) that need to be kept constant<br>• Demonstrates some understanding of the need to control variables | 2–3
+• Provides some relevant information | 1
+
+**Sample answer:**
+
+Size of jar, temperature. Variables other than the independent and dependent must be kept constant to ensure valid results.
+
+## Question 33 (c)
+
+**Criteria** | **Marks**
+---|---
+• Provides TWO detailed reasons why the set-up is an improvement over Priestley's experiment<br>• Justifies further improvements | 7
+• Provides reason(s) why the set-up is an improvement over Priestley's experiment<br>• Justifies further improvement(s) | 5–6
+• Provides reason(s) for the experiment shown being an improvement over Priestley's<br>AND/OR<br>• Demonstrates some understanding why the identified improvement(s) are appropriate | 3–4
+• Identifies improvements<br>OR<br>• Outlines an improvement | 2
+• Provides some relevant information | 1
+
+**Sample answer:**
+
+This experiment is an improvement on Priestley's because it does not require the use of live mice, therefore removing the ethical issues involved in killing animals as well as removing the need to manage the supply and health of laboratory animals.
+
+This experimental set-up also produces quantitative data about the concentration of CO₂/O₂ which Priestley could not measure. This allows for a more thorough analysis.
+
+The experiment could be improved by storing CO₂/O₂ data with the corresponding times so that variations over time could be analysed.
+
+Other sensors could be added to measure temperature and light intensity over time, since these affect photosynthesis.
+
+## Question 34
+
+**Criteria** | **Marks**
+---|---
+• Demonstrates a comprehensive understanding of TWO factors that influence scientific research<br>• Provides relevant examples<br>• Provides a relevant judgement about the effect of the factors | 5
+• Demonstrates a sound understanding of TWO factors that influence scientific research<br>• Provides relevant examples | 4
+• Demonstrates some understanding of the factor(s) influencing scientific research AND/OR provides a(n) example(s) | 2–3
+• Provides some relevant information | 1
+
+**Sample answer:**
+
+Emerging social problems. There has been a significant increase in scientific research into the development of vaccines against COVID-19 due to the social implications on human health and the economy associated with catching the disease. As a result of this increased focus, a variety of vaccines have now been developed which will inevitably save lives and allow economic recovery.
+
+Political agendas. Politicians allocate budgets and can alter the funding to scientific research in general, as well as choosing to fund particular areas over others. For example, funding into renewable energy technology as the public concern for climate change increases.
+
+Both the factors described above have a significant effect in determining the type of scientific research that is carried out. This could mean that important but less popular areas of research could miss out on funding support.
+
+Answers could include:
+
+• Economic factors.
+
+\newpage
+
+# 2021 HSC Investigating Science Mapping Grid
+
+## Section I
+
+| Question | Marks | Content | Syllabus outcomes |
+|----------|-------|---------|-------------------|
+| 1 | 1 | Mod 6: Scientific Investigation and Technology | 12-13 |
+| 2 | 1 | Mod 5: Reliability and Validity | 12-12 |
+| 3 | 1 | Mod 5: Reporting | 12-12 |
+| 4 | 1 | Mod 7: Science as Self-correcting – the Issues | 12-14 |
+| 5 | 1 | Mod 5: Practical Investigations to Obtain Primary Data | 12-12 |
+| 6 | 1 | Mod 5: Different Types of Scientific Investigations | 12-12 |
+| 7 | 1 | Mod 6: Scientific Investigation and Technology | 12-5, 12-13 |
+| 8 | 1 | Mod 7: Reading Between the Lines | 12-7, 12-14 |
+| 9 | 1 | Mod 8: Influence of Economic, Social and Political Forces on Scientific Research | 12-4, 12-15 |
+| 10 | 1 | Mod 8: Influence of Economic, Social and Political Forces on Scientific Research | 12-4, 12-15 |
+| 11 | 1 | Mod 5: Reliability and Validity | 12-5, 12-12 |
+| 12 | 1 | Mod 5: Different Types of Scientific Investigations | 12-6, 12-12 |
+| 13 | 1 | Mod 5: Reliability and Validity | 12-2, 12-12 |
+| 14 | 1 | Mod 6: A Continuous Cycle | 12-5, 12-13 |
+| 15 | 1 | Mod 6: A Continuous Cycle | 12-4, 12-13 |
+| 16 | 1 | Mod 7: Evidence-based Analysis | 12-7, 12-14 |
+| 17 | 1 | Mod 8: Influence of Economic, Social and Political Forces on Scientific Research | 12-4, 12-15 |
+| 18 | 1 | Mod 7: Evidence-based Analysis | 12-5, 12-14 |
+| 19 | 1 | Mod 5: Practical Investigations to Obtain Primary Data | 12-2, 12-12 |
+| 20 | 1 | Mod 8: Influence of Economic, Social and Political Forces on Scientific Research | 12-4, 12-15 |
+
+## Section II
+
+| Question | Marks | Content | Syllabus outcomes |
+|----------|-------|---------|-------------------|
+| 21 | 3 | Mod 8: Incidents, Events and Science | 12-7, 12-15 |
+| 22 (a) | 2 | Mod 6: A Continuous Cycle | 12-13 |
+| 22 (b) | 4 | Mod 6: A Continuous Cycle<br>Mod 7: Reliability and Validity | 12-5, 12-6, 12-12, 12-13 |
+| 23 | 2 | Mod 5: Reliability and Validity | 12-2, 12-7, 12-12 |
+| 24 | 4 | Mod 5: Practical Investigations to Obtain Primary Data | 12.2, 12.6, 12-12 |
+| 25 | 3 | Mod 8: Incidents, Events and Science | 12.1, 12.4, 12.15 |
+| 26 (a) | 2 | Mod 6: Scientific Investigation and Technology | 12-4, 12-13 |
+| 26 (b) | 2 | Mod 6: Scientific Investigation and Technology | 12-4, 12-7, 12-13 |
+| 26 (c) | 3 | Mod 6: Scientific Investigation and Technology | 12-4, 12-5, 12-13 |
+| 27 (a) | 2 | Mod 5: Reliability and Validity<br>Mod 8: Influence of Economic, Social and Political Forces on Scientific Research | 12-2, 12-12 |
+| 27 (b) | 4 | Mod 5: Reliability and Validity<br>Mod 8: Influence of Economic, Social and Political Forces on Scientific Research | 12-2, 12-12, 12-15 |
+| 28 (a) | 4 | Mod 7: Reading Between the Lines | 12-7, 12-14 |
+| 28 (b) | 3 | Mod 7: Reading Between the Lines | 12-4, 12-7, 12-14 |
+| 29 | 5 | Mod 7: Testing Claims | 12-2, 12-6, 12-7, 12-14 |
+| 30 | 4 | Mod 7: Reading Between the Lines<br>Mod 8: Influence of Economic, Social and Political Forces on Scientific Research | 12-6, 12-7, 12-14, 12-15 |
+| 31 (a) | 2 | Mod 8: Incidents, Events and Science | 12-15 |
+| 31 (b) | 4 | Mod 7: Testing Claims<br>Mod 8: Incidents, Events and Science | 12-4, 12-6, 12-7, 12-14, 12-15 |
+| 32 | 9 | Mod 5: Reliability and Validity<br>Mod 6: Scientific Investigation and Technology | 12-4, 12-5, 12-6, 12-7, 12-12, 12-13 |
+| 33 (a) | 2 | Mod 5: Different Types of Scientific Investigations | 12-1, 12-4, 12-7, 12-12 |
+| 33 (b) | 4 | Mod 5: Different Types of Scientific Investigations | 12-2, 12-6, 12-7, 12-12 |
+| 33 (c) | 7 | Mod 5: Different Types of Scientific Investigations<br>Mod 6: Scientific Investigation and Technology | 12-2, 12-5, 12-6, 12-7, 12-12, 12-13 |
+| 34 | 5 | Mod 8: Influence of Economic, Social and Political Forces on Scientific Research | 12-7, 12-15 |

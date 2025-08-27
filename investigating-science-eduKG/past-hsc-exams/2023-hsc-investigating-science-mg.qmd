@@ -1,0 +1,394 @@
+---
+title: '2023 HSC Investigating Science Marking Guidelines'
+subtitle: 'NSW Education Standards Authority'
+format:
+  html:
+    toc: true
+    toc-depth: 3
+  pdf:
+    toc: true
+    toc-depth: 3
+date: '2023'
+---
+
+![NSW Education Standards Authority and NSW Government logos](2023-images/nesa-nsw-government-logos.png)
+
+# 2023 HSC Investigating Science Marking Guidelines
+
+## Section I
+
+### Multiple-choice Answer Key
+
+| Question | Answer |
+|----------|--------|
+| 1        | C      |
+| 2        | D      |
+| 3        | B      |
+| 4        | B      |
+| 5        | A      |
+| 6        | D      |
+| 7        | D      |
+| 8        | A      |
+| 9        | B      |
+| 10       | C      |
+| 11       | B      |
+| 12       | D      |
+| 13       | C      |
+| 14       | C      |
+| 15       | A      |
+| 16       | C      |
+| 17       | B      |
+| 18       | A      |
+| 19       | B      |
+| 20       | D      |
+
+## Section II
+
+### Question 21 (a)
+
+**Criteria** | **Marks**
+--- | ---
+• Provides an appropriate hypothesis, based on information in the table | 1
+
+*Sample answer:*
+More butterflies will be sighted on warmer days.
+
+### Question 21 (b)
+
+**Criteria** | **Marks**
+--- | ---
+• Provides an appropriate factor that should have been controlled | 1
+
+*Sample answer:*
+The observations should be carried out at the same time each day.
+
+### Question 22
+
+**Criteria** | **Marks**
+--- | ---
+• Identifies a surgical procedure<br>• Links procedure to an effect on world health | 2
+• Provides some relevant information | 1
+
+*Sample answer:*
+Cataract surgery improves world heath by restoring vision for people with cataracts, reducing the risk of injury due to poor vision, eg falling.
+
+### Question 23
+
+**Criteria** | **Marks**
+--- | ---
+• Demonstrates a comprehensive understanding of the use and value of bioharvesting from Country and Place<br>• Refers to traditional knowledge and understanding | 3
+• Demonstrates understanding of the use and value of bioharvesting | 2
+• Provides some relevant information | 1
+
+*Sample answer:*
+Aboriginal and Torres Strait Islander Peoples have a profound understanding of medicinal uses of various plants from Country and Place. Pharmaceutical companies value this knowledge as bioharvesting these plants can be used in the development of new drug treatments.
+
+### Question 24 (a)
+
+**Criteria** | **Marks**
+--- | ---
+• Provides a reason for the difference in results, demonstrating an understanding of systematic errors | 2
+• Provides some relevant information | 1
+
+*Sample answer:*
+There is an expectation that the temperature should be 100°C, not 103.5°C. There must be a systematic error involved in the use of the thermometer, probably due to a manufacturing error.
+
+### Question 24 (b)
+
+**Criteria** | **Marks**
+--- | ---
+• Justifies the validity and accuracy of using the digital temperature probe | 2
+• Provides some relevant information | 1
+
+*Sample answer:*
+The use of the digital temperature probe is valid as it is actually measuring temperature and it is accurate because the readings obtained are close to the accepted value of 100°C.
+
+### Question 25 (a)
+
+**Criteria** | **Marks**
+--- | ---
+• Provides a scientific law and a scientific theory | 2
+• Identifies a scientific law or a scientific theory | 1
+
+*Sample answer:*
+
+| | Example |
+|---|---|
+| Scientific law | Charles' Law |
+| Scientific theory | Big Bang Theory |
+
+### Question 25 (b)
+
+**Criteria** | **Marks**
+--- | ---
+• Provides a sound judgement about the accuracy of the diagram and caption presented | 3
+• Demonstrates some understanding of the accuracy of the information | 2
+• Identifies a feature of the information that is incorrect | 1
+
+*Sample answer:*
+All information provided is incorrect. The diagram shows refraction, not reflection as used by JWST. The caption should be referring to the Law of Reflection, not the Theory of Reflection.
+
+### Question 26 (a)
+
+**Criteria** | **Marks**
+--- | ---
+• Justifies the need for the regulation of scientific research, linked to a specific example | 3
+• Identifies a valid reason for the regulation of scientific research, with reference to a relevant example | 2
+• Provides some relevant information | 1
+
+*Sample answer:*
+Scientific research needs to be regulated to ensure it is ethical. For example, people in the Tuskegee study about syphilis were not provided with essential information when agreeing to participate in the study. This led to unethical research as patients were not able to give informed consent.
+
+### Question 26 (b)
+
+**Criteria** | **Marks**
+--- | ---
+• Provides a well-informed judgement of the effectiveness of a specific regulation, or code of conduct, in overcoming an ethical issue<br>• Refers to a relevant scientific regulation or code of conduct | 4
+• Identifies a relevant ethical issue in science and/or provides a judgement of the effectiveness | 2–3
+• Provides some relevant information | 1
+
+*Sample answer:*
+The Istanbul Declaration provides guidelines to ensure organ transplants are conducted legally and ethically, safeguarding organ donors and organ recipients. It encourages governments to implement processes to govern and regulate the safe donation of organs. This has reduced the demand for organs which are illegally obtained (trafficking), protecting vulnerable people from selling their organs. The Istanbul Declaration has played a significant role in reducing illegal organ transplants, trafficking and transplant tourism.
+
+### Question 27
+
+**Criteria** | **Marks**
+--- | ---
+• Provides a comprehensive explanation of why so many scientific papers are published in fake science journals | 3
+• Provides a clear reason for the number of scientific papers published in fake science journals | 2
+• Provides some relevant information | 1
+
+*Sample answer:*
+In some scientific fields, promotions are dependent on how many papers a person has published in scientific journals. Such a 'publish or perish' attitude provides the grounds for fake science journals that have no peer review process to publish papers. Authors that submit slightly altered versions of other papers give the false notion that a voluminous amount of new work has been produced, enhancing promotion prospects and securing funding.
+
+### Question 28
+
+**Criteria** | **Marks**
+--- | ---
+• Demonstrates a thorough understanding of the investigation by Marshall and Warren and its relevance, based on available peer-reviewed literature at the time<br>• Makes a judgement about the relevance of the investigation | 4
+• Demonstrates a sound understanding of Marshall and Warren's investigation<br>AND/OR<br>• Demonstrates a sound understanding of the relevance of the investigation based on available peer-reviewed literature at the time<br>AND/OR<br>• Makes a judgement about the relevance of the investigation | 2–3
+• Provides some relevant information | 1
+
+*Sample answer:*
+Peer reviewed literature at the time showed that stress increased the chance of developing ulcers. In 1984 Marshall and Warren examined if bacteria H. pylori caused peptic ulcers as they had observed the bacteria in many biopsy samples of ulcer patients. Marshall self-infected with the bacteria to investigate a link with the cause of the ulcers. Based on the peer-reviewed literature at the time, this investigation would not have been regarded as relevant.
+
+### Question 29 (a)
+
+**Criteria** | **Marks**
+--- | ---
+• Identifies two technologies<br>• Provides a limitation for each technology | 3
+• Identifies a technology<br>• Provides a limitation for that technology | 2
+• Identifies a technology | 1
+
+*Sample answer:*
+
+| Technology used | Limitation |
+|---|---|
+| Glass tubing | There are no markings on the tubing to make measurements of volume |
+| Mobile phone camera | Only produces qualitative data |
+
+*Answers could include:*
+References to the hot plate and calibrated ruler.
+
+### Question 29 (b)
+
+**Criteria** | **Marks**
+--- | ---
+• Provides a sound explanation of the expected results | 3
+• Identifies the expected result<br>• Provides some reasoning for the result | 2
+• Provides some relevant information | 1
+
+*Sample answer:*
+As the water got warmer, the air above it would heat up and expand, pushing down on the water, causing the water to rise up the tube. The volume of water rising is equal to the increase in volume of the air.
+
+### Question 30
+
+**Criteria** | **Marks**
+--- | ---
+• Demonstrates an extensive understanding of the structure and language style of a scientific report<br>• Provides a judgement based on an extensive analysis of the structure and language style of the student's report | 7
+• Demonstrates a thorough understanding of the structure and language style of a scientific report<br>• Provides a judgement based on a thorough analysis of the structure and language style of the student's report | 6
+• Demonstrates a sound understanding of the structure and/or language style of a scientific report<br>• Provides a judgement and a sound analysis of the structure and/or language style of the student's report | 4–5
+• Demonstrates a basic understanding of the structure and/or language style of a scientific report<br>AND/OR<br>• Provides a basic analysis of the structure and/or language used in the student's report | 2–3
+• Provides some relevant information | 1
+
+*Sample answer:*
+A scientific report has conventions related to the structure and language that should be used. The structure should include recognised headings, in a logical order, such as aim, method, results and conclusion. The student's report has non-conventional headings such as 'my prediction is' instead of 'hypothesis'. The student's headings are not ordered logically, making it difficult to follow the sequence of the investigation. In addition, the student should have tabulated the results, which is expected. However, the information provided is relevant to the investigation and covers all important areas of a scientific report.
+
+The language used is clear and concise, making the report easy to comprehend. However, the language style is informal, has limited scientific terminology and incorrect use of scientific conventions. For example, the description of spurt height in what should be the results, uses colloquial words rather than quantitative data.
+
+Overall, while the student report has some correct elements, it would not meet the requirements of a scientific report in terms of structure and language.
+
+### Question 31 (a)
+
+**Criteria** | **Marks**
+--- | ---
+• Constructs a correctly formatted line graph for each set of data | 4
+• Constructs a substantially correct graph for each set of data | 3
+• Provides some elements of a correct graph<br>• Attempts to plot numerical data | 2
+• Provides an element of a correct graph | 1
+
+*Sample answer:*
+
+![Graph showing leaf mass vs phosphorus level in soil for two CO2 concentrations - higher CO2 concentration and current CO2 concentration, with axes properly labeled and data points plotted as line graphs](2023-images/question-31a-graph-leaf-mass-phosphorus.png)
+
+### Question 31 (b)
+
+**Criteria** | **Marks**
+--- | ---
+• Provides the relationship between the hypothesis and the results<br>• Incorporates relevant quantitative data about both phosphorus levels and CO₂ concentration | 3
+• Identifies a relationship between the hypothesis and the results<br>• Refers to relevant data | 2
+• Identifies a relevant trend in the data | 1
+
+*Sample answer:*
+The hypothesis is supported by the results. The graph shows at low (70 ppm) phosphorus level, there was no difference in leaf mass (24 g) at either CO₂ concentration. Whereas, at increased phosphorus levels over 70 ppm, the leaf mass at higher CO₂ concentration was significantly higher than the leaf mass for current CO₂ concentration.
+
+### Question 32 (a)
+
+**Criteria** | **Marks**
+--- | ---
+• Outlines how an identified factor decreases validity | 2
+• Provides some relevant information | 1
+
+*Sample answer:*
+There is no control group. The results cannot be compared to a baseline, which decreases the validity.
+
+### Question 32 (b)
+
+**Criteria** | **Marks**
+--- | ---
+• Demonstrates an understanding of an evidence-based claim<br>• Links claim to perception of product's efficacy<br>• Compares evidence from trial to claim | 3
+• Demonstrates some understanding of an evidence-based claim<br>AND/OR<br>• Links claim to perception of product's efficacy<br>AND/OR<br>• Compares evidence from trial to claim | 2
+• Provides some relevant information | 1
+
+*Sample answer:*
+The claim on the packaging appears to be evidence-based, the perception being that regular use will reduce skin damage by 99%. However, the data from the clinical trial does not support this, showing the product is not as effective, with daily use reducing skin damage by 60% to 95%.
+
+### Question 33
+
+**Criteria** | **Marks**
+--- | ---
+• Provides detailed points for and against the effect that the development of flight has had on the public image of science<br>• Refers to both conflicting views provided in the stimulus<br>• Provides additional detailed relevant information | 5
+• Provides points for and/or against the effect of the development of flight on the public image of science<br>• Refers to both conflicting views provided in the stimulus<br>• Provides additional relevant information | 4
+• Demonstrates basic knowledge and/or understanding of the development of flight<br>AND/OR<br>• Refers to a view provided in the stimulus<br>AND/OR<br>• Provides some additional information<br>AND/OR<br>• Provides point(s) for and/or against the effect of the development on the public image of science | 2–3
+• Provides some relevant information | 1
+
+*Sample answer:*
+The initial image of science as perceived by the public was of scepticism based on conflicting evidence. However, the Montgolfier brothers showed in 1783 that flight was possible using a hot air balloon. In 1894 Lawrence Hargraves 'flew' in an arrangement of box kites that proved 'heavier than air' flight was possible. The Wright brothers' achievement was heralded in newspapers with headings such as 'Flyers or Liars' due to comments such as those put forward by Newcombe. By the end of WWI, the image of science related to flight had changed to appreciation due to the numerous opportunities now available (mail, passenger, freight etc) justifying Rickenbacker's statement.
+
+### Question 34
+
+**Criteria** | **Marks**
+--- | ---
+• Provides an example of relevant scientific research with detailed links to economic development<br>• Provides a judgement of how research has aided economic development | 5
+• Provides an example of relevant scientific research, with a clear link to economic development<br>• Provides a judgement | 4
+• Outlines an example of research with a link to economic development | 3
+• Outlines an example of research | 2
+• Provides some relevant information | 1
+
+*Sample answer:*
+Research into nuclear power generation can provide improved economic outcomes by developing cost effective measures to provide an energy source that can reduce overall costs in electricity production, reduced reliance on fossil fuels and provide employment. Energy production through fission is economic but ongoing research into nuclear power generation will provide more cost-effective means of energy production as well as other economic benefits such as nuclear medicine. Hence, further research into nuclear fission should continue.
+
+### Question 35 (a)
+
+**Criteria** | **Marks**
+--- | ---
+• Outlines a logical sequence of relevant steps to test the stated claim<br>• Demonstrates a sound understanding of validity AND/OR reliability AND/OR accuracy | 4
+• Provides a sequence of relevant steps to test the stated claim<br>• Demonstrates some understanding of validity AND/OR reliability AND/OR accuracy | 3
+• Provides some steps to test the stated claim<br>AND/OR<br>• Addresses validity AND/OR reliability AND/OR accuracy | 2
+• Provides a relevant step<br>OR<br>• Addresses validity or reliability or accuracy | 1
+
+*Sample answer:*
+
+**Claim**
+A product contains probiotics.
+
+**Procedure**
+• Select six sterilised petri dishes
+• Add the same amount of nutrient agar to each dish and cover with lid
+• Use a sterile swab to smear a small amount of product on four dishes, holding the lid open at 45°
+• Replace the lid and seal all six dishes. Label each one
+• Place dishes in incubator at 35°C for five days
+• Compare the four test dishes by counting the number of visible colonies, with the two untouched controls.
+
+### Question 35 (b)
+
+**Criteria** | **Marks**
+--- | ---
+• Demonstrates a sound understanding of the issues of sample size AND sample selection in an investigation<br>• Provides a judgement about the impact of sample size and selection on results of investigations | 4
+• Outlines an impact of sample size<br>• Outlines an impact of sample selection<br>• Provides a judgement | 3
+• Outlines an impact of sample size<br>OR<br>• Outlines an impact of sample selection | 2
+• Provides some relevant information | 1
+
+*Sample answer:*
+Using a large sample size allows more reliable data to be collected and manipulated, the identification of trends, and it also reduces the likelihood of outliers influencing the final result.
+
+Relevant sample selection can increase the accuracy of data. Removing selection bias can lead to the results being representative of what is being tested. However, a small sample size and poor sample selection can limit the reliability and accuracy of the results of an investigation.
+
+### Question 36
+
+**Criteria** | **Marks**
+--- | ---
+• Demonstrates an extensive understanding of how a development in technology led to an advancement in a scientific model, theory or law<br>• Demonstrates an extensive understanding of how the advancement in a scientific model, theory or law led to the development of a new technology | 7
+• Demonstrates a thorough understanding of how a development in technology led to an advancement in a scientific model, theory or law<br>• Demonstrates a thorough understanding of how the advancement in a scientific model, theory or law led to the development of a new technology | 5–6
+• Demonstrates a sound understanding of how a development in technology led to an advancement in a scientific model, theory or law<br>AND/OR<br>• Demonstrates a sound understanding of how the advancement in a scientific model, theory or law led to the development of a new technology | 3–4
+• Demonstrates a basic understanding of how a technology led to an advancement in a scientific model, theory or law<br>OR<br>• Demonstrates a basic understanding of how a scientific model, theory or law led to the development of a new technology<br>OR<br>• Identifies a technology that led to an advancement of a scientific model, theory or law<br>• Identifies a scientific model, theory or law that led to the development of a technology | 2
+• Provides some relevant information | 1
+
+*Sample answer:*
+Scientists were trying to determine the structure of DNA. X-ray crystallography is a technology used to measure the bond length between atoms and consequently can be used to determine the shape of molecules. In 1952 Rosalind Franklin took Photo 51, which showed the x-ray diffraction pattern of a DNA molecule. After seeing this image and using Franklin's measurements and observation of the symmetry, Watson and Crick were able to determine the structure of DNA and allowed the construction of a model. This model advanced the understanding of DNA, its structure, functions and processes. Consequently, this led to the development of new biotechnologies, such as recombinant DNA, which can be used to produce genetically modified organisms (GMO). An example of this is the production of GMO insulin where a human insulin gene is isolated and placed in the DNA of a bacteria for the purpose of producing insulin for diabetics, first commercially produced in 1978.
+
+## 2023 HSC Investigating Science Mapping Grid
+
+### Section I
+
+| Question | Marks | Content | Syllabus outcomes |
+|----------|-------|---------|-------------------|
+| 1 | 1 | Mod 5: Practical Investigations to Obtain Primary Data | 12-12 |
+| 2 | 1 | Mod 5: Different Types of Scientific Investigations | 12-2, 12-12 |
+| 3 | 1 | Mod 6: Scientific Investigation and Technology | 12-2, 12-13 |
+| 4 | 1 | Mod 5: Reliability and Validity | 12-2, 12-12 |
+| 5 | 1 | Mod 5: Practical Investigations to Obtain Primary Data | 12-2, 12-12 |
+| 6 | 1 | Mod 5: Different Types of Scientific Investigations | 12-2, 12-12 |
+| 7 | 1 | Mod 7: Testing Claims | 12-2, 12-4, 12-14 |
+| 8 | 1 | Mod 5: Reliability and Validity | 12-2, 12-12 |
+| 9 | 1 | Mod 7: Reading Between the Lines | 12-4, 12-5, 12-14 |
+| 10 | 1 | Mod 6: A Continuous Cycle | 12-13 |
+| 11 | 1 | Mod 6: Scientific Investigation and Technology | 12-4, 12-7, 12-13 |
+| 12 | 1 | Mod 8: Influence of Economic, Social and Political Forces on Scientific Research | 12-4, 12-5, 12-15 |
+| 13 | 1 | Mod 6: A Continuous Cycle | 12-13 |
+| 14 | 1 | Mod 7: Reading Between the Lines | 12-14 |
+| 15 | 1 | Mod 6: Scientific Investigation and Technology | 12-4, 12-7, 12-13 |
+| 16 | 1 | Mod 8: Influence of Economic, Social and Political Forces on Scientific Research | 12-5, 12-6, 12-15 |
+| 17 | 1 | Mod 7: Evidence-based Analysis | 12-5, 12-14 |
+| 18 | 1 | Mod 8: Influence of Economic, Social and Political Forces on Scientific Research | 12-4, 12-15 |
+| 19 | 1 | Mod 6: A Continuous Cycle | 12-5, 12-6, 12-13 |
+| 20 | 1 | Mod 7: Testing Claims<br>Mod 8: Influence of Economic, Social and Political Forces on Scientific Research | 12-5, 12-14, 12-15 |
+
+### Section II
+
+| Question | Marks | Content | Syllabus outcomes |
+|----------|-------|---------|-------------------|
+| 21 (a) | 1 | Mod 5: Student Investigation | 12-1, 12-12 |
+| 21 (b) | 1 | Mod 5: Reliability and Validity | 12-2, 12-12 |
+| 22 | 2 | Mod 8: Influence of Economic, Social and Political Forces on Scientific Research | 12-15 |
+| 23 | 3 | Mod 6: A Continuous Cycle | 12-13 |
+| 24 (a) | 2 | Mod 6: Scientific Investigation and Technology | 12-5, 12-13 |
+| 24 (b) | 2 | Mod 6: Scientific Investigation and Technology | 12-3, 12-13 |
+| 25 (a) | 2 | Mod 7: Reading Between the Lines | 12-14 |
+| 25 (b) | 3 | Mod 7: Reading Between the Lines | 12-5, 12-14 |
+| 26 (a) | 3 | Mod 8: Regulation of Scientific Research | 12-15 |
+| 26 (b) | 4 | Mod 8: Regulation of Scientific Research | 12-15 |
+| 27 | 3 | Mod 7: Science as Self-correcting – the Issues | 12-14 |
+| 28 | 4 | Mod 5: Different Types of Scientific Investigations | 12-5, 12-7, 12-12 |
+| 29 (a) | 3 | Mod 6: Scientific Investigation and Technology | 12-2, 12-3, 12-13 |
+| 29 (b) | 3 | Mod 6: Scientific Investigation and Technology | 12-5, 12-6, 12-13 |
+| 30 | 7 | Mod 5: Reporting | 12-2, 12-5, 12-6, 12-7, 12-12 |
+| 31 (a) | 4 | Mod 5: Reliability and Validity<br>Mod 6: Scientific Investigation and Technology | 12-4, 12-5, 12-12, 12-13 |
+| 31 (b) | 3 | Mod 5: Reliability and Validity<br>Mod 6: Scientific Investigation and Technology | 12-1, 12-5, 12-12, 12-13 |
+| 32 (a) | 2 | Mod 7: Testing Claims | 12-5, 12-14 |
+| 32 (b) | 3 | Mod 5: Reliability and Validity<br>Mod 7: Testing Claims | 12-5, 12-12, 12-14 |
+| 33 | 5 | Mod 8: Incidents, Events and Science | 12-5, 12-7, 12-15 |
+| 34 | 5 | Mod 8: Influence of Economic, Social and Political Forces on Scientific Research | 12-7, 12-15 |
+| 35 (a) | 4 | Mod 7: Testing Claims | 12-3, 12-14 |
+| 35 (b) | 4 | Mod 7: Testing Claims | 12-4, 12-5, 12-6, 12-14 |
+| 36 | 7 | Mod 6: A Continuous Cycle | 12-7, 12-13 |

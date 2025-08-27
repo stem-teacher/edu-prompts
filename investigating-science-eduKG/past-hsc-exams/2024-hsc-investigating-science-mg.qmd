@@ -1,0 +1,431 @@
+---
+title: '2024 HSC Investigating Science Marking Guidelines'
+subtitle: 'NSW Education Standards Authority'
+format:
+  html:
+    toc: true
+    toc-depth: 3
+  pdf:
+    toc: true
+    toc-depth: 3
+date: '2024'
+---
+
+![NSW Education Standards Authority logo - waratah flower symbol with NSW Government text](2024-images/nesa-nsw-government-logo.png)
+
+# 2024 HSC Investigating Science Marking Guidelines
+
+## Section I
+
+### Multiple-choice Answer Key
+
+| Question | Answer |
+|----------|--------|
+| 1 | A |
+| 2 | A |
+| 3 | D |
+| 4 | B |
+| 5 | B |
+| 6 | C |
+| 7 | C |
+| 8 | D |
+| 9 | B |
+| 10 | C |
+| 11 | D |
+| 12 | B |
+| 13 | A |
+| 14 | A |
+| 15 | D |
+| 16 | A |
+| 17 | B |
+| 18 | A |
+| 19 | C |
+| 20 | B |
+
+## Section II
+
+### Question 21
+
+**Criteria** | **Marks**
+---|---
+• Provides the name of the technology<br>• Provides features of the circumstances leading to the development of the technology | 3
+• Provides the name of the technology<br>• Provides a feature of the circumstances leading to the development of the technology | 2
+• Provides some relevant information | 1
+
+**Sample answer:**
+
+Spencer was investigating microwaves used in radar. He noticed that a chocolate bar in his pocket melted when subjected to the microwaves. This led to the development of the microwave oven.
+
+### Question 22
+
+**Criteria** | **Marks**
+---|---
+• Outlines an effect of childhood vaccination programs<br>• Provides reasons for the effect of vaccination programs<br>• Links effect to world health | 3
+• Provides a reason for the effect of vaccinations<br>• Links effect to world health | 2
+• Provides some relevant information | 1
+
+**Sample answer:**
+
+As children receive a series of vaccinations during their early childhood, they should contract fewer diseases throughout their lives, limiting the spread of disease in communities. In addition, herd immunity will also protect unvaccinated members of the community. This has led to an overall improvement in world health.
+
+### Question 23
+
+**Criteria** | **Marks**
+---|---
+• Links the features in both graphs to misrepresentation of data<br>• Refers to specific information in the graphs<br>• Refers to the public image of the company | 4
+• Links the features in graphs to misrepresentation of data<br>• Refers to the public image of the company | 3
+• Links feature(s) in graph(s) to misrepresentation of data<br>AND/OR<br>• Refers to the public image of the company | 2
+• Provides some relevant information | 1
+
+**Sample answer:**
+
+In Graph 1, the total percentage of cars adds up to over 100%. Starting the vertical axis at 48 has made the percentage of Brand A cars appear disproportionally larger than Brands B, C and D.
+
+In Graph 2, the data is not up to date. Actual values after 2021 have been suppressed and the projected values imply that the engine malfunction problem has been partially resolved. This may not be an accurate representation of the situation.
+
+These misrepresentations show the company in a more positive light than the data suggests. Data is presented in a way that it may result in an improvement of the public image of the company.
+
+### Question 24
+
+**Criteria** | **Marks**
+---|---
+• Provides a detailed reason why Aboriginal and/or Torres Strait Islander Peoples' knowledge is valued<br>• Outlines a specific use of an identified plant by Aboriginal and/or Torres Strait Islander Peoples | 3
+• Provides a reason why Aboriginal and/or Torres Strait Islander Peoples' knowledge is valued<br>• Outlines information relating to the use of a plant by Aboriginal and/or Torres Strait Islander Peoples | 2
+• Provides some relevant information | 1
+
+**Sample answer:**
+
+Aboriginal Peoples use the sap and bark from the Kakadu Plum to treat skin conditions. Scientific studies have determined that the plum is rich in antioxidants, which has led to its use in face creams to reduce signs of ageing. The scientific community values this knowledge as the efficacy of these products can be enhanced.
+
+### Question 25
+
+**Criteria** | **Marks**
+---|---
+• Provides a detailed outline of the use of ONE specific surgical device<br>• Outlines the impact of the use of this surgical device on human wellbeing<br>• Provides a judgement of the impact of the surgical device | 4
+• Provides an outline of the use of ONE specific surgical device<br>AND/OR<br>• Outlines the impact of ONE specific surgical device on human wellbeing<br>AND/OR<br>• Provides a judgement related to a surgical device | 2–3
+• Provides some relevant information | 1
+
+**Sample answer:**
+
+Diathermy scissors are used for cutting and coagulating tissue by means of an electric current. They reduce the need to frequently change dissecting and coagulating surgical instruments. This increases safety and reduces risk of infection during operations, as well as reduces the duration of operating times. Hence, the use of this device has had a positive impact on human wellbeing.
+
+### Question 26 (a)
+
+**Criteria** | **Marks**
+---|---
+• Provides the meaning of the word numerology | 1
+
+**Sample answer:**
+
+The study of numbers in the belief that they have significance in people's lives.
+
+### Question 26 (b)
+
+**Criteria** | **Marks**
+---|---
+• Demonstrates a thorough understanding of the concept of pseudoscience<br>• Links the features of pseudo-science to numerology | 3
+• Demonstrates a sound understanding of the concept of pseudo-science<br>• Links a feature of pseudo-science to numerology | 2
+• Provides some relevant information | 1
+
+**Sample answer:**
+
+Numerology is a pseudo-science, not supported by the scientific community because its claims cannot be validated using the scientific method. Scientific papers do not support numerology claims.
+
+### Question 27 (a)
+
+**Criteria** | **Marks**
+---|---
+• Provides an argument for whether the investigation could be conducted ethically with a valid reason relating to the experiment | 2
+• States an ethical consideration | 1
+
+**Sample answer:**
+
+The student could conduct the experiment if ethical guidelines for experimenting with animals are followed. For example, the lizards are not harmed during the investigation.
+
+### Question 27 (b)
+
+**Criteria** | **Marks**
+---|---
+• Provides the valid conclusion<br>• Refers to data provided | 2
+• Provides the valid conclusion | 1
+
+**Sample answer:**
+
+There is no significant difference between the number of flies caught by lizards, regardless of tongue length. The lizard with the longest tongue caught 47 flies and the lizard with the shortest tongue caught 45 flies.
+
+### Question 27 (c)
+
+**Criteria** | **Marks**
+---|---
+• Provides detailed information on three changes to the methodology<br>• Relates each change to the methodology to reliability and/or validity and/or accuracy of the investigation | 4
+• Provides information on change(s) to the methodology<br>• Relates change(s) to the methodology to reliability or validity or accuracy of the investigation | 2–3
+• Provides some relevant information | 1
+
+**Sample answer:**
+
+Change 1: The experiment should be repeated several times to determine consistency of results.
+
+Change 2: The tongue length of the lizards should be quantitatively measured to improve the accuracy of the data collected.
+
+Change 3: The length of time between feeding the lizards needs to be controlled. It is possible that some lizards are hungrier than others. This will improve the validity of the data collected.
+
+### Question 28 (a)
+
+**Criteria** | **Marks**
+---|---
+• Provides a comprehensive and logical sequence of steps that enable the relationship between pressure and volume to be determined<br>• Demonstrates a thorough understanding of reliability<br>• Demonstrates a thorough understanding of validity<br>• Addresses the processing and analysis of data in the procedure | 7
+• Provides a detailed and logical sequence of steps that enable the relationship between pressure and volume to be determined<br>• Demonstrates a sound understanding of reliability<br>• Demonstrates a sound understanding of validity | 5–6
+• Provides a sequence of steps that could be used in an experiment involving the pressure and volume of a gas sample<br>• Demonstrates an understanding of reliability AND/OR validity | 3–4
+• Provides limited steps that could be used in an experiment involving the pressure and volume of a gas sample<br>OR<br>• Addresses reliability OR validity of the experiment | 2
+• Provides some relevant information | 1
+
+**Sample answer:**
+
+1. The student obtains a syringe and fully extends the plunger.
+2. The syringe is attached to a gas pressure sensor, which is attached to a data logger.
+3. The syringe is kept at the same temperature (room temperature) during the investigation.
+4. The student records the volume of the gas in the syringe and the pressure displayed by the data logger.
+5. The student presses in the plunger. After waiting for the gas in the syringe to return to room temperature, the new volume and pressure are recorded.
+6. Step 5 is repeated for increasingly smaller volumes of gas in the syringe.
+7. The entire procedure is repeated several times to obtain consistent results.
+8. The data obtained is processed and analysed to determine the relationship between the pressure and volume of a gas sample.
+
+### Question 28 (b)
+
+**Criteria** | **Marks**
+---|---
+• Provides a relevant reason for a step in the procedure that relates to the validity of the experiment | 2
+• Demonstrates an understanding of managing validity | 1
+
+**Sample answer:**
+
+It is important that the temperature is kept at the same reading throughout the experiment, as the pressure of the gas is also dependent on the temperature. By keeping temperature constant, the only variable that should affect the pressure of the sample is the volume of gas in the syringe.
+
+### Question 28 (c)
+
+**Criteria** | **Marks**
+---|---
+• Provides a graph with appropriate axes that clearly demonstrates the relationship between the pressure and volume of the gas | 2
+• Provides a graph with appropriate axes that demonstrates an understanding of the relationship between the pressure and volume of the gas | 1
+
+**Sample answer:**
+
+![Graph showing inverse relationship between gas pressure and volume - vertical axis labeled "1/Pressure", horizontal axis labeled "Volume", with a straight line showing positive correlation from origin](2024-images/question-28c-pressure-volume-graph.png)
+
+### Question 29
+
+**Criteria** | **Marks**
+---|---
+• Provides a thorough description of events that led to the development of the smallpox vaccination<br>• Outlines the importance of these events<br>• Refers to eradication of smallpox<br>• Links the events to the outcomes | 4
+• Describes events that led to the development of the smallpox vaccination<br>• Links the events to the outcomes<br>• Refers to eradication of smallpox OR outlines the importance of these events | 3
+• Outlines an event that led to the development of the smallpox vaccination | 2
+• Provides some relevant information | 1
+
+**Sample answer:**
+
+Jenner suspected that exposure to cowpox gave milkmaids protection against smallpox. He tested this theory by inoculating a boy with material from a milkmaid's cowpox sore. Months later, the boy was exposed to smallpox on several occasions without contracting the disease, proving the inoculation was effective in protecting against small pox. These events led to the development of a vaccine and a worldwide vaccination program that resulted in the eradication of smallpox.
+
+### Question 30
+
+**Criteria** | **Marks**
+---|---
+• Provides well-informed, supported points for AND against the continuation of space exploration funding<br>• Provides detailed information on both students' points of view | 4
+• Provides points for AND against the continuation of space exploration funding<br>• Provides information on both points of view | 3
+• Provides point(s) for OR against the continuation of space exploration funding | 2
+• Provides some relevant information | 1
+
+**Sample answer:**
+
+Student A highlights the solutions to many current global issues that are provided by space exploration research, such as water purification techniques, improved weather predictions and GPS navigation tools. Student B's viewpoint has merit as this money could be spent on alleviating poverty. However, data shows that funding for space exploration is significantly less than funding for social welfare programs. While funding of space research is contentious, it is important for the continued development of science, as it provides significant improvement to society and contributes to wellbeing.
+
+### Question 31 (a)
+
+**Criteria** | **Marks**
+---|---
+• Provides a relevant hypothesis | 1
+
+**Sample answer:**
+
+The growth of a plant depends on the amount of water provided.
+
+### Question 31 (b)
+
+**Criteria** | **Marks**
+---|---
+• Constructs a table with columns and rows with appropriate headings<br>• Arranges ALL data in a clear and logical manner<br>• Calculates and displays change in mass | 3
+• Constructs an appropriate table with columns and rows<br>• Arranges data provided in a clear manner | 2
+• Constructs a table<br>• Enters some data | 1
+
+**Sample answer:**
+
+| SEEDLINGS | Group 1<br>(5 mL water) | | | Group 2<br>(10 mL water) | | |
+|-----------|---------|---------|---------|---------|---------|---------|
+| Initial mass (g) | 2.0 | 3.0 | 3.5 | 2.5 | 2.0 | 3.0 |
+| Mass after four weeks (g) | 3.5 | 4.0 | 4.5 | 5.0 | 4.5 | 5.5 |
+| Mass gain (g) | 1.5 | 1.0 | 1.0 | 2.5 | 2.5 | 2.5 |
+
+### Question 31 (c)
+
+**Criteria** | **Marks**
+---|---
+• Outlines the students' result<br>• Provides a similarity or difference to van Helmont's result | 2
+• Refers to the students' investigation OR to van Helmont's investigation | 1
+
+**Sample answer:**
+
+The students' results suggested that plant mass increase was related to the amount of water provided. Van Helmont's results indicated the soil mass did not change despite the plant growing.
+
+### Question 31 (d)
+
+**Criteria** | **Marks**
+---|---
+• Identifies differences between each method<br>• Provides a judgement about the validity of the investigation based on those differences | 3
+• Provides a difference between each method<br>• Provides a judgement about the validity of the investigation<br>OR<br>• Identifies differences between each method<br>OR<br>• Outlines features of a method<br>• Provides a judgement about the validity of the investigation | 2
+• Provides some relevant information | 1
+
+**Sample answer:**
+
+The student investigation was designed to replicate van Helmont's willow tree experiment. However, the students used seedlings instead of a tree and provided the seedlings with different amounts of water. They also did not weigh their soil before or after the experiment. This was not how van Helmont conducted his investigation, so the students' method was not a valid way to test van Helmont's conclusion.
+
+### Question 32 (a)
+
+**Criteria** | **Marks**
+---|---
+• Provides a correct graph<br>• Provides an appropriate line of best fit | 3
+• Provides a substantially correct graph | 2
+• Attempts to draw a graph using the data provided | 1
+
+**Sample answer:**
+
+![Graph showing linear relationship between speed and distance - grid with x-axis labeled "Speed (m s⁻¹)" from 0 to 1.2, y-axis labeled "Distance (m)" from 0 to 0.6, with data points marked as X and a straight line of best fit passing through origin](2024-images/question-32a-speed-distance-graph.png)
+
+### Question 32 (b)
+
+**Criteria** | **Marks**
+---|---
+• Calculates the gradient of the graph including units<br>• Links the gradient of the graph to the time taken for the ball to reach the floor | 3
+• Calculates the gradient of the graph<br>OR<br>• Outlines what the gradient represents | 2
+• Provides some relevant information | 1
+
+**Sample answer:**
+
+From graph, gradient of the LOBF passing through (1.0, 0.45)
+
+= rise/run = (0.45 – 0) m / (1.0 – 0) m s⁻¹ = 0.45 s
+
+The gradient represents the period of time that the ball stayed in the air for all trials.
+
+### Question 33 (a)
+
+**Criteria** | **Marks**
+---|---
+• Identifies an issue with the methodology<br>• Provides a feature of the issue | 2
+• Identifies an issue with the methodology | 1
+
+**Sample answer:**
+
+The study did not address control of other variables such as pre-existing conditions. Other medical issues may have impacted glycaemic control.
+
+### Question 33 (b)
+
+**Criteria** | **Marks**
+---|---
+• Demonstrates a thorough understanding of the concept of conflict of interest<br>• Links the conflict of interest to an outcome of the study<br>• Relates an implication of the conflict of interest to the study | 3
+• Demonstrates a sound understanding of the concept of conflict of interest<br>• Links the conflict of interest to the study OR relates an implication of the conflict of interest to the study | 2
+• Provides some relevant information | 1
+
+**Sample answer:**
+
+Many factors could affect glycaemic control. As the researchers are paid consultants for a company selling gut bacteria products, a conflict of interest occurs resulting in the suggestion that glycaemic control may be dependent on gut health. This could result in financial benefits to the company and researchers, that are not supported by the results of the study.
+
+### Question 34
+
+**Criteria** | **Marks**
+---|---
+• Provides an extensive description of government impact on university research project budgets<br>• Links the impact to a specific example | 5
+• Provides a thorough description of government impact on university research project budgets<br>• Links the impact to a specific example | 4
+• Provides a sound description of government impact on research project budgets<br>AND/OR<br>• Identifies a government impact on research project budgets<br>AND/OR<br>• Provides a relevant example | 2–3
+• Provides some relevant information | 1
+
+**Sample answer:**
+
+In Australia, university research budgets are dependent on obtaining government grants. Due to limited government funding, only research that is considered of value to national interest is financially supported. As grants are often short term, researchers must then reapply for continued funds. This means that research may be discontinued if the project is no longer considered a government priority.
+
+The Australian Research Council approves some government grants such as to the University of Tasmania to conduct research into ways to synthesise polymers sustainably. This was approved for funding as it aligns with government priorities. This shows how governments can influence the type, direction and duration of research projects.
+
+### Question 35
+
+**Criteria** | **Marks**
+---|---
+• Demonstrates an extensive understanding of the terms; placebo, double-blind trial and control groups in an investigation<br>• Proposes a detailed method to use each in an investigation testing copper bracelets<br>• Provides a detailed reason to support the use of placebos, double-blind trials and control groups in this investigation<br>• Uses correct and precise scientific terms | 7
+• Demonstrates a thorough understanding of the terms; placebos, double-blind trial and control groups in an investigation<br>• Proposes a method to use each in an investigation testing copper bracelets<br>• Provides a reason to support the use of placebos and/or double-blind trials and/or control groups in this investigation<br>• Uses correct scientific terms | 5–6
+• Demonstrates a sound understanding of the terms; placebo and/or double-blind trial and/or control groups in an investigation<br>• Proposes a method to use a placebo and/or double-blind trial and/or control group in an investigation testing copper bracelets<br>AND/OR<br>• Provides a reason to support the use of placebos and/or double-blind trials and/or control groups in this investigation | 3–4
+• Demonstrates a basic understanding of TWO of the terms; placebo or double-blind trials or control groups in an investigation<br>OR<br>• Proposes a method to use ONE of placebo, double blind-trial or control groups in an investigation testing copper bracelets | 2
+• Provides some relevant information | 1
+
+**Sample answer:**
+
+A placebo is any treatment that has no active properties. They are used in clinical trials involving patients and act as a control with the active component being the treatment. Placebos eliminate the effect that expectations can have on the results. In this case, the test group are provided with copper bracelets with the placebo group (control group) receiving bracelets that appear identical but are not made of copper. Both groups are a necessary part of clinical trials designed to test the efficacy of any new drug or treatment.
+
+A control group should mimic all the qualities of the test group except the specific treatment being tested. Both the control group and the test group should have a similar cross section of patients with arthritis but the test group would have the copper bracelets and the control group would have the placebos. A control group is necessary to confirm or reject the outcomes of the trial of the copper bracelets.
+
+In a double-blind trial neither the patients nor the researchers know who is assigned the placebo or the treatment until after the investigation is concluded. The copper bracelets and placebos are placed in coded, sealed packages randomly allocated to patients. The code allows identification of the control and test groups at the conclusion of the trial. The double-blind trial is a safeguard designed to prevent bias in trials of this nature.
+
+In order to have a robust investigation with relevant outcomes, the placebo and control group in a double-blind trial will yield the most valid results.
+
+## 2024 HSC Investigating Science Mapping Grid
+
+### Section I
+
+| Question | Marks | Content | Syllabus outcomes |
+|----------|-------|---------|-------------------|
+| 1 | 1 | Mod 8: Incidents, Events and Science | 12-15 |
+| 2 | 1 | Mod 5: Reliability and Validity | 12-3, 12-12 |
+| 3 | 1 | Mod 6: A Continuous Cycle | 12-4, 12-13 |
+| 4 | 1 | Mod 7: Reading Between the Lines | 12-5, 12-14 |
+| 5 | 1 | Mod 5: Reporting | 12-12 |
+| 6 | 1 | Mod 8: Influence of Economic, Social and Political Forces on Scientific Research | 12-5, 12-6, 12-15 |
+| 7 | 1 | Mod 8: Influence of Economic, Social and Political Forces on Scientific Research | 12-6, 12-15 |
+| 8 | 1 | Mod 6: Scientific Investigation and Technology | 12-3, 12-13 |
+| 9 | 1 | Mod 7: Science as Self-correcting – the Issues | 12-14 |
+| 10 | 1 | Mod 7: Evidence Based Analysis | 12-14 |
+| 11 | 1 | Mod 5: Reliability and Validity | 12-2, 12-12 |
+| 12 | 1 | Mod 5: Different Types of Scientific Investigations | 12-4, 12-5, 12-6, 12-12 |
+| 13 | 1 | Mod 6: Scientific Investigation and Technology | 12-4, 12-5, 12-13 |
+| 14 | 1 | Mod 6: A Continuous Cycle | 12-13 |
+| 15 | 1 | Mod 6: Scientific Investigation and Technology | 12-5, 12-6, 12-13 |
+| 16 | 1 | Mod 7: Testing Claims<br>Mod 5: Reliability and Validity | 12-6, 12-12, 12-14 |
+| 17 | 1 | Mod 8: Incidents, Events and Science | 12-4, 12-5, 12-15 |
+| 18 | 1 | Mod 7: Science as Self-correcting – the Issues | 12-14 |
+| 19 | 1 | Mod 8: Influence of Economic, Social and Political Forces on Scientific Research | 12-4, 12-5, 12-15 |
+| 20 | 1 | Mod 5: Different Types of Scientific Investigations | 12-5, 12-6, 12-12 |
+
+### Section II
+
+| Question | Marks | Content | Syllabus outcomes |
+|----------|-------|---------|-------------------|
+| 21 | 3 | Mod 5: Practical Investigations to Obtain Primary Data | 12-12 |
+| 22 | 3 | Mod 8: Influence of Economic, Social and Political Forces on Scientific Research | 12-15 |
+| 23 | 4 | Mod 7: Impacts on Investigations | 12-5, 12-6, 12-14 |
+| 24 | 3 | Mod 6: A Continuous Cycle | 12-13 |
+| 25 | 4 | Mod 8: Influence of Economic, Social and Political Forces on Scientific Research | 12-5, 12-7, 12-15 |
+| 26 (a) | 1 | Mod 7: Reading Between the Lines | 12-7, 12-14 |
+| 26 (b) | 3 | Mod 7: Reading Between the Lines | 12-5, 12-7, 12-14 |
+| 27 (a) | 2 | Mod 5: Reliability and Validity | 12-2, 12-12 |
+| 27 (b) | 2 | Mod 5: Reliability and Validity | 12-5, 12-7, 12-12 |
+| 27 (c) | 4 | Mod 5: Reliability and Validity | 12-2, 12-4, 12-5, 12-12 |
+| 28 (a) | 7 | Mod 5: Reliability and Validity<br>Mod 6: Scientific Investigation and Technology | 12-2, 12-3, 12-7, 12-12, 12-13 |
+| 28 (b) | 2 | Mod 5: Reliability and Validity<br>Mod 6: Scientific Investigation and Technology | 12-2, 12-12, 12-13 |
+| 28 (c) | 2 | Mod 6: Scientific Investigation and Technology | 12-4, 12-5, 12-13 |
+| 29 | 4 | Mod 8: Incidents, Events and Science | 12-5, 12-7, 12-15 |
+| 30 | 4 | Mod 8: Influence of Economic, Social and Political Forces on Scientific Research | 12-7, 12-15 |
+| 31 (a) | 1 | Mod 5: Practical Investigations to Obtain Primary Data | 12-1, 12-12 |
+| 31 (b) | 3 | Mod 5: Practical Investigations to Obtain Primary Data | 12-4, 12-12 |
+| 31 (c) | 2 | Mod 5: Practical Investigations to Obtain Primary Data | 12-5, 12-12 |
+| 31 (d) | 3 | Mod 5: Practical Investigations to Obtain Primary Data<br>Mod 5: Reliability and Validity | 12-2, 12-6, 12-12 |
+| 32 (a) | 3 | Mod 6: Scientific Investigation and Technology | 12-4, 12-5, 12-13 |
+| 32 (b) | 3 | Mod 6: Scientific Investigation and Technology | 12-4, 12-5, 12-6, 12-13 |
+| 33 (a) | 2 | Mod 5: Reliability and Validity | 12-5, 12-12 |
+| 33 (b) | 3 | Mod 7: Reading Between the Lines | 12-5, 12-14 |
+| 34 | 5 | Mod 8: Influence of Economic, Social and Political Forces on Scientific Research | 12-7, 12-15 |
+| 35 | 7 | Mod 7: Impacts on Investigations | 12-2, 12-7, 12-14 |
