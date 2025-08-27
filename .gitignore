@@ -1,0 +1,6 @@
+*.log
+*.out
+*.aux
+EDST8610/physics/lessons/lesson-1/build
+EDST8610/physics/lessons/lesson-2/build
+EDST8610/physics/lessons/lesson-3/build
