@@ -1,0 +1,187 @@
+---
+title: "HSC Investigating Science - Complete Study Notes"
+subtitle: "A Data-Driven Guide to the Full Syllabus"
+author: "Gemini Educational Planner"
+date: "today"
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    theme: cosmo
+  pdf:
+    toc: true
+    toc-depth: 3
+---
+
+# Introduction: How to Use These Notes
+
+These notes are structured to be the most efficient way to prepare for your HSC exam. They are prioritised based on a data analysis of six years of past papers. The most heavily examined modules are presented first.
+
+1.  **Master the High-Priority Modules:** Focus your initial energy on Modules 5, 8, 7, and 6. This is where the majority of marks are.
+2.  **Learn the Definitions:** The glossary at the end is your toolkit. Memorise these definitions. They are written to be perfect for both multiple-choice and short-answer questions.
+3.  **Practice with Purpose:** Use these notes alongside the MCQ Drills and past papers. When you get a question wrong, find the relevant section in these notes and review it.
+
+---
+
+# Year 12 High-Priority Content
+
+## Module 5: Scientific Investigations
+
+**Why it's the #1 Priority:** This is the most important module in the course, worth the most marks in the HSC. The skills here apply to almost every question in Section II.
+
+### Key Concepts
+
+#### Validity, Reliability, and Accuracy
+
+These three concepts are the foundation of all scientific measurement and are guaranteed to be in your exam.
+
+*   **Validity:** A test is valid if it measures what it claims to be measuring. It's about the *method*.
+    *   **How to Ensure Validity:** The key is to control all variables except for your independent and dependent variables. You must have a 'fair test'.
+    *   **Key Phrasing for Answers:** "The validity of this experiment was ensured by controlling variables such as [mention a specific variable, e.g., temperature, volume], while only changing the independent variable [state it] and measuring the dependent variable [state it]."
+
+*   **Reliability:** An experiment is reliable if the results are consistent and repeatable. It's about the *results*.
+    *   **How to Ensure Reliability:** Repeat the experiment multiple times. If you get similar results each time, your experiment is reliable. Outliers (results that are very different from the others) should be identified and can sometimes be removed.
+    *   **Key Phrasing for Answers:** "Reliability was increased by repeating the experiment three times and calculating an average. The results were consistent across all trials, indicating high reliability."
+
+*   **Accuracy:** A measurement is accurate if it is close to the true or accepted value. It's about the *equipment*.
+    *   **How to Improve Accuracy:** Use the most precise equipment available (e.g., a digital thermometer is often more accurate than an analogue one). Ensure your equipment is calibrated correctly (e.g., a scale is 'tared' or set to zero before use).
+    *   **Key Phrasing for Answers:** "The accuracy of the measurements could be improved by using a calibrated digital scale, which reduces the chance of systematic error."
+
+#### Errors in Measurement
+
+*   **Systematic Error:** An error that is consistent and affects the accuracy of all measurements in the same way (e.g., a scale that is not zeroed and adds 0.1g to every measurement).
+*   **Random Error:** Unpredictable variations in measurements that occur by chance (e.g., parallax error when reading a measuring cylinder). Repeating the experiment and averaging the results helps to minimise the effect of random error.
+
+#### Experimental Design
+
+*   **Hypothesis:** A testable prediction about the relationship between variables.
+*   **Independent Variable (IV):** The variable you deliberately **change**.
+*   **Dependent Variable (DV):** The variable you **measure** to see the effect of changing the IV.
+*   **Controlled Variables:** All other variables you must **keep the same** to ensure a valid test.
+*   **Control Group:** A group that is not exposed to the IV, used as a baseline for comparison.
+
+---
+
+## Module 8: Science and Society
+
+**Why it's a priority:** This module connects science to the real world, focusing on ethics and influences. It is the second most heavily assessed module.
+
+### Key Concepts
+
+#### Ethics in Science
+
+*   **Informed Consent:** Participants in any human trial must be fully informed of the potential risks and benefits before they agree to take part. They must not be coerced or pressured.
+*   **Minimising Harm:** Research must be designed to minimise physical and psychological harm to participants, including animals.
+*   **Ethics Committees:** These groups review research proposals to ensure they meet ethical standards before the research can begin.
+*   **The Nuremberg Code:** A key historical set of ethical principles for human experimentation, established after WWII. It emphasizes voluntary consent and the avoidance of unnecessary suffering.
+
+#### Influences on Scientific Research
+
+Science does not happen in a vacuum. It is influenced by society.
+
+*   **Economic Influences:**
+    *   **Funding:** Research is expensive. Governments and corporations provide funding, and their priorities can determine what gets studied.
+    *   **Conflict of Interest:** A major issue. If a company that sells a product also funds the research into that product's safety or effectiveness, there is a risk that the results may be biased.
+    *   **Key Phrasing for Answers:** "A conflict of interest arises when a researcher's impartiality could be affected by a competing interest, such as receiving funding from a company with a financial stake in the outcome."
+
+*   **Social and Political Influences:**
+    *   **Public Opinion:** A societal need or concern (e.g., a pandemic, climate change) can drive huge investment and focus in specific areas of research.
+    *   **Government Policy:** Governments set national priorities and can direct funding towards specific goals (e.g., renewable energy, medical research).
+
+---
+
+## Module 7: Fact or Fallacy?
+
+**Why it's a priority:** This module is about critical thinking and evaluating information, skills essential for high-scoring extended responses.
+
+### Key Concepts
+
+#### Evaluating Claims
+
+*   **Correlation vs. Causation:** The single most important concept in this module.
+    *   **Correlation:** Two variables trend in the same direction (e.g., ice cream sales and drownings both increase in summer).
+    *   **Causation:** A change in one variable *causes* a change in another.
+    *   **Key Phrasing for Answers:** "While the data shows a strong correlation between X and Y, it does not prove causation. A third factor, such as Z, may be the actual cause of the increase in both variables."
+
+*   **Pseudoscience:** Claims presented as scientific but lacking evidence and failing to use the scientific method.
+    *   **Hallmarks:** Vague, untestable claims; reliance on anecdotes or testimonials instead of data; confirmation bias (ignoring evidence that contradicts the claim).
+
+#### The Scientific Community
+
+*   **Peer Review:** The process where scientific articles are scrutinised by other experts in the field before publication. Its purpose is to ensure the research is valid, original, and significant. It acts as a quality control filter.
+*   **Science as Self-Correcting:** The scientific process is designed to be a cycle of testing, review, and refinement. Over time, new evidence can lead to old theories being modified or replaced. This is a strength, not a weakness.
+
+---
+
+## Module 6: Technologies
+
+**Why it's a priority:** This module links scientific knowledge to practical applications and inventions.
+
+### Key Concepts
+
+*   **The Relationship Between Science and Technology:** This is a two-way street.
+    1.  **Science enables Technology:** Scientific discoveries provide the fundamental understanding needed to create new technologies (e.g., understanding the laws of electromagnetism allowed for the invention of the electric motor).
+    2.  **Technology enables Science:** New technologies provide better tools for scientists to make new discoveries (e.g., the development of the telescope allowed for new discoveries in astronomy).
+
+*   **Application and Impact:** You should be able to provide an example of a technology and explain how it arose from a scientific discovery and what its impact on society has been (e.g., vaccines, GPS, medical imaging).
+
+---
+
+# Year 11 Foundational Content
+
+## Module 1 & 2: Cause and Effect
+
+*   **Observation vs. Inference:** An observation is what you directly sense or measure. An inference is a conclusion you draw based on your observations.
+*   **Qualitative vs. Quantitative Data:** Qualitative data is descriptive (e.g., 'the solution turned blue'). Quantitative data is numerical (e.g., 'the temperature increased by 5°C').
+
+## Module 3: Scientific Models
+
+*   **Purpose of Models:** Scientists use models to simplify complex systems, help visualise abstract concepts, and make predictions.
+*   **Types of Models:**
+    *   **Physical:** A tangible, scaled representation (e.g., a model of the solar system).
+    *   **Mathematical:** Uses equations to describe a system (e.g., E=mc²).
+    *   **Conceptual:** A diagram or flowchart that shows relationships between ideas (e.g., the carbon cycle).
+
+## Module 4: Theories and Laws
+
+*   **The Scientific Method:** A systematic process of observation, measurement, experiment, and the formulation, testing, and modification of hypotheses.
+*   **Hierarchy of Scientific Knowledge:**
+    1.  **Hypothesis:** A testable prediction.
+    2.  **Theory:** A well-tested explanation for *why* something happens.
+    3.  **Law:** A description of *what* happens under certain conditions, often a mathematical formula. A theory does not "graduate" into a law; they are different kinds of knowledge.
+
+---
+
+# Complete Glossary of Key Terms
+
+| Term | Definition |
+|---|---|
+| **Accuracy** | How close a measured value is to the true or accepted value. |
+| **Bias** | A systematic error or prejudice that can influence the results of an investigation. |
+| **Causation** | The relationship where a change in one variable is directly responsible for a change in another. |
+| **Conflict of Interest** | A situation where competing interests (e.g., financial) could compromise a researcher's impartiality. |
+| **Control Group** | A group in an experiment that is not exposed to the independent variable, used as a baseline for comparison. |
+| **Controlled Variable** | A variable that is kept constant throughout an experiment to ensure a fair test. |
+| **Correlation** | A mutual relationship or connection between two or more things. |
+| **Dependent Variable** | The variable that is measured or observed in response to the change in the independent variable. |
+| **Double-Blind Trial** | An experiment where neither the participants nor the researchers know who is receiving the treatment. |
+| **Ethics** | Moral principles that govern the conduct of scientific research. |
+| **Hypothesis** | A testable prediction about the relationship between variables. |
+| **Independent Variable** | The variable that is deliberately changed or manipulated by the investigator. |
+| **Inference** | A logical conclusion based on observations and prior knowledge. |
+| **Law (Scientific)** | A statement that describes an observed phenomenon, often as a mathematical relationship. |
+| **Model (Scientific)** | A simplified representation of a system or phenomenon. |
+| **Observation** | Information gathered using the senses or scientific instruments. |
+| **Outlier** | A data point that is significantly different from other observations. |
+| **Peer Review** | The evaluation of scientific work by other experts in the field before publication. |
+| **Placebo** | A substance or treatment with no active effect, used as a control in clinical trials. |
+| **Precision** | How close multiple measurements of the same quantity are to each other. |
+| **Pseudoscience** | A claim or belief presented as scientific but not based on the scientific method. |
+| **Qualitative Data** | Descriptive data (e.g., colour, texture). |
+| **Quantitative Data** | Numerical data (e.g., length, mass, time). |
+| **Random Error** | Unpredictable variations in measurements that occur by chance. |
+| **Reliability** | The extent to which the results of an experiment are consistent and repeatable. |
+| **Systematic Error** | An error that is consistent and repeatable, often due to faulty equipment or method. |
+| **Technology** | The application of scientific knowledge for practical purposes. |
+| **Theory (Scientific)** | A well-substantiated explanation of some aspect of the natural world. |
+| **Validity** | The extent to which an experiment tests the intended hypothesis (i.e., it is a 'fair test'). |

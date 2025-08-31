@@ -1,0 +1,36 @@
+-- SurrealQL import statements for KG patch
+-- Generated on 27 August 2025
+--
+-- NOTE: This is a dry-run script. Review before executing on a live database.
+
+BEGIN TRANSACTION;
+
+-- Entities
+CREATE entity CONTENT {"id":"question:2019:secI:q1","kind":"Question","labels":["2019 Section I Q1"],"props":{"year":2019,"section":"I","number":1,"marks":1},"source":{"file":"investigating-science-eduKG/past-hsc-exams/2019-hsc-investigating-science-mg.qmd"}};
+CREATE entity CONTENT {"id":"question:2020:secI:q1","kind":"Question","labels":["2020 Section I Q1"],"props":{"year":2020,"section":"I","number":1,"marks":1},"source":{"file":"investigating-science-eduKG/past-hsc-exams/2020-hsc-investigating-science-mg.qmd"}};
+CREATE entity CONTENT {"id":"question:2021:secI:q1","kind":"Question","labels":["2021 Section I Q1"],"props":{"year":2021,"section":"I","number":1,"marks":1},"source":{"file":"investigating-science-eduKG/past-hsc-exams/2021-hsc-investigating-science-mg.qmd"}};
+CREATE entity CONTENT {"id":"question:2022:secI:q1","kind":"Question","labels":["2022 Section I Q1"],"props":{"year":2022,"section":"I","number":1,"marks":1},"source":{"file":"investigating-science-eduKG/2022-hsc-investigating-sci-mg.pdf"}};
+CREATE entity CONTENT {"id":"question:2023:secI:q1","kind":"Question","labels":["2023 Section I Q1"],"props":{"year":2023,"section":"I","number":1,"marks":1},"source":{"file":"investigating-science-eduKG/past-hsc-exams/2023-hsc-investigating-science-mg.qmd"}};
+CREATE entity CONTENT {"id":"question:2024:secI:q1","kind":"Question","labels":["2024 Section I Q1"],"props":{"year":2024,"section":"I","number":1,"marks":1},"source":{"file":"investigating-science-eduKG/past-hsc-exams/2024-hsc-investigating-science-mg.qmd"}};
+
+-- Relations
+CREATE relation CONTENT {"from":"exam:2019","predicate":"HAS_QUESTION","to":"question:2019:secI:q1","confidence":1,"source":{"file":"investigating-science-eduKG/past-hsc-exams/2019-hsc-investigating-science-mg.qmd"}};
+CREATE relation CONTENT {"from":"question:2019:secI:q1","predicate":"ASSESSES_MODULE","to":"module:M7","confidence":1,"evidence":"Mod 7 Evidence-based analysis","source":{"file":"investigating-science-eduKG/past-hsc-exams/2019-hsc-investigating-science-mg.qmd"}};
+CREATE relation CONTENT {"from":"question:2019:secI:q1","predicate":"ASSESSES_OUTCOME","to":"outcome:INS12-14","confidence":1,"evidence":"Syllabus outcomes: INS12-14","source":{"file":"investigating-science-eduKG/past-hsc-exams/2019-hsc-investigating-science-mg.qmd"}};
+CREATE relation CONTENT {"from":"exam:2020","predicate":"HAS_QUESTION","to":"question:2020:secI:q1","confidence":1,"source":{"file":"investigating-science-eduKG/past-hsc-exams/2020-hsc-investigating-science-mg.qmd"}};
+CREATE relation CONTENT {"from":"question:2020:secI:q1","predicate":"ASSESSES_MODULE","to":"module:M5","confidence":1,"evidence":"Mod 5 Practical Investigations to Obtain Primary Data","source":{"file":"investigating-science-eduKG/past-hsc-exams/2020-hsc-investigating-science-mg.qmd"}};
+CREATE relation CONTENT {"from":"question:2020:secI:q1","predicate":"ASSESSES_OUTCOME","to":"outcome:INS12-12","confidence":1,"evidence":"Syllabus outcomes: 12-12","source":{"file":"investigating-science-eduKG/past-hsc-exams/2020-hsc-investigating-science-mg.qmd"}};
+CREATE relation CONTENT {"from":"exam:2021","predicate":"HAS_QUESTION","to":"question:2021:secI:q1","confidence":1,"source":{"file":"investigating-science-eduKG/past-hsc-exams/2021-hsc-investigating-science-mg.qmd"}};
+CREATE relation CONTENT {"from":"question:2021:secI:q1","predicate":"ASSESSES_MODULE","to":"module:M6","confidence":1,"evidence":"Mod 6: Scientific Investigation and Technology","source":{"file":"investigating-science-eduKG/past-hsc-exams/2021-hsc-investigating-science-mg.qmd"}};
+CREATE relation CONTENT {"from":"question:2021:secI:q1","predicate":"ASSESSES_OUTCOME","to":"outcome:INS12-13","confidence":1,"evidence":"Syllabus outcomes: 12-13","source":{"file":"investigating-science-eduKG/past-hsc-exams/2021-hsc-investigating-science-mg.qmd"}};
+CREATE relation CONTENT {"from":"exam:2022","predicate":"HAS_QUESTION","to":"question:2022:secI:q1","confidence":1,"source":{"file":"investigating-science-eduKG/2022-hsc-investigating-sci-mg.pdf"}};
+CREATE relation CONTENT {"from":"question:2022:secI:q1","predicate":"ASSESSES_MODULE","to":"module:M5","confidence":1,"evidence":"Mod 5: Practical Investigations to Obtain Primary Data","source":{"file":"investigating-science-eduKG/2022-hsc-investigating-sci-mg.pdf"}};
+CREATE relation CONTENT {"from":"question:2022:secI:q1","predicate":"ASSESSES_OUTCOME","to":"outcome:INS12-12","confidence":1,"evidence":"Syllabus outcomes: 12-12","source":{"file":"investigating-science-eduKG/2022-hsc-investigating-sci-mg.pdf"}};
+CREATE relation CONTENT {"from":"exam:2023","predicate":"HAS_QUESTION","to":"question:2023:secI:q1","confidence":1,"source":{"file":"investigating-science-eduKG/past-hsc-exams/2023-hsc-investigating-science-mg.qmd"}};
+CREATE relation CONTENT {"from":"question:2023:secI:q1","predicate":"ASSESSES_MODULE","to":"module:M5","confidence":1,"evidence":"Mod 5: Practical Investigations to Obtain Primary Data","source":{"file":"investigating-science-eduKG/past-hsc-exams/2023-hsc-investigating-science-mg.qmd"}};
+CREATE relation CONTENT {"from":"question:2023:secI:q1","predicate":"ASSESSES_OUTCOME","to":"outcome:INS12-12","confidence":1,"evidence":"Syllabus outcomes: 12-12","source":{"file":"investigating-science-eduKG/past-hsc-exams/2023-hsc-investigating-science-mg.qmd"}};
+CREATE relation CONTENT {"from":"exam:2024","predicate":"HAS_QUESTION","to":"question:2024:secI:q1","confidence":1,"source":{"file":"investigating-science-eduKG/past-hsc-exams/2024-hsc-investigating-science-mg.qmd"}};
+CREATE relation CONTENT {"from":"question:2024:secI:q1","predicate":"ASSESSES_MODULE","to":"module:M8","confidence":1,"evidence":"Mod 8: Incidents, Events and Science","source":{"file":"investigating-science-eduKG/past-hsc-exams/2024-hsc-investigating-science-mg.qmd"}};
+CREATE relation CONTENT {"from":"question:2024:secI:q1","predicate":"ASSESSES_OUTCOME","to":"outcome:INS12-15","confidence":1,"evidence":"Syllabus outcomes: 12-15","source":{"file":"investigating-science-eduKG/past-hsc-exams/2024-hsc-investigating-science-mg.qmd"}};
+
+COMMIT TRANSACTION;

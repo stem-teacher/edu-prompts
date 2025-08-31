@@ -1,0 +1,178 @@
+---
+title: "HSC Investigating Science - Mark Maximiser Drill 3"
+subtitle: "Technology & Application"
+format: pdf
+date: "today"
+---
+
+**Time Limit: 20 Minutes**
+
+**Instructions:** Circle the correct answer for each question. Aim to complete the drill in under 20 minutes.
+
+1.  **(2024 Q3)** The development of the scanning tunnelling microscope was a significant technological advancement because it allowed scientists to:
+
+    (A) See distant galaxies for the first time.
+
+    (B) Image individual atoms for the first time.
+
+    (C) Sequence the human genome for the first time.
+
+    (D) Observe living cells in real-time.
+
+2.  **(2023 Q3)** Which technology is most directly associated with the discovery of the structure of DNA?
+
+    (A) Electron microscopy
+
+    (B) X-ray crystallography
+
+    (C) Polymerase Chain Reaction (PCR)
+
+    (D) Gel electrophoresis
+
+3.  **(2022 Q6)** The discovery of penicillin by Alexander Fleming is often cited as an example of serendipity in science. What does this mean?
+
+    (A) The discovery was the result of a carefully planned experiment.
+
+    (B) The discovery was made by accident or chance.
+
+    (C) The discovery was funded by a large corporation.
+
+    (D) The discovery was immediately accepted by the scientific community.
+
+4.  **(2021 Q1)** The Hubble Space Telescope has provided images that have led to new understandings of the age and expansion of the universe. This demonstrates how technology can:
+
+    (A) Limit the scope of scientific inquiry.
+
+    (B) Create new ethical problems for society.
+
+    (C) Drive advancements in scientific knowledge.
+
+    (D) Be influenced by political agendas.
+
+5.  **(2020 Q13)** The use of GPS for navigation is a direct application of which scientific theory?
+
+    (A) The Big Bang Theory
+
+    (B) The Theory of Evolution
+
+    (C) The Theory of Plate Tectonics
+
+    (D) The Theory of Relativity
+
+6.  **(2019 Q6)** A scientist uses a computer model to simulate the effects of climate change. What is a key advantage of using a model in this situation?
+
+    (A) It provides a perfect and error-free prediction of the future.
+
+    (B) It allows scientists to test scenarios that would be impossible or unethical to conduct in the real world.
+
+    (C) It is cheaper and faster than collecting any real-world data.
+
+    (D) It guarantees that the scientist's hypothesis will be supported.
+
+7.  **(2024 Q8)** The pasteurisation process, developed by Louis Pasteur, involves heating liquids to kill bacteria. This technology had a major impact on:
+
+    (A) The development of antibiotics.
+
+    (B) Food safety and public health.
+
+    (C) The understanding of atomic structure.
+
+    (D) The exploration of space.
+
+8.  **(2023 Q10)** What is a primary function of the Large Hadron Collider (LHC)?
+
+    (A) To search for new planets and exoplanets.
+
+    (B) To study the fundamental particles and forces of nature.
+
+    (C) To develop new sources of renewable energy.
+
+    (D) To monitor changes in Earth's climate.
+
+9.  **(2022 Q12)** The development of CRISPR gene-editing technology has raised significant ethical concerns. These concerns primarily relate to:
+
+    (A) The cost of the technology.
+
+    (B) The potential for misuse in humans.
+
+    (C) The reliability of the results.
+
+    (D) The intellectual property rights.
+
+10. **(2021 Q7)** Which of the following is an example of a technology that has been developed based on an understanding of the Doppler effect?
+
+    (A) Microwave ovens
+
+    (B) Radar guns used by police
+
+    (C) X-ray machines in hospitals
+
+    (D) Solar panels on rooftops
+
+11. **(2020 Q15)** The development of sterile surgical techniques by Joseph Lister was based on his understanding of:
+
+    (A) The Theory of Relativity
+
+    (B) The Laws of Motion
+
+    (C) Germ Theory of Disease
+
+    (D) The Theory of Plate Tectonics
+
+12. **(2019 Q20)** The use of endoscopes in medicine allows for minimally invasive surgery. This has had a significant positive impact by:
+
+    (A) Eliminating the need for all other types of surgery.
+
+    (B) Reducing patient recovery times and risk of infection.
+
+    (C) Making surgical procedures much cheaper.
+
+    (D) Allowing surgeons to work from remote locations.
+
+13. **(2024 Q13)** The Human Genome Project was a massive international scientific research project. What was its primary goal?
+
+    (A) To find a cure for all genetic diseases.
+
+    (B) To determine the sequence of nucleotide base pairs that make up human DNA.
+
+    (C) To create the first genetically modified human.
+
+    (D) To prove that all humans have identical DNA.
+
+14. **(2023 Q15)** The use of satellites for global communication is an application of scientific principles first described by:
+
+    (A) Marie Curie
+
+    (B) Isaac Newton
+
+    (C) Charles Darwin
+
+    (D) Albert Einstein
+
+15. **(2022 Q18)** The invention of the printing press had a profound impact on the advancement of science primarily because it:
+
+    (A) Allowed scientists to perform experiments more quickly.
+
+    (B) Enabled the widespread and rapid dissemination of scientific knowledge.
+
+    (C) Provided a new source of funding for scientific research.
+
+    (D) Led to the development of the first universities.
+
+---
+### Answer Key: Drill 3
+1. B
+2. B
+3. B
+4. C
+5. D
+6. B
+7. B
+8. B
+9. B
+10. B
+11. C
+12. B
+13. B
+14. B
+15. B

@@ -1,0 +1,172 @@
+---
+title: "HSC Investigating Science - The Definitive Exam-Mapped Notes"
+subtitle: "A Comprehensive Guide Directly Linked to Past HSC Questions"
+author: "Gemini Educational Planner (Validated)"
+date: "today"
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    theme: cosmo
+  pdf:
+    toc: true
+    toc-depth: 3
+---
+
+# Introduction: How to Use These Notes
+
+This guide is your definitive resource for the HSC Investigating Science exam. It has been built by analysing six years of past papers and ensuring that every major concept is explained with specific examples drawn directly from questions you could have faced in the HSC.
+
+**How to Study with This Guide:**
+1.  **Focus on Year 12 First:** The guide is structured with the most important Year 12 modules at the beginning. Master these sections.
+2.  **Connect Concepts to Questions:** As you read a concept (e.g., "Validity"), pay close attention to the "HSC Example" provided. This shows you exactly how NESA assesses that concept.
+3.  **Use the Glossary as Your Toolkit:** The definitions at the end are your key to unlocking marks in both multiple-choice and written answers. Memorise them.
+
+---
+
+# Year 12 High-Priority Content
+
+## Module 5: Scientific Investigations
+
+**Inquiry question:** *How are rigorous scientific investigations designed and conducted?*
+
+### 1. Key Principles of Investigation Design
+
+#### Validity, Reliability, and Accuracy
+
+These are the three pillars of a scientific investigation. You must know them in detail.
+
+*   **Validity:** An experiment is **valid** if its method is appropriate and directly tests the intended hypothesis. It is the most critical pillar.
+    *   **Core Components:**
+        1.  **Controls:** All variables that could reasonably affect the outcome are identified and kept constant.
+        2.  **Single Independent Variable:** Only ONE factor is deliberately changed at a time.
+        3.  **Appropriate Measurement:** The dependent variable being measured is a genuine indicator of what is being tested.
+    *   **HSC Example (2021 Q22b - GMO Mice):** An experiment tested if genetically modified mice on a high-fat diet gained more weight. To be valid, it required FOUR groups:
+        *   Group 1 (Control): Normal mice, normal diet.
+        *   Group 2 (Diet Test): Normal mice, high-fat diet. (Tests the effect of diet alone).
+        *   Group 3 (Gene Test): GMO mice, normal diet. (Tests the effect of the gene alone).
+        *   Group 4 (Hypothesis Test): GMO mice, high-fat diet.
+        *   *Without all four groups, you cannot validly conclude that the combination of the gene and the diet caused the weight gain.*
+
+*   **Reliability:** An experiment is **reliable** if the results are consistent and repeatable.
+    *   **Core Components:**
+        1.  **Repetition:** The experiment is repeated multiple times (at least 3) to ensure the results are not a fluke.
+        2.  **Consistency:** The results from the repeated trials are very similar to each other.
+        3.  **Sample Size:** Using a larger sample size (e.g., testing 50 people instead of 5) increases the reliability of the conclusions.
+    *   **HSC Example (2020 Q25a - Self-Injection):** A researcher injected herself with a bacterium to see if it caused a disease. This experiment is **unreliable** because the sample size is only one. There is no way to know if the result is consistent or a one-off personal reaction.
+
+*   **Accuracy:** A measurement is **accurate** if it is close to the true, accepted value.
+    *   **Core Components:**
+        1.  **Equipment Choice:** Using instruments with higher precision (e.g., a digital scale vs. a spring balance).
+        2.  **Calibration:** Ensuring the instrument is properly zeroed or calibrated against a known standard.
+        3.  **Minimising Error:** Using correct techniques to avoid systematic or random errors.
+    *   **HSC Example (2023 Q24 - Boiling Water):** A student measures boiling water. An analogue thermometer reads 103.5°C, while a digital probe reads 100.1°C. The digital probe is more **accurate** because its reading is much closer to the true value of 100°C. The analogue thermometer has a **systematic error**.
+
+### 2. Data Analysis and Communication
+
+*   **Presenting Data:** You must be able to construct and interpret tables and graphs. For graphs, always include: Title, X and Y axes with labels and units, correct plotting of points, and a line of best fit where appropriate.
+*   **Scientific Reports:** A formal report follows a clear structure (Aim, Hypothesis, Method, Results, Discussion, Conclusion). The language must be objective, in the third person, and use precise scientific terminology.
+    *   **HSC Example (2023 Q30 - Student Report):** A student's report was criticised for using informal headings like "My prediction is" instead of "Hypothesis" and for describing results with colloquial language ("spurt height") instead of quantitative data in a table. This demonstrates the importance of formal structure and language.
+
+---
+
+## Module 8: Science and Society
+
+**Inquiry question:** *What is the role of science in society and how is it influenced?*
+
+### 1. Ethics in Scientific Research
+
+*   **Core Principles (NHMRC):**
+    *   **Informed Consent:** Participants must be fully briefed on the risks and purpose of a study before they agree to participate.
+    *   **Beneficence:** The research must aim to maximise benefits while minimising potential harm to participants.
+    *   **Justice:** The selection of participants must be fair, and the benefits and burdens of research distributed equitably.
+*   **HSC Example (2020 Q25b - Ethics Committee):** For the researcher who self-injected a bacterium, an ethics committee would likely recommend that the investigation first be conducted on animal models (like lab rats) before humans, to decrease the risk of human harm. They would also require strict protocols for animal welfare.
+
+### 2. Influences on Science
+
+*   **Economic Influences & Conflict of Interest:**
+    *   **Definition:** A conflict of interest occurs when a researcher's private interests (e.g., financial ties to a company) could improperly influence their professional judgment or actions.
+    *   **HSC Example (2022 Q33b - Corporate Funding):** The notes show a graph where funding from large corporations is increasing. This can lead to a conflict of interest where researchers might feel pressure to produce results favourable to the company's products. This can lead to misinterpretation or suppression of data to maximise commercial interests.
+    *   **HSC Example (2020 Q32c - Climate Change):** A student summary notes that an astrophysicist claiming water vapour is the main cause of climate change is funded by oil companies. This is a major conflict of interest, as the fossil fuel industry has a financial stake in downplaying the role of CO₂.
+
+*   **Social and Political Influences:**
+    *   **HSC Example (2019 Q30b - Franklin River Dam):** The proposal to dam the Franklin River in Tasmania created a major social and political conflict. Scientists provided evidence on the negative environmental impacts (social factor). This scientific evidence was used by activists and eventually influenced a High Court decision to stop the dam (political outcome). For those who supported the dam for economic reasons, this may have lowered their public image of science.
+
+---
+
+## Module 7: Fact or Fallacy?
+
+**Inquiry question:** *How can a claim be tested?*
+
+### 1. Evaluating Claims and Evidence
+
+*   **Correlation vs. Causation:**
+    *   **HSC Example (2019 Q25c - Whales & CO₂):** A graph shows that as whale sightings increased, atmospheric CO₂ also increased. A student infers that the whales *cause* the increase in CO₂. This is a classic error. It is a **correlation**, but not necessarily a **causation**. A third factor, like global economic growth, could be increasing both shipping (leading to more sightings) and CO₂ emissions.
+
+*   **Pseudoscience:**
+    *   **HSC Example (2020 Q27a - Astrology):** Astrologists use scientific-sounding terms like 'retrograde motion' to give their claims an appearance of scientific legitimacy. This can mislead the public into believing astrology is based on scientific evidence when it is not testable or falsifiable.
+
+*   **Misleading Data Representation:**
+    *   **HSC Example (2024 Q23 - Car Company Graphs):** A company uses two misleading graphs. Graph 1 starts the vertical axis at 48%, making their market share look disproportionately large. Graph 2 uses projected data to imply a problem is being fixed, suppressing the most recent actual data. Both are techniques to manipulate public perception.
+
+### 2. The Scientific Community
+
+*   **Peer Review:**
+    *   **HSC Example (2019 Q29b - Marshall & Warren):** The notes state that Marshall and Warren's paper on *H. pylori* causing ulcers was peer-reviewed before publication in *The Lancet*. This process ensured their revolutionary (and initially unpopular) idea was scrutinised for validity and methodological rigour, which helped it gain acceptance and advance the field of medicine.
+
+---
+
+## Module 6: Technologies
+
+**Inquiry question:** *How does the development of technologies affect scientific investigation?*
+
+### The Science-Technology Feedback Loop
+
+*   **HSC Example (2024 Q36 - DNA & GMOs):** This is a perfect example of the cycle.
+    1.  **Technology enables Science:** The development of **X-ray crystallography** (a technology) was essential for Rosalind Franklin to produce Photo 51.
+    2.  **Science enables New Understanding:** This image was critical evidence that allowed Watson and Crick to develop the **double helix model of DNA** (a scientific model/theory).
+    3.  **New Understanding enables New Technology:** Understanding the structure of DNA and how it codes for proteins led to the development of **recombinant DNA technology**, which allows scientists to create Genetically Modified Organisms (GMOs), such as bacteria that can produce human insulin.
+
+---
+
+# Year 11 Foundational Content (Abridged)
+
+*   **Module 1 & 2: Cause and Effect:** Focus on the difference between an observation (what you see) and an inference (what you conclude).
+*   **Module 3: Scientific Models:** Understand that models (physical, mathematical, conceptual) are simplifications used to explain and predict. They are not perfect replicas.
+*   **Module 4: Theories and Laws:** A Law *describes* a consistent pattern in nature (e.g., Law of Gravity). A Theory *explains why* that pattern exists (e.g., Theory of General Relativity).
+
+---
+
+# Complete Glossary of Key Terms
+
+| Term | Definition |
+|---|---|
+| **Accuracy** | How close a measured value is to the true or accepted value. |
+| **Bias** | A systematic error or prejudice that can influence the results of an investigation, leading to a conclusion that is not objective. |
+| **Causation** | The relationship where a change in one variable is directly responsible for a change in another variable. |
+| **Conflict of Interest** | A situation where competing interests (e.g., financial) could potentially compromise a researcher's impartiality or objectivity in conducting or reporting research. |
+| **Control Group** | A group in an experiment that is not exposed to the independent variable, used as a baseline to compare the results of the experimental group. |
+| **Controlled Variable** | A variable that is kept constant throughout an experiment to ensure a fair test. |
+| **Correlation** | A mutual relationship or connection between two or more things, where one variable changes in relation to another. |
+| **Dependent Variable** | The variable that is measured or observed in response to the change in the independent variable. |
+| **Double-Blind Trial** | An experiment in which neither the participants nor the researchers know who is receiving a particular treatment, used to prevent bias. |
+| **Ethics** | Moral principles that govern a person's or group's behaviour, concerning what is right and wrong in the conduct of scientific research. |
+| **Hypothesis** | A testable prediction about the relationship between variables, which can be supported or refuted by evidence from an investigation. |
+| **Independent Variable** | The variable that is deliberately changed or manipulated by the investigator. |
+| **Inference** | A logical conclusion based on observations and prior knowledge. |
+| **Law (Scientific)** | A statement that describes an observed phenomenon or a pattern in nature, often expressed as a mathematical relationship, without explaining why it occurs. |
+| **Model (Scientific)** | A simplified representation of a system, object, or phenomenon that helps scientists understand and predict its behaviour. |
+| **Observation** | The process of gathering information about events or processes in a careful, orderly way, using the senses or scientific instruments. |
+| **Outlier** | A data point that is significantly different from other observations in a data set. |
+| **Peer Review** | The evaluation of scientific work by other experts in the same field to ensure its quality and validity before it is published. |
+| **Placebo** | A substance or treatment with no active therapeutic effect, used as a control in clinical trials to test the effectiveness of a new treatment. |
+| **Precision** | How close multiple measurements of the same quantity are to each other. |
+| **Pseudoscience** | A claim, belief, or practice presented as scientific, but which does not adhere to the scientific method and lacks supporting evidence. |
+| **Qualitative Data** | Descriptive data that is observed, not measured (e.g., colour, texture, smell). |
+| **Quantitative Data** | Numerical data that is measured or counted (e.g., length, mass, time, temperature). |
+| **Random Error** | Unpredictable variations in measurements that occur by chance and affect the precision of the results. |
+| **Reliability** | The extent to which the results of an experiment are consistent and repeatable. |
+| **Systematic Error** | An error that is consistent and repeatable, often caused by faulty equipment or a flawed experimental method, which affects the accuracy of the results. |
+| **Technology** | The application of scientific knowledge for practical purposes, especially in industry, involving the development of devices, methods, and systems. |
+| **Theory (Scientific)** | A well-substantiated explanation of some aspect of the natural world, based on a body of facts that have been repeatedly confirmed through observation and experiment. |
+| **Validity** | The extent to which an experiment tests the intended hypothesis (i.e., it is a 'fair test'). |

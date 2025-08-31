@@ -1,0 +1,178 @@
+---
+title: "HSC Investigating Science - Mark Maximiser Drill 1"
+subtitle: "Core Scientific Process"
+format: pdf
+date: "today"
+---
+
+**Time Limit: 20 Minutes**
+
+**Instructions:** Circle the correct answer for each question. Aim to complete the drill in under 20 minutes.
+
+1.  **(2022 Q4)** An experiment was conducted to test the effectiveness of a new drug. The results were found to be reliable but not valid. Which statement best describes this finding?
+
+    (A) The results were consistent, but the experiment did not test the hypothesis.
+
+    (B) The results were not consistent, but the experiment tested the hypothesis.
+
+    (C) The results were consistent, but the experiment included a systematic error.
+
+    (D) The results were not consistent, but the experiment included a random error.
+
+2.  **(2023 Q4)** A student conducted an experiment to measure the effect of temperature on the bounce height of a tennis ball. What is the independent variable in this experiment?
+
+    (A) Bounce height
+
+    (B) Temperature
+
+    (C) Type of tennis ball
+
+    (D) Surface the ball is bounced on
+
+3.  **(2021 Q2)** A student measured the length of a piece of string three times and obtained the following results: 15.2 cm, 15.3 cm, 15.2 cm. The actual length of the string was 16.0 cm. Which statement best describes the student's measurements?
+
+    (A) Accurate but not reliable
+
+    (B) Reliable but not accurate
+
+    (C) Both accurate and reliable
+
+    (D) Neither accurate nor reliable
+
+4.  **(2020 Q9)** In an experiment, what is the purpose of a control group?
+
+    (A) To provide a baseline for comparison
+
+    (B) To ensure the experiment is repeatable
+
+    (C) To eliminate all variables
+
+    (D) To prove the hypothesis is correct
+
+5.  **(2019 Q7)** A student wants to investigate the claim that Brand X batteries last longer than Brand Y batteries. Which of the following would be the most important variable to keep constant?
+
+    (A) The brand of the device used
+
+    (B) The total time the experiment runs for
+
+    (C) The device used to test the batteries
+
+    (D) The cost of the batteries
+
+6.  **(2023 Q8)** In a scientific report, which section should contain a detailed description of the steps taken during an investigation?
+
+    (A) Introduction
+
+    (B) Method
+
+    (C) Results
+
+    (D) Conclusion
+
+7.  **(2022 Q9)** Which of the following is an essential characteristic of a fair test?
+
+    (A) The results support the hypothesis.
+
+    (B) Only one variable is changed at a time.
+
+    (C) The experiment is conducted by a famous scientist.
+
+    (D) The results are published in a reputable journal.
+
+8.  **(2021 Q13)** What is the primary purpose of peer review in the scientific process?
+
+    (A) To ensure that research is funded
+
+    (B) To check the validity and reliability of research before publication
+
+    (C) To help scientists find collaborators for future research
+
+    (D) To ensure that the research findings are popular with the public
+
+9.  **(2020 Q1)** Which scientist's investigations were used for the development of the microwave oven?
+
+    (A) Fleischmann
+
+    (B) Smolyanitsky
+
+    (C) Spencer
+
+    (D) van Helmont
+
+10. **(2019 Q14)** A student is investigating how the angle of a ramp affects the distance a toy car travels. What would be the dependent variable?
+
+    (A) The angle of the ramp
+
+    (B) The mass of the toy car
+
+    (C) The distance the toy car travels
+
+    (D) The surface of the ramp
+
+11. **(2023 Q2)** Which of the following is a key feature of a double-blind trial?
+
+    (A) Only the researchers know who receives the treatment.
+
+    (B) Only the participants know who receives the treatment.
+
+    (C) Both the researchers and the participants know who receives the treatment.
+
+    (D) Neither the researchers nor the participants know who receives the treatment until the trial is over.
+
+12. **(2022 Q5)** What is the main reason for repeating an experiment multiple times?
+
+    (A) To improve accuracy
+
+    (B) To improve reliability
+
+    (C) To improve validity
+
+    (D) To prove the hypothesis
+
+13. **(2021 Q5)** A scientist is studying the effect of a new fertiliser on plant growth. What would be the most appropriate control for this experiment?
+
+    (A) A plant with no fertiliser
+
+    (B) A plant with a different type of fertiliser
+
+    (C) A plant in a different type of soil
+
+    (D) A plant receiving a different amount of sunlight
+
+14. **(2020 Q3)** What observation led to Edward Jenner's development of a vaccine for smallpox?
+
+    (A) The smallpox virus had an incubation period of 1–2 weeks.
+
+    (B) People with smallpox developed a rash and blisters containing pus.
+
+    (C) People given the smallpox vaccine did not develop the symptoms of smallpox.
+
+    (D) Milkmaids exposed to cowpox did not generally show symptoms of smallpox.
+
+15. **(2019 Q3)** In a scientific report, where would you typically find a graph of the data collected?
+
+    (A) Introduction
+
+    (B) Method
+
+    (C) Results
+
+    (D) Conclusion
+
+---
+### Answer Key: Drill 1
+1. A
+2. B
+3. B
+4. A
+5. C
+6. B
+7. B
+8. B
+9. C
+10. C
+11. D
+12. B
+13. A
+14. D
+15. C

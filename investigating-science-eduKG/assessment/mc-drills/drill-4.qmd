@@ -1,0 +1,178 @@
+---
+title: "HSC Investigating Science - Mark Maximiser Drill 4"
+subtitle: "Evidence & Claims"
+format: pdf
+date: "today"
+---
+
+**Time Limit: 20 Minutes**
+
+**Instructions:** Circle the correct answer for each question. Aim to complete the drill in under 20 minutes.
+
+1.  **(2024 Q4)** A website promoting a new diet plan claims that it is 'scientifically proven'. Which of the following would be the LEAST reliable evidence to support this claim?
+
+    (A) A link to a study published in a peer-reviewed journal.
+
+    (B) A list of ingredients and their known nutritional properties.
+
+    (C) Testimonials from celebrities who have used the diet plan.
+
+    (D) Data from a randomised controlled trial.
+
+2.  **(2023 Q9)** What is meant by the term 'correlation' in a scientific context?
+
+    (A) One variable directly causes a change in another variable.
+
+    (B) A relationship or association exists between two or more variables.
+
+    (C) The results of an experiment are both reliable and valid.
+
+    (D) A hypothesis has been proven to be a scientific law.
+
+3.  **(2022 Q7)** A student reads an article online that claims climate change is a hoax. Which of the following would be the most important factor in assessing the credibility of this article?
+
+    (A) The professional design and layout of the website.
+
+    (B) The number of comments and shares the article has received.
+
+    (C) The author's qualifications and the sources they cite.
+
+    (D) The emotional language used in the article's headline.
+
+4.  **(2021 Q8)** The 'halo effect' can influence how scientific information is perceived. This cognitive bias refers to the tendency to:
+
+    (A) Be skeptical of claims made by experts.
+
+    (B) Assume that because a person is an expert in one field, their opinions in another field are also credible.
+
+    (C) Only pay attention to information that confirms one's existing beliefs.
+
+    (D) Believe that a small sample of data is representative of the whole population.
+
+5.  **(2020 Q10)** A student compared the claims made on the labels of two health supplements. One claims 'remarkable results in 28 days'. Why is this claim difficult to test scientifically?
+
+    (A) The term 'remarkable' is subjective and not measurable.
+
+    (B) 28 days is too short a time period for any effect to be observed.
+
+    (C) The supplement contains B vitamins, which are known to be effective.
+
+    (D) The claim can only be tested with a double-blind trial.
+
+6.  **(2019 Q8)** A scientific investigation is described as 'inconclusive'. What does this most likely mean?
+
+    (A) The results of the investigation were fraudulent.
+
+    (B) The investigation was conducted unethically.
+
+    (C) The results did not provide enough evidence to support or refute the hypothesis.
+
+    (D) The investigation was not published in a peer-reviewed journal.
+
+7.  **(2024 Q9)** What is a key difference between a scientific theory and a scientific law?
+
+    (A) A law is a well-supported explanation, while a theory is just a guess.
+
+    (B) A theory is a well-supported explanation, while a law is a description of an observed phenomenon.
+
+    (C) A law can be proven false, but a theory cannot.
+
+    (D) A theory eventually becomes a law after enough evidence is gathered.
+
+8.  **(2023 Q7)** A research paper concludes that a new drug is 100% effective. Which of the following would be a valid reason to be skeptical of this claim?
+
+    (A) The study was conducted on a large, diverse sample of people.
+
+    (B) The study was a randomised, double-blind, placebo-controlled trial.
+
+    (C) The results have been replicated by independent research groups.
+
+    (D) The study was funded by the company that manufactures the drug.
+
+9.  **(2022 Q10)** Which of the following is the best example of an evidence-based claim?
+
+    (A) "This is the best movie of the year."
+
+    (B) "In a clinical trial of 500 people, this medication reduced symptoms by 60% compared to a placebo."
+
+    (C) "Everyone knows that chocolate is good for you."
+
+    (D) "Our product is guaranteed to make you feel happier."
+
+10. **(2021 Q16)** A graph in a company's annual report shows a dramatic increase in profits. The vertical axis, however, starts at a high value instead of zero. This is a common technique used to:
+
+    (A) Ensure the data is presented as accurately as possible.
+
+    (B) Mislead the reader by exaggerating the change.
+
+    (C) Simplify a complex data set for a general audience.
+
+    (D) Control for the effects of inflation over time.
+
+11. **(2020 Q2)** Some parents claim that playing classical music will enhance their child's intelligence. What is the name given to this claim?
+
+    (A) The halo effect
+
+    (B) The Mozart effect
+
+    (C) The Doppler effect
+
+    (D) The Hawthorne effect
+
+12. **(2019 Q10)** A headline reads: "Study shows coffee drinkers live longer". What important question should a critical reader ask before accepting this conclusion?
+
+    (A) How many people were included in the study?
+
+    (B) Did the study control for other lifestyle factors, like diet and exercise?
+
+    (C) Was the study funded by a coffee company?
+
+    (D) All of the above.
+
+13. **(2024 Q18)** The process of science is 'self-correcting'. This means that:
+
+    (A) Scientists never make mistakes.
+
+    (B) Over time, new evidence and peer review lead to the revision of scientific ideas.
+
+    (C) Once a scientific theory is established, it can never be changed.
+
+    (D) Scientific knowledge is absolute and unchanging.
+
+14. **(2023 Q14)** A scientist selectively publishing only the data that supports their hypothesis is an example of:
+
+    (A) The peer-review process.
+
+    (B) A conflict of interest.
+
+    (C) Ethical scientific conduct.
+
+    (D) Cherry-picking data.
+
+15. **(2022 Q14)** What is the primary purpose of including a 'margin of error' in the results of a scientific poll?
+
+    (A) To indicate that the pollsters made mistakes in their calculations.
+
+    (B) To quantify the uncertainty in the results due to sampling variability.
+
+    (C) To show that the results are not statistically significant.
+
+    (D) To hide the fact that the sample size was too small.
+
+---
+### Answer Key: Drill 4
+1. C
+2. B
+3. C
+4. B
+5. A
+6. C
+7. B
+8. D
+9. B
+10. B
+11. B
+12. D
+13. B
+14. D
+15. B

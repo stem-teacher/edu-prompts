@@ -1,0 +1,178 @@
+---
+title: "HSC Investigating Science - Mark Maximiser Drill 5"
+subtitle: "Mixed Core Concepts"
+format: pdf
+date: "today"
+---
+
+**Time Limit: 20 Minutes**
+
+**Instructions:** Circle the correct answer for each question. Aim to complete the drill in under 20 minutes.
+
+1.  **(2024 Q2)** A student is investigating the effect of different types of soil on the growth of bean plants. To ensure the experiment is valid, which variable should be changed?
+
+    (A) The amount of water given to each plant.
+
+    (B) The type of soil for each plant.
+
+    (C) The amount of light each plant receives.
+
+    (D) The size of the pot for each plant.
+
+2.  **(2023 Q1)** In a scientific investigation, what is the role of the hypothesis?
+
+    (A) To provide a conclusive explanation of the results.
+
+    (B) To be a testable statement that can be supported or refuted by evidence.
+
+    (C) To summarise all the data collected during the experiment.
+
+    (D) To list the equipment and materials needed for the investigation.
+
+3.  **(2022 Q1)** A student measures the mass of a 1 kg block five times using a digital scale. The readings are: 1.12 kg, 1.11 kg, 1.13 kg, 1.12 kg, 1.12 kg. These measurements can be best described as:
+
+    (A) Accurate but not precise.
+
+    (B) Precise but not accurate.
+
+    (C) Both accurate and precise.
+
+    (D) Neither accurate nor precise.
+
+4.  **(2021 Q4)** The development of antibiotics was a major scientific breakthrough. However, the overuse of antibiotics has led to the emergence of antibiotic-resistant bacteria. This is an example of:
+
+    (A) A scientific theory being proven wrong.
+
+    (B) An unintended negative consequence of a technology.
+
+    (C) A failure of the peer-review process.
+
+    (D) A conflict of interest in medical research.
+
+5.  **(2020 Q8)** A new drug was tested on six healthy humans. They all immediately became very sick. What step should have been taken to ensure this was an ethical investigation?
+
+    (A) Choose the subjects randomly.
+
+    (B) Pay subjects for their participation.
+
+    (C) Inform subjects of possible side effects.
+
+    (D) Choose subjects with highly effective immune systems.
+
+6.  **(2019 Q17)** A student rolls a marble down a ramp and measures the distance it travels across the floor. To investigate the relationship between release height and distance, which variable must be kept constant?
+
+    (A) The release height on the ramp.
+
+    (B) The distance the marble travels.
+
+    (C) The angle of the ramp.
+
+    (D) The time it takes for the marble to stop.
+
+7.  **(2024 Q5)** Which of the following is a fundamental principle of the scientific method?
+
+    (A) Conclusions should be based on personal belief.
+
+    (B) Hypotheses must be falsifiable.
+
+    (C) The simplest explanation is always the correct one.
+
+    (D) Scientific knowledge is final and cannot be changed.
+
+8.  **(2023 Q5)** A student is conducting an experiment and notices that one of their results is very different from all the others. This result is known as:
+
+    (A) An outlier.
+
+    (B) A control.
+
+    (C) A variable.
+
+    (D) A hypothesis.
+
+9.  **(2022 Q3)** In an experiment to test a new vaccine, one group receives the vaccine while another group receives a saline injection that has no effect. The saline injection is an example of a:
+
+    (A) Dependent variable
+
+    (B) Placebo
+
+    (C) Confounding variable
+
+    (D) Independent variable
+
+10. **(2021 Q11)** A student concludes that their experiment was 'valid'. What does this mean?
+
+    (A) The results were consistent across multiple trials.
+
+    (B) The experiment measured what it was intended to measure.
+
+    (C) The results were close to the true or accepted value.
+
+    (D) The results were published in a scientific journal.
+
+11. **(2020 Q12)** A student uses a formula to calculate the intensity of a fire. This is an example of using a:
+
+    (A) Physical model
+
+    (B) Conceptual model
+
+    (C) Mathematical model
+
+    (D) Biological model
+
+12. **(2019 Q19)** Which of the following is the best way to present quantitative data from an experiment that measures change over time?
+
+    (A) A flowchart
+
+    (B) A diagram
+
+    (C) A line graph
+
+    (D) A paragraph of text
+
+13. **(2024 Q12)** The scientific consensus on climate change is that the Earth's climate is warming at an unprecedented rate due to human activity. This consensus is based on:
+
+    (A) A vote among leading politicians.
+
+    (B) A single, definitive experiment.
+
+    (C) The overwhelming body of evidence from multiple lines of research.
+
+    (D) The opinions of a few influential scientists.
+
+14. **(2023 Q18)** A government agency's decision to ban a pesticide is based on numerous scientific studies showing it harms beneficial insects. This is an example of:
+
+    (A) Pseudoscience influencing policy.
+
+    (B) A conflict of interest.
+
+    (C) Evidence-based policy making.
+
+    (D) The halo effect.
+
+15. **(2022 Q17)** A student is investigating the effect of light intensity on the rate of photosynthesis. What would be the most appropriate unit for the dependent variable?
+
+    (A) Degrees Celsius
+
+    (B) Lux
+
+    (C) Bubbles of oxygen per minute
+
+    (D) Millilitres of water
+
+---
+### Answer Key: Drill 5
+1. B
+2. B
+3. B
+4. B
+5. C
+6. C
+7. B
+8. A
+9. B
+10. B
+11. C
+12. C
+13. C
+14. C
+15. C

@@ -1,0 +1,10 @@
+---
+title: "Uncertain Mappings Report"
+format: pdf
+---
+
+This report lists any HSC exam questions that could not be confidently mapped to a syllabus outcome or module.
+
+```json
+[]
+```

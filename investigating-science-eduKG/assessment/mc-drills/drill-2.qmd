@@ -1,0 +1,178 @@
+---
+title: "HSC Investigating Science - Mark Maximiser Drill 2"
+subtitle: "Data Analysis & Societal Influences"
+format: pdf
+date: "today"
+---
+
+**Time Limit: 20 Minutes**
+
+**Instructions:** Circle the correct answer for each question. Aim to complete the drill in under 20 minutes.
+
+1.  **(2024 Q1)** Which of the following is a primary role of an ethics committee in scientific research?
+
+    (A) To ensure the research is funded adequately.
+
+    (B) To ensure the welfare of participants is protected.
+
+    (C) To ensure the research produces a positive result.
+
+    (D) To ensure the research is published quickly.
+
+2.  **(2023 Q12)** A news report claims that a new superfood can cure the common cold. Which of the following would be the most important factor in evaluating this claim?
+
+    (A) The popularity of the celebrity endorsing the superfood.
+
+    (B) The price of the superfood.
+
+    (C) The number of social media influencers promoting the claim.
+
+    (D) The presence of peer-reviewed scientific studies supporting the claim.
+
+3.  **(2022 Q2)** A study finds a correlation between ice cream sales and the number of drownings. What is the most likely explanation for this correlation?
+
+    (A) Eating ice cream causes people to be less careful when swimming.
+
+    (B) A third factor, such as warm weather, is likely responsible for both increases.
+
+    (C) The study must have been conducted with a very small sample size.
+
+    (D) The data has been deliberately manipulated by ice cream companies.
+
+4.  **(2021 Q9)** A government decides to increase funding for research into renewable energy technologies. This is an example of which influence on science?
+
+    (A) Economic
+
+    (B) Social
+
+    (C) Political
+
+    (D) Ethical
+
+5.  **(2020 Q7)** A scientist is employed by a pharmaceutical company to test a new drug. This is a potential source of what?
+
+    (A) Random error
+
+    (B) Systematic error
+
+    (C) Conflict of interest
+
+    (D) The placebo effect
+
+6.  **(2019 Q5)** Aboriginal Peoples have known of the medicinal properties of tea-tree oil for thousands of years. A company wants to develop a new drug using this knowledge. What is the most ethical first step?
+
+    (A) Patent the formulation immediately to prevent competitors.
+
+    (B) Begin clinical trials to test for safety and efficacy.
+
+    (C) Consult with the relevant Aboriginal communities.
+
+    (D) Analyse the chemical composition of the oil.
+
+7.  **(2024 Q6)** A scientific model is best described as:
+
+    (A) A perfect replica of a real-world object or system.
+
+    (B) A simplified representation used to understand and predict phenomena.
+
+    (C) A definitive and unchangeable explanation of a scientific concept.
+
+    (D) A legally binding rule that describes a pattern in nature.
+
+8.  **(2023 Q16)** The 'publish or perish' culture in academia can sometimes lead to:
+
+    (A) Higher quality research due to increased competition.
+
+    (B) An increase in fraudulent or rushed research.
+
+    (C) More funding being allocated to long-term, exploratory projects.
+
+    (D) A decrease in the number of scientific journals.
+
+9.  **(2022 Q8)** The Nuremberg Code is a set of research ethics principles for human experimentation. It was established as a result of which historical event?
+
+    (A) The Tuskegee Syphilis Study
+
+    (B) The development of the atomic bomb
+
+    (C) The Nazi medical experiments during WWII
+
+    (D) The discovery of the structure of DNA
+
+10. **(2021 Q10)** A company funds a study that finds its product is safe and effective. Studies not funded by the company have found the product to be ineffective. This is an example of potential:
+
+    (A) Bias
+
+    (B) Reliability
+
+    (C) Validity
+
+    (D) Accuracy
+
+11. **(2020 Q4)** The graph shows total distance travelled by airline passengers and the number of fatal accidents. What is the general trend?
+
+    (A) As distance increases, accidents increase.
+
+    (B) As distance increases, accidents decrease.
+
+    (C) As distance decreases, accidents decrease.
+
+    (D) There is no clear relationship between the two variables.
+
+12. **(2019 Q1)** What is the term for a testable prediction about the relationship between two or more variables?
+
+    (A) Theory
+
+    (B) Law
+
+    (C) Observation
+
+    (D) Hypothesis
+
+13. **(2024 Q7)** Which of the following is the best description of pseudoscience?
+
+    (A) A scientific theory that has been proven wrong.
+
+    (B) A field of study that has not yet been tested experimentally.
+
+    (C) A claim or belief presented as scientific but lacking evidence and scientific method.
+
+    (D) A branch of science that deals with supernatural phenomena.
+
+14. **(2023 Q20)** A large corporation provides the majority of funding for research into a particular agricultural chemical. What is the most significant risk this poses to the integrity of the research?
+
+    (A) The research may be too expensive to conduct properly.
+
+    (B) The corporation may pressure scientists to produce favourable results.
+
+    (C) The government may decide to cut its own funding for similar research.
+
+    (D) The scientists may not have access to the latest technology.
+
+15. **(2022 Q15)** The development of the telescope led to Galileo's observations of the moons of Jupiter. This is an example of:
+
+    (A) A scientific law leading to a new technology.
+
+    (B) A technology enabling a new scientific discovery.
+
+    (C) A scientific theory being disproven by a new law.
+
+    (D) An ethical dilemma in scientific research.
+
+---
+### Answer Key: Drill 2
+1. B
+2. D
+3. B
+4. C
+5. C
+6. C
+7. B
+8. B
+9. C
+10. A
+11. B
+12. D
+13. C
+14. B
+15. B

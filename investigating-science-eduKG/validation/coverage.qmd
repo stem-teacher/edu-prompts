@@ -1,0 +1,90 @@
+---
+title: "HSC Exam KG Coverage Report (JSON)"
+format: pdf
+---
+
+```json
+{
+  "summary": {
+    "years_processed": [
+      "2019",
+      "2020",
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "years_missing": [],
+    "total_questions": 288,
+    "total_marks": 569
+  },
+  "by_module": {
+    "M5": {
+      "title": "Scientific Investigations",
+      "question_count": 91,
+      "total_marks": 201
+    },
+    "M6": {
+      "title": "Technologies",
+      "question_count": 56,
+      "total_marks": 104
+    },
+    "M7": {
+      "title": "Fact or Fallacy?",
+      "question_count": 64,
+      "total_marks": 113
+    },
+    "M8": {
+      "title": "Science and Society",
+      "question_count": 77,
+      "total_marks": 151
+    }
+  },
+  "by_outcome": {
+    "INS12-1": {
+      "question_count": 8,
+      "total_marks": 19
+    },
+    "INS12-2": {
+      "question_count": 27,
+      "total_marks": 63
+    },
+    "INS12-3": {
+      "question_count": 8,
+      "total_marks": 27
+    },
+    "INS12-4": {
+      "question_count": 28,
+      "total_marks": 57
+    },
+    "INS12-5": {
+      "question_count": 38,
+      "total_marks": 68
+    },
+    "INS12-6": {
+      "question_count": 26,
+      "total_marks": 58
+    },
+    "INS12-7": {
+      "question_count": 27,
+      "total_marks": 68
+    },
+    "INS12-12": {
+      "question_count": 63,
+      "total_marks": 131
+    },
+    "INS12-13": {
+      "question_count": 39,
+      "total_marks": 74
+    },
+    "INS12-14": {
+      "question_count": 40,
+      "total_marks": 74
+    },
+    "INS12-15": {
+      "question_count": 34,
+      "total_marks": 82
+    }
+  }
+}
+```
