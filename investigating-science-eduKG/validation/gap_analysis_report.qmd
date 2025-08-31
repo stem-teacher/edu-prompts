@@ -1,0 +1,88 @@
+---
+title: "KG Syllabus Gap Analysis Report"
+author: "Sophia (AI Agent)"
+date: "2025-08-31"
+format:
+  html:
+    toc: true
+    theme: cosmo
+---
+
+## 1. Overview
+
+This report details the missing content from the Investigating Science Knowledge Graph (KG) when compared against the official Stage 6 Syllabus (`investigating-science-stage-6-syllabus-2017.md`).
+
+**Finding:** The current KG only contains the top-level titles for the eight modules. The entire underlying structure of **Inquiry Questions** and specific **Content dot points** is absent.
+
+## 2. Missing Content by Module
+
+The following sections list the specific Inquiry Questions and the number of associated content dot points that need to be added to the KG for each module.
+
+---
+
+### **Module 1: Cause and Effect – Observing**
+-   **Inquiry question:** How does observation instigate scientific investigation? (4 dot points missing)
+-   **Inquiry question:** What are the benefits and drawbacks of qualitative and quantitative observations? (3 dot points missing)
+-   **Inquiry question:** How does primary data provide evidence for further investigation? (3 dot points missing)
+-   **Inquiry question:** How does the collection and presentation of primary data affect the outcome of a scientific investigation? (3 dot points missing)
+-   **Inquiry question:** How do conclusions drawn from the interpretation of primary data promote further scientific investigation? (3 dot points missing)
+
+---
+
+### **Module 2: Cause and Effect – Inferences and Generalisations**
+-   **Inquiry question:** What inferences can be drawn from observations? (3 dot points missing)
+-   **Inquiry question:** How is secondary-sourced data used in practical investigations? (3 dot points missing)
+-   **Inquiry question:** How does humans' ability to recognise patterns affect the way they interpret data? (5 dot points missing)
+-   **Inquiry question:** How can hypotheses and assumptions be tested? (3 dot points missing)
+-   **Inquiry question:** What generalisations and assumptions are made from observed data? (2 dot points missing)
+-   **Inquiry question:** What role do peers play in scientific investigation? (3 dot points missing)
+
+---
+
+### **Module 3: Scientific Models**
+-   **Inquiry question:** What is a scientific model? (1 dot point missing)
+-   **Inquiry question:** What makes scientific models useful? (4 dot points missing)
+-   **Inquiry question:** When should a particular model be used? (2 dot points missing)
+-   **Inquiry question:** How can a model be constructed to simplify understanding of a scientific concept? (1 dot point missing)
+
+---
+
+### **Module 4: Theories and Laws**
+-   **Inquiry question:** What are the differences and similarities between scientific theories and laws? (3 dot points missing)
+-   **Inquiry question:** What leads to a theory being developed? (2 dot points missing)
+-   **Inquiry question:** What leads to the acceptance of a scientific law? (2 dot points missing)
+-   **Inquiry question:** How are theories and laws used in science? (3 dot points missing)
+
+---
+
+### **Module 5: Scientific Investigations**
+-   **Inquiry question:** What initiates an investigation? (4 dot points missing)
+-   **Inquiry question:** What type of methodology best suits a scientific investigation? (3 dot points missing)
+-   **Inquiry question:** How is the integrity of a scientific investigation judged? (4 dot points missing)
+-   **Inquiry question:** What is the structure of an investigative report? (4 dot points missing)
+
+---
+
+### **Module 6: Technologies**
+-   **Inquiry question:** How does technology enhance and/or limit scientific investigation? (5 dot points missing)
+-   **Inquiry question:** How have developments in technology led to advances in scientific theories and laws that, in turn, drive the need for further developments in technology? (3 dot points missing)
+
+---
+
+### **Module 7: Fact or Fallacy?**
+-   **Inquiry question:** How can a claim be tested? (3 dot points missing)
+-   **Inquiry question:** What factors can affect the way data can be interpreted, analysed and understood? (2 dot points missing)
+-   **Inquiry question:** What type of evidence is needed to draw valid conclusions? (1 dot point missing)
+-   **Inquiry question:** How does the reporting of science influence the general public's understanding of the subject? (5 dot points missing)
+-   **Inquiry question:** Can the scientific community and process of peer review find 'the truth'? (5 dot points missing)
+
+---
+
+### **Module 8: Science and Society**
+-   **Inquiry question:** How do science-related events affect society's view of science? (1 dot point missing)
+-   **Inquiry question:** Why is scientific research regulated? (4 dot points missing)
+-   **Inquiry question:** How do economic, social and political influences affect scientific research? (5 dot points missing)
+
+## 3. Next Steps
+
+Based on this analysis, the next action is to create placeholder "Concept" entities in the KG for every missing Inquiry Question and Content dot point. This will build the complete, hierarchical scaffold of the syllabus, ready for enrichment.

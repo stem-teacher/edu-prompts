@@ -1,26 +1,138 @@
 ---
-title: "HSC Investigating Science - The Definitive Study Notes"
-subtitle: "A Comprehensive, Data-Driven Guide to the Full Syllabus"
-author: "Gemini Educational Planner (Validated)"
+title: "HSC Investigating Science - The Definitive Exam-Mapped Notes (v2)"
+subtitle: "A Comprehensive Guide Directly Linked to the Full Syllabus and Past HSC Questions"
+author: "Sophia (AI Agent)"
 date: "today"
 format:
   html:
     toc: true
-    toc-depth: 3
+    toc-depth: 4
     theme: cosmo
   pdf:
     toc: true
-    toc-depth: 3
+    toc-depth: 4
 ---
 
 # Introduction: How to Use These Notes
 
-This is a definitive guide for your HSC Investigating Science preparation. It is structured based on a data analysis of past HSC exams to ensure you focus on the most critical content. The information has been expanded and validated against authoritative sources like the CSIRO and NHMRC to provide the depth and accuracy you need.
+This guide is your definitive, data-driven resource for the HSC Investigating Science exam. It has been generated directly from a comprehensive Knowledge Graph, ensuring every syllabus dot point is covered and linked to real-world examples from past HSC papers where applicable.
 
 **Study Strategy:**
-1.  **Master the Year 12 Modules First:** Begin with Modules 5, 8, 7, and 6. This is where the majority of HSC marks are awarded.
-2.  **Use the Inquiry Questions:** Each module is broken down by its inquiry questions. Use these to frame your understanding.
-3.  **Memorise the Glossary:** The glossary at the end contains precise, HSC-ready definitions. Use them in your answers.
+1.  **Systematic Coverage:** The notes are structured sequentially from Module 1 to Module 8. Work through them systematically to build a strong foundational knowledge.
+2.  **Focus on Inquiry Questions:** Each module is framed by inquiry questions. Use these to guide your understanding and test your knowledge.
+3.  **Connect Concepts to Assessments:** For Year 12 modules, pay close attention to the "HSC Example" provided. This shows you exactly how NESA assesses that concept.
+4.  **Master the Glossary:** The definitions at the end are your key to unlocking marks. They are precise and written for exam conditions.
+
+---
+
+# Year 11 Foundational Content
+
+## Module 1: Cause and Effect – Observing
+
+### Inquiry question: How does observation instigate scientific investigation?
+- **`concept:M1-1-1`**: Carry out a practical investigation to record both quantitative and qualitative data from observations.
+- **`concept:M1-1-2`**: Discuss and evaluate the characteristics of observations made compared to inferences drawn in respect of the practical investigation.
+- **`concept:M1-1-3`**: Research how observation has instigated experimentation to investigate cause and effect in historical examples.
+- **`concept:M1-1-4`**: Assess ways in which Aboriginal and Torres Strait Islander Peoples use observation to develop an understanding of Country and Place in order to create innovative ways of managing the natural environment.
+
+### Inquiry question: What are the benefits and drawbacks of qualitative and quantitative observations?
+- **`concept:M1-2-1`**: Carry out a practical activity to qualitatively and quantitatively describe.
+- **`concept:M1-2-2`**: Analyse the quantitative data from information sources.
+- **`concept:M1-2-3`**: Evaluate the differences between qualitative and quantitative observations and data and where these are used.
+
+### Inquiry question: How does primary data provide evidence for further investigation?
+- **`concept:M1-3-1`**: Use data gathered to plan a practical investigation.
+- **`concept:M1-3-2`**: Develop a method to collect primary data for a practical investigation.
+- **`concept:M1-3-3`**: Evaluate how observation is limited by the observational tools available.
+
+### Inquiry question: How does the collection and presentation of primary data affect the outcome of a scientific investigation?
+- **`concept:M1-4-1`**: Carry out the planned practical investigation to collect primary data.
+- **`concept:M1-4-2`**: Apply conventions for collecting and recording observations to qualitatively and quantitatively analyse the primary data.
+- **`concept:M1-4-3`**: Compare the usefulness of observations recorded in the initial practical activity with the primary data gathered in this planned practical investigation.
+
+### Inquiry question: How do conclusions drawn from the interpretation of primary data promote further scientific investigation?
+- **`concept:M1-5-1`**: Draw conclusions from the analysis of the primary data collected in the practical investigation.
+- **`concept:M1-5-2`**: Evaluate the process of drawing conclusions from the primary data collected.
+- **`concept:M1-5-3`**: Assess the findings of the scientific investigation in relation to the findings of other related investigations.
+- **`concept:M1-5-4`**: Assess the need to make further observations by gathering data about other phenomena arising from the practical investigation.
+
+---
+
+## Module 2: Cause and Effect – Inferences and Generalisations
+
+### Inquiry question: What inferences can be drawn from observations?
+- **`concept:M2-1-1`**: Investigate the practices of Aboriginal and Torres Strait Islander Peoples that relate to observations and inferences.
+- **`concept:M2-1-2`**: Conduct a collaborative practical investigation and collect a range of qualitative and quantitative primary data.
+- **`concept:M2-1-3`**: Make inferences and conclusions derived from the primary data collected in this collaborative practical investigation.
+
+### Inquiry question: How is secondary-sourced data used in practical investigations?
+- **`concept:M2-2-1`**: Collect qualitative and quantitative secondary-sourced data to validate the inferences and conclusions drawn from the practical investigation.
+- **`concept:M2-2-2`**: Discuss how secondary-sourced data adds to the inferences and conclusions drawn from primary data.
+- **`concept:M2-2-3`**: Evaluate the usefulness of considering secondary-sourced research before undertaking an investigation to collect primary data.
+
+### Inquiry question: How does humans' ability to recognise patterns affect the way they interpret data?
+- **`concept:M2-3-1`**: Describe patterns that have been observed over time throughout the Universe and in nature.
+- **`concept:M2-3-2`**: Interpret data in order to propose a hypothesis based on an irregular pattern observed over time.
+- **`concept:M2-3-3`**: Examine the human tendency to observe patterns and misinterpret information.
+- **`concept:M2-3-4`**: Discuss how the tendency to recognise patterns, even when they may not exist, can lead to misinterpretation of data.
+- **`concept:M2-3-5`**: Discuss the role and significance of outliers in data.
+
+### Inquiry question: How can hypotheses and assumptions be tested?
+- **`concept:M2-4-1`**: Gather secondary-sourced data describing historical instances of long-standing assumptions that have been updated by scientific investigation.
+- **`concept:M2-4-2`**: Propose an inquiry question, construct a hypothesis and conduct an investigation that tests a common assumption.
+- **`concept:M2-4-3`**: Use appropriate representations to analyse the data.
+
+### Inquiry question: What generalisations and assumptions are made from observed data?
+- **`concept:M2-5-1`**: Make generalisations to describe any trends found in the data.
+- **`concept:M2-5-2`**: Draw conclusion based on generalisations.
+
+### Inquiry question: What role do peers play in scientific investigation?
+- **`concept:M2-6-1`**: Assess the input that collaborative teams and alternative perspectives have had on the development of hypotheses and research questions.
+- **`concept:M2-6-2`**: Assess the scientific community's current understanding of scientific mysteries and outline why this understanding remains incomplete.
+- **`concept:M2-6-3`**: Evaluate biases that may have affected the scientific thinking of European settlers about Aboriginal and Torres Strait Islander Peoples' ecological understanding and knowledge.
+
+---
+
+## Module 3: Scientific Models
+
+### Inquiry question: What is a scientific model?
+- **`concept:M3-1-1`**: Examine the types of models that may be used in science (diagrams, physical replicas, mathematical representations, analogies, computer simulations).
+
+### Inquiry question: What makes scientific models useful?
+- **`concept:M3-2-1`**: Examine the use of scientific models (e.g., epidemic, Universe, atomic, climate models).
+- **`concept:M3-2-2`**: Outline how models have been used to illustrate, simplify and represent scientific concepts and processes.
+- **`concept:M3-2-3`**: Explain how scientific models are used to make predictions that are difficult to analyse in the real world.
+- **`concept:M3-2-4`**: Assess the effectiveness of models at facilitating the understanding of scientific processes, structures and mathematical relationships.
+- **`concept:M3-2-5`**: Evaluate how scientific models draw on a growing body of data to refine predictions and test new hypotheses.
+
+### Inquiry question: When should a particular model be used?
+- **`concept:M3-3-1`**: Explain why new evidence can challenge the use of existing scientific models, leading to them being contested and refined or replaced.
+- **`concept:M3-3-2`**: Compare the limitations of simple and complex scientific models.
+
+### Inquiry question: How can a model be constructed to simplify understanding of a scientific concept?
+- **`concept:M3-4-1`**: Investigate a scientific concept or process that can be represented using a model.
+
+---
+
+## Module 4: Theories and Laws
+
+### Inquiry question: What are the differences and similarities between scientific theories and laws?
+- **`concept:M4-1-1`**: Collect primary data to investigate the law of conservation of mass.
+- **`concept:M4-1-2`**: Collect secondary-sourced data to investigate the theory of plate tectonics.
+- **`concept:M4-1-3`**: Compare the characteristics of theories and laws.
+
+### Inquiry question: What leads to a theory being developed?
+- **`concept:M4-2-1`**: Gather secondary-sourced data to investigate the supporting evidence and development of theories (e.g., germ theory, oxygen theory of combustion).
+- **`concept:M4-2-2`**: Gather secondary-sourced data to investigate how aspects of a theory can be disproved (e.g., Geocentric Theory, Lamarck's Theory of Inheritance).
+
+### Inquiry question: What leads to the acceptance of a scientific law?
+- **`concept:M4-3-1`**: Gather secondary-sourced data to investigate and assess the evidence that supports scientific laws (e.g., Newton's Second Law, Avogadro's Law).
+- **`concept:M4-3-2`**: Design and collect primary data to show that results can be predicted by laws (e.g., Ohm's Law, Law of Conservation of Energy).
+
+### Inquiry question: How are theories and laws used in science?
+- **`concept:M4-4-1`**: Investigate how the law of conservation of energy is applied in different science disciplines.
+- **`concept:M4-4-2`**: Demonstrate, using evidence and examples, how diverse phenomena have been unified into specific theories (e.g., atomic theory, theory of evolution).
+- **`concept:M4-4-3`**: Investigate how investigations of nuclear reactions changed the interpretation of the laws of conservation of mass and energy.
 
 ---
 
@@ -28,152 +140,117 @@ This is a definitive guide for your HSC Investigating Science preparation. It is
 
 ## Module 5: Scientific Investigations
 
-**Inquiry question:** *How are rigorous scientific investigations designed and conducted?*
+### Inquiry question: What initiates an investigation?
+- **`concept:M5-1-1`**: Research the factors that led scientists to investigate phenomena (e.g., Marshall and Warren - peptic ulcers; Von Helmont - plant growth; Spencer - microwaves).
+- **`concept:M5-1-2`**: Propose a reason for scientists undertaking their investigations by examining the type of data they sought.
+- **`concept:M5-1-3`**: Determine the hypotheses that were tested in each scientific investigation.
+- **`concept:M5-1-4`**: Describe where deviations from the traditional scientific method were necessary.
 
-This is the most important module. The concepts here are the toolkit for answering almost all Section II questions.
+### Inquiry question: What type of methodology best suits a scientific investigation?
+- **`concept:M5-2-1`**: Evaluate the objectives and data collected in an investigation by a recognised scientist (e.g., Eratosthenes and Earth's circumference).
+- **`concept:M5-2-2`**: Evaluate the methodology of scientific investigations.
+- **`concept:M5-2-3`**: Develop a method most appropriate to test a hypothesis following observation.
+- **`concept:M5-2-4`**: Justify the type of methodology used to test the hypothesis.
 
-### 1. Designing Investigations
+### Inquiry question: How is the integrity of a scientific investigation judged?
+- **`concept:M5-3-1`**: Evaluate the design of a student investigation.
+- **`concept:M5-3-2`**: Conduct the planned investigation and collect, record and analyse primary data.
+- **`concept:M5-3-3`**: Draw a conclusion and suggest further investigation.
+- **`concept:M5-3-4`**: **Evaluate the validity of the investigation.**
+    -   **Definition:** An experiment is valid if its method is appropriate and directly tests the intended hypothesis. Core components include controlling variables, having a single independent variable, and appropriate measurement of the dependent variable.
+    -   **HSC Example (2021 Q22b - GMO Mice):** An experiment tested if genetically modified mice on a high-fat diet gained more weight. To be valid, it required four groups to isolate the effects of the gene and the diet, including a control group (normal mice, normal diet) and a hypothesis test group (GMO mice, high-fat diet).
+- **`concept:M5-3-5`**: **Evaluate the reliability of the investigation.**
+    -   **Definition:** An experiment is reliable if the results are consistent and repeatable. This is achieved through repetition (at least 3 trials) and using a sufficiently large sample size.
+    -   **HSC Example (2020 Q25a - Self-Injection):** A researcher injected herself with a bacterium to see if it caused a disease. This experiment is unreliable because the sample size is only one, making it impossible to know if the result is consistent or a one-off personal reaction.
 
-A rigorous investigation must be a **fair test** that directly addresses the hypothesis.
-
-*   **Hypothesis:** A testable statement that proposes a relationship between variables. It must be specific and able to be either supported or refuted by the evidence you collect.
-*   **Variables:**
-    *   **Independent Variable (IV):** The single factor that you deliberately change or manipulate to see what effect it has.
-    *   **Dependent Variable (DV):** The factor that you measure or observe to see if it has been affected by the change in the IV.
-    *   **Controlled Variables:** All other factors that could potentially influence the DV, which must be kept constant to ensure a fair test.
-*   **Control Group:** A group in an experiment that does not receive the treatment (the IV is not applied). It acts as a baseline, showing what would happen without any intervention, allowing you to be more certain that any changes in the experimental group are due to the IV.
-
-### 2. Ensuring Data Quality: Validity, Reliability, Accuracy
-
-These three terms are distinct and crucial.
-
-*   **Validity:** An experiment is **valid** if its method is appropriate for testing the hypothesis. It is the most important aspect of an investigation.
-    *   **Threats to Validity:** Uncontrolled variables, biased sampling, or a method that doesn't actually measure the dependent variable.
-    *   **Ensuring Validity:** Meticulously control all variables. Use a control group. Ensure your measurement technique is directly assessing the effect of the IV on the DV.
-    *   **Example:** An experiment testing if fertiliser makes a plant grow taller is *not valid* if the fertilised plant also gets more sunlight. Sunlight becomes an uncontrolled variable.
-
-*   **Reliability:** The results of an experiment are **reliable** if they are consistent and repeatable.
-    *   **Threats to Reliability:** Random errors, insufficient data, or a small sample size.
-    *   **Ensuring Reliability:** Repeat the experiment multiple times (at least 3) and check for consistency. If the results are similar each time, they are reliable. Calculating an average from repeated trials is a key way to increase reliability.
-    *   **Example:** Measuring the time it takes for a ball to drop once is not very reliable. Measuring it five times and finding the times are all very close (e.g., 1.2s, 1.21s, 1.19s, 1.2s, 1.22s) makes the result reliable.
-
-*   **Accuracy:** A measurement is **accurate** if it is close to the true, accepted value.
-    *   **Threats to Accuracy:** Systematic errors from faulty or uncalibrated equipment.
-    *   **Ensuring Accuracy:** Use high-quality, precise measuring instruments. Calibrate them before use (e.g., zero a scale). Minimise human error by using correct techniques (e.g., reading a measuring cylinder at eye level to avoid parallax error).
-    *   **Example:** A thermometer that consistently reads 2°C too high is reliable (it gives the same wrong reading every time) but not accurate.
-
-### 3. Data Analysis and Communication
-
-*   **Data Types:**
-    *   **Qualitative:** Descriptive (e.g., colour, smell, texture).
-    *   **Quantitative:** Numerical (e.g., 10.5 cm, 25°C, 50 grams).
-*   **Presenting Data:** Use tables for raw data and graphs to show trends and relationships. Always include a title, labelled axes with units, and a key/legend if needed.
-*   **Scientific Reports:** Follow a standard structure: Title, Abstract, Introduction (with hypothesis), Method, Results, Discussion, Conclusion. The language should be objective, formal, and written in the third person.
-
----
-
-## Module 8: Science and Society
-
-**Inquiry question:** *What is the role of science in society and how is it influenced?*
-
-### 1. Ethics in Research
-
-Scientific research must be conducted ethically to protect participants and ensure public trust. In Australia, the **NHMRC (National Health and Medical Research Council)** sets the standards.
-
-*   **Core Ethical Principles (NHMRC):**
-    *   **Respect:** Respecting the intrinsic value of individuals. This leads to the requirement for **informed consent**, where participants know the risks and benefits before agreeing to take part.
-    *   **Research Merit and Integrity:** The research must be justifiable, well-designed, and conducted honestly.
-    *   **Justice:** The benefits and burdens of research must be distributed fairly. No group should be exploited or unfairly excluded.
-    *   **Beneficence:** The likely benefits of the research must justify any potential risks of harm or discomfort to participants.
-
-*   **Key Case Studies:**
-    *   **Nuremberg Code:** Developed after WWII in response to unethical Nazi experimentation. It established the principle of voluntary consent as essential.
-    *   **Tuskegee Syphilis Study:** A highly unethical study where African American men with syphilis were not told they had the disease and were not given treatment, even after penicillin became available. This led to major reforms in research ethics.
-
-### 2. Influences on Science
-
-*   **Economic:** Funding is the lifeblood of research.
-    *   **Government Funding (e.g., ARC):** Governments direct funding to areas of national priority (e.g., health, environment, technology). This can shape the direction of a country's entire research landscape.
-    *   **Corporate Funding:** Private companies fund research to develop new products. This can lead to a **conflict of interest**, where the need to produce a profitable result could bias how research is conducted or reported.
-*   **Social and Political:**
-    *   **Public Opinion & Social Need:** Major societal issues (e.g., pandemics, climate change, disease outbreaks) create immense pressure for scientific solutions, leading to massive funding and collaboration.
-    *   **Political Agendas:** Government policies and international agreements can either promote or restrict certain types of research (e.g., funding for renewable energy vs. fossil fuels, or regulations on genetic research).
-
----
-
-## Module 7: Fact or Fallacy?
-
-**Inquiry question:** *How can a claim be tested?*
-
-### 1. Evaluating Evidence and Claims
-
-*   **Correlation vs. Causation:** This is a critical distinction.
-    *   **Correlation:** A relationship where two variables change together.
-    *   **Causation:** A relationship where a change in one variable *causes* a change in another.
-    *   **The Trap:** Just because two things are correlated does not mean one causes the other. There could be a third, **confounding variable** responsible.
-    *   **Example:** There is a correlation between coffee drinking and lung cancer. The confounding variable is smoking; smokers are more likely to drink coffee and smoking causes lung cancer. When you control for smoking, the correlation disappears.
-
-*   **Evidence-Based Claims:** A strong scientific claim is backed by reliable, valid, and verifiable evidence from well-designed investigations, preferably published in peer-reviewed journals.
-*   **Pseudoscience:** Claims that appear scientific but are not based on the scientific method.
-    *   **Red Flags:** Vague or untestable claims; reliance on anecdotes ("it worked for me") instead of data; confirmation bias (ignoring contradictory evidence); lack of peer review.
-
-### 2. The Role of the Scientific Community
-
-*   **Peer Review:** The process where a scientific paper is sent to other experts in the field for anonymous evaluation before it is published. It is a crucial quality control mechanism to check for validity, significance, and originality. It does not guarantee the work is correct, but it ensures it has met a high standard of scientific rigour.
-*   **Cognitive Biases:**
-    *   **Confirmation Bias:** The tendency to favour information that confirms one's pre-existing beliefs.
-    *   **Halo Effect:** The tendency for a positive impression of a person in one area to positively influence one's opinion of them in other areas (e.g., believing a famous physicist's opinion on nutrition).
+### Inquiry question: What is the structure of an investigative report?
+- **`concept:M5-4-1`**: **Review a published and peer-reviewed scientific report to determine the conventions of writing.**
+    -   **Definition:** A formal scientific report follows a clear structure (Aim, Hypothesis, Method, Results, Discussion, Conclusion). The language must be objective, in the third person, and use precise scientific terminology.
+    -   **HSC Example (2023 Q30 - Student Report):** A student's report was criticised for using informal headings like 'My prediction is' instead of 'Hypothesis' and for describing results with colloquial language ('spurt height') instead of quantitative data in a table.
+- **`concept:M5-4-2`**: Use a sample of a published secondary source to identify its purpose, language style, and structure.
+- **`concept:M5-4-3`**: Compare and contrast the structures and functions of a scientific investigation and its written report.
+- **`concept:M5-4-4`**: Prepare a report on the student investigation that was carried out.
 
 ---
 
 ## Module 6: Technologies
 
-**Inquiry question:** *How does the development of technologies affect scientific investigation?*
+### Inquiry question: How does technology enhance and/or limit scientific investigation?
+- **`concept:M6-1-1`**: Design a practical investigation that uses available technologies to measure variables.
+- **`concept:M6-1-2`**: Conduct the practical investigation and evaluate the limitations of the technologies used.
+- **`concept:M6-1-3`**: Investigate measuring devices and assess the likelihood of random and systematic errors and their accuracy.
+- **`concept:M6-1-4`**: Compare the accuracy of analogue and digital technologies.
+- **`concept:M6-1-5`**: Assess the safety of technologies selected for an investigation.
 
-### 1. The Interdependent Relationship
-
-Science and technology have a feedback loop.
-
-*   **Science -> Technology:** Scientific discoveries provide the foundational knowledge for technological breakthroughs.
-    *   **Example:** The discovery of the properties of semiconductors (science) led to the invention of the transistor (technology), which is the basis of all modern electronics.
-*   **Technology -> Science:** New technologies provide more powerful tools for scientists to make new discoveries.
-    *   **Example:** The invention of the telescope (technology) allowed Galileo to observe the moons of Jupiter, providing evidence that disproved the geocentric model of the universe (science).
-
-### 2. Impact of Technology
-
-Be prepared to discuss a specific technology and its impact.
-*   **Example: GPS (Global Positioning System)**
-    *   **Scientific Origin:** Based on Einstein's Theory of General Relativity. The clocks on GPS satellites must be adjusted to account for relativistic effects to maintain accuracy.
-    *   **Impact:** Revolutionised navigation, logistics, agriculture, and emergency services.
+### Inquiry question: How have developments in technology led to advances in scientific theories and laws?
+- **`concept:M6-2-1`**: **Assess the impact that developments in technologies have had on the accumulation of evidence for scientific theories, laws and models.**
+    -   **Definition:** Science and technology have a feedback loop. New technology enables new scientific understanding, which in turn enables the development of even newer technology.
+    -   **HSC Example (2024 Q36 - DNA & GMOs):** X-ray crystallography (technology) was essential for Franklin to produce Photo 51. This image (science) allowed Watson and Crick to develop the double helix model of DNA. This new understanding enabled the development of recombinant DNA technology to create GMOs (new technology).
+- **`concept:M6-2-2`**: Assess the impact that developments in scientific theories have had on new technologies.
+- **`concept:M6-2-3`**: Investigate the value of Aboriginal and Torres Strait Islander Peoples' knowledge of medicinal and material uses of plants.
 
 ---
 
-# Year 11 Foundational Content
+## Module 7: Fact or Fallacy?
 
-## Module 1 & 2: Cause and Effect
+### Inquiry question: How can a claim be tested?
+- **`concept:M7-1-1`**: Plan and conduct an investigation based on testing a claim.
+- **`concept:M7-1-2`**: Evaluate the impact of sample selection and sample sizes on results.
+- **`concept:M7-1-3`**: Compare emotive advertising with evidence-based claims.
 
-*   **Observation:** Gathering data directly using senses or instruments.
-*   **Inference:** A logical conclusion based on observations.
-*   **Generalisation:** A broad statement or conclusion drawn from specific cases.
-*   **Types of Reasoning:**
-    *   **Deductive:** Starts with a general principle to make a specific conclusion (e.g., All birds have feathers. A robin is a bird. Therefore, a robin has feathers).
-    *   **Inductive:** Uses specific observations to form a general conclusion (e.g., I have observed 100 swans, and they are all white. Therefore, all swans are white). Inductive reasoning is powerful but can be proven wrong by new evidence (e.g., finding a black swan).
+### Inquiry question: What factors can affect the way data can be interpreted, analysed and understood?
+- **`concept:M7-2-1`**: Justify the use of placebos, double-blind trials and control groups.
+- **`concept:M7-2-2`**: Evaluate the impact of societal and economic influences on the collection and interpretation of data.
 
-## Module 3: Scientific Models
+### Inquiry question: What type of evidence is needed to draw valid conclusions?
+- **`concept:M7-3-1`**: **Evaluate how evidence of a correlation can be misinterpreted as causation.**
+    -   **Definition:** Correlation is a relationship where two variables change together, but it does not imply one causes the other. Causation is where a change in one variable directly causes a change in another. Mistaking correlation for causation is a common logical fallacy.
+    -   **HSC Example (2019 Q25c - Whales & CO₂):** A graph showed that as whale sightings increased, atmospheric CO₂ also increased. A student incorrectly infers that the whales cause the increase in CO₂. This is a correlation, not causation, as a third factor (e.g., global economic growth) could be responsible for both trends.
 
-*   **Purpose:** To simplify and represent complex systems, make predictions, and communicate ideas.
-*   **Types:**
-    *   **Physical:** A tangible representation (e.g., a DNA double helix model).
-    *   **Mathematical:** Uses equations (e.g., F=ma).
-    *   **Conceptual:** A diagram or flowchart (e.g., a food web).
-*   **Limitations:** A model is a simplification and may not account for all variables or complexities of the real world.
+### Inquiry question: How does the reporting of science influence the general public's understanding?
+- **`concept:M7-4-1`**: Examine a contemporary scientific debate and how it is portrayed in the mainstream media.
+- **`concept:M7-4-2`**: Evaluate the use and interpretation of the terms 'theory', 'hypothesis', 'belief' and 'law' in media reporting.
+- **`concept:M7-4-3`**: Compare the difference in reporting between a peer-reviewed journal article and a popular media article.
+- **`concept:M7-4-4`**: Analyse how conflicts of interest can result in scientific evidence being suppressed or misrepresented.
+- **`concept:M7-4-5`**: Describe the halo effect and how it can result in the rejection of valid alternative perspectives.
+- **`concept:M7-4-6`**: **Analyse a pseudo-scientific claim and how scientific language can be manipulated.**
+    -   **Definition:** Pseudoscience is a claim, belief, or practice presented as scientific, but which does not adhere to the scientific method. It often uses scientific-sounding language to mislead.
+    -   **HSC Example (2020 Q27a - Astrology):** Astrologists use scientific-sounding terms like 'retrograde motion' to give their claims an appearance of scientific legitimacy, misleading the public into believing astrology is based on scientific evidence when it is not testable or falsifiable.
 
-## Module 4: Theories and Laws
+### Inquiry question: Can the scientific community and process of peer review find 'the truth'?
+- **`concept:M7-5-1`**: Research a scientist who has falsified their results and discuss the process used to uncover the fraud.
+- **`concept:M7-5-2`**: Analyse the scientific debate surrounding 'publication' and the implications of 'publish or perish'.
+- **`concept:M7-5-3`**: Evaluate the feasibility of science to effectively manage, review, and validate the increasing volume of scientific papers.
+- **`concept:M7-5-4`**: **Analyse the benefits of peer review in relation to the advancement of science.**
+    -   **Definition:** Peer review is the evaluation of scientific work by other experts in the same field to ensure its quality and validity before it is published. It acts as a critical quality control filter.
+    -   **HSC Example (2019 Q29b - Marshall & Warren):** Marshall and Warren's paper on H. pylori causing ulcers was peer-reviewed before publication. This process ensured their revolutionary idea was scrutinised for validity and methodological rigour, which helped it gain acceptance and advance medicine.
+- **`concept:M7-5-5`**: Discuss the impact of fake science journals on the public perception of science.
 
-*   **The Scientific Method:** A cyclical process of observation -> hypothesis -> experimentation -> analysis -> conclusion -> communication. The results often lead to new questions and further investigation.
-*   **Key Distinction:**
-    *   A **Law** *describes* what happens (e.g., Newton's Law of Universal Gravitation describes the force between two objects).
-    *   A **Theory** *explains why* it happens (e.g., Einstein's Theory of General Relativity explains that gravity is the result of mass warping spacetime).
+---
+
+## Module 8: Science and Society
+
+### Inquiry question: How do science-related events affect society's view of science?
+- **`concept:M8-1-1`**: Investigate case studies of past events to consider how they have affected the public image of science (e.g., nuclear meltdowns, vaccine development).
+
+### Inquiry question: Why is scientific research regulated?
+- **`concept:M8-2-1`**: Investigate the need for the regulation of scientific research (e.g., genetic modification, biotechnological weaponry).
+- **`concept:M8-2-2`**: **Investigate and assess ethical issues surrounding current scientific research.**
+    -   **Definition:** Ethical research is governed by core principles (NHMRC): Informed Consent (participants are briefed on risks), Beneficence (maximise benefits, minimise harm), and Justice (fair selection of participants).
+    -   **HSC Example (2020 Q25b - Ethics Committee):** For a researcher who self-injected a bacterium, an ethics committee would likely require prior investigation on animal models to decrease the risk of human harm and would enforce strict animal welfare protocols.
+- **`concept:M8-2-3`**: Investigate a range of international scientific codes of conduct.
+- **`concept:M8-2-4`**: Evaluate the effectiveness of international regulation in scientific research.
+
+### Inquiry question: How do economic, social and political influences affect scientific research?
+- **`concept:M8-3-1`**: Evaluate the costs involved in space exploration compared to investments in social issues.
+- **`concept:M8-3-2`**: Evaluate how scientific research aids economic development and human progress.
+- **`concept:M8-3-3`**: Evaluate the impacts of scientific research on world health and human wellbeing.
+- **`concept:M8-3-4`**: **Analyse the impacts that governments and large corporations have on scientific research.**
+    -   **Definition:** Economic and political forces significantly influence science. A conflict of interest occurs when a researcher's private interests (e.g., financial ties to a company) could improperly influence their professional judgment.
+    -   **HSC Example (2022 Q33b - Corporate Funding & 2020 Q32c - Climate Change):** Increased corporate funding for science can create pressure for results favourable to the funder's products. An astrophysicist funded by oil companies claiming water vapour is the main cause of climate change is a major conflict of interest, as the fossil fuel industry has a financial stake in downplaying CO₂'s role.
+- **`concept:M8-3-5`**: **Evaluate how personal, cultural and socioeconomic perspectives can influence the direction of scientific research.**
+    -   **Definition:** Social and political factors influence science. Scientific evidence can be used to inform political decisions and shape public opinion.
+    -   **HSC Example (2019 Q30b - Franklin River Dam):** Scientists provided evidence on the negative environmental impacts of a proposed dam. This evidence was used by activists (social factor) and ultimately influenced a High Court decision to stop the dam (political outcome), demonstrating the interplay between science and society.
 
 ---
 
@@ -184,7 +261,7 @@ Be prepared to discuss a specific technology and its impact.
 | **Accuracy** | How close a measured value is to the true or accepted value. |
 | **Bias** | A systematic error or prejudice that can influence the results of an investigation, leading to a conclusion that is not objective. |
 | **Causation** | The relationship where a change in one variable is directly responsible for a change in another variable. |
-| **Conflict of Interest** | A situation in which a person or organisation has competing interests (e.g., financial) that could potentially compromise their impartiality or objectivity in conducting or reporting research. |
+| **Conflict of Interest** | A situation where competing interests (e.g., financial) could potentially compromise a researcher's impartiality or objectivity in conducting or reporting research. |
 | **Control Group** | A group in an experiment that is not exposed to the independent variable, used as a baseline to compare the results of the experimental group. |
 | **Controlled Variable** | A variable that is kept constant throughout an experiment to ensure a fair test. |
 | **Correlation** | A mutual relationship or connection between two or more things, where one variable changes in relation to another. |

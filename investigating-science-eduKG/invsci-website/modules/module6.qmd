@@ -1,0 +1,20 @@
+---
+title: "Module 6: Technologies"
+---
+
+## Inquiry question: How does technology enhance and/or limit scientific investigation?
+
+- **`concept:M6-1-1`**: design a practical investigation that uses available technologies to measure both the independent and dependent variables that produce quantitative data
+  - **Practical Example:** Effect of Temperature on Reaction Rate - A common investigation involves observing the effect of temperature on the brightness of a glow stick. The experiment uses beakers of water at different temperatures (iced, room temperature, warm) to demonstrate that higher temperatures lead to a faster reaction rate (brighter glow).
+- **`concept:M6-1-2`**: conduct the practical investigation to obtain relevant data and evaluate the limitations of the technologies used
+- **`concept:M6-1-3`**: investigate the range of measuring devices used in the practical investigation and assess the likelihood of random and systematic errors and the devices' degree of accuracy
+- **`concept:M6-1-4`**: using specific examples, compare the accuracy of analogue and digital technologies in making observations
+- **`concept:M6-1-5`**: assess the safety of technologies selected for the practical investigation by using chemical safety data and Work Health and Safety guidelines
+
+## Inquiry question: How have developments in technology led to advances in scientific theories and laws that, in turn, drive the need for further developments in technology?
+
+- **`concept:M6-2-1`**: using examples, assess the impact that developments in technologies have had on the accumulation of evidence for scientific theories, laws and models
+  - **Definition:** Science and technology have a feedback loop. New technology enables new scientific understanding, which in turn enables the development of even newer technology.
+  - **HSC Example (2024 Q36 - DNA & GMOs):** X-ray crystallography (technology) was essential for Franklin to produce Photo 51. This image (science) allowed Watson and Crick to develop the double helix model of DNA. This new understanding enabled the development of recombinant DNA technology to create GMOs (new technology).
+- **`concept:M6-2-2`**: using examples, assess the impact that developments in scientific theories, laws and models have had on the development of new technologies
+- **`concept:M6-2-3`**: investigate scientists' increasing awareness of the value of Aboriginal and Torres Strait Islander Peoples' knowledge and understanding of the medicinal and material uses of plants
