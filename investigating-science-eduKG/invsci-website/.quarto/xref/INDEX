@@ -1,0 +1,32 @@
+{
+  "about.qmd": {
+    "about.html": "8808e454"
+  },
+  "group-chat.qmd": {
+    "group-chat.html": "248ea706"
+  },
+  "index.qmd": {
+    "index.html": "1e0a5859"
+  },
+  "modules/module5.qmd": {
+    "module5.html": "2f480908"
+  },
+  "modules/module6.qmd": {
+    "module6.html": "430ad53e"
+  },
+  "modules/module7.qmd": {
+    "module7.html": "85e905a5"
+  },
+  "modules/module8.qmd": {
+    "module8.html": "2a86ee28"
+  },
+  "planning.qmd": {
+    "planning.html": "a7a13364"
+  },
+  "study-methodology.qmd": {
+    "study-methodology.html": "84ed4d38"
+  },
+  "tracking.qmd": {
+    "tracking.html": "89c1d9db"
+  }
+}
