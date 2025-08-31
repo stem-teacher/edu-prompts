@@ -1,0 +1,17 @@
+name: Dispatch Website Build
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Dispatch to inv-sci repository
+        uses: peter-evans/repository-dispatch@v1
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
+          repository: stem-teacher/inv-sci
+          event-type: update-kg
