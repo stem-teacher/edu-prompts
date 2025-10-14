@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "tracking.html",
+    "href": "tracking.html",
+    "title": "Tracking",
+    "section": "",
+    "text": "This section will provide tools to track your progress through the syllabus and practice questions.\n(Content to be added)"
+  },
+  {
+    "objectID": "planning.html",
+    "href": "planning.html",
+    "title": "Planning",
+    "section": "",
+    "text": "This section will feature tools and templates to help you plan your study schedule and revision.\n(Content to be added)"
+  },
+  {
+    "objectID": "group-chat.html",
+    "href": "group-chat.html",
+    "title": "Group Chat",
+    "section": "",
+    "text": "This page will host an embedded group chat for students to discuss topics and ask questions.\n(Integration to be added)"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to the HSC Investigating Science Hub",
+    "section": "",
+    "text": "This website is a comprehensive, data-driven resource for students of the NSW HSC Investigating Science course. It has been automatically generated from a central Knowledge Graph, ensuring that the content is directly aligned with the NESA syllabus.\n\nKey Features:\n\nComplete Syllabus Coverage: Detailed notes for all Year 12 Modules (5-8).\nExam-Mapped Content: Key concepts are linked directly to examples from past HSC exams, showing you how they are assessed.\nStructured Learning: Content is organized by Inquiry Questions, mirroring the syllabus structure.\n\nUse the navigation bar to explore the modules and study tools."
+  },
+  {
+    "objectID": "study-methodology.html",
+    "href": "study-methodology.html",
+    "title": "Study Methodology",
+    "section": "",
+    "text": "This section will provide detailed advice and strategies for studying Investigating Science effectively.\n(Content to be added)"
+  }
+]

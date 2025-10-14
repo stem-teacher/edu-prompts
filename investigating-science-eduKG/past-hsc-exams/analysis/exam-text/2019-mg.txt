@@ -1,0 +1,747 @@
+NSW Education Standards Authority
+
+
+
+
+2019 HSC Investigating Science
+Marking Guidelines
+
+
+Section I
+
+Multiple-choice Answer Key
+
+   Question       Answer
+       1              D
+       2              C
+       3              A
+       4              B
+       5              C
+       6              D
+       7              A
+       8              A
+       9              D
+      10              A
+      11              C
+      12              A
+      13              B
+      14              C
+      15              C
+      16              A
+      17              C
+      18              B
+      19              D
+      20              B
+
+
+
+
+                                    Page 1 of 17
+NESA   2019 HSC   Investigating Science   Marking Guidelines
+
+
+Section II
+
+Question 21 (a)
+Criteria                                                                          Marks
+• Provides a correct observation
+                                                                                     2
+• Relates observation to peptic ulcers
+• Provides some relevant information                                                 1
+
+Sample answer:
+A significant number of gastric tissue samples from patients with peptic ulcers were observed
+to contain high levels of a specific type of bacteria.
+
+
+
+Question 21 (b)
+Criteria                                                                          Marks
+• Provides a correct methodology                                                     4
+• Provides a substantially correct methodology                                       3
+• Provides some correct methodology                                                  2
+• Provides some relevant information                                                 1
+
+Sample answer:
+Spiral bacteria were isolated from peptic ulcer patients.
+Marshall was tested for the presence of the spiral bacteria and was found not to have the
+spiral bacteria.
+Marshall ingested the spiral bacteria.
+Marshall developed symptoms including nausea and vomiting.
+Biopsy showed gastritis and high levels of the spiral bacteria.
+Marshall was treated with antibiotics, the spiral bacteria disappeared and the gastritis
+ceased.
+
+
+
+
+                                                                                  Page 2 of 17
+NESA   2019 HSC   Investigating Science   Marking Guidelines
+
+
+Question 22 (a)
+Criteria                                                                           Marks
+• Shows correct variables on correct axes
+                                                                                      2
+• Provides correct shape of graph
+• Shows correct variables and shape of graph
+OR
+• Correct speed vs time or distance vs time graph                                     1
+OR
+• Shows correct variables on correct axes
+
+Sample answer:
+
+
+
+
+Question 22 (b)
+Criteria                                                                           Marks
+• Provides a reason why time must be kept constant                                    2
+• States that time must be kept constant                                              1
+
+Sample answer:
+Time is the variable that should be kept constant because distance travelled is proportional
+to both the speed and the time. In a valid experiment there must only be one independent
+variable.
+
+Note to markers: No other variables/controls should be accepted eg type of car, road
+surface, friction.
+
+
+
+
+                                                                                   Page 3 of 17
+NESA   2019 HSC   Investigating Science   Marking Guidelines
+
+
+Question 23
+Criteria                                                                           Marks
+• Provides correct, logical sequence of steps to test the hypothesis,
+  including addressing relevant safety considerations AND factors which
+  ensure validity                                                                     6
+• Demonstrates how to calculate rate
+• Provides substantially correct, logical sequence of steps to test the
+  hypothesis, including addressing relevant safety considerations AND
+  factors which ensure validity                                                       5
+• Shows some understanding of how to calculate rate
+• Provides substantially correct, logical sequence of steps to test the
+  hypothesis, including safety considerations AND a factor ensuring validity          4
+• Outlines how relevant data is collected to allow rate to be calculated
+• Provides a sequence of steps, including safety OR validity OR how data
+                                                                                      3
+  is collected
+• Provides a sequence of steps
+OR                                                                                    2
+• Addresses safety OR validity OR how data is collected
+• Provides some relevant information                                                  1
+
+Sample answer:
+Choose an effervescent antacid tablet as it is safe to use, non-toxic and safe to handle. The
+tablets are also all the same size and mass. Antacid tablets produce a visible chemical
+reaction and so the time taken for the tablet to completely react could be measured.
+
+Add iced water to Beaker 1 and an equal volume of hot water to Beaker 2. Place a tablet in
+each beaker and use a stopwatch to time how long it takes for the tablets to completely
+react.
+
+The rate of reaction of the tablets can be determined by dividing the mass of the tablets by
+the time taken to completely react.
+
+
+
+Question 24 (a)
+Criteria                                                                           Marks
+• Provides a testable statement                                                       1
+
+Sample answer:
+Using a mobile phone while using a racing car simulation game causes more driving errors.
+
+
+
+
+                                                                                    Page 4 of 17
+NESA   2019 HSC   Investigating Science   Marking Guidelines
+
+
+Question 24 (b)
+Criteria                                                                             Marks
+• Provides TWO relevant problems
+                                                                                        3
+• Provides a reason why each is a problem
+• Provides ONE relevant problem
+• Provides a reason why it is a problem
+                                                                                        2
+OR
+• Provides TWO relevant problems
+• Provides ONE relevant problem                                                         1
+
+Sample answer:
+Students used may not have similar experience in the game and therefore testing the effect
+of the distraction would not be a fair test. The sample size of two students is too small and so
+the results are unreliable.
+
+
+
+Question 24 (c)
+Criteria                                                                             Marks
+• Provides a judgement of relevance with reference to similarities and/or
+                                                                                        3
+  differences between the method and the researcher’s aim
+• Provides a judgement of relevance with reference to a similarity or a
+  difference between the method and the researcher’s aim
+OR                                                                                      2
+• Provides similarities and/or differences between the method and the
+  researcher’s aim
+• Identifies a relevant feature of the method or the researcher’s aim                   1
+
+Sample answer:
+Processing visual information and hand-eye coordination are features common to the
+simulation and driving. Hence testing for the effect of texting on driving in a simulator may be
+applicable to driving, therefore indicating the method could be relevant. However, the
+absence of real consequences when using the simulator may make the method less relevant
+to a real driving experience.
+
+
+
+Question 25 (a)
+Criteria                                                                             Marks
+• Provides an appropriate straight line of best fit
+• LOBF has approximately 50% of points above and below                                  1
+• Line cannot just join first and last data points
+
+
+
+
+                                                                                     Page 5 of 17
+NESA   2019 HSC   Investigating Science   Marking Guidelines
+
+
+Question 25 (b)
+Criteria                                                                         Marks
+• Plots points correctly with appropriate scale                                    2
+• Plots some points correctly
+OR                                                                                 1
+• Appropriate scale given
+
+Sample answer (a) and (b):
+
+
+
+
+Question 25 (c)
+Criteria                                                                         Marks
+• Provides a plausible inference
+                                                                                   2
+• Relates inference to data from the graph
+• Provides a plausible inference
+OR                                                                                 1
+• Provides relevant information from graph
+
+Sample answer:
+From the graph both carbon dioxide concentration and whale sightings increased in a similar
+manner over the time period. Therefore, it could be inferred that increased numbers of
+whales cause an increase in atmospheric carbon dioxide.
+
+
+
+
+                                                                                 Page 6 of 17
+NESA   2019 HSC   Investigating Science   Marking Guidelines
+
+
+Question 25 (d)
+Criteria                                                                          Marks
+• Identifies TWO factors that show a correlation
+• Provides a reason why it was thought that there was a cause and effect
+                                                                                     4
+  relationship
+• Clearly indicates a lack of valid causation
+• Identifies TWO factors that show a correlation
+• Provides a reason why it was thought that there was a cause and effect
+  relationship
+                                                                                     3
+OR
+• Identifies TWO factors that show a correlation
+• Clearly indicates a lack of valid causation
+• Demonstrates some understanding of a cause and effect relationship                 2
+• Provides some relevant information                                                 1
+
+Sample answer:
+It was observed that glass panes in old buildings, many hundreds of year old, were thicker at
+the bottom than at the top. It was thought this was caused by the glass slowly flowing
+downwards as a fluid, due to gravity. It is now known that this is a correlation, but not a
+causation, as glassmakers would orient the thicker section of glass at the bottom to better
+support the weight of the window.
+
+
+
+
+                                                                                   Page 7 of 17
+NESA   2019 HSC   Investigating Science   Marking Guidelines
+
+
+Question 26
+Criteria                                                                       Marks
+• Identifies gases or other nutrients as being necessary for plant growth
+                                                                                  3
+• Provides, with some detail, a process to correct an identified flaw
+• Identifies a flaw in the experiment
+• Identifies ONE variable that needed to be measured
+OR
+• Identifies gases or other nutrients as being necessary for plant growth         2
+• Identifies a flaw in the experiment
+OR
+• Outlines a way to correct an identified flaw
+• Identifies a flaw
+OR
+• Identifies a variable to measure                                                1
+OR
+• Identifies gases involved
+
+Sample answer:
+Van Helmont did not realise that gases were used and produced by growing plants so could
+not measure them at the time.
+
+Since we now know that plant growth involves photosynthesis, scientists today would
+accurately measure the total mass of the gases (carbon dioxide and oxygen) throughout the
+experiment. This would be compared to the initial and final masses of the plants.
+
+
+
+Question 27 (a)
+Criteria                                                                       Marks
+• Provides the specific medicinal use of an identified plant used by
+                                                                                  2
+  Aboriginal or Torres Strait Islander Peoples
+• Identifies a plant
+OR                                                                                1
+• Provides a medicinal use
+
+Sample answer:
+The crushed leaves from tea-trees were used as a paste to treat infections.
+
+
+
+
+                                                                                Page 8 of 17
+NESA   2019 HSC   Investigating Science   Marking Guidelines
+
+
+Question 27 (b)
+Criteria                                                                           Marks
+• Identifies an Australian plant
+                                                                                      2
+• Provides information that relates this plant to a new drug treatment
+• Identifies an Australian plant currently or with potential to be used
+                                                                                      1
+  medicinally
+
+Sample answer:
+An Australian plant (species 8473) is being investigated by QUT. It was found that chemicals
+in this species are a potential treatment for the dengue fever.
+
+
+
+Question 28
+Criteria                                                                           Marks
+• Provides detailed examples of misrepresentation and/or misinterpretation
+  and/or suppression
+                                                                                      7
+• Describes issues associated with the misuse of scientific evidence
+• Produces a logical, coherent discussion of the issues
+• Provides examples of misrepresentation and/or misinterpretation and/or
+  suppression                                                                       5–6
+• Describes issue(s) associated with the misuse of scientific evidence
+• Provides example(s) of misuse
+                                                                                    3–4
+• Describes issue(s) associated with the misuse of scientific evidence
+• Provides relevant example(s)
+OR                                                                                  1–2
+• Outlines issue(s) associated with the misuse of scientific evidence
+
+Sample answer:
+There was a conflict between the tobacco industry and knowledge of tobacco’s link to lung
+cancer. If it became widespread public knowledge, large amounts of revenue could be lost by
+the companies and there could be potential litigation for compensation from victims. This led
+the tobacco industry to misrepresent and suppress the scientific evidence.
+
+The tobacco industry misrepresented information about lung cancer. For example, in the
+1950s, a group of tobacco companies such as Phillip Morris, Brown and Williamson stated
+that ‘there is no conclusive scientific proof of a link between smoking and cancer. Medical
+research points to many possible causes of cancer.’ This was published in hundreds of
+newspapers across America. There was a deliberate conspiracy between tobacco
+companies to misrepresent the data.
+
+In addition, scientific evidence was suppressed. For example, the research division for the
+RJ Reynolds tobacco company was shut down in 1970 by the company’s legal department in
+order to prevent further research when it appeared that there may be a link between smoking
+and lung cancer.
+
+
+
+
+                                                                                   Page 9 of 17
+NESA   2019 HSC   Investigating Science   Marking Guidelines
+
+
+Question 29 (a)
+Criteria                                                                          Marks
+• Correctly identifies the requirement                                              1
+
+Sample answer:
+The person would need to be an expert in the field.
+
+
+
+Question 29 (b)
+Criteria                                                                          Marks
+• Provides positive effects of peer review on the advancement of science
+                                                                                    4
+• Includes a specific example
+• Provides a positive effect of peer review on the advancement of science
+• Includes a specific example
+OR
+• Provides positive effects of peer review on the advancement of science             3
+OR
+• Provides positive effects of peer review
+• Includes a general example
+• Provides a positive effect of peer review on the advancement of science
+OR                                                                                   2
+• Outlines an example
+• Provides some relevant information                                                1
+
+Sample answer:
+Peer-review establishes whether an investigation, its results and conclusions are valid. It
+permits researchers in the field to provide suggestions to the author to improve their
+experiment prior to publication. This allows the field of science to be advanced in that it
+promotes the production of accurate information and helps to reduce the effects of predatory
+journals. For example, Marshall and Warren’s paper was peer-reviewed prior to its
+publication in The Lancet which helped to advance the field of biology and changed the way
+in which peptic ulcers are treated.
+
+
+
+
+                                                                                 Page 10 of 17
+NESA   2019 HSC   Investigating Science   Marking Guidelines
+
+
+Question 30 (a)
+Criteria                                                                             Marks
+• Names an appropriate river
+                                                                                          2
+• Identifies both a positive and a negative factor involved
+• Names an appropriate river
+OR                                                                                        1
+• Identifies a positive and negative factor
+
+Sample answer:
+
+ Name of river: Franklin River
+ Positive aspect of damming                          Negative aspect of damming
+ It would provide hydroelectricity                   Flooding would destroy a number of
+                                                     organisms and their habitats
+
+
+
+
+Question 30 (b)
+Criteria                                                                             Marks
+• Identifies issues in detail that relate to the damming project
+• Outlines links between these issues and the public image of science                     4
+• Draws out implications of these issues
+• Identifies issue(s) relating to the damming project
+                                                                                          3
+• Identifies a link between the issue(s) and the public image of science
+• Identifies some issues relating to a damming project
+OR                                                                                        2
+• Identifies a link between an issue and the public image of science
+• Provides some relevant information                                                      1
+
+Sample answer:
+The project to dam the Franklin River polarised the population, and scientific information
+allowed those that were undecided to choose whether to accept or reject the science behind
+the project.
+
+For those that did not support the damming, the public image of environmental science was
+improved, since environmental information was provided by scientists, rather than just
+economic factors being considered. This showed the negative impacts that would result from
+damming the river. The consequence was that the High Court was persuaded by the
+scientific arguments, and upheld the public image of science.
+
+For those that did support the damming, it lowered the public image of science, as the
+scientific opinion went against economic and industrial progress. Some supporters of the
+project tried to belittle scientists and suggest that the science was wrong or misinformed.
+
+
+
+
+                                                                                     Page 11 of 17
+NESA   2019 HSC   Investigating Science   Marking Guidelines
+
+
+Question 31
+Criteria                                                                            Marks
+• Identifies both phenomena
+• Provides details demonstrating understanding of the application of each              4
+  phenomenon in new telescope technology
+• Identifies both phenomena
+• Shows some understanding of the application of each phenomenon in                    3
+  new telescope technology
+• Identifies a phenomenon
+• Shows some understanding of the application of this phenomenon in                    2
+  telescopes
+• Provides some relevant information                                                   1
+
+Sample answer:
+Phenomenon A is reflection.
+Phenomenon B is refraction.
+
+Modern reflecting telescopes can make use of both phenomena. A laser can be shone
+through the atmosphere. The atmosphere refracts the laser beam. The distortion this
+produces can be monitored and used to correct for atmospheric distortion of light entering
+the telescope. This can be done by rapidly changing the shape of the telescope’s mirrors.
+Light entering the telescope strikes the mirrors, and the adaptive optics cause the reflected
+light to be focused on the detector.
+
+
+
+
+                                                                                   Page 12 of 17
+NESA   2019 HSC   Investigating Science   Marking Guidelines
+
+
+Question 32
+Criteria                                                                               Marks
+• Identifies a device
+• Outlines its applications including examples
+                                                                                          6
+• Outlines a positive and negative impact of its use
+• Provides an evaluation and supports it with evidence
+• Identifies a device
+• Outlines its application(s)
+                                                                                         4–5
+• Outlines a positive AND/OR negative impact of its use
+• May include an evaluation
+• Identifies a device and an application
+OR                                                                                       2–3
+• Identifies a device and outlines an impact of its use
+• Provides some relevant information                                                      1
+
+Sample answer:
+An endoscope is composed of a small camera on a flexible lead that can be used in many
+locations, including being inserted via a patient’s mouth and used to observe the digestive
+tract for ulcers. Some endoscopes are only for observations, while others can be used to
+complete the surgery eg to remove polyps. The impact of this device is that it has led to
+reduced morbidity and mortality resulting from diagnostic surgery, since it is much less
+invasive and leads to faster recovery.
+
+Negative impacts include transfer of infections if the device is not sterilised, and internal
+perforations leading to complications such as infections and death.
+
+Overall, the positive impacts of the endoscope outweigh the negative impacts, thus
+endoscopes have been beneficial to human health.
+
+
+
+Question 33 (a)
+Criteria                                                                               Marks
+• Provides a current example
+• Links the example to the ethical issue                                                  3
+• Provides a reason for it being an ethical issue
+• Identifies an ethical issue in scientific research OR identifies an example
+                                                                                          2
+• Identifies why it is an ethical issue
+• Identifies an ethical issue OR identifies an example                                    1
+
+Sample answer:
+Scientific research into new pharmaceuticals can lead to ethical issues. For example,
+medical trials will often involve giving some patients a placebo and other patients the drug
+being trialled. Patients need to consent to the trial, otherwise it could be considered unethical
+to give a patient a placebo, since it is known that it will not help the patient.
+
+
+
+
+                                                                                      Page 13 of 17
+NESA   2019 HSC   Investigating Science   Marking Guidelines
+
+
+Question 33 (b)
+Criteria                                                                            Marks
+• Outlines a protocol/code of conduct
+• Provides an evaluation of the effectiveness of the protocol/code of
+                                                                                       3
+  conduct
+• Supports evaluation with evidence
+• Outlines a protocol/code of conduct
+                                                                                       2
+• Provides a limited evaluation
+• Outlines a protocol/code of conduct                                                  1
+
+Sample answer:
+Legislation is a very effective protocol that must be adhered to, for example, the NSW Animal
+Research Act 1985. This Act states that the welfare of the organisms to be experimented on
+must be considered before the research is conducted. Prior to 1985 it was acceptable
+practice for schools to raise mice for dissections. After the legislation was enacted, this was
+no longer permitted and does not occur in schools in NSW. Thus, the legislation has been
+very effective.
+
+Answers could include:
+International treaties eg Nuremburg Code.
+Guidelines provided by scientist’s employer.
+
+
+
+
+                                                                                   Page 14 of 17
+NESA   2019 HSC   Investigating Science   Marking Guidelines
+
+
+Question 34
+Criteria                                                                           Marks
+• Outlines an impact of government
+• Outlines an impact of a large corporation
+• Provides specific examples                                                          7
+• Relates the examples to the implications for scientific research
+• Produces a logical, coherent analysis
+• Outlines an impact of government
+• Outlines an impact of a large corporation
+                                                                                     5–6
+• Provides an example
+• Relates the example to the implications for scientific research
+• Outlines an impact of government OR a large corporation
+• Provides an example
+• Relates the example to the implications for scientific research
+                                                                                     3–4
+OR
+• Outlines an impact of government AND large corporation
+• Provides an example
+• Identifies an impact of government AND/OR large corporation AND/OR
+                                                                                     1–2
+  provides an example
+
+Sample answer:
+Grants, for example from the Australian Research Council (ARC), can be provided by the
+government to allow research to occur. The government funding may be skewed towards
+those projects that have immediate applications to Australia. For example, Discovery
+Projects from the ARC require Benefit and Impact Statements and encourage impacts such
+as broader job creation. An implication is that this may mean less funding for pure research.
+
+Large corporations have extensive budgets and can invest billions of dollars into a project.
+The Monsanto company, along with government money from Japan, China, USA, India
+committed money to IRGSP – International Rice Genome Sequencing Project. This may
+have far-reaching consequences for biotechnology allowing better rice production worldwide.
+
+However, the use of funding from large pharmaceutical companies may lead to favouring of
+studies that are from pharmaceutical-sponsored research. A review by Sydney University in
+2017 found that industry-sponsored studies are more likely to favour products such as
+pharmaceuticals and medical devices than non-industry funded research. This suggests
+there is bias in pharmaceutical-sponsored research that may influence the use of a product.
+
+Answers may include:
+Money provided by government can vary greatly between countries. For example, the
+government in China allocates a large proportion of the budget to scientific research, while
+this proportion is lower in Australia.
+
+Governments can form particular governing bodies or committees that can promote or
+demote a particular area of scientific research.
+
+[A response that relates to tobacco industry cannot score anything for discussing large
+corporations, but could access up to 4 marks for government impact.]
+
+
+
+
+                                                                                   Page 15 of 17
+NESA       2019 HSC   Investigating Science   Marking Guidelines
+
+
+
+2019 HSC Investigating Science
+Mapping Grid
+Section I
+
+  Question      Marks                             Content                             Syllabus outcomes
+
+       1          1       Mod 7 Evidence-based analysis                           INS12-14
+       2          1       Mod 6 A continuous cycle                                INS12-13
+       3          1       Mod 5 Reporting                                         INS12-12
+       4          1       Mod 6 A continuous cycle                                INS12-4, 12-13
+       5          1       Mod 8 Incidents, events and science                     INS12-15
+       6          1       Mod 6 Scientific investigation and technology           INS12-2, 12-13
+                          Mod 5 Reliability and validity
+       7          1                                                               INS12-5, 12-12, 12-14
+                          Mod 7 Testing claims
+       8          1       Mod 7 Reading between the lines                         INS12-5, 12-14
+       9          1       Mod 7 Testing claims                                    INS12-5, 12-14
+     10           1       Mod 7 Reading between the lines                         INS12-6, 12-14
+     11           1       Mod 5 Different types of scientific investigations      INS12-6, 12-12
+     12           1       Mod 6 A continuous cycle                                INS12-4, 12-13
+     13           1       Mod 5 Reliability and validity                          INS12-12
+     14           1       Mod 5 Student investigations                            INS12-3, 12-12
+     15           1       Mod 8 Regulation of scientific research                 INS12-15
+     16           1       Mod 6 Scientific investigation and technology           INS12-13
+     17           1       Mod 7 Testing claims                                    INS12-6, 12-14
+     18           1       Mod 5 Reporting                                         INS12-5, 12-6, 12-12
+     19           1       Mod 5 Different types of scientific investigations      INS12-6, 12-12
+     20           1       Mod 6 Scientific investigation and technology           INS12-5, 12-13
+
+Section II
+
+  Question      Marks                             Content                             Syllabus outcomes
+
+    21 (a)        2       Mod 5 Practical investigations to obtain primary data   INS12-1, 12-12
+                          Mod 5 Practical investigations to obtain primary data
+    21 (b)        4                                                               INS12-1, 12-12, 12-14
+                          Mod 7 Testing claims
+    22 (a)        2       Mod 6 Scientific investigation and technology           INS12-4, 12-7, 12-13
+    22 (b)        2       Mod 5 Student investigation                             INS12-2, 12-12
+     23           6       Mod 6 Scientific investigation and technology           INS12-2, 12-4, 12-7, 12-13
+    24 (a)        1       Mod 5 Student investigation                             INS12-1, 12-12
+    24 (b)        3       Mod 5 Reliability and validity                          INS12-2, 12-12
+    24 (c)        3       Mod 5 Reliability and validity                          INS12-2, 12-12
+    25 (a)        1       Mod 5 Reliability and validity                          INS12-4, 12-5, 12-12
+    25 (b)        2       Mod 5 Reliability and validity                          INS12-4, 12-12
+    25 (c)        2       Mod 5 Reliability and validity                          INS12-5, 12-7, 12-12
+    25 (d)        4       Mod 7 Evidence-based analysis                           INS12-5, 12-6, 12-14
+
+
+                                                                                                   Page 16 of 17
+NESA    2019 HSC   Investigating Science   Marking Guidelines
+
+
+ Question    Marks                             Content                             Syllabus outcomes
+
+                       Mod 5 Practical investigations to obtain primary data
+   26          3                                                               INS12-2, 12-12
+                       Mod 5 Reliability and validity
+  27 (a)       2       Mod 6 A Continuous cycle                                INS12-13
+  27 (b)       2       Mod 6 A Continuous cycle                                INS12-13
+                       Mod 7 Reading between the lines
+   28          7       Mod 8 Influence of economic, social and political       INS12-3, 12-7, 12-14, 12-15
+                       forces on scientific research
+                       Mod 5 Different types of scientific investigations
+  29 (a)       1                                                               INS12-12, 12-14
+                       Mod 7 Reading between the lines
+                       Mod 5 Different types of scientific investigations
+  29 (b)       4                                                               INS12-7, 12-12, 12-14
+                       Mod 7 Reading between the lines
+  30 (a)       2       Mod 8 Incidents, events and science                     INS12-15
+  30 (b)       4       Mod 8 Incidents, events and science                     INS12-6, 12-7, 12-15
+   31          4       Mod 6 A continuous cycle                                INS12-13
+                       Mod 8 Influence of economic, social and political
+   32          6                                                               INS12-7, 12-15
+                       forces on scientific research
+  33 (a)       3       Mod 8 Regulation of scientific research                 INS12-15
+  33 (b)       3       Mod 8 Regulation of scientific research                 INS12-6, 12-15
+                       Mod 8 Influence of economic, social and political
+   34          7                                                               INS12-7, 12-15
+                       forces on scientific research
+
+
+
+
+                                                                                                 Page 17 of 17
+

@@ -1,0 +1,1463 @@
+       NSW Education Standards Authority
+
+
+
+
+       2021 HIGHER SCHOOL CERTIFICATE EXAMINATION
+
+       Investigating Science
+       General        • Reading time – 5 minutes
+       Instructions   • Working time – 3 hours
+                      • Write using black pen
+                      • Draw diagrams using pencil
+                      • Calculators approved by NESA may be used
+
+
+       Total marks:   Section I – 20 marks (pages 2–14)
+       100            • Attempt Questions 1–20
+                      • Allow about 35 minutes for this section
+
+                      Section II – 80 marks (pages 17–36)
+                      • Attempt Questions 21–34
+                      • Allow about 2 hours and 25 minutes for this section
+
+
+
+
+2100
+Section I
+
+20 marks
+Attempt Questions 1–20
+Allow about 35 minutes for this section
+
+Use the multiple-choice answer sheet for Questions 1–20.
+
+
+1    Which technology was used in the discovery of the structure of deoxyribonucleic acid
+     (DNA)?
+
+     A.     Seismograph
+     B.     Geiger counter
+     C.     Hadron collider
+     D.     X-ray diffraction
+
+
+2    A microwave oven with five power settings was investigated. It was used to heat a
+     volume of 200 mL of water for 30 seconds on each power setting. The results are shown
+     in the graph.
+
+                                                24
+                                                22
+                      Temperature change (°C)
+
+
+
+
+                                                20
+                                                18
+                                                16
+                                                14
+                                                12
+                                                10
+                                                 8
+                                                 6
+                                                 4
+                                                 2
+                                                 0
+                                                     0     20    40     60     80      100
+                                                         Microwave power setting (%)
+
+     Identify the independent variable in this investigation.
+
+     A.     Volume of water
+     B.     Temperature change
+     C.     Microwave power setting
+     D.     Length of time the water was heated
+
+
+
+
+                                                                 –2–
+3   Which section of a scientific paper is most likely to contain information about possible
+    implications and future directions for research?
+
+    A.   Discussion
+    B.   Method
+    C.   References
+    D.   Results
+
+
+4   What factor could reduce the effectiveness of the peer review process of a research paper
+    about a particular dinosaur’s diet?
+
+    A.   The inability to study samples of the dinosaur’s diet
+    B.   Too few newspaper articles about the dinosaur’s diet
+    C.   A lack of experts on the subject of the dinosaur’s diet
+    D.   A poor reference list in the paper about the dinosaur’s diet
+
+
+5   What factor led Marshall and Warren to investigate the cause of peptic ulcers?
+
+    A.   The observation of unusual bacteria in stomach ulcer biopsies
+    B.   Direction from the government to reduce the cost of health care
+    C.   The possibility of Marshall and Warren winning the Nobel Prize
+    D.   The opportunity to work with pharmaceutical companies to develop new antibiotics
+
+
+6   What methodology was used to collect the data analysed by Doppler?
+
+    A.   Graphical analysis
+    B.   Conducting surveys
+    C.   Scientific observation
+    D.   Computer simulations
+
+
+
+
+                                          –3–
+7   In a chemical reaction, 25 mL of gas was produced in 9.13 seconds.
+
+    A student used a calculator correctly to determine the volume of gas produced each
+    second. The calculator showed 2.73822563 as the answer.
+
+    Based on this information, how should this answer be reported?
+
+    A.   3 mL s–1
+    B.   2.7 mL s–1
+    C.   2.73 mL s–1
+    D.   2.73822563 mL s–1
+
+
+8   Why is iridology a pseudoscience?
+
+    A.   It makes accurate predictions based on the characteristics of the iris.
+    B.   It is not based on quantitative observations of the characteristics of the iris.
+    C.   It makes a hypothesis linking the characteristics of the iris and health outcomes.
+    D.   It is not based on reproducible cause and effect relationships between the
+         characteristics of the iris and health outcomes.
+
+
+
+
+                                           –4–
+Use the information provided to answer Questions 9 and 10.
+
+The graph shows the results of a survey conducted within a country to determine how much
+should be spent on scientific research. The results are divided according to age groups.
+Currently, the country is spending 1% of its budget on scientific research.
+
+All age groups 7%           19%                 30%                23%        11%    10%
+
+     18–34 years
+
+     35–50 years
+
+     51–65 years
+
+       65+ years
+
+                   KEY
+                     Decrease to less than 1%     Remain at 1%       Increase to 2%
+                     Increase to 3%               Increase to 4%     Increase to 5% or more
+
+
+
+9      Of the total population surveyed, what percentage of people support budget spending on
+       scientific research increasing to 2%?
+
+       A.   7%
+       B.   19%
+       C.   23%
+       D.   30%
+
+
+10     Which age group has the largest percentage of people who support spending MORE than
+       1% on research?
+
+       A.   18–34
+       B.   35–50
+       C.   51–65
+       D.   65+
+
+
+
+
+                                                –5–
+11   Five students were each provided with a thermometer of the same make and model.
+
+     Each student was asked to measure and record the temperature of the same beaker of
+     boiling water.
+
+     Each student was then asked to measure and record the temperature of the boiling water
+     a second time using the same thermometer.
+
+     The results are shown in the table.
+
+                  Student      First temperature    Second temperature
+                                recorded (°C)          recorded (°C)
+
+                     1               101.5                  101.5
+
+                     2                99.0                   99.0
+
+                     3                96.5                   96.5
+
+                     4               103.0                  103.0
+
+                     5               100.0                  100.0
+
+     What would be the most likely explanation for the variation between the students’
+     results?
+
+     A.   Systematic errors in the thermometers used
+     B.   Parallax errors in reading the thermometers
+     C.   Random errors in reading the thermometers
+     D.   Changes in the temperature of the boiling water
+
+
+
+
+                                             –6–
+12   The diagram shows some of the information used by Eratosthenes. The distance from
+     Alexandria to Syene, in a straight line around Earth’s surface, is 5000 stadia (an ancient
+     measure of distance).
+
+
+
+
+                                                     °           Parallel rays
+                                                  7.2            from sun
+
+
+
+                                           Alexandria
+
+
+                                                  Syene
+                  EARTH                                           NOT TO
+                                                                  SCALE
+
+                              °
+                           7.2
+
+
+
+
+     The following two ratios are equal to each other.
+
+     Ratio 1: 7.2°                Ratio 2: Distance between Alexandria and Syene
+              360°                                 Circumference of Earth
+
+     Using the information provided, what is the circumference of Earth?
+
+     A.    700 stadia
+     B.    36 000 stadia
+     C.    40 000 stadia
+     D.    250 000 stadia
+
+
+
+
+                                            –7–
+13   A researcher hypothesised that a new type of fertiliser would increase the growth of pea
+     plants. The following experiment was designed to test this hypothesis.
+
+     • 200 pea plant seedlings were planted of which 100 received fertiliser dissolved in water
+       and the other 100 received water alone.
+     • An additional substance, X, was added to allow the fertiliser to dissolve completely in
+       the water.
+     • The plants were grown under the same conditions.
+     • The plant height and number of leaves were recorded.
+
+     The researcher concluded that the fertiliser increased the height of the pea plants but not
+     the number of leaves.
+
+     Why is this experiment invalid?
+
+     A.    Only one type of plant was used.
+     B.    There are two dependent variables.
+     C.    The effect of substance X on plant growth was not tested.
+     D.    The number of plants was too small to reach a valid conclusion.
+
+
+
+
+                                            –8–
+Use the information provided to answer Questions 14 and 15.
+
+A researcher measured the radioactivity (in counts per minute) of a sample over a period of
+seven days. The results are shown in the graph.
+
+                                                                   Radioactive decay
+                                                     100
+                                                      90
+                         Counts per minute (× 100)    80
+                                                      70
+                                                      60
+                                                      50
+                                                      40
+                                                      30
+                                                      20
+                                                      10
+                                                       0
+                                                           0   1    2     3 4 5        6   7
+                                                                        Time (days)
+
+
+14   Which of the following can be deduced from these results?
+
+     A.    The radioactivity will reach zero by day ten.
+     B.    There were 20 counts per minute at day four.
+     C.    The rate of decay is not constant over seven days.
+     D.    After 14 days the count will be half that at seven days.
+
+
+15   The half-life of a radioactive sample is the time taken for half the atoms in the sample to
+     decay.
+
+     What is the half-life of the sample measured in this research?
+
+     A.    1.25 days
+     B.    2 days
+     C.    3.5 days
+     D.    40 days
+
+
+
+
+                                                                        –9–
+16   In 1997, more than 60 000 homing pigeons were released from France. Only about 5000
+     birds made it 800 km home to England. About 55 000 were never recovered.
+
+     At the same time as the pigeons were flying between the two countries, a supersonic
+     plane flew overhead. A supersonic plane creates a very loud sound that can travel about
+     100 km.
+
+     Which scientific term best describes the disappearance of the birds coinciding with the
+     flight of the plane overhead?
+
+     A.   Causation
+     B.   Conclusion
+     C.   Correlation
+     D.   Observation
+
+
+
+
+                                          – 10 –
+17   Waterborne diseases are transmitted by contaminated water.
+
+     A study investigated the effectiveness of a chemical in reducing waterborne diseases.
+     The number of people contracting waterborne diseases and the percentage of people with
+     access to treated water were measured.
+
+
+                                       80                                                     20
+                                       70                                                     18
+
+
+
+
+                                                                                                   Number of people contracting
+          % of people with access to
+
+
+
+
+                                                                                              16
+                                       60
+
+
+
+
+                                                                                                      waterborne diseases
+                                                                                              14
+                treated water
+
+
+
+
+                                       50                                                     12
+                                       40                                                     10
+                                       30                                                     8
+                                                                                              6
+                                       20
+                                                                                              4
+                                       10                                                     2
+                                        0                                                     0
+                                              1990   1995   2000 2005       2010       2015
+                                                                Year
+
+                                        KEY
+                                            % of people with access to treated water
+                                            Number of people contracting waterborne diseases
+
+
+     What additional piece of information is required before the effectiveness of the chemical
+     on reducing waterborne diseases can be determined?
+
+     A.      If the chemical had any side effects
+     B.      The total number of people in the study
+     C.      The type of chemical used to treat the water
+     D.      Identification of the pathogens that cause the diseases
+
+
+
+
+                                                                – 11 –
+18   Eight studies investigating the link between women using hormone replacement therapy
+     (HRT) and their risk of coronary heart disease were compared. Some of the studies were
+     adjusted for socioeconomic status and some were not.
+
+     The diagram summarises the results of the studies.
+
+                      Risk of coronary heart disease when using HRT
+
+                 Not adjusted for socioeconomic status
+                     Study A 1984
+                     Study B 1989
+                     Study C 1992
+                     Study D 1993
+                     Study E 2000
+
+
+                 Adjusted for socioeconomic status
+                     Study F 1991
+                     Study G 1994
+                     Study H 1995
+                                            Less    Same      More
+                                        risk compared to not using HRT
+
+                       KEY
+                         The average result          Range of results
+
+
+     What can be concluded from this data?
+
+     A.   HRT gives women a lower risk of coronary heart disease.
+     B.   The range of the results is too wide to draw a valid conclusion.
+     C.   Socioeconomic status, rather than HRT, affects women’s risk of coronary heart
+          disease.
+     D.   When adjusted for socioeconomic status, the rate of coronary heart disease is
+          increasing over time.
+
+
+
+
+                                          – 12 –
+19   An experiment was designed to test the hypothesis, ‘The time taken for a ball to roll
+     down an inclined plane decreases as the vertical height (h) decreases’.
+
+     The experiment was originally set up as shown.
+
+
+
+
+                                                l
+                             h
+
+
+
+
+     Four variations of the set-up were proposed.
+
+     Choose the proposed set-up that would allow the investigator to make a definitive choice
+     between accepting or rejecting the hypothesis.
+
+                       l
+           h           2
+     A.
+           2
+
+
+
+
+                                           2l
+     B.    h
+
+
+
+
+                   l
+     C.    h       2
+
+
+
+
+           h                  l
+     D.
+           2
+
+
+
+
+                                          – 13 –
+20   A survey was conducted to see if the type of contributor to a scientific study changed
+     people’s perception of the merit of the study.
+
+     Each person surveyed was asked to judge the merit of the research that had been
+     conducted by scientists contributing from either industry (IND), university (UNI) or
+     government (GOV), or some combination of these.
+
+     The data collected is summarised in the graph.
+
+                                           IND            3.31
+                   Research contributors
+
+
+
+                                           IND + UNI             3.92
+                                           IND + GOV              3.99
+                                           IND + UNI + GOV               4.44
+                                           UNI + GOV                     4.53
+                                           UNI                            4.56
+                                           GOV                               4.84
+                         1                       2          3            4          5      6
+                       Least                                                             Most
+                      positive                                                          positive
+                                                       Average merit rating
+
+     Which statement is consistent with this data?
+
+     A.   The contribution of industry scientists always reduces the perceived merit of the
+          research.
+     B.   The contribution of university scientists always increases the perceived merit of the
+          research.
+     C.   The contribution of government scientists always increases the perceived merit of
+          the research.
+     D.   The contribution of more types of scientists always reduces the perceived merit of
+          the research.
+
+
+
+
+                                                                – 14 –
+BLANK PAGE
+
+
+
+
+  – 15 –
+         BLANK PAGE
+
+
+
+
+               – 16 –
+© 2021 NSW Education Standards Authority
+                             2021 HIGHER SCHOOL CERTIFICATE EXAMINATION
+
+                                                                                                                              Centre Number
+
+                             Investigating Science
+                                                                                                                              Student Number
+                             Section II Answer Booklet
+
+
+
+
+                             80 marks
+                             Attempt Questions 21–34
+                             Allow about 2 hours and 25 minutes for this section
+Do NOT write in this area.
+
+
+
+
+                             Instructions    • Write your Centre Number and Student Number at the top of this
+                                               page.
+
+                                             • Answer the questions in the spaces provided. These spaces
+                                               provide guidance for the expected length of response.
+
+                                             • Show all relevant working in questions involving calculations.
+
+                                             • Extra writing space is provided at the back of this booklet.
+                                               If you use this space, clearly indicate which question you are
+                                               answering.
+
+
+
+
+                                                                       Please turn over
+
+
+
+
+                                                                                 – 17 –
+                                                Office Use Only – Do NOT write anything, or make any marks below this line.
+                                                                                                                                  5638310365
+                               2101     15215
+Question 21 (3 marks)
+
+Outline the need for regulation in EITHER scientific research or practice. Include an                                                       3
+example to support your answer.
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+
+
+
+                                                                                                                                                Do NOT write in this area.
+
+
+
+
+                                                                      – 18 –
+                                Office Use Only – Do NOT write anything, or make any marks below this line.
+                                                                                                                                  0589310365
+                             Question 22 (6 marks)
+
+                             (a)   Outline a structural feature of DNA and how this feature allows organisms to be                                                   2
+                                   genetically modified.
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+
+                             (b)   A team of researchers wanted to investigate the effect of feeding genetically                                                     4
+                                   modified (GM) mice a high-fat diet. They hypothesised that the GM mice would
+                                   gain less weight than normal mice (N). To test this hypothesis, the researchers
+                                   set up the following four groups.
+
+                                                            Group 1                 N mice fed a normal diet
+Do NOT write in this area.
+
+
+
+
+                                                            Group 2                 N mice fed a high-fat diet
+                                                            Group 3                 GM mice fed a normal diet
+                                                            Group 4                 GM mice fed a high-fat diet
+
+                                   Explain why the four groups were required to test the hypothesis.
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+
+
+
+                                                                                               – 19 –
+                                                         Office Use Only – Do NOT write anything, or make any marks below this line.
+                                                                                                                                                           1024310360
+Question 23 (2 marks)
+
+How can both the validity and reliability of information in a secondary source be                                                           2
+determined?
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+
+
+Question 24 (4 marks)
+
+
+
+
+                                                                                                                                                Do NOT write in this area.
+Discuss whether Spencer’s investigation into microwaves deviated from the linear                                                            4
+model of scientific investigation.
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+
+
+
+                                                                      – 20 –
+                                Office Use Only – Do NOT write anything, or make any marks below this line.
+                                                                                                                                  5486310366
+                             Question 25 (3 marks)
+
+                             Each year since 1973, 5000 members of the general public have been surveyed and                                                             3
+                             asked if they support the use of nuclear energy. The information collected is presented
+                             in the graph shown. The graph also shows when three significant nuclear accidents
+                             occurred, that released radioactive material into the environment.
+
+                                                                                 Public support for nuclear energy from 1973–2018
+                                       supporting nuclear energy (%)
+
+
+
+
+                                                                       100
+                                           Percentage of people
+
+
+
+
+                                                                       80                 Three Mile Island (1979)
+                                                                                                                                    Fukushima (2011)
+                                                                       60                 Chernobyl (1986)
+                                                                       40
+
+                                                                       20
+
+                                                                        0
+                                                                             73 76 79 82 85 88 91 94 97 00 03 06 09 12 15 18
+Do NOT write in this area.
+
+
+
+
+                                                                                                  Year
+
+                             A hypothesis was made stating that public support declines as a result of nuclear
+                             accidents.
+
+                             Explain whether the information in the graph is consistent with this hypothesis.
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+
+
+
+                                                                                                               – 21 –
+                                                                              Office Use Only – Do NOT write anything, or make any marks below this line.
+                                                                                                                                                               7986310363
+Question 26 (7 marks)
+
+A group of students gathered data about an object that was travelling at a constant
+speed for two different time periods (A and B). The graph shows the data gathered by
+the group.
+
+                               20
+
+                               15
+                                                                                                    KEY
+          Distance
+                               10                                                                          Time period A
+      (....................)
+                                                                                                           Time period B
+                                5
+
+                                0
+                                    0        2        4         6        8        10       12
+                                            Speed (....................)
+
+
+
+
+                                                                                                                                                 Do NOT write in this area.
+(a)       Write an appropriate unit for each axis on the graph.                                                                              2
+
+
+(b)       The students produced the graph from data they had tabulated.                                                                      2
+
+          Draw a table containing the data that the students used to construct the graph.
+          Do not include units in the table.
+
+
+
+
+(c)       Explain why there is a difference in the distance travelled by the object in the                                                   3
+          two time periods. Use calculations to support your answer.
+
+           ...............................................................................................................................
+           ...............................................................................................................................
+           ...............................................................................................................................
+           ...............................................................................................................................
+           ...............................................................................................................................
+           ...............................................................................................................................
+           ...............................................................................................................................
+
+           ...............................................................................................................................
+                                                                       – 22 –
+                                 Office Use Only – Do NOT write anything, or make any marks below this line.
+                                                                                                                                   0736310369
+                             Question 27 (6 marks)
+
+                             Before a vaccination program against a disease can start, the safety and efficacy of
+                             possible vaccines has to be demonstrated scientifically.
+
+                             A company recruited nearly 44 000 volunteers for a vaccine trial. Half of the
+                             volunteers received the vaccine and the other half received a placebo.
+
+                             (a)   Outline TWO pieces of information volunteers should have been provided with                                                       2
+                                   prior to the trial to ensure they were treated ethically.
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+Do NOT write in this area.
+
+
+
+
+                             (b)   Compare the process used by this company to establish the efficacy of its                                                         4
+                                   vaccine with the process used in the development of the smallpox vaccine.
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+
+
+
+                                                                                               – 23 –
+                                                         Office Use Only – Do NOT write anything, or make any marks below this line.
+                                                                                                                                                           6277310365
+Question 28 (7 marks)
+
+(a)   What is the difference between a theory and a law, when these words are used                                                      4
+      scientifically? Support your answer with an example of each.
+
+      ...............................................................................................................................
+
+      ...............................................................................................................................
+
+      ...............................................................................................................................
+
+      ...............................................................................................................................
+
+      ...............................................................................................................................
+
+      ...............................................................................................................................
+
+      ...............................................................................................................................
+
+      ...............................................................................................................................
+
+      ...............................................................................................................................
+
+
+
+
+                                                                                                                                            Do NOT write in this area.
+      ...............................................................................................................................
+
+
+(b)   The following is a quote from a media report.                                                                                     3
+
+
+                    When considering the impact of humans on climate change,
+                    one expert believes it’s useful to compare it to another famous
+                    hypothesis, such as atomic theory or the theory of gravity.
+
+
+      Evaluate whether the media’s use of the words hypothesis and theory are
+      scientifically appropriate.
+      ...............................................................................................................................
+
+      ...............................................................................................................................
+
+      ...............................................................................................................................
+
+      ...............................................................................................................................
+
+      ...............................................................................................................................
+
+      ...............................................................................................................................
+
+      ...............................................................................................................................
+
+      ...............................................................................................................................
+
+      ...............................................................................................................................
+
+
+
+                                                                  – 24 –
+                            Office Use Only – Do NOT write anything, or make any marks below this line.
+                                                                                                                              1032310369
+                             Question 29 (5 marks)
+
+                             The label on a container of Green Tea Extract included a claim.                                                                             5
+Do NOT write in this area.
+
+
+
+
+                             Describe a double-blind, placebo-controlled trial that could be used to scientifically
+                             test the claim on the container.
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+
+
+
+                                                                                                   – 25 –
+                                                             Office Use Only – Do NOT write anything, or make any marks below this line.
+                                                                                                                                                               0136310363
+Question 30 (4 marks)
+
+During World War II, Albert Einstein, a celebrated scientist, signed a letter                                                               4
+encouraging the American president to support ongoing research into nuclear fission,
+which could lead to the development of nuclear bombs.
+
+Discuss whether Einstein’s endorsement could be considered to be an example of the
+halo effect.
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+
+
+
+                                                                                                                                                Do NOT write in this area.
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+
+
+
+                                                                      – 26 –
+                                Office Use Only – Do NOT write anything, or make any marks below this line.
+                                                                                                                                  7037310360
+                             Question 31 (6 marks)
+
+                             Two towns, A and B, are located on a river. It is proposed that a dam be built between
+                             the two towns.
+
+                             (a)   Explain ONE benefit of damming the river.                                                                                         2
+                                   ...............................................................................................................................
+                                   ...............................................................................................................................
+                                   ...............................................................................................................................
+                                   ...............................................................................................................................
+
+
+                             (b)   Each of the towns has about 20 000 residents. The council surveyed residents                                                      4
+                                   of both towns and stated that 95% of the residents surveyed supported the
+                                   construction of the dam.
+
+                                   The data collected from the survey is shown.
+Do NOT write in this area.
+
+
+
+
+                                                                                          Number of residents surveyed
+                                                                                    For                    Against                     Total
+
+                                                  Town A                           2612                       159                      2771
+                                                  Town B                             11                       275                       286
+                                                  Total                            2623                       434                      3057
+
+                                   With reference to data from the table, explain how the council’s statement has
+                                   misrepresented the views of the residents.
+                                   ...............................................................................................................................
+                                   ...............................................................................................................................
+                                   ...............................................................................................................................
+                                   ...............................................................................................................................
+                                   ...............................................................................................................................
+                                   ...............................................................................................................................
+                                   ...............................................................................................................................
+                                   ...............................................................................................................................
+                                   ...............................................................................................................................
+                                   ...............................................................................................................................
+
+
+                                                                                               – 27 –
+                                                         Office Use Only – Do NOT write anything, or make any marks below this line.
+                                                                                                                                                           2207310364
+Question 32 (9 marks)
+
+Two groups of students investigated the relationship between temperature and reaction                                                       9
+rate. After reading the scientific literature, they found that the reaction rate between an
+acid and a metal doubles for each 10°C increase in temperature.
+
+The two groups reacted 10 g of metal with 200 mL of the same concentration of acid
+in each trial. In each trial, neither the temperature nor the concentration changed
+significantly while the metal was reacting.
+
+The reaction rate, at different temperatures, was determined by measuring the volume
+of hydrogen gas produced in 10 seconds, and converted to a rate measured in mL/min.
+
+All the results from the two groups are shown. Each individual trial is represented by
+an × on the graphs.
+
+                                     Group A                                                               Group B
+                           45                                                                    35
+  Reaction rate (mL/min)
+
+
+
+
+                                                                        Reaction rate (mL/min)
+
+
+                           40
+
+
+
+
+                                                                                                                                                Do NOT write in this area.
+                                                                                                 30
+                           35
+                           30                                                                    25
+                           25
+                                                                                                 20
+                           20
+                           15                                                                    15
+                             18 20 22 24 26 28 30 32                                               18 20 22 24 26 28 30 32
+                                   Temperature (°C)                                                      Temperature (°C)
+
+
+Analyse the reliability, accuracy (including error) and validity of the experimental
+results obtained by each of the two groups.
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+
+                                                 Question 32 continues on page 29
+                                                                      – 28 –
+                                     Office Use Only – Do NOT write anything, or make any marks below this line.
+                                                                                                                                  1619310360
+                             Question 32 (continued)
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+Do NOT write in this area.
+
+
+
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+
+                                                                                        End of Question 32
+                                                                                                   – 29 –
+                                                             Office Use Only – Do NOT write anything, or make any marks below this line.
+                                                                                                                                                               0585310361
+Question 33 (13 marks)
+
+A student wanted to conduct an investigation into some of the factors that allow an
+animal to survive. She summarised information relating to an experiment that Joseph
+Priestley had conducted.
+
+        Priestley placed a live mouse inside a sealed jar and timed how long the
+        mouse took to die.
+
+        Priestley then placed a live mouse inside a sealed jar that also had a plant
+        inside it. The mouse survived for a longer period of time.
+
+
+
+(a)   Propose a hypothesis and a conclusion for the experiment Priestley was                                                            2
+      conducting.
+
+      Hypothesis: ..........................................................................................................
+
+      ...............................................................................................................................
+
+
+
+
+                                                                                                                                            Do NOT write in this area.
+      ...............................................................................................................................
+
+      Conclusion: ..........................................................................................................
+
+      ...............................................................................................................................
+
+      ...............................................................................................................................
+
+
+(b)   Identify TWO variables that should be kept constant in Priestley’s experiment.                                                    4
+      Justify your answer.
+
+      ...............................................................................................................................
+
+      ...............................................................................................................................
+
+      ...............................................................................................................................
+
+      ...............................................................................................................................
+
+      ...............................................................................................................................
+
+      ...............................................................................................................................
+
+      ...............................................................................................................................
+
+
+
+                                          Question 33 continues on page 31
+
+
+
+
+                                                                  – 30 –
+                            Office Use Only – Do NOT write anything, or make any marks below this line.
+                                                                                                                              6577310368
+                             Question 33 (continued)
+
+                             (c)   Since Priestley’s time, technologies have become available to address the                                                         7
+                                   limitations of his experiment. An example of such an experimental set-up is
+                                   shown.
+
+
+
+                                                                                                                                  Gas sensors
+
+                                                                                                                                  Plant
+                                                      CO2         380 ppm
+                                                                                                                                  Sealed bell jar
+                                                       O2           20.4%
+
+
+
+                                   Explain TWO reasons why this experiment is an improvement over Priestley’s
+                                   AND justify further improvements that could be made to the experiment.
+Do NOT write in this area.
+
+
+
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+
+                                                                       Question 33 continues on page 32
+                                                                                               – 31 –
+                                                         Office Use Only – Do NOT write anything, or make any marks below this line.
+                                                                                                                                                           4074310368
+Question 33 (continued)
+
+     ...............................................................................................................................
+
+     ...............................................................................................................................
+
+     ...............................................................................................................................
+
+     ...............................................................................................................................
+
+     ...............................................................................................................................
+
+     ...............................................................................................................................
+
+     ...............................................................................................................................
+
+     ...............................................................................................................................
+
+     ...............................................................................................................................
+
+
+
+
+                                                                                                                                          Do NOT write in this area.
+                                                      End of Question 33
+
+
+
+
+                                                                 – 32 –
+                           Office Use Only – Do NOT write anything, or make any marks below this line.
+                                                                                                                             9566310369
+                             Question 34 (5 marks)
+
+                             Economic, social and political factors influence the choice of scientific research to be                                                    5
+                             carried out.
+
+                             Evaluate the effect of TWO of these factors, using examples to support your answer.
+
+                             .........................................................................................................................................
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+Do NOT write in this area.
+
+
+
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+
+
+                                                                                             End of paper
+
+
+
+
+                                                                                                   – 33 –
+                                                             Office Use Only – Do NOT write anything, or make any marks below this line.
+                                                                                                                                                               0008310361
+Section II extra writing space
+If you use this space, clearly indicate which question you are answering.
+
+
+
+
+                                                                                                                  Do NOT write in this area.
+
+
+
+
+                                                        – 34 –
+                       Office Use Only – Do NOT write anything, or make any marks below this line.
+                                                                                                     8952310367
+                             Section II extra writing space
+                             If you use this space, clearly indicate which question you are answering.
+Do NOT write in this area.
+
+
+
+
+                                                                                     – 35 –
+                                                    Office Use Only – Do NOT write anything, or make any marks below this line.
+                                                                                                                                  2306310364
+Section II extra writing space
+If you use this space, clearly indicate which question you are answering.
+
+
+
+
+                                                                                                                                       Do NOT write in this area.
+
+
+
+
+                                                        – 36 –                              © 2021 NSW Education Standards Authority
+
+                       Office Use Only – Do NOT write anything, or make any marks below this line.
+                                                                                                           2770310369
+

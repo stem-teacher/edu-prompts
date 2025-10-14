@@ -1,0 +1,2353 @@
+### Quiz 2: Working Scientifically – Questioning & Predicting; Hypotheses; Variables; Causation
+
+1. Which statement is the best example of a testable, operationalised hypothesis?
+- [ ] Plants grow better with more care.
+- [x] Tomato plants watered with 50 mL of 0.5% nutrient solution daily will produce a greater mean mass of fruit over 8 weeks than plants watered with 50 mL of water daily.
+- [ ] Nutrients are important for plants.
+- [ ] Plants watered more grow faster.
+
+2. In an investigation testing the effect of light intensity on algal growth, which is the independent variable?
+- [x] Light intensity at the culture surface
+- [ ] Mass of algae at the end of the week
+- [ ] Temperature of room
+- [ ] Volume of culture medium
+
+3. A class compares two brands of thermometers by measuring the temperature of the same water bath five times with each. What is the primary purpose of this design?
+- [ ] To increase validity
+- [x] To compare precision of instruments
+- [ ] To eliminate bias through blinding
+- [ ] To standardise the independent variable
+
+4. Which scenario most clearly supports a causal relationship rather than mere correlation?
+- [ ] Ice cream sales and drowning incidents both rise in summer.
+- [x] A randomized controlled trial shows participants given a specific sleep hygiene program sleep 45 minutes longer than controls, with all other factors controlled.
+- [ ] A survey finds students who sit at the front have higher marks.
+- [ ] A lab notes two variables increase together in the same dataset.
+
+5. What is the best purpose of a negative control in an enzyme assay?
+- [ ] To raise statistical power
+- [x] To show the measured effect is not due to the assay reagents alone
+- [ ] To increase the sample size of the treated group
+- [ ] To confirm the hypothesis is true
+
+6. Which statement correctly defines the null hypothesis (H0)?
+- [ ] The hypothesis the researcher believes to be true
+- [x] A statement that there is no effect or no difference between groups
+- [ ] A prediction based on a model
+- [ ] The outcome with the largest p-value
+
+7. A student suggests, “Caffeine causes increased heart rate.” Which revision makes this claim more testable?
+- [ ] Caffeine is bad for your heart.
+- [x] A 200 mg dose of caffeine increases mean resting heart rate within 30 minutes compared to placebo in adults aged 18–25.
+- [ ] People feel more awake after caffeine.
+- [ ] Caffeine changes physiology.
+
+8. Which change is most likely to increase the internal validity of an experiment?
+- [ ] Increasing the sample size
+- [ ] Repeating the experiment next month
+- [x] Holding temperature, pH, and volume constant across treatments
+- [ ] Publishing results in a journal
+
+9. In a blind taste test for a new sports drink, which element reduces participant expectation effects?
+- [ ] Using the same bottle for both drinks
+- [x] Not telling participants which drink is the new formula
+- [ ] Measuring heart rate before and after
+- [ ] Giving participants a questionnaire
+
+10. A teacher asks students to investigate if music tempo affects reaction time. Which is the dependent variable?
+- [ ] Tempo of music
+- [ ] Volume of music
+- [x] Reaction time measured in milliseconds
+- [ ] Brand of headphones
+
+11. In a fair test, which variable should be deliberately changed?
+- [x] Independent variable
+- [ ] Dependent variable
+- [ ] Controlled variable
+- [ ] Confounding variable
+
+12. Which question aligns best with the “questioning and predicting” stage?
+- [ ] How will we calibrate the balance?
+- [x] What effect will increasing salinity have on the germination rate of radish seeds?
+- [ ] What is the most ethical way to store data?
+- [ ] How should we present the results?
+
+13. A claim that “students who chew gum score higher on exams” is made from an observational study. Which is the most plausible confounder?
+- [x] Gum chewers may study more frequently
+- [ ] The flavour of gum causes memory changes
+- [ ] Gum changes exam difficulty
+- [ ] The exam room temperature rises when gum is chewed
+
+14. Which action primarily improves reliability?
+- [x] Repeating measurements under the same conditions
+- [ ] Replacing the hypothesis with a new one
+- [ ] Increasing the effect size
+- [ ] Publishing negative results
+
+15. Which best distinguishes accuracy from precision?
+- [ ] Accuracy is repeatability; precision is closeness to true value
+- [x] Accuracy is closeness to the true value; precision is repeatability
+- [ ] Accuracy is validity; precision is reliability
+- [ ] Accuracy is causation; precision is correlation
+
+16. A digital scale reads 0.15 g when empty. What type of error is this most likely?
+- [ ] Random
+- [x] Systematic zero error
+- [ ] Blinding error
+- [ ] Sampling error
+
+17. A student wants to detect a small effect of a nutrient on plant growth. Which design change most increases the chance of detecting it?
+- [ ] Use a less sensitive instrument
+- [x] Increase sample size with random assignment to groups
+- [ ] Reduce replication
+- [ ] Eliminate the control group
+
+18. Which statement about placebo controls is correct?
+- [ ] They control for random error
+- [ ] They calibrate instruments
+- [x] They control for the psychological effect of receiving a treatment
+- [ ] They increase external validity
+
+19. Which situation most clearly shows overgeneralisation?
+- [ ] Reporting an outlier
+- [ ] Using a stratified sample
+- [x] Concluding all teenagers prefer energy drinks after surveying one class
+- [ ] Reporting a confidence interval
+
+20. What is the primary reason to conduct a pilot study?
+- [ ] To increase statistical significance
+- [x] To test and refine procedures and instruments before the main study
+- [ ] To replace the need for controls
+- [ ] To ensure the hypothesis is correct
+
+---
+
+### Quiz 3: Planning & Conducting – Experimental Design; Sampling; Risk; Ethics
+
+1. Which change best improves the representativeness of a field sample of leaf litter in a forest?
+- [ ] Sampling only near the trail for convenience
+- [x] Using a stratified random sample across canopy cover types
+- [ ] Doubling the number of samples in one clearing
+- [ ] Sampling only large leaves
+
+2. Which is the correct order in the hierarchy of controls for risk management (most to least effective)?
+- [x] Elimination, substitution, engineering controls, administrative controls, PPE
+- [ ] PPE, elimination, substitution, administrative, engineering
+- [ ] Substitution, elimination, administrative, PPE, engineering
+- [ ] Administrative, engineering, elimination, PPE, substitution
+
+3. When planning to measure dissolved oxygen in a stream, which step most improves accuracy?
+- [ ] Taking fewer readings
+- [x] Calibrating the probe with fresh standards at field temperature
+- [ ] Avoiding field notes to save time
+- [ ] Using unlabelled bottles
+
+4. Which scenario most clearly breaches informed consent?
+- [x] Collecting students’ heart rate data during class without telling them the purpose
+- [ ] Providing an information sheet and allowing students to opt out
+- [ ] Allowing parental consent for minors
+- [ ] Storing de-identified data securely
+
+5. A team sets quadrats along a transect from shore to deeper water to study species distribution. What sampling method is this?
+- [ ] Random sampling
+- [ ] Stratified random sampling
+- [x] Systematic sampling along a gradient (transect)
+- [ ] Convenience sampling
+
+6. In an investigation of fertilizer types, which is the best control?
+- [x] Plants grown with identical conditions but no fertilizer
+- [ ] Plants watered twice as much
+- [ ] Plants placed closer to the window
+- [ ] Plants with a different soil type
+
+7. Which action best prevents contamination between microbial culture plates?
+- [x] Flame-sterilising tools and working near a lit Bunsen burner in an aseptic field
+- [ ] Opening lids widely to speed up plating
+- [ ] Touching agar with ungloved hands
+- [ ] Incubating plates at 37°C in an unlabelled stack
+
+8. What is the safest way to transport corrosive acid for a school experiment?
+- [ ] In a glass beaker with no lid
+- [ ] In any container to reduce cost
+- [ ] In a student’s backpack
+- [x] In a labelled, sealed chemical transport bottle in a secondary containment tray
+
+9. Which step is required to ensure repeatability when measuring time to complete a reaction?
+- [x] Use the same defined end-point and timing method across repeats
+- [ ] Have each student choose their own end-point
+- [ ] Change the timer for each trial
+- [ ] Record time only when the result is “interesting”
+
+10. Which aspect of an SDS (Safety Data Sheet) is most relevant when deciding PPE?
+- [x] Hazard identification and recommended protective equipment
+- [ ] Manufacturer’s phone number
+- [ ] Date of purchase
+- [ ] Storage location in the lab
+
+11. For a double-blind clinical-style school simulation, blinding means:
+- [ ] Only participants are unaware of treatment allocation
+- [x] Both participants and data collectors are unaware of treatment allocation
+- [ ] Only the teacher is aware of allocation
+- [ ] Everyone knows who got the treatment
+
+12. Which practice best ensures traceability of samples?
+- [ ] Labelling after analysis
+- [x] Unique sample IDs recorded in a bound logbook at collection
+- [ ] Colour-coding caps without a key
+- [ ] Relying on memory
+
+13. A field study occurs near culturally significant sites. Which action best aligns with ethical and respectful practice?
+- [x] Consult relevant Aboriginal and Torres Strait Islander community representatives before planning and obtain permissions
+- [ ] Proceed without consultation to avoid delays
+- [ ] Keep locations secret from everyone
+- [ ] Only consult after collecting samples
+
+14. Which statement about replication and repeats is correct?
+- [ ] Repeats are different labs duplicating the study; replication is same lab doing it again
+- [x] Repeats are repeated measurements within the same study; replication is independent repetition by others
+- [ ] Replication and repeats are the same
+- [ ] Replication does not improve reliability
+
+15. Which is the best justification for using a placebo control in a study of a cognitive supplement?
+- [ ] To reduce sample size
+- [x] To control for expectation and placebo effects
+- [ ] To eliminate confounding completely
+- [ ] To prove causation without statistics
+
+16. When preparing a 0.100 M NaCl solution, which action most improves accuracy?
+- [x] Using an analytical balance and dissolving to volume in a volumetric flask
+- [ ] Estimating mass with a scoop
+- [ ] Dissolving in a beaker to approximate volume
+- [ ] Recording mass to 1 g only
+
+17. Which factor most strongly affects external validity?
+- [ ] Calibrating the instrument
+- [x] How representative the sample and conditions are of the target population and context
+- [ ] Repeating measurements within the same sample
+- [ ] Using blinding
+
+18. A risk assessment identifies a hazard with low likelihood but severe consequence. Which response is most appropriate?
+- [x] Implement strong controls to reduce consequence and/or likelihood despite low probability
+- [ ] Ignore due to low likelihood
+- [ ] Rely solely on PPE
+- [ ] Cancel the entire investigation without considering controls
+
+19. Which is the most appropriate method to sample fast-moving insects in a grassland?
+- [ ] Quadrat counts only
+- [ ] Soil core sampling
+- [x] Sweep netting along transects with timed effort
+- [ ] Pitfall traps in a single location
+
+20. When human participants are involved, which is essential?
+- [x] Informed consent and the right to withdraw without penalty
+- [ ] Mandatory participation if anonymised
+- [ ] Collecting names for verification
+- [ ] Publishing raw identifiable data
+
+---
+
+### Quiz 4: Processing & Analysing – Data, Uncertainty, Graphs, Statistics
+
+1. A balance has a resolution of 0.01 g. What is the best estimate of reading uncertainty for a single mass measurement?
+- [ ] ±0.01 g
+- [x] ±0.005 g
+- [ ] ±0.1 g
+- [ ] ±0.0005 g
+
+2. Which statistic is least affected by outliers?
+- [ ] Mean
+- [x] Median
+- [ ] Range
+- [ ] Standard deviation
+
+3. A scatter plot shows a strong negative linear trend. Which is the most appropriate model to test first?
+- [x] Linear regression with negative slope
+- [ ] Quadratic with positive curvature
+- [ ] Exponential growth model
+- [ ] No model; assume no relationship
+
+4. If two measurements are added, what happens to their absolute uncertainties?
+- [x] They add
+- [ ] They subtract
+- [ ] They multiply
+- [ ] They remain unchanged
+
+5. Which graphing choice is most misleading?
+- [ ] Including error bars
+- [x] Truncating the y-axis to start just below the smallest bar to exaggerate differences without disclosure
+- [ ] Labelling axes with units
+- [ ] Including a trendline with R²
+
+6. A dataset is positively skewed. Which measure best represents central tendency?
+- [ ] Mean only
+- [x] Median
+- [ ] Mode only
+- [ ] Range
+
+7. A correlation coefficient r = 0.02 (p = 0.89). What is the correct interpretation?
+- [ ] Strong positive correlation
+- [ ] Strong negative correlation
+- [x] No evidence of a linear relationship
+- [ ] Causation is confirmed
+
+8. Which step is most appropriate when encountering a clear outlier due to a known instrument fault?
+- [x] Exclude the outlier with documented justification and report the decision
+- [ ] Keep it without comment
+- [ ] Change other data to match
+- [ ] Delete all data
+
+9. When should a log transformation of the y-variable be considered?
+- [ ] When the relationship is already linear
+- [x] When growth appears exponential and variance increases with the mean
+- [ ] When units are incorrect
+- [ ] When the sample size is small
+
+10. Two independent measurements are multiplied. How should relative (percentage) uncertainties be treated?
+- [x] They add
+- [ ] They subtract
+- [ ] They remain unchanged
+- [ ] They average
+
+11. A 95% confidence interval for the mean mass is 12.4 to 13.0 g. What does this mean?
+- [x] If we repeated the study many times, 95% of such intervals would contain the true mean
+- [ ] 95% of individual masses fall in this range
+- [ ] The true mean is exactly 12.7 g
+- [ ] The p-value is 0.05
+
+12. Which situation indicates high precision but low accuracy?
+- [x] Repeated measurements tightly clustered but all offset from the true value due to calibration error
+- [ ] Measurements scattered widely around the true value
+- [ ] One measurement exactly matches the true value
+- [ ] Measurements vary randomly around zero
+
+13. Which is the best reason to use a box-and-whisker plot?
+- [x] To compare medians and interquartile ranges across groups
+- [ ] To show individual time series
+- [ ] To display a calibration curve
+- [ ] To present categorical proportions
+
+14. The slope of a calibration line is 2.50 AU per mg/L (intercept ≈ 0). A sample reads 1.00 AU. What is its concentration?
+- [x] 0.40 mg/L
+- [ ] 2.50 mg/L
+- [ ] 1.00 mg/L
+- [ ] 0.25 mg/L
+
+15. What is the most appropriate action when residuals from a linear fit show curvature?
+- [ ] Conclude the model is perfect
+- [x] Consider a different model (e.g., quadratic) or transform variables
+- [ ] Remove data until residuals look flat
+- [ ] Ignore the residuals
+
+16. A study compares two groups with overlapping error bars. What is the correct conclusion?
+- [ ] The groups are significantly different
+- [x] Overlap suggests differences may not be statistically significant; further analysis is needed
+- [ ] The groups are identical
+- [ ] The sample size is too large
+
+17. When is interpolation generally more reliable than extrapolation?
+- [x] Within the range of observed data
+- [ ] Beyond the range of observed data
+- [ ] When the model is quadratic
+- [ ] Only when the sample size is > 100
+
+18. A student rounds every intermediate calculation to 2 significant figures. What is the likely effect?
+- [x] Excess rounding error; round only at the end to appropriate significant figures
+- [ ] Increased accuracy
+- [ ] Improved validity
+- [ ] Reduced bias
+
+19. What does a high R² (e.g., 0.95) guarantee?
+- [ ] Causation
+- [ ] Correct model form
+- [x] A strong proportion of variance explained by the model; not necessarily causation
+- [ ] No residual pattern
+
+20. Which test is most appropriate to compare means of two independent groups with approximately normal data and similar variances?
+- [x] Two-sample t-test
+- [ ] Chi-square test
+- [ ] Mann–Whitney test for paired data
+- [ ] ANOVA for three or more groups
+
+---
+
+### Quiz 5: Models, Theories and Laws – Nature of Science; Validation; Limitations
+
+1. Which statement best distinguishes a scientific law from a theory?
+- [ ] A law explains; a theory describes
+- [x] A law describes a consistent relationship; a theory explains mechanisms underlying observations
+- [ ] Laws are guesses; theories are proven facts
+- [ ] Theories become laws with enough evidence
+
+2. Which is the best description of a model in science?
+- [ ] A perfect replica of reality
+- [x] A simplified representation used to explain, predict, or test ideas
+- [ ] An unchangeable depiction of nature
+- [ ] A collection of untested opinions
+
+3. An analogy model of an atom is like a solar system. Which is a key limitation?
+- [x] Electrons do not orbit like planets; quantum behavior is not captured
+- [ ] The nucleus is too small
+- [ ] Models cannot use analogies
+- [ ] Atoms have moons
+
+4. What provides the strongest support that a model is useful?
+- [ ] It is widely taught
+- [ ] It is aesthetically pleasing
+- [x] It makes accurate, testable predictions across conditions
+- [ ] It uses complex mathematics
+
+5. When a model consistently overestimates values at high inputs, which approach is most appropriate?
+- [x] Re-examine assumptions; recalibrate or choose a model that accounts for saturation or nonlinearity
+- [ ] Ignore the discrepancy
+- [ ] Remove high input data
+- [ ] Publish as is
+
+6. A theory persists despite anomalies. Which is the best scientific response?
+- [x] Investigate anomalies; refine theory or its domain of applicability
+- [ ] Dismiss anomalies as noise
+- [ ] Abandon the theory immediately
+- [ ] Keep collecting the same data indefinitely
+
+7. Which example best shows falsifiability?
+- [x] “Under standard conditions, increasing pressure decreases gas volume.”
+- [ ] “Invisible forces might affect outcomes sometimes.”
+- [ ] “Anything could happen in the future.”
+- [ ] “The universe prefers symmetry.”
+
+8. Overfitting is most likely when:
+- [ ] The model is simple and robust
+- [ ] The sample is very large
+- [x] The model has too many parameters relative to the data, fitting noise
+- [ ] Cross-validation error is low
+
+9. Which statement about paradigm shifts is most accurate?
+- [x] They occur when accumulating evidence supports a new framework that better explains observations
+- [ ] They happen after a single experiment
+- [ ] They require unanimous agreement before change
+- [ ] They are purely political
+
+10. What is sensitivity analysis in modelling?
+- [ ] Estimating uncertainty by repeating measurements
+- [x] Evaluating how model outputs change when inputs or parameters vary
+- [ ] Testing for blinding
+- [ ] Comparing means across groups
+
+11. Why are assumptions explicitly stated in models?
+- [x] To clarify scope, limitations, and conditions where the model is valid
+- [ ] To hide weaknesses
+- [ ] To increase complexity
+- [ ] To replace data collection
+
+12. Which provides the strongest evidence for a computational climate model’s validity?
+- [ ] Agreement with a single year’s data
+- [ ] Public popularity
+- [x] Skill in hindcasting past climate and predicting independent future observations
+- [ ] Complexity of code
+
+13. Which best differentiates empirical and mechanistic models?
+- [x] Empirical models fit observed patterns; mechanistic models incorporate causal processes
+- [ ] Mechanistic models ignore mechanisms
+- [ ] Empirical models are always superior
+- [ ] Mechanistic models cannot predict
+
+14. In model evaluation, what does cross-validation primarily assess?
+- [ ] Internal validity
+- [x] Predictive performance on unseen data
+- [ ] Ethical compliance
+- [ ] Instrument precision
+
+15. A scale model of a bridge is built at 1:100 size. Which is a key consideration?
+- [x] Dynamic similarity (e.g., Reynolds number) may not scale linearly
+- [ ] Materials need not be considered
+- [ ] Gravity has no effect at small scales
+- [ ] Scaling removes uncertainty
+
+16. Which is the best reason to update a model after new evidence emerges?
+- [x] To improve explanatory power and predictive accuracy
+- [ ] To match public expectations
+- [ ] To increase complexity for status
+- [ ] To avoid peer review
+
+17. Which is an example of a scientific law?
+- [x] The relationship between pressure and volume for a gas at constant temperature (Boyle’s law)
+- [ ] The cell theory
+- [ ] The theory of evolution by natural selection
+- [ ] The plate tectonics theory
+
+18. A student claims a model is valid because it fits the calibration data perfectly (R² = 1). What is the best critique?
+- [x] It may be overfit; check predictive performance on independent data
+- [ ] Perfect fit always proves causation
+- [ ] R² = 1 guarantees generalisability
+- [ ] Complexity ensures validity
+
+19. Why are multiple, independent lines of evidence valued when evaluating theories?
+- [x] Converging evidence from different methods reduces bias and strengthens confidence
+- [ ] It makes conclusions less reliable
+- [ ] It confuses interpretation
+- [ ] It replaces the need for replication
+
+20. Which is an acceptable role of a model even if it is not “true” in all details?
+- [x] Providing useful approximations to guide understanding and decision-making within limits
+- [ ] Proving hypotheses beyond doubt
+- [ ] Eliminating the need for experiments
+- [ ] Serving as a law
+
+---
+
+### Quiz 6: Science in Society & Communication – Claims, Ethics, Indigenous Knowledge, Technology
+
+1. Which is the best indicator that a scientific article is credible?
+- [ ] It has many social media shares
+- [x] It is peer-reviewed in a reputable journal with transparent methods and data
+- [ ] It agrees with your prior beliefs
+- [ ] It is behind a paywall
+
+2. Which feature most strongly suggests pseudoscience?
+- [ ] Use of technical terms
+- [ ] Anecdotal evidence accompanied by some data
+- [x] Reliance on untestable claims and lack of openness to revision
+- [ ] Publication in a journal
+
+3. A news headline claims “miracle cure found” based on a cell culture study. What is the best response?
+- [x] Recognise the limitations of in vitro studies and seek corroborating animal/human data
+- [ ] Accept the claim as proven
+- [ ] Assume the study is fraudulent
+- [ ] Ignore the methods section
+
+4. Which is a key consideration when integrating Aboriginal and Torres Strait Islander knowledge with Western science approaches?
+- [x] Respect for cultural protocols, intellectual property, and co-design of research questions
+- [ ] Prioritise only Western methods
+- [ ] Share all raw data publicly without consent
+- [ ] Assume knowledge is free to use
+
+5. Which is the most ethical way to present uncertainties in public risk communication?
+- [ ] Avoid mentioning uncertainty to prevent panic
+- [x] Clearly explain confidence intervals and what they mean in context
+- [ ] Provide only point estimates
+- [ ] Use jargon to sound authoritative
+
+6. A company funds a study on its own product. What should be disclosed?
+- [x] Funding sources and any potential conflicts of interest
+- [ ] Only author names
+- [ ] Nothing, if peer reviewed
+- [ ] Only positive results
+
+7. Which graph feature is most likely to mislead a general audience?
+- [ ] Clear axis labels
+- [x] Dual y-axes with different scales suggesting correlation
+- [ ] Error bars with explanation
+- [ ] A legend
+
+8. Which statement about open data is most accurate?
+- [x] It enhances transparency and allows independent verification, subject to privacy and cultural considerations
+- [ ] It always violates ethics
+- [ ] It replaces peer review
+- [ ] It removes the need for methods sections
+
+9. Citizen science projects can contribute valuable data. Which is a common limitation to plan for?
+- [ ] They cannot collect data
+- [x] Variable data quality requiring validation and training
+- [ ] They are unethical
+- [ ] They replace professional science entirely
+
+10. A public infographic uses a y-axis that starts at 90 instead of 0 to show temperature change. What is the risk?
+- [ ] It reduces precision
+- [x] It may exaggerate apparent differences; context must be explained
+- [ ] It hides uncertainty
+- [ ] It increases sample size
+
+11. Why is preregistration of study protocols beneficial?
+- [x] It reduces selective reporting and p-hacking
+- [ ] It guarantees significance
+- [ ] It replaces replication
+- [ ] It eliminates bias
+
+12. Which communication strategy is most appropriate for a non-specialist audience?
+- [x] Use plain language, analogies, and visuals while avoiding unnecessary jargon
+- [ ] Use complex equations to show rigor
+- [ ] Provide raw datasets only
+- [ ] Focus on methods without context
+
+13. A device claims “clinically proven” without citations. What is the best next step?
+- [x] Request and appraise the peer-reviewed evidence supporting the claim
+- [ ] Accept based on the label
+- [ ] Look for testimonials
+- [ ] Assume regulation ensures truth
+
+14. Which is an ethical issue when using secondary data?
+- [ ] Reporting uncertainties
+- [x] Ensuring data was collected with consent and used within permitted scope
+- [ ] Using statistical software
+- [ ] Graphing data
+
+15. How should a communication acknowledge uncertainty in model predictions?
+- [x] Provide ranges or scenarios and explain assumptions
+- [ ] Provide exact numbers only
+- [ ] Omit assumptions
+- [ ] Focus on extremes to engage
+
+16. Which statement about risk-benefit analysis is most accurate?
+- [x] It weighs potential harms against benefits, considering likelihood and severity
+- [ ] It ignores stakeholder values
+- [ ] It uses only qualitative data
+- [ ] It prioritises cost over safety
+
+17. In science media, what is a common cause of exaggerated claims?
+- [ ] Strong peer review
+- [ ] Accurate headlines
+- [x] Oversimplification and omission of study limitations
+- [ ] Inclusion of methods
+
+18. Which is the most ethical way to portray images of human participants?
+- [x] Obtain consent for image use and de-identify where appropriate
+- [ ] Use any images found online
+- [ ] Show faces to increase trust
+- [ ] Alter images without disclosure
+
+19. A school wants to test an app that collects student sleep data. What is the most appropriate action before deployment?
+- [x] Conduct an ethics review, ensure informed consent, and address data privacy and security
+- [ ] Install it on all devices first
+- [ ] Share all data with the developer
+- [ ] Make participation mandatory
+
+20. Which practice best counters misinformation in the community?
+- [x] Provide clear, evidence-based explanations, address misconceptions respectfully, and cite reliable sources
+- [ ] Avoid engaging with misinformation
+- [ ] Use ridicule to discourage beliefs
+- [ ] Share only sensational findings
+
+### Quiz 41: Module 1 – Observing; Priority Areas: Measurement & Uncertainty, Variables, Validity, Data Quality
+
+1. A student times 10 oscillations of a pendulum and divides by 10 to find the period. This primarily improves which quality of the measurement?
+- [ ] Accuracy by eliminating systematic error
+- [x] Precision by reducing random error
+- [ ] Validity by including more controls
+- [ ] Reliability by introducing a new instrument
+
+2. Which statement best defines the dependent variable in an investigation?
+- [ ] The variable the experimenter controls to ensure a fair test
+- [ ] The variable that remains constant throughout the experiment
+- [x] The variable that changes in response to the independent variable
+- [ ] The variable that is used as a calibration standard
+
+3. A thermometer consistently reads 1.5°C higher than the true temperature. What error does this indicate?
+- [ ] Random error due to reading fluctuations
+- [x] Systematic error due to calibration offset
+- [ ] Blunder error due to incorrect units
+- [ ] Human error due to misinterpretation of scale
+
+4. Which action most improves the validity of an investigation about light intensity on plant growth?
+- [ ] Using a ruler with 0.5 mm resolution
+- [x] Keeping water, soil type, and temperature constant
+- [ ] Taking more repeated measurements
+- [ ] Using a more expensive light meter
+
+5. The uncertainty in a digital balance that reads to 0.01 g is best reported as:
+- [ ] ±0.001 g
+- [ ] ±0.005 g
+- [x] ±0.01 g
+- [ ] ±0.1 g
+
+6. Which graph best displays the relationship between two continuous variables?
+- [ ] Bar chart with categories on the x-axis
+- [x] Scatter plot with a line of best fit
+- [ ] Pie chart showing proportions
+- [ ] Histogram of frequency counts
+
+7. A student chooses to measure the height of a plant from the soil surface to the top leaf. This operational definition enhances:
+- [x] Reliability by standardising the measurement method
+- [ ] Accuracy by removing all measurement error
+- [ ] Validity by increasing the sample size
+- [ ] Precision by using a higher resolution instrument
+
+8. When is a control group most essential?
+- [ ] When using highly precise instruments
+- [x] When isolating the effect of the independent variable
+- [ ] When collecting qualitative data
+- [ ] When calculating percentage error
+
+9. Which is the best method to reduce parallax error when reading a graduated cylinder?
+- [x] Position the eye level with the meniscus
+- [ ] Use a cylinder with more graduations
+- [ ] Increase the volume measured
+- [ ] Record the measurement quickly
+
+10. An outlier appears in a set of repeated measurements. The first step should be to:
+- [ ] Delete the outlier and continue
+- [ ] Average all values including the outlier
+- [x] Investigate possible causes and repeat the measurement
+- [ ] Replace the instrument with a new model
+
+11. Which pair of variables is most likely to show a causal relationship in a valid experiment?
+- [x] Salt concentration (IV) and osmosis rate (DV) in identical potato cores
+- [ ] Temperature and time of day without controls
+- [ ] Age and exam results from unrelated classes
+- [ ] Shoe size and reading speed in a survey
+
+12. The resolution of an instrument is:
+- [x] The smallest change it can detect
+- [ ] The average of repeated readings
+- [ ] The total range it can measure
+- [ ] The uncertainty due to calibration
+
+13. Which action primarily increases reliability?
+- [ ] Calibrating against a standard
+- [x] Repeating trials and averaging results
+- [ ] Using more significant figures
+- [ ] Changing the independent variable levels
+
+14. A student records 23.4 mL, 23.6 mL, and 23.5 mL for three trials. The mean and spread suggest:
+- [x] High precision, unknown accuracy
+- [ ] Low precision, high accuracy
+- [ ] High accuracy, low validity
+- [ ] Low validity, high accuracy
+
+15. In a fair test, controlled variables are:
+- [x] Kept constant to isolate the effect of the independent variable
+- [ ] Changed to observe their effect on the dependent variable
+- [ ] Measured and graphed as the dependent variable
+- [ ] Randomised to reduce bias
+
+16. Which is the most appropriate uncertainty for a ruler with 1 mm markings?
+- [ ] ±0.1 mm
+- [ ] ±0.25 mm
+- [x] ±0.5 mm
+- [ ] ±1 mm
+
+17. The purpose of a pilot study in an investigation is to:
+- [ ] Create a final report
+- [x] Test and refine methods and instruments
+- [ ] Prove the hypothesis correct
+- [ ] Increase the number of variables
+
+18. If a dataset shows a strong correlation (r = 0.92), it implies:
+- [x] A strong relationship; causation not necessarily established
+- [ ] A causal link is proven
+- [ ] The model is invalid
+- [ ] The data are unreliable
+
+19. The best reason to randomise the order of treatment levels is to:
+- [x] Reduce systematic bias from time-related factors
+- [ ] Increase accuracy of instruments
+- [ ] Ensure validity by removing variables
+- [ ] Make the sample size larger
+
+20. A student uses two different brands of pH probe between trials. This decision most likely affects:
+- [ ] Dependent variable definition
+- [ ] Instrument resolution
+- [ ] Sample size
+- [x] Reliability and comparability of results
+
+---
+
+### Quiz 42: Module 2 – Experimenting; Priority Areas: Experimental Design, Controls, Error Types, Sampling
+
+1. Which design best isolates the effect of fertiliser type on plant growth?
+- [x] Same species, light, water, soil; vary only fertiliser type across groups
+- [ ] Vary species and fertiliser; same soil and water
+- [ ] Different soil for each plant; same fertiliser
+- [ ] Same fertiliser; different watering schedules
+
+2. A placebo is used primarily to control for:
+- [ ] Random error
+- [x] Participant expectations
+- [ ] Instrument calibration
+- [ ] Confounding variables unrelated to treatment
+
+3. Double-blinding in a trial means:
+- [ ] Only participants are unaware of the treatment
+- [x] Both participants and assessors are unaware of the treatment
+- [ ] Only researchers are unaware of the hypothesis
+- [ ] Data analysts are unaware of the results
+
+4. Which action reduces systematic error in a pH measurement experiment?
+- [ ] Increasing repeats
+- [ ] Randomising sample order
+- [x] Calibrating the pH meter with standard buffers
+- [ ] Averaging values
+
+5. A stratified sample is most appropriate when:
+- [ ] The population is homogeneous
+- [ ] Convenience is prioritised
+- [x] Distinct subgroups must be proportionally represented
+- [ ] Only qualitative data are needed
+
+6. A student changes two variables at once to save time. The result is:
+- [ ] Improved validity
+- [ ] Unchanged reliability
+- [x] Reduced ability to attribute cause and effect
+- [ ] Higher accuracy
+
+7. In an enzyme experiment, temperature is accidentally raised for all later trials. This introduces:
+- [ ] Random error
+- [x] Systematic error linked to time
+- [ ] Increased validity
+- [ ] Reduced sample size
+
+8. Block randomisation is used to:
+- [x] Control for known nuisance variables across treatment groups
+- [ ] Increase the number of instruments
+- [ ] Ensure exact replication
+- [ ] Eliminate random error completely
+
+9. The most ethical way to assign participants in a trial is:
+- [ ] Choose the best students for the treatment
+- [x] Random assignment with informed consent
+- [ ] Alternate assigning by alphabetical order
+- [ ] Assign those likely to benefit most
+
+10. A power analysis helps determine:
+- [ ] Calibration offset
+- [x] Adequate sample size to detect an effect
+- [ ] Validity of the hypothesis
+- [ ] Appropriate graph type
+
+11. To minimise carryover in titrations:
+- [x] Rinse burette with the solution to be used
+- [ ] Increase indicator volume
+- [ ] Use a different indicator each time
+- [ ] Omit the rinse step to save solution
+
+12. A control variable is missed during planning. The most likely impact is:
+- [ ] Higher precision
+- [x] Potential confounding of results
+- [ ] Increased validity
+- [ ] Reduced random error
+
+13. Blunders in data are best handled by:
+- [ ] Always including them to avoid bias
+- [ ] Deleting all extreme values
+- [x] Identifying and excluding only with documented justification
+- [ ] Ignoring their presence
+
+14. The primary purpose of a negative control is to:
+- [ ] Maximise response
+- [ ] Provide calibration
+- [x] Show the absence of effect without the independent variable
+- [ ] Randomise treatment application
+
+15. In a repeated-measures design, a key advantage is:
+- [x] Reduced variability due to participant differences
+- [ ] No need for blinding
+- [ ] Larger sample size required
+- [ ] Elimination of all confounding
+
+16. The best way to assess inter-rater reliability is to:
+- [x] Have multiple observers independently score the same events
+- [ ] Increase sample size
+- [ ] Use a more precise instrument
+- [ ] Blind only the participants
+
+17. A Latin square design is used to:
+- [ ] Increase number of treatments
+- [ ] Simplify random sampling
+- [x] Control two blocking factors without full replication
+- [ ] Replace a control group
+
+18. To reduce evaporation loss during heating:
+- [x] Use a watch glass to cover the beaker
+- [ ] Increase flame intensity
+- [ ] Use a larger beaker
+- [ ] Stir less frequently
+
+19. A pilot test reveals ceiling effects in a reaction time test. The best adjustment is to:
+- [ ] Keep the same difficulty level
+- [x] Increase task difficulty to spread scores
+- [ ] Reduce sample size
+- [ ] Add more trials with same parameters
+
+20. In a field study of insect abundance, the most appropriate method for uniform habitat is:
+- [ ] Convenience sampling
+- [x] Systematic transect with quadrats at fixed intervals
+- [ ] Snowball sampling
+- [ ] Self-selected volunteer counts
+
+---
+
+### Quiz 43: Module 3 – Modelling; Priority Areas: Scientific Models, Assumptions, Limitations, Dimensional Analysis
+
+1. A model that simplifies air resistance as proportional to velocity assumes:
+- [x] Low-speed motion in a medium where linear drag dominates
+- [ ] Constant acceleration regardless of speed
+- [x] Incorrect; both cannot be true
+- [ ] Drag is negligible at all speeds
+
+2. The main reason to use a model is to:
+- [ ] Replace experiments entirely
+- [x] Explain, predict, and understand complex phenomena
+- [ ] Prove a theory as true
+- [ ] Eliminate uncertainty
+
+3. Which statement best reflects model limitations?
+- [x] Models are valid within specified conditions and assumptions
+- [ ] Models produce exact real-world outcomes
+- [ ] Models eliminate measurement error
+- [ ] Models must include every variable to be valid
+
+4. Dimensional analysis of the equation v = at + v0 confirms:
+- [x] Both sides have dimension of L T^-1
+- [ ] Both sides have dimension of L
+- [ ] Both sides have dimension of T
+- [ ] Both sides have dimension of M L T^-2
+
+5. A model uses point masses for planets. This is justified when:
+- [x] Distances are large relative to planet size
+- [ ] Planet shape is critical to the result
+- [ ] Surface features dominate gravitational effects
+- [ ] Rotation is the only factor considered
+
+6. Overfitting in a model is indicated by:
+- [x] Excellent fit to training data but poor predictions on new data
+- [ ] Moderate fit to all data sets
+- [ ] Simple model with few parameters
+- [ ] Consistent predictions across contexts
+
+7. A log-log plot linearises a power-law relationship. If the slope is 2, the model implies:
+- [ ] y ∝ x
+- [x] y ∝ x^2
+- [ ] y ∝ ln x
+- [ ] y ∝ e^x
+
+8. A simplifying assumption in a predator–prey model is most likely:
+- [x] Constant carrying capacity over the time interval
+- [ ] Variable predator efficiency each time step
+- [ ] Perfect measurement of populations
+- [ ] Non-random sampling of individuals
+
+9. Sensitivity analysis in models is used to:
+- [ ] Reduce sample size
+- [x] Determine how outputs change with parameter variation
+- [ ] Validate assumptions using ethics
+- [ ] Replace calibration steps
+
+10. A model assumes no heat loss to surroundings. This is an example of:
+- [x] Idealisation to simplify energy calculations
+- [ ] Systematic error
+- [ ] Random error reduction
+- [ ] Dimensional inconsistency
+
+11. Dimensional analysis of F = kx for a spring shows k has units of:
+- [x] N m^-1
+- [ ] N
+- [ ] kg m s^-2
+- [ ] m N^-1
+
+12. A simulation uses a 1-minute time step to model temperature. Reducing time step primarily affects:
+- [ ] Validity
+- [x] Numerical stability and accuracy of the solution
+- [ ] Ethical considerations
+- [ ] Calibration offset
+
+13. A compartment model for disease spread (SIR) assumes:
+- [ ] Individuals cannot recover
+- [x] Homogeneous mixing within the population
+- [ ] No transmission occurs
+- [ ] Population size is unknown
+
+14. The best indicator that a model is robust is:
+- [ ] It matches a single dataset
+- [x] It predicts new observations within uncertainty bounds
+- [ ] It uses many parameters
+- [ ] It is visually appealing
+
+15. When linearising data by taking logs, which is necessary?
+- [x] All data values must be positive
+- [ ] Values can be zero
+- [ ] Negative values are preferred
+- [ ] Units must be removed entirely
+
+16. A dimensional check of E = 1/2 mv^3 indicates:
+- [ ] It is dimensionally consistent
+- [x] It is inconsistent; energy should scale with v^2
+- [ ] It is valid for high speeds only
+- [ ] It is a unit conversion issue
+
+17. Calibration of a model parameter using known data is best described as:
+- [x] Fitting
+- [ ] Validation
+- [ ] Verification
+- [ ] Null testing
+
+18. The term "black box model" refers to:
+- [x] A model with inputs and outputs known but internal mechanisms not explicit
+- [ ] A model with transparent assumptions
+- [ ] A model that cannot be tested
+- [ ] A model with no parameters
+
+19. Which action improves model validity?
+- [x] Testing predictions against independent datasets
+- [ ] Increasing decimal places in outputs
+- [ ] Adding parameters without justification
+- [ ] Ignoring boundary conditions
+
+20. A scale model of a bridge is built at 1:100. To maintain dynamic similarity for wind tests, one should match:
+- [ ] Only geometric similarity
+- [x] Relevant dimensionless numbers (e.g., Reynolds number)
+- [ ] Material colour
+- [ ] Mass per unit length only
+
+---
+
+### Quiz 44: Module 4 – Theories and Laws; Priority Areas: Hypotheses, Falsifiability, Peer Review, Causation vs Correlation
+
+1. Which statement is falsifiable?
+- [x] "Increasing temperature by 10°C will double the reaction rate under specified conditions."
+- [ ] "This treatment makes people feel more alive."
+- [ ] "Invisible energy influences outcomes."
+- [ ] "Nature prefers balance."
+
+2. A scientific law differs from a theory in that a law:
+- [ ] Explains why phenomena occur
+- [x] Describes patterns or relationships observed in nature
+- [ ] Is less supported than a theory
+- [ ] Cannot be revised
+
+3. A hypothesis must be:
+- [x] Testable and measurable
+- [ ] True and widely accepted
+- [ ] Complex and multi-factorial
+- [ ] Ethical and qualitative
+
+4. Which scenario best shows correlation without causation?
+- [ ] Increasing enzyme concentration increases reaction rate
+- [x] Ice cream sales and drowning both increase in summer
+- [ ] Voltage increase raises current in a resistor
+- [ ] Higher dose leads to stronger effect in controlled trials
+
+5. Peer review primarily aims to:
+- [ ] Confirm the author's affiliation
+- [x] Assess the quality, validity, and originality of research
+- [ ] Guarantee that results are correct
+- [ ] Increase the number of citations
+
+6. A paradigm shift is most likely when:
+- [ ] A single anomalous result is reported
+- [x] Accumulated evidence consistently contradicts the existing framework
+- [ ] A popular scientist proposes a new idea
+- [ ] A new instrument is invented
+
+7. Replication by independent researchers strengthens:
+- [ ] Novelty of the claim
+- [x] Reliability and robustness of findings
+- [ ] Sample size always
+- [ ] Theoretical complexity
+
+8. Which best describes a null hypothesis?
+- [x] A statement that there is no effect or difference
+- [ ] A claim that the new model is better
+- [ ] An assertion that must be accepted
+- [ ] An untestable idea
+
+9. Publication bias most commonly favours:
+- [x] Positive or significant results over null results
+- [ ] Replication studies
+- [ ] Negative results only
+- [ ] Theoretical papers with no data
+
+10. A theory is refined when:
+- [x] New evidence prompts modification of explanations
+- [ ] Laws are discarded
+- [ ] Peer review is skipped
+- [ ] Methods become secret
+
+11. Which is an example of a law-like relation?
+- [x] The inverse-square relationship between light intensity and distance
+- [ ] The cellular theory of life
+- [ ] The evolution by natural selection
+- [ ] The plate tectonics theory
+
+12. The best reason to preregister a study is to:
+- [ ] Increase the number of variables
+- [x] Reduce selective reporting and p-hacking
+- [ ] Speed up data collection
+- [ ] Ensure larger effect sizes
+
+13. What strengthens a causal claim the most?
+- [ ] Strong correlation alone
+- [x] Controlled experiment with random assignment and consistent effect
+- [ ] Anecdotal reports
+- [ ] Media coverage
+
+14. Which is a red flag for pseudoscience?
+- [x] Claims that are immune to disproof
+- [ ] Transparent methods and open data
+- [ ] Independent replication
+- [ ] Clear operational definitions
+
+15. Which practice enhances transparency?
+- [x] Sharing raw data and code where ethical and legal
+- [ ] Hiding methods to avoid criticism
+- [ ] Only reporting best trials
+- [ ] Removing all outliers without explanation
+
+16. A confounding variable is one that:
+- [ ] Is the primary dependent variable
+- [ ] Is unrelated to the independent variable
+- [x] Influences both independent and dependent variables
+- [ ] Always reduces random error
+
+17. The Bradford Hill criteria are used to:
+- [x] Assess evidence for causation in epidemiology
+- [ ] Calculate measurement uncertainty
+- [ ] Determine sample size
+- [ ] Choose graph types
+
+18. A meta-analysis increases power by:
+- [x] Combining results across multiple studies
+- [ ] Reducing variance within a single study
+- [ ] Excluding null results by default
+- [ ] Using fewer participants
+
+19. Reproducibility refers to:
+- [ ] The same researcher repeating the experiment
+- [ ] Instruments giving the same reading each time
+- [x] Independent researchers obtaining similar results using the described methods
+- [ ] Theory prediction accuracy
+
+20. A claim that relies on ad hoc adjustments to accommodate every anomaly most likely indicates:
+- [ ] A robust theory
+- [ ] A law-like relation
+- [x] A non-falsifiable framework
+- [ ] A strong causal mechanism
+
+---
+
+### Quiz 45: Module 5 – Scientific Evidence; Priority Areas: Data Integrity, Outliers, Uncertainty, Basic Statistics
+
+1. The median is preferred to the mean when:
+- [ ] The data are symmetrically distributed
+- [x] The distribution is skewed with outliers
+- [ ] The sample size is very large
+- [ ] The data are categorical
+
+2. An outlier that is real but unusual should be:
+- [ ] Always removed
+- [ ] Ignored entirely
+- [x] Reported and analysed with justification (e.g., robust statistics)
+- [ ] Replaced with the mean
+
+3. The standard deviation measures:
+- [x] Spread of data around the mean
+- [ ] Accuracy of instruments
+- [ ] Difference between medians
+- [ ] Validity of the hypothesis
+
+4. If two measurements are independent with uncertainties ±0.2 and ±0.3 units, the uncertainty in their sum is approximately:
+- [x] ±0.36 (root sum of squares)
+- [ ] ±0.1
+- [ ] ±0.5 (simple sum)
+- [ ] ±0.6 (double)
+
+5. A 95% confidence interval that excludes zero for a difference suggests:
+- [x] The difference is statistically significant at the 5% level
+- [ ] There is no difference
+- [ ] The measurement is invalid
+- [ ] The effect size is large
+
+6. To detect a non-linear trend in residuals, you should:
+- [x] Plot residuals against fitted values
+- [ ] Plot raw data only
+- [ ] Increase sample size blindly
+- [ ] Remove all low values
+
+7. Which statement about p-values is correct?
+- [x] They indicate how extreme the data are under the null hypothesis
+- [ ] They provide the probability the null is true
+- [ ] Values above 0.05 prove no effect exists
+- [ ] They measure effect size
+
+8. Data integrity is best supported by:
+- [x] Maintaining an audit trail and versioned datasets
+- [ ] Editing files without logs
+- [ ] Using only summary statistics
+- [ ] Destroying raw data after analysis
+
+9. Which is a robust measure of spread?
+- [ ] Range
+- [ ] Standard deviation
+- [x] Interquartile range
+- [ ] Variance
+
+10. If measurement resolution is ±0.1 units and the standard deviation is ±1.0 units, the dominant uncertainty is:
+- [ ] Instrument resolution
+- [x] Random variation
+- [ ] Systematic error
+- [ ] Calibration drift
+
+11. A boxplot displays:
+- [x] Median, quartiles, and potential outliers
+- [ ] Mean and standard error only
+- [ ] Mode, variance, and skewness
+- [ ] Correlation coefficient
+
+12. The term "effect size" refers to:
+- [x] Magnitude of the observed difference or relationship
+- [ ] Probability of Type I error
+- [ ] The number of participants
+- [ ] The p-value threshold
+
+13. A Type I error occurs when:
+- [x] You reject a true null hypothesis
+- [ ] You fail to reject a false null hypothesis
+- [ ] You accept an untestable claim
+- [ ] You reduce sample size inappropriately
+
+14. To check for data entry errors:
+- [x] Use range checks and double-entry verification
+- [ ] Increase decimal places
+- [ ] Remove extreme values automatically
+- [ ] Convert all units to percentages
+
+15. If log-transforming right-skewed data, a typical benefit is:
+- [x] Reduced skewness and stabilised variance
+- [ ] Increased skewness
+- [ ] Larger p-values
+- [ ] Fewer data points
+
+16. Which plot best displays the distribution shape for continuous data?
+- [ ] Pie chart
+- [ ] Line plot of means
+- [x] Histogram or density plot
+- [ ] Scatter plot with two variables
+
+17. Data rounding should be:
+- [ ] As many decimal places as possible
+- [x] Consistent with measurement resolution and uncertainty
+- [ ] Different for each trial
+- [ ] Done before averaging
+
+18. The mode is most useful for:
+- [ ] Continuous symmetric data
+- [ ] Interval data with many decimals
+- [x] Categorical or discrete data
+- [ ] Regression analysis
+
+19. A negative residual in a fit indicates the observed value is:
+- [ ] Greater than predicted
+- [x] Less than predicted
+- [ ] Equal to predicted
+- [ ] A leverage point
+
+20. If two variables have r = 0, it means:
+- [x] No linear correlation; non-linear relationships may still exist
+- [ ] No relationship of any kind
+- [ ] The variables are independent
+- [ ] The measurement is invalid
+
+---
+
+### Quiz 46: Module 6 – Science in Society and Communication; Priority Areas: Ethics, Risk Communication, Bias, Source Credibility
+
+1. Informed consent requires that participants:
+- [x] Understand risks, benefits, and have the right to withdraw
+- [ ] Are paid for participation
+- [ ] Agree to share data publicly without restriction
+- [ ] Have their identities published
+
+2. Which is an example of risk communication best practice?
+- [x] Present absolute risks with clear denominators
+- [ ] Use dramatic images to emphasise danger
+- [ ] Report only relative risk increases
+- [ ] Avoid uncertainty ranges
+
+3. Conflict of interest should be disclosed because it:
+- [x] Can bias interpretation of results
+- [ ] Proves fraud is present
+- [ ] Lowers sample size
+- [ ] Eliminates peer review
+
+4. An ethically sound study ensures:
+- [x] Risk minimisation and justice in participant selection
+- [ ] Maximised risk for generalisability
+- [ ] No debriefing after deception
+- [ ] Mandatory participation
+
+5. The most credible secondary source is:
+- [x] A systematic review from a reputable, peer-reviewed journal
+- [ ] A personal blog
+- [ ] A press release with no methods
+- [ ] A social media post
+
+6. When communicating uncertainty to the public, it is best to:
+- [x] Provide ranges and confidence intervals with plain-language explanations
+- [ ] Omit uncertainty to avoid confusion
+- [ ] Use only technical terms
+- [ ] Focus on worst-case scenarios
+
+7. Sensationalising results in media can lead to:
+- [ ] Improved scientific literacy
+- [x] Misinterpretation and loss of trust
+- [ ] Better peer review
+- [ ] Reduced bias
+
+8. Data privacy in citizen science projects requires:
+- [x] De-identification and secure storage of personal data
+- [ ] Open publication of raw personal identifiers
+- [ ] Sharing GPS data without consent
+- [ ] Ignoring ethics review
+
+9. A press release should:
+- [x] Accurately reflect methods, limitations, and effect sizes
+- [ ] Emphasise only strengths
+- [ ] Avoid quoting uncertainty
+- [ ] Include anecdotes instead of data
+
+10. Which is an example of confirmation bias?
+- [ ] Randomly assigning groups
+- [x] Seeking data that support existing beliefs and overlooking contrary evidence
+- [ ] Blinding assessors
+- [ ] Pre-registering hypotheses
+
+11. Citizen science data are most trustworthy when:
+- [x] Protocols are standardised and validated with expert audits
+- [ ] Any method is allowed
+- [ ] Participants use any instrument
+- [ ] No training is provided
+
+12. An ethics committee primarily evaluates:
+- [x] Risks, benefits, consent processes, and confidentiality
+- [ ] Statistical power
+- [ ] Graph types
+- [ ] Publication venues
+
+13. Which statement about open access is correct?
+- [x] It allows free reading; quality still depends on peer review standards
+- [ ] It removes the need for peer review
+- [ ] It guarantees higher quality
+- [ ] It prevents replication
+
+14. Cherry-picking results is a problem because it:
+- [x] Distorts the true effect and misleads readers
+- [ ] Reduces Type I error rates
+- [ ] Improves validity
+- [ ] Standardises methods
+
+15. The precautionary principle suggests:
+- [x] Taking preventive action in the face of uncertainty when risks could be serious
+- [ ] Acting only when proof is absolute
+- [ ] Ignoring uncertain risks
+- [ ] Prioritising cost over safety
+
+16. A stakeholder analysis helps to:
+- [x] Identify interests, impacts, and communication needs of different groups
+- [ ] Replace risk assessment
+- [ ] Determine p-values
+- [ ] Eliminate ethical dilemmas
+
+17. Cultural competence in research involves:
+- [x] Respecting and integrating cultural perspectives in methods and communication
+- [ ] Using only Western frameworks
+- [ ] Avoiding community consultation
+- [ ] Prioritising speed over inclusion
+
+18. When reporting effect sizes, a forest plot is useful because it:
+- [x] Visualises effect sizes and confidence intervals across studies
+- [ ] Shows only p-values
+- [ ] Hides heterogeneity
+- [ ] Displays raw data points only
+
+19. Which is the best approach to address misinformation?
+- [x] Provide clear, accurate information and pre-bunk common myths
+- [ ] Repost misleading claims without context
+- [ ] Use ridicule
+- [ ] Stay silent
+
+20. In risk assessment, "hazard" refers to:
+- [x] The intrinsic potential to cause harm
+- [ ] The probability of exposure
+- [ ] The magnitude of consequences only
+- [ ] Public perception of danger
+
+---
+
+### Quiz 47: Module 7 – Data Analysis and Interpretation; Priority Areas: Graphs, Trends, Transformations, Residuals
+
+1. The line of best fit is drawn to:
+- [x] Minimise the sum of squared residuals
+- [ ] Pass through the origin
+- [ ] Connect all data points
+- [ ] Maximise the correlation coefficient by hand
+
+2. Extrapolation is riskier than interpolation because:
+- [x] It predicts outside the range of observed data where the model may not hold
+- [ ] It uses fewer data points
+- [ ] It ignores residuals
+- [ ] It requires log transformations
+
+3. A residual plot showing a funnel shape suggests:
+- [x] Heteroscedasticity (non-constant variance)
+- [ ] Normal residuals
+- [ ] Model adequacy
+- [ ] Independence of errors
+
+4. A transformation y' = ln(y) is most helpful when:
+- [x] Data are right-skewed with multiplicative errors
+- [ ] Data are symmetric
+- [ ] There are negative values
+- [ ] There are zeros to include
+
+5. A leverage point is:
+- [x] An observation with an extreme x-value that can strongly influence the fit
+- [ ] Any outlier in y
+- [ ] A median value
+- [ ] The intercept of the line
+
+6. The correlation coefficient r measures:
+- [x] Strength and direction of linear relationship
+- [ ] Causality between variables
+- [ ] Non-linear association
+- [ ] Agreement of units
+
+7. The slope of a calibration curve represents:
+- [x] Sensitivity (response per unit of analyte)
+- [ ] Instrument resolution
+- [ ] Background noise
+- [ ] Intercept error
+
+8. A time series shows periodic peaks every 12 months. This indicates:
+- [x] Seasonality
+- [ ] Stationarity
+- [ ] White noise
+- [ ] Random walk
+
+9. To compare distributions across groups, a suitable plot is:
+- [x] Side-by-side boxplots
+- [ ] Pie charts
+- [ ] Scatter plot
+- [ ] Single histogram
+
+10. The coefficient of determination (R^2) indicates:
+- [x] Proportion of variance in y explained by x in the model
+- [ ] The p-value for the slope
+- [ ] The mean squared error
+- [ ] The correlation direction
+
+11. A standard curve should include:
+- [x] Multiple standards spanning the expected range with replicates
+- [ ] One standard at the midpoint
+- [ ] Only the highest concentration
+- [ ] No blank
+
+12. The intercept in a calibration line is significant when:
+- [x] It differs from zero, indicating baseline offset or contamination
+- [ ] R^2 is high
+- [ ] The slope is steep
+- [ ] Units are converted
+
+13. To detect a lagged relationship, use:
+- [x] Cross-correlation function
+- [ ] Boxplot
+- [ ] Histogram
+- [ ] Scatter of y vs x at same time
+
+14. If residuals vs time show cyclic patterns, this suggests:
+- [x] Autocorrelation and model misspecification
+- [ ] Independent errors
+- [ ] Constant variance
+- [ ] Perfect fit
+
+15. A log-log plot yields a straight line with slope 0.5. The relationship is:
+- [ ] y ∝ log(x)
+- [x] y ∝ x^0.5
+- [ ] y ∝ e^x
+- [ ] y ∝ x^2
+
+16. To handle non-linear relationships, one approach is:
+- [x] Fit a non-linear model or transform variables appropriately
+- [ ] Force a linear fit
+- [ ] Remove half the data
+- [ ] Ignore residuals
+
+17. A Bland–Altman plot is used to:
+- [x] Assess agreement between two measurement methods
+- [ ] Test linearity
+- [ ] Compare more than two groups
+- [ ] Show seasonality
+
+18. When multiple comparisons are made, a risk is:
+- [x] Inflated Type I error rate
+- [ ] Reduced sample size
+- [ ] Increased power automatically
+- [ ] Lower variance
+
+19. Standardising variables (z-scores) is useful because it:
+- [x] Puts variables on a common scale to compare effect sizes
+- [ ] Increases variance
+- [ ] Changes measurement units to SI
+- [ ] Proves causation
+
+20. A QQ-plot that deviates in the tails suggests:
+- [x] Non-normality in residuals
+- [ ] Perfect normality
+- [ ] Heteroscedasticity only
+- [ ] Lack of correlation
+
+---
+
+### Quiz 48: Module 8 – Emerging Technologies and Citizen Science; Priority Areas: Sensors, Data Loggers, Participation, Data Quality
+
+1. The main advantage of data loggers over manual recording is:
+- [x] High-frequency, time-stamped measurements with reduced transcription error
+- [ ] Elimination of calibration needs
+- [ ] No uncertainty
+- [ ] Unlimited battery life
+
+2. Sensor drift over time is best addressed by:
+- [x] Regular calibration against known standards
+- [ ] Increasing sampling rate
+- [ ] Averaging many readings
+- [ ] Changing units
+
+3. GPS accuracy is improved by:
+- [x] Using devices with multi-constellation support and differential corrections
+- [ ] Turning off WAAS/EGNOS
+- [ ] Recording at noon only
+- [ ] Averaging two readings
+
+4. A citizen science program measuring air quality should prioritise:
+- [x] Standardised protocols and training modules
+- [ ] Any device participants prefer
+- [ ] Only qualitative observations
+- [ ] Opaque data handling
+
+5. Data completeness refers to:
+- [x] The extent to which required data fields are filled and time series are continuous
+- [ ] The absence of outliers
+- [ ] Low variance
+- [ ] The number of participants
+
+6. Sensor resolution limits:
+- [x] The smallest change detectable by the sensor
+- [ ] The maximum range of the sensor
+- [ ] The accuracy of the calibration solution
+- [ ] The number of decimal places displayed
+
+7. An IoT environmental station shows values that jump suddenly once per day. A likely cause is:
+- [x] Scheduled auto-calibration or reset events
+- [ ] Random noise only
+- [ ] Permanent sensor failure
+- [ ] Unit conversion
+
+8. Involving local communities in monitoring typically:
+- [x] Increases spatial coverage and relevance of data
+- [ ] Reduces data volume
+- [ ] Eliminates need for QA/QC
+- [ ] Removes ethical requirements
+
+9. A data dictionary is useful because it:
+- [x] Defines variables, units, formats, and valid ranges
+- [ ] Stores raw sensor outputs
+- [ ] Calculates p-values
+- [ ] Performs calibrations automatically
+
+10. To ensure device comparability across sites:
+- [x] Cross-calibrate sensors side-by-side before deployment
+- [ ] Use different sampling intervals
+- [ ] Rely on manufacturer claims only
+- [ ] Ignore environmental conditions
+
+11. A mobile app that gamifies data submission risks:
+- [x] Incentivising quantity over quality without proper validation
+- [ ] Preventing data entry
+- [ ] Eliminating biases
+- [ ] Reducing participation
+
+12. An ethics concern in location tracking is:
+- [x] Protecting participant privacy and obtaining consent for geolocation
+- [ ] Sharing exact home coordinates publicly
+- [ ] Retaining data indefinitely without policy
+- [ ] Combining datasets without permission
+
+13. Time synchronisation between sensors is crucial to:
+- [x] Align events and enable accurate comparisons
+- [ ] Increase battery life
+- [ ] Reduce calibration needs
+- [ ] Prevent data transformation
+
+14. Firmware updates can:
+- [x] Change sensor behaviour; versioning must be recorded
+- [ ] Remove all uncertainty
+- [ ] Make calibration unnecessary
+- [ ] Reduce resolution to zero
+
+15. A practical way to validate low-cost sensors is:
+- [x] Co-locate with reference-grade instruments for a validation period
+- [ ] Compare to internet averages
+- [ ] Assume factory calibration stands forever
+- [ ] Eyeball values once
+
+16. Missing data due to network outages should be handled by:
+- [x] Flagging gaps and avoiding imputation that biases trends
+- [ ] Filling with zeros
+- [ ] Ignoring gaps in analysis
+- [ ] Deleting entire time series
+
+17. A dashboard that shows uncertainty bands helps users:
+- [x] Interpret variability and confidence in real time
+- [ ] Avoid understanding noise
+- [ ] Assume values are exact
+- [ ] Focus only on maxima
+
+18. Sampling bias in volunteer projects often arises because:
+- [x] Participants cluster in accessible areas
+- [ ] Sensors are perfectly distributed
+- [ ] All regions have equal participation
+- [ ] Devices record uniformly
+
+19. The best way to handle sudden sensor spikes is to:
+- [x] Flag and investigate; confirm with redundant sensors if possible
+- [ ] Remove all high values
+- [ ] Smooth aggressively without review
+- [ ] Change units to reduce spike magnitude
+
+20. Metadata should include:
+- [x] Device model, firmware, calibration dates, location, and protocols
+- [ ] Only the project name
+- [ ] Only the timestamps
+- [ ] Only the units
+
+---
+
+### Quiz 49: Depth Study Skills; Priority Areas: Project Planning, Research Questions, Methods, Logbooks, Secondary Sources
+
+1. A well-formed research question is:
+- [x] Specific, measurable, and feasible within time and resources
+- [ ] Broad, philosophical, and untestable
+- [ ] Dependent on unobservable entities only
+- [ ] Determined after data collection
+
+2. A Gantt chart is used to:
+- [x] Plan and track tasks over time with dependencies
+- [ ] Display statistical distributions
+- [ ] Compare two variables
+- [ ] Show ethical approvals
+
+3. The purpose of a risk assessment is to:
+- [x] Identify hazards, assess risk, and plan controls
+- [ ] Assign grades
+- [ ] Increase complexity
+- [ ] Reduce sample size
+
+4. A logbook entry should include:
+- [x] Date, methods, observations, results, and reflections
+- [ ] Only final conclusions
+- [ ] Personal opinions unrelated to the task
+- [ ] Post-hoc hypotheses only
+
+5. Triangulation in research means:
+- [x] Using multiple methods or data sources to strengthen conclusions
+- [ ] Using three participants per group
+- [ ] Taking three measurements only
+- [ ] Graphing with triangles
+
+6. The best reason to conduct a literature review is to:
+- [x] Identify what is known, gaps, and inform methodology
+- [ ] Inflate the reference list
+- [ ] Replace data collection
+- [ ] Avoid forming hypotheses
+
+7. Which is the most appropriate source for methods?
+- [x] Peer-reviewed primary research articles
+- [ ] Opinion pieces
+- [ ] Advertisements
+- [ ] Social media comments
+
+8. A milestone in a project plan is:
+- [x] A significant checkpoint or deliverable completion
+- [ ] Any daily task
+- [ ] A random pause
+- [ ] A calendar event with no purpose
+
+9. A variable that is difficult to measure directly should be:
+- [x] Defined via a valid proxy with justification
+- [ ] Ignored
+- [ ] Estimated without evidence
+- [ ] Left undefined
+
+10. Ethical sourcing of secondary data requires:
+- [x] Checking licenses, acknowledging sources, and respecting restrictions
+- [ ] Copying freely without citation
+- [ ] Editing data to fit hypotheses
+- [ ] Hiding provenance
+
+11. When constraints limit equipment, you should:
+- [x] Adapt methods to maintain validity, justify limitations
+- [ ] Proceed without controls
+- [ ] Abandon documentation
+- [ ] Inflate sample size without plan
+
+12. A good feasibility check includes:
+- [x] Time, resources, ethics, and risk considerations
+- [ ] Only interest level
+- [ ] Only cost
+- [ ] Only number of variables
+
+13. The primary benefit of a pilot experiment in a depth study is to:
+- [x] Identify issues in protocols and refine measurement ranges
+- [ ] Finalise the conclusion
+- [ ] Increase marks automatically
+- [ ] Avoid needing controls
+
+14. When citing sources, an appropriate practice is to:
+- [x] Use a consistent citation style and include DOIs where available
+- [ ] Cite only abstracts
+- [ ] Omit page numbers
+- [ ] Mix styles arbitrarily
+
+15. Intellectual property in school projects means:
+- [x] Acknowledging others’ work and avoiding plagiarism
+- [ ] Copying figures without permission
+- [ ] Using images freely
+- [ ] Not needing references
+
+16. A logic model helps by:
+- [x] Linking inputs, activities, outputs, and intended outcomes
+- [ ] Replacing risk controls
+- [ ] Determining p-values
+- [ ] Eliminating confounds
+
+17. The most appropriate method to record qualitative observations is:
+- [x] Structured field notes with clear categories
+- [ ] Only memory recall post-task
+- [ ] Audio only without consent
+- [ ] No notes needed
+
+18. The difference between aims and hypotheses is:
+- [x] Aims are broad goals; hypotheses are testable predictions
+- [ ] Aims are testable; hypotheses are goals
+- [ ] Both are identical
+- [ ] Neither is written in science
+
+19. A critical reflection section should:
+- [x] Evaluate strengths, limitations, and suggest improvements
+- [ ] Reiterate results only
+- [ ] Add new data
+- [ ] Exclude limitations
+
+20. A well-structured abstract includes:
+- [x] Background, aim, methods, key results, conclusion
+- [ ] Detailed raw data
+- [ ] Only references
+- [ ] Only acknowledgements
+
+---
+
+### Quiz 50: Integrated Capstone; Priority Areas: Design, Analysis, Modelling, Ethics, Communication
+
+1. You are given a dataset with temperature, humidity, and mould growth rate. To test if temperature has an effect independent of humidity, you should:
+- [x] Use a multiple regression including both predictors
+- [ ] Correlate temperature with growth only
+- [ ] Average humidity values
+- [ ] Remove humidity from the dataset
+
+2. A community requests a study on noise pollution near a school. The most ethical first step is to:
+- [x] Consult stakeholders and obtain ethics approval with consent procedures
+- [ ] Start measuring without notice
+- [ ] Publish estimates from online maps
+- [ ] Ask students to collect data without training
+
+3. An instrument shows a linear calibration curve with slope 0.98 and intercept 0.10. To correct readings, you should:
+- [x] Subtract 0.10 from readings and divide by 0.98
+- [ ] Add 0.10 and multiply by 0.98
+- [ ] Multiply by 0.98 only
+- [ ] Subtract 0.10 only
+
+4. A dose–response curve levels off at high doses. The appropriate model is:
+- [x] A saturating (e.g., Michaelis–Menten or logistic) model
+- [ ] A straight line through the origin
+- [ ] A cubic polynomial arbitrarily
+- [ ] A sinusoidal model
+
+5. You suspect a sensor's daily cycle is due to temperature interference. The best test is to:
+- [x] Control ambient temperature or include it as a covariate in analysis
+- [ ] Assume the pattern is true signal
+- [ ] Replace all sensors
+- [ ] Change units to remove the cycle
+
+6. A study compares two teaching methods with pre- and post-tests. The best design to reduce confounding is:
+- [x] Randomly assign classes and use pre-test scores as covariates
+- [ ] Let students choose the method
+- [ ] Compare post-test means only with no controls
+- [ ] Use different tests for each group
+
+7. Communicating a small absolute risk increase (0.2%) that is a 50% relative increase is best done by:
+- [x] Presenting both absolute and relative changes with context
+- [ ] Using only the 50% figure
+- [ ] Avoiding numbers
+- [ ] Emphasising worst-case outcomes
+
+8. In a water quality project, replication across sites is primarily for:
+- [x] Capturing spatial variability and improving generalisability
+- [ ] Increasing measurement resolution
+- [ ] Reducing calibration needs
+- [ ] Avoiding ethics
+
+9. A model predicts a trend that diverges from observed data at high values. The best response is to:
+- [x] Re-examine assumptions, consider model revision or piecewise fit
+- [ ] Extend the line beyond data
+- [ ] Remove high values
+- [ ] Change axes to hide divergence
+
+10. A dataset with missing at random (MAR) values can be handled by:
+- [x] Multiple imputation with appropriate models
+- [ ] Deleting all cases with missing values
+- [ ] Filling with zeros
+- [ ] Ignoring the pattern
+
+11. To present uncertainty in a measurement-heavy study, include:
+- [x] Error bars, confidence intervals, and a clear uncertainty section
+- [ ] Only point estimates
+- [ ] R^2 values only
+- [ ] A single significant figure
+
+12. A pre-registered analysis plan helps prevent:
+- [x] HARKing (hypothesising after results are known)
+- [ ] Peer review
+- [ ] Data cleaning
+- [ ] Ethics approval
+
+13. You find a strong correlation between two variables collected by the same sensor. A likely concern is:
+- [x] Common-method bias or sensor cross-sensitivity
+- [ ] Perfect causation
+- [ ] Data normality
+- [ ] Sample independence
+
+14. In a blinded taste test, panelists correctly identify a new product 65% of the time (n=100). To test if this exceeds chance (50%), you should use:
+- [x] A one-sample proportion test
+- [ ] A paired t-test
+- [ ] Linear regression
+- [ ] ANOVA with three groups
+
+15. To ensure reproducibility of your depth study, provide:
+- [x] Raw data, code, detailed methods, and version information
+- [ ] Only final graphs
+- [ ] Only the abstract
+- [ ] Proprietary steps without detail
+
+16. An unexpected null result should be:
+- [x] Reported with power analysis and discussion of limitations
+- [ ] Hidden to avoid confusion
+- [ ] Re-analysed until significant
+- [ ] Described as failure
+
+17. A heat map is most appropriate for:
+- [x] Visualising spatial or matrix data intensity across two dimensions
+- [ ] Showing linear time trends
+- [ ] Displaying a single value
+- [ ] Plotting categorical proportions
+
+18. A cost–benefit analysis of adopting a new sensor should include:
+- [x] Purchase, maintenance, calibration, training, data quality gains
+- [ ] Brand popularity
+- [ ] Colour and design
+- [ ] Only upfront cost
+
+19. An ethics dilemma arises when data reveal illegal activity. The best action is to:
+- [x] Follow protocol for disclosure, protect identities, consult ethics guidelines
+- [ ] Publish details publicly
+- [ ] Ignore the finding
+- [ ] Delete all data
+
+20. After fitting a model, you should check:
+- [x] Residual diagnostics, sensitivity to assumptions, and validation on new data
+- [ ] Only R^2
+- [ ] Only the intercept p-value
+- [ ] That graphs look smooth
+
+---
+
+### Quiz 41 Supplement: Module 1 – Observing; Priority Areas: Measurement & Uncertainty, Variables, Validity (Alternate Set)
+
+1. Which of the following best reduces human reaction time error in timing events?
+- [x] Using light gates or automated timing systems
+- [ ] Using an analogue stopwatch with more marks
+- [ ] Timing one trial for longer
+- [ ] Rounding to the nearest second
+
+2. A calibration curve should include a blank to:
+- [x] Account for baseline signal or contamination
+- [ ] Increase the slope
+- [ ] Reduce the intercept to zero
+- [ ] Eliminate the need for standards
+
+3. The percent error compares:
+- [x] The difference between measured and true value relative to the true value
+- [ ] The standard deviation and mean
+- [ ] The range and median
+- [ ] The uncertainty and resolution
+
+4. If repeated measurements vary widely but average near the true value, this indicates:
+- [ ] High accuracy, high precision
+- [x] High accuracy, low precision
+- [ ] Low accuracy, high precision
+- [ ] Low accuracy, low precision
+
+5. To maintain validity, the independent variable must be:
+- [x] Deliberately manipulated while other variables are controlled
+- [ ] A confound that changes naturally
+- [ ] A constant across all groups
+- [ ] Measured after the dependent variable
+
+6. When using a burette, the correct reading is taken at:
+- [x] The bottom of the meniscus at eye level
+- [ ] The top of the meniscus from above
+- [ ] The average of top and bottom
+- [ ] Any visible point
+
+7. The best way to report the average of 24.63, 24.61, and 24.64 mL is:
+- [x] 24.63 mL (to the same decimal places as readings)
+- [ ] 24.625 mL
+- [ ] 24.6 mL
+- [ ] 25 mL
+
+8. A control chart is useful for:
+- [x] Monitoring process stability over time with control limits
+- [ ] Comparing two means
+- [ ] Testing correlation
+- [ ] Plotting frequency distribution only
+
+9. Which is a correct SI unit conversion?
+- [x] 1 kPa = 1000 Pa
+- [ ] 1 mL = 10 L
+- [ ] 1 mg = 0.1 g
+- [ ] 1 km = 100 m
+
+10. Zeroing a digital scale before each measurement helps to:
+- [x] Remove offset and improve accuracy
+- [ ] Increase resolution
+- [ ] Increase sample size
+- [ ] Reduce variance between objects
+
+11. A proper operational definition for "reaction rate" is:
+- [x] Change in concentration per unit time under specified conditions
+- [ ] Speed of bubbles observed
+- [ ] Rate of colour change by eye
+- [ ] Amount of product when convenient
+
+12. The main reason to record environmental conditions during experiments is to:
+- [x] Identify factors that may influence results and support replication
+- [ ] Increase sample size
+- [ ] Change hypotheses
+- [ ] Improve aesthetics
+
+13. Which choice best addresses instrumental zero drift?
+- [x] Re-zero or recalibrate at intervals and document drift
+- [ ] Average more trials only
+- [ ] Use different units
+- [ ] Ignore the drift if small
+
+14. When combining independent percentage uncertainties of 3% and 4% by multiplication, the combined percentage uncertainty is approximately:
+- [x] 5% (root sum of squares)
+- [ ] 7% (sum)
+- [ ] 12% (product)
+- [ ] 3.5% (average)
+
+15. A scatter plot with a curved pattern suggests:
+- [x] A non-linear relationship; consider transformation or non-linear fit
+- [ ] No relationship
+- [ ] Measurement error only
+- [ ] A need to remove mid-range points
+
+16. If a variable cannot be directly controlled, improving validity can be achieved by:
+- [x] Measuring it and including it as a covariate
+- [ ] Ignoring it
+- [ ] Changing the dependent variable
+- [ ] Reducing repeats
+
+17. The appropriate number of significant figures for a calculated result is determined primarily by:
+- [x] The least precise measurement involved
+- [ ] The calculator display
+- [ ] Personal preference
+- [ ] The number of variables
+
+18. A measurement traceable to a national standard implies:
+- [x] Its calibration can be linked to recognised references through an unbroken chain
+- [ ] It is perfectly accurate
+- [ ] It needs no uncertainty
+- [ ] It is invalid
+
+19. Which action most reduces observer bias in qualitative observations?
+- [x] Use a predefined checklist and blind observers to conditions
+- [ ] Allow observers to interpret freely
+- [ ] Provide post-hoc categories
+- [ ] Use only one observer
+
+20. A balanced experimental design is one where:
+- [x] Each treatment has the same number of replicates
+- [ ] Controls are omitted
+- [ ] One treatment has more replicates
+- [ ] Treatments are applied in order
+
+---
+
+### Quiz 42 Supplement: Module 2 – Experimenting; Priority Areas: Experimental Design, Controls, Error Types, Sampling (Alternate Set)
+
+1. To test if caffeine affects heart rate, the most valid control is:
+- [x] A decaffeinated beverage identical in appearance and taste
+- [ ] Water only
+- [ ] No drink
+- [ ] A different flavoured drink
+
+2. Counterbalancing in a repeated-measures design is used to:
+- [x] Control for order effects
+- [ ] Increase sample size
+- [ ] Remove random error
+- [ ] Replace blinding
+
+3. A matched-pairs design is appropriate when:
+- [x] Participants can be paired on key characteristics before treatment
+- [ ] Random assignment is impossible
+- [ ] Only qualitative outcomes are used
+- [ ] There is only one group
+
+4. To minimise contamination between groups in a classroom experiment:
+- [x] Run sessions at different times and enforce protocols
+- [ ] Allow free discussion during tests
+- [ ] Share materials between groups
+- [ ] Swap participants mid-study
+
+5. A manipulation check verifies:
+- [x] Whether the independent variable change had the intended effect
+- [ ] If the dependent variable is valid
+- [ ] If the instrument is calibrated
+- [ ] If the sample size is sufficient
+
+6. Blinding assessors is most important when:
+- [x] Outcomes are subjective (e.g., rating scales)
+- [ ] Outcomes are automated
+- [ ] The sample is large
+- [ ] The design is cross-sectional
+
+7. A factorial design allows researchers to:
+- [x] Test interactions between multiple independent variables
+- [ ] Avoid randomisation
+- [ ] Use only one dependent variable
+- [ ] Omit controls
+
+8. The Hawthorne effect refers to:
+- [x] Behaviour changes due to awareness of being observed
+- [ ] Random sampling error
+- [ ] Instrument drift
+- [ ] Regression to the mean
+
+9. The best way to reduce carryover in sensory tests is:
+- [x] Provide palate cleansers and adequate time between samples
+- [ ] Increase sample size
+- [ ] Use stronger flavours
+- [ ] Hide labels only
+
+10. Cluster sampling is useful when:
+- [x] The population is naturally grouped and clusters can be randomly selected
+- [ ] Individuals are evenly dispersed
+- [ ] Only volunteers are available
+- [ ] Strata must be represented proportionally
+
+11. In a titration, using an indicator with an inappropriate transition range will most affect:
+- [x] Accuracy of endpoint detection
+- [ ] Precision of repeated volumes
+- [ ] Random error only
+- [ ] Sample size
+
+12. The most effective way to test the stability of a chemical solution over time is:
+- [x] Store under controlled conditions and measure at predefined intervals
+- [ ] Measure only once at the end
+- [ ] Change storage each day
+- [ ] Vary temperature randomly
+
+13. A cross-over study design is characterized by:
+- [x] Participants receive multiple treatments in different periods
+- [ ] Single treatment per group
+- [ ] Only observational data
+- [ ] Non-random allocation
+
+14. The nocebo effect can lead to:
+- [x] Negative outcomes in control groups due to expectations
+- [ ] Eliminated bias
+- [ ] Random error reduction
+- [ ] Increased accuracy
+
+15. To check for learning effects, you should:
+- [x] Include practice trials and randomize order
+- [ ] Remove practice trials
+- [ ] Test all participants at the same time
+- [ ] Increase difficulty only
+
+16. If contamination of control by treatment is likely, choose:
+- [x] A cluster randomised design
+- [ ] A matched-pairs design
+- [ ] A single-case design
+- [ ] A convenience sample
+
+17. An appropriate stopping rule is used to:
+- [x] Define when data collection should end to avoid biased interim decisions
+- [ ] Increase significance
+- [ ] Reduce calibration needs
+- [ ] Avoid ethics approval
+
+18. Washout periods in cross-over trials are used to:
+- [x] Remove lingering effects of a previous treatment
+- [ ] Increase sample size
+- [ ] Randomise participants
+- [ ] Blind assessors
+
+19. To avoid expectancy effects in a training program, you should:
+- [x] Use objective performance metrics and blind evaluators
+- [ ] Ask participants to self-report improvement
+- [ ] Provide motivational speeches
+- [ ] Change tasks mid-test
+
+20. A manipulation that fails to change the independent variable:
+- [x] Threatens internal validity; redesign is required
+- [ ] Improves reliability
+- [ ] Ensures blinding
+- [ ] Proves the null hypothesis
+
+---
+
+### Quiz 43 Supplement: Module 3 – Modelling; Priority Areas: Scientific Models, Assumptions, Limitations, Dimensional Analysis (Alternate Set)
+
+1. A linear model fits well at low concentrations but saturates at high concentrations. This indicates:
+- [x] The linear model is valid locally; a non-linear model is needed globally
+- [ ] The data are wrong
+- [ ] The instrument is perfect
+- [ ] The intercept must be zero
+
+2. The Buckingham π theorem is used to:
+- [x] Derive dimensionless groups governing a physical system
+- [ ] Compute p-values
+- [ ] Calibrate instruments
+- [ ] Measure uncertainty
+
+3. A model assuming steady state is inappropriate when:
+- [x] Rapid transients dominate the system behaviour
+- [ ] Boundary conditions are constant
+- [ ] Inputs are constant
+- [ ] Time scales are long and stable
+
+4. Dimensional consistency of P = F v implies units of power are:
+- [x] kg m^2 s^-3
+- [ ] kg m s^-2
+- [ ] m s^-1
+- [ ] kg s^-2
+
+5. Model verification checks:
+- [x] The model is implemented correctly (solving equations as intended)
+- [ ] The model’s predictions match real-world data
+- [ ] The assumptions are true
+- [ ] Ethical considerations
+
+6. A residual structure with periodicity in model fits suggests:
+- [x] Missing periodic component or seasonal term
+- [ ] Good fit
+- [ ] Overfitting
+- [ ] Dimensional error
+
+7. Parsimony in modelling implies:
+- [x] Use the simplest model adequate to explain data
+- [ ] Use the most complex model available
+- [ ] Ignore assumptions
+- [ ] Fit without validation
+
+8. In scaling laws, if mass scales with length^3, then keeping density constant implies:
+- [x] m ∝ L^3
+- [ ] m ∝ L
+- [ ] m ∝ L^2
+- [ ] m ∝ L^4
+
+9. A Monte Carlo simulation helps estimate:
+- [x] Uncertainty in outcomes by random sampling of inputs
+- [ ] Exact deterministic outputs
+- [ ] Ethical impacts
+- [ ] Dimensional groups
+
+10. Dimensional analysis of k in rate law r = k[A][B] gives units:
+- [x] concentration^-1 time^-1
+- [ ] time^-1
+- [ ] concentration time
+- [ ] unitless
+
+11. If a model assumes linearity, an indicator of violation is:
+- [x] Curved residuals vs predicted values
+- [ ] Constant variance
+- [ ] Random residual scatter
+- [ ] High R^2 only
+
+12. Cross-validation is used to:
+- [x] Estimate predictive performance on unseen data
+- [ ] Increase training accuracy
+- [ ] Change measurement units
+- [ ] Guarantee causation
+
+13. A forcing function in a model represents:
+- [x] External inputs driving the system
+- [ ] Measurement noise
+- [ ] Parameter uncertainty
+- [ ] Ethical constraints
+
+14. Model misspecification leads to:
+- [x] Biased estimates and poor predictions
+- [ ] Reduced variance
+- [ ] Guaranteed validity
+- [ ] Perfect fits
+
+15. The Froude number is relevant in:
+- [x] Fluid flow similarity involving gravity (e.g., ship models)
+- [ ] Gas compressibility
+- [ ] Heat transfer in solids only
+- [ ] Electromagnetic fields
+
+16. A parameter identifiable from data means:
+- [x] It can be uniquely estimated given the model and data
+- [ ] It has any numerical value
+- [ ] It is fixed by units
+- [ ] It is unimportant
+
+17. A likelihood function in model fitting quantifies:
+- [x] Probability of observed data given parameters
+- [ ] Probability parameters are true
+- [ ] Ethical acceptability
+- [ ] Residuals are zero
+
+18. An agent-based model is most appropriate when:
+- [x] Individual-level interactions drive system behaviour
+- [ ] Only aggregate averages matter
+- [ ] Closed-form solutions exist
+- [ ] Variables are continuous only
+
+19. Non-dimensionalisation is helpful because it:
+- [x] Reduces parameters, reveals key controlling ratios
+- [ ] Increases computational cost
+- [ ] Obscures physics
+- [ ] Eliminates need for data
+
+20. When model predictions disagree with quality data, the first step is to:
+- [x] Check data and implementation, then revisit assumptions
+- [ ] Discard the data
+- [ ] Force the fit
+- [ ] Add random noise
+
+---
+
+### Quiz 44 Supplement: Module 4 – Theories and Laws; Priority Areas: Hypotheses, Falsifiability, Peer Review, Causation vs Correlation (Alternate Set)
+
+1. A claim that "All swans are white" is falsified by:
+- [x] Observing a single non-white swan
+- [ ] Observing many white swans
+- [ ] Calculating a mean colour
+- [ ] Publishing a theory
+
+2. Which is a characteristic of a strong scientific theory?
+- [x] Broad explanatory power with testable predictions
+- [ ] Immunity to disproof
+- [ ] Reliance on authority
+- [ ] Vague assumptions
+
+3. Preprint servers enable:
+- [x] Rapid dissemination before peer review; findings are provisional
+- [ ] Final validation of research
+- [ ] Removal of the need for peer review
+- [ ] Confidential results
+
+4. A causal inference from observational data is strengthened by:
+- [x] Controlling confounders and demonstrating dose–response
+- [ ] Reporting correlation alone
+- [ ] Reducing sample size
+- [ ] Using convenience samples only
+
+5. Registered reports help address:
+- [x] Publication bias by reviewing methodology before results are known
+- [ ] Data fabrication
+- [ ] Risk communication
+- [ ] Ethical approval
+
+6. Which is an example of a law?
+- [x] Conservation of mass in chemical reactions
+- [ ] The theory of evolution
+- [ ] The germ theory of disease
+- [ ] Atomic theory
+
+7. A necessary condition for causation is:
+- [x] Temporal precedence (cause precedes effect)
+- [ ] High R^2
+- [ ] Media coverage
+- [ ] Ethical approval
+
+8. The replication crisis highlights:
+- [x] Difficulty reproducing findings across studies
+- [ ] Lack of peer review
+- [ ] End of scientific progress
+- [ ] Removal of open data
+
+9. A null result that contradicts a high-profile claim should be:
+- [x] Published with rigorous methods and power justification
+- [ ] Ignored
+- [ ] Hidden
+- [ ] Reframed as positive
+
+10. Confirmation by multiple independent methods increases:
+- [x] Convergent validity of the claim
+- [ ] Bias
+- [ ] Error rates
+- [ ] Theory complexity
+
+11. Which is a misuse of p-values?
+- [x] Treating p just below 0.05 as definitive proof
+- [ ] Reporting confidence intervals
+- [ ] Pre-registering alpha levels
+- [ ] Adjusting for multiple tests
+
+12. Occam’s razor suggests:
+- [x] Prefer simpler explanations that fit the data
+- [ ] Prefer complex explanations
+- [ ] Avoid models
+- [ ] Use many parameters
+
+13. A spurious correlation may arise from:
+- [x] A third variable driving both measures
+- [ ] Direct causation
+- [ ] Experimental control
+- [ ] Random assignment
+
+14. A good operational definition improves:
+- [x] Replicability and construct validity
+- [ ] Pseudoscientific claims
+- [ ] Media appeal
+- [ ] Authority-based reasoning
+
+15. Ethical authorship requires:
+- [x] Substantial contribution, approval of final version, accountability
+- [ ] Listing all lab members
+- [ ] Including funders as authors
+- [ ] Excluding junior contributors
+
+16. A theory that explains more phenomena with fewer assumptions is:
+- [x] Preferable if predictive performance is at least as good
+- [ ] Always worse
+- [ ] Unscientific
+- [ ] Non-falsifiable
+
+17. An adversarial collaboration can:
+- [x] Reduce bias by involving opposing viewpoints in joint tests
+- [ ] Increase p-hacking
+- [ ] Reduce transparency
+- [ ] Eliminate peer review
+
+18. When an effect replicates only under very narrow conditions, it suggests:
+- [x] Limited external validity
+- [ ] Strong theory
+- [ ] Robust generalisability
+- [ ] Elimination of confounds
+
+19. The role of preregistration is undermined by:
+- [x] Undisclosed deviations from the registered plan
+- [ ] Transparent reporting of changes
+- [ ] Sharing code
+- [ ] Open data
+
+20. A key criterion distinguishing science from pseudoscience is:
+- [x] Willingness to revise claims in light of evidence
+- [ ] Reliance on testimonials
+- [ ] Use of jargon
+- [ ] Appeals to conspiracy
+
+---

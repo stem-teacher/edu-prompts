@@ -1,0 +1,1217 @@
+       NSW Education Standards Authority
+
+
+
+
+       2019 HIGHER SCHOOL CERTIFICATE EXAMINATION
+
+       Investigating Science
+       General        • Reading time – 5 minutes
+       Instructions   • Working time – 3 hours
+                      • Write using black pen
+                      • Draw diagrams using pencil
+                      • Calculators approved by NESA may be used
+
+
+       Total marks:   Section I – 20 marks (pages 2–12)
+       100            • Attempt Questions 1–20
+                      • Allow about 35 minutes for this section
+
+                      Section II – 80 marks (pages 13–28)
+                      • Attempt Questions 21–34
+                      • Allow about 2 hours and 25 minutes for this section
+
+
+
+
+2100
+Section I
+
+20 marks
+Attempt Questions 1–20
+Allow about 35 minutes for this section
+
+Use the multiple-choice answer sheet for Questions 1–20.
+
+
+1    A company was hired to analyse data collected from surveillance cameras in a workplace.
+     The aim of the analysis was to see what factors distracted workers on an assembly line.
+     The workers knew this study was being undertaken.
+
+     What would the researchers need to take into consideration when analysing this evidence?
+
+     A.     The Halo effect
+     B.     The Mozart effect
+     C.     The Doppler effect
+     D.     The Hawthorne effect
+
+
+2    What method was used to confirm the existence of the Higgs boson?
+
+     A.     Fieldwork
+     B.     Conducting surveys
+     C.     Data analysis from experiments
+     D.     Locating and using information sources
+
+
+3    In a peer-reviewed research paper, where would the information about the purpose of the
+     research be found?
+
+     A.     Abstract
+     B.     Citations
+     C.     Method
+     D.     Results
+
+
+
+
+                                             –2–
+4   Earth’s geological history can be modelled on a chart. Earth is about 4500 million years
+    old.
+
+
+                         Today Formation
+                                           of
+                                              Ea
+                                                r
+
+
+
+
+                                                th
+                                                          KEY
+                                                                  Eons
+                                                                Hadean
+                                                                Archaean
+                                                                Proterozoic
+                                                                Phanerozoic
+
+
+
+
+    Approximately how long did the Archaean eon last?
+
+    A.   600 million years
+    B.   1500 million years
+    C.   2100 million years
+    D.   2400 million years
+
+
+5   Which factor allowed the vaccine to be so successful in eradicating smallpox?
+
+    A.   The vaccine could be given to dairy cows to create herd immunity.
+    B.   Smallpox was not found globally so only small localised populations needed
+         vaccination.
+    C.   Smallpox was only found in human populations so there were no reinfections from
+         other animals.
+    D.   The vaccine protected immunised people from cowpox since vaccinated people
+         developed antibodies to smallpox.
+
+
+
+
+                                           –3–
+6   A student at home wished to remove nail polish from their fingernails but only had
+    acetone available. The student consulted a safety data sheet.
+
+           acetone 1.7–3.5 M (10–20% wt/wt) (propanone)
+
+           Class: nc           PG: none        Users: 7–12      Training: 1–6
+
+           GHS data:
+
+                                               Flammable liquid and vapour
+           DANGER                              Causes serious eye irritation
+
+           Potential hazards
+           Irritates eyes
+
+
+    Which is the best action the student could take to minimise the risk when using acetone
+    as a nail polish remover at home?
+
+    A.   Have running water available
+    B.   Wear gloves and safety glasses
+    C.   Use the acetone in a fume cupboard
+    D.   Keep the acetone away from naked flames
+
+
+7   An advertisement for a particular brand of toothpaste claimed that 80% of dentists
+    recommend it. When the claim was investigated, it was found that a total of six dentists
+    had been surveyed and, of these, one dentist became sick during the study so could not
+    finish the questionnaire.
+
+    Which row of the table correctly identifies the conclusion made regarding sample size
+    and the advertising claim?
+
+               Sample size           Advertising claim
+    A.          Too small             Misleading
+    B.          Too small             Not misleading
+    C.          Sufficient            Misleading
+    D.          Sufficient            Not misleading
+
+
+
+
+                                           –4–
+8    Five iridologists were shown photographs of the irises of 39 people with gallstones and
+     39 people without gallstones.
+
+     The iridologists were asked to identify, from the photographs alone, whether the people
+     had gallstones or not.
+
+     Each iridologist successfully identified about half of the gallstone sufferers. However,
+     each iridologist identified a different set of people as having gallstones.
+
+     What conclusion could be made about this investigation?
+
+     A.   The results are consistent with random guessing by the iridologists.
+     B.   The results show that iridologists can diagnose diseases by looking at the iris.
+     C.   The results could be made more valid by increasing the number of iridologists.
+     D.   The results could be made more reliable by increasing the number of photographs.
+
+
+9    The following claims were found on the labels of a variety of food or healthcare products.
+
+     Which claim suggests that it is the result of evidence-based research?
+
+     A.   Antioxidant-rich superfood
+     B.   May improve blood circulation
+     C.   Believed to improve oxygen delivery
+     D.   Absorbed in half the time of standard aspirin
+
+
+10   A well-known, popular and attractive movie actor was recently involved in a successful
+     advertising campaign to sell a new smartphone.
+
+     What would have been the main reason for using this actor in the campaign?
+
+     A.   The general public’s perception of the actor would make the phone more desirable.
+     B.   The actor would have been backed by peer-reviewed evidence from a research
+          company.
+     C.   The actor would have been able to speak authoritatively to the general public on
+          the merits of this phone.
+     D.   The general public’s perception of the actor would allow them to make a more
+          informed choice of phone.
+
+
+
+
+                                            –5–
+11   Eratosthenes successfully determined the circumference of Earth. He measured the
+     length of the shadow cast by a rod in Alexandria on the day when the sun was directly
+     overhead in Syene and cast no shadows.
+
+     What assumption was required for Eratosthenes to calculate the circumference of Earth?
+
+     A.   Alexandria and Syene are at different heights above sea level.
+     B.   Alexandria and Syene are the same distance north of the equator.
+     C.   The sun is so far away that radiation reaches Earth in parallel rays.
+     D.   The measurements were taken when the shadows had minimum length.
+
+
+12   Earthquake P-waves cause the ground to accelerate parallel to the direction in which the
+     earthquake waves are travelling.
+
+
+
+
+                                                   Building
+
+
+
+                            Ground
+                                                   Foundations
+
+                                 Acceleration of ground
+
+     Why can this type of earthquake wave cause the building shown to collapse?
+
+     A.   The building’s inertia prevents it from moving.
+     B.   The building is not designed to withstand vertical forces.
+     C.   The building accelerates in the same direction as the earthquake wave.
+     D.   Sudden horizontal acceleration of the building shears it from its foundations.
+
+
+
+
+                                           –6–
+13   A study was conducted to determine whether a new drug for the treatment of prostate
+     cancer was effective in humans. The scientists searched thousands of manufacturers’
+     databases for trials of the drug that were conducted in 2018.
+
+     Of 1361 trials from three different countries, seven were selected because they were
+     controlled in-vitro (cell cultures in a test tube) trials that compared the new treatment
+     with others currently available.
+
+     Which statement correctly explains the effectiveness of this study?
+
+     A.   It was a well-conducted study, since it used more than 1000 trials from more than
+          one country, providing reliable data.
+     B.   It was a poor study, since the experiments did not use random samples and were
+          conducted in-vitro which may have differing results from in-vivo (in the body)
+          trials.
+     C.   It was a poor study, since there were no placebo studies, and the experiments were
+          conducted in 2018, so the data may no longer be up to date.
+     D.   It was a well-conducted study, since the scientists used the large databases of
+          information from the manufacturers to allow a meta-analysis of the data to be
+          conducted.
+
+
+14   Colonies of bacteria are visible when grown on nutrient agar in a Petri dish.
+
+     An experiment was to be carried out to determine whether water purification tablets were
+     effective in killing bacteria in pond water.
+
+           Petri dish                   Petri dish                       Petri dish
+               1                            2                                3
+
+
+     Sterile nutrient agar        Sterile nutrient agar            Sterile nutrient agar
+                                    and pond water             and water purification tablet
+                                                                 dissolved in pond water
+
+     Which Petri dish(es) are required as a minimum to establish the effectiveness of the water
+     purification tablets?
+
+     A.    3
+     B.   1 and 3
+     C.   2 and 3
+     D.   1, 2 and 3
+
+
+
+
+                                            –7–
+15   A herbicide called dicamba is highly effective in killing plants. A company that makes
+     dicamba has also developed a genetically modified (GM) cotton variety that is not killed
+     by dicamba.
+
+     The GM cotton seeds are popular because they boost crop yields, improving the farmers’
+     profits. The company’s GM seeds are more expensive than other varieties and this
+     increases profits for shareholders.
+
+     However, the use of the herbicide dicamba is controversial because it can drift from the
+     sprayed areas into neigbouring farms, killing other crops. Some farmers are being forced
+     to buy the new GM seeds to guard against damage caused by dicamba being used on
+     neighbouring farms.
+
+     To best meet the interests of all the farmers, the GM seed company and its shareholders,
+     laws should be enacted that
+
+     A.   ban the use of dicamba.
+     B.   ban the use of this GM cotton crop.
+     C.   require farmers to leave areas near their neighbours unsprayed.
+     D.   require farmers to submit an application for an ethics review before they use GM
+          crops.
+
+
+16   A one-metre plastic ruler was calibrated during its manufacture to produce accurate
+     readings at 20°C.
+
+     The lengths of three objects were measured with this plastic ruler at 20°C.
+
+     The lengths were 10.0 cm, 20.0 cm and 80.0 cm respectively.
+
+     The temperature was increased, which caused the ruler to expand in length by 10 mm.
+     However, the length of the three objects did not increase.
+
+     The objects were then measured again.
+
+     Which row in the table shows the three new measurements of the objects?
+
+            Object 1 (cm)     Object 2 (cm)     Object 3 (cm)
+     A.           9.9               19.8             79.2
+     B.           9.9               19.9             79.9
+     C.          10.1               20.1             80.1
+     D.          10.1               20.2             80.8
+
+
+
+
+                                           –8–
+17   A low-joule sweetener called Low-J can be used as a sugar replacement for sweetening
+     drinks and food products.
+
+     Two hundred people of different ages participated in an experiment.
+
+     Equal volumes of milk were separately sweetened using sugar in one and Low-J in the
+     other. The mixtures were of equal sweetness.
+
+     Two hundred 50 mL cups of each prepared mixture were measured out and uniquely
+     marked with a code known only to the experimenter.
+
+     An assistant randomly chose two cups from the 400 prepared ones and gave these to each
+     participant who was asked to taste them and tell the assistant if they tasted the same or
+     not. The assistant recorded the response as well as the code on each cup.
+
+     The purpose of the experiment was to determine whether
+
+     A.   people were likely to be influenced by a placebo.
+     B.   people’s ability to identify the taste of Low-J was related to their ages.
+     C.   people could taste a difference between the two samples they were given.
+     D.   people could identify the samples that had been sweetened using Low-J rather than
+          sugar.
+
+
+
+
+                                            –9–
+18   A student was conducting an investigation to determine which one of four scientists was
+     having the greatest impact in their field of scientific research.
+
+                     Number of years      Total number of        Total         i10-index
+                        conducting         peer reviewed      number of       (number of
+                    research in science   scientific papers    citations     papers with at
+                                                                           least 10 citations)
+      Scientist 1           8                   150              2751              53
+      Scientist 2           9                   168              2761              75
+      Scientist 3           22                   97              2759              42
+
+      Scientist 4           42                  173              2762              26
+
+     The student examined the data and made the following inferences.
+
+     Which inference is correct?
+
+     A.   Scientist 1 has published approximately 19 papers per year, but has only been in
+          research for 8 years, so this scientist’s research must be fairly basic, and thus must
+          be having the least impact.
+     B.   Scientist 2 has published approximately 19 papers per year, has the highest
+          i10-index and nearly the highest number of citations, so this scientist’s research
+          must be having the greatest impact.
+     C.   Scientist 3 has only published approximately 4 papers per year, which is the lowest
+          number of papers published, so this scientist must be having the least impact.
+     D.   Scientist 4 has only published approximately 4 papers per year, but has had both
+          the highest number of papers and the highest number of citations, so this scientist’s
+          research must be having the greatest impact.
+
+
+
+
+                                           – 10 –
+19   An app on a smartphone produces a spectrogram of a sound source which shows the
+     frequencies present in sound and how these vary over time.
+
+     A source of sound having a fixed frequency analysed using this app produced the result
+     shown in Figure 1. The same source of sound produced the result shown in Figure 2 when
+     it was moving relative to the smartphone.
+
+
+                         1000 Hz
+
+                          900 Hz
+
+                          800 Hz
+
+                                        Figure 1
+
+
+                         1000 Hz
+
+                          900 Hz
+
+                          800 Hz
+
+                                        Figure 2
+
+     Which statement describing the movement of the sound source is consistent with the
+     results shown in Figure 2?
+
+     A.   The sound source is moving directly towards the smartphone and the sound has
+          increased in loudness.
+     B.   The sound source is moving directly away from the smartphone and the sound
+          source has increased in frequency.
+     C.   The sound source is moving directly away from the smartphone and it is oscillating
+          along a line perpendicular to this movement.
+     D.   The sound source is moving directly towards the smartphone and it is rotating in a
+          vertical circular path which has a plane parallel to the direction of motion.
+
+
+
+
+                                          – 11 –
+20   A student compressed a sample of gas by pushing on the end of a sealed syringe.
+
+     A pressure sensor was used to measure the gas pressure in the syringe. The volume of
+     the gas sample was measured using the scale on the syringe.
+
+     Which graph is consistent with the student’s hypothesis that pressure × volume of a gas
+     is a constant?
+
+     A.                                              B.
+
+
+          Pressure                                           Pressure
+
+
+
+                          Volume                                             1
+                                                                          Volume
+
+
+
+
+     C.                                              D.
+
+
+          Pressure                                           Pressure
+
+
+                          Volume                                             1
+                                                                          Volume
+
+
+
+
+                                              – 12 –
+                               © 2019 NSW Education Standards Authority
+                             2019 HIGHER SCHOOL CERTIFICATE EXAMINATION
+
+                                                                                                                              Centre Number
+
+                             Investigating Science
+                                                                                                                              Student Number
+                             Section II Answer Booklet
+
+
+
+
+                             80 marks
+                             Attempt Questions 21–34
+                             Allow about 2 hours and 25 minutes for this section
+Do NOT write in this area.
+
+
+
+
+                             Instructions    • Write your Centre Number and Student Number at the top of this
+                                               page.
+
+                                             • Answer the questions in the spaces provided. These spaces
+                                               provide guidance for the expected length of response.
+
+                                             • Show all relevant working in questions involving calculations.
+
+
+
+
+                                                                       Please turn over
+
+
+
+
+                                                                                 – 13 –
+                                                Office Use Only – Do NOT write anything, or make any marks below this line.
+                                                                                                                                  4393310351
+                               2101     15215
+Question 21 (6 marks)
+
+Barry Marshall and Robin Warren were involved in investigating the cause of peptic
+ulcers.
+
+(a)   Outline an observation that led Marshall and Warren to study peptic ulcers.                                                       2
+      ...............................................................................................................................
+      ...............................................................................................................................
+
+      ...............................................................................................................................
+
+      ...............................................................................................................................
+
+
+(b)   Outline the steps taken by Marshall and Warren to establish the cause of peptic                                                   4
+      ulcers.
+
+      ...............................................................................................................................
+
+
+
+
+                                                                                                                                            Do NOT write in this area.
+      ...............................................................................................................................
+
+      ...............................................................................................................................
+
+      ...............................................................................................................................
+
+      ...............................................................................................................................
+
+      ...............................................................................................................................
+
+      ...............................................................................................................................
+
+      ...............................................................................................................................
+
+
+
+
+                                                                  – 14 –
+                            Office Use Only – Do NOT write anything, or make any marks below this line.
+                                                                                                                              2381310356
+                             Question 22 (4 marks)
+
+                             Students were investigating the effect of speed on the distance travelled by a car.
+                             They measured the distance the car travelled at a constant speed. The experiment was
+                             repeated for a variety of other constant speeds.
+
+                             (a)   Sketch a graph on the axes provided to indicate the expected results.                                                             2
+Do NOT write in this area.
+
+
+
+
+                             (b)   Identify another variable that determines the distance the car travels and explain                                                2
+                                   why this variable must be kept constant in the investigation.
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+
+
+
+                                                                                               – 15 –
+                                                         Office Use Only – Do NOT write anything, or make any marks below this line.
+                                                                                                                                                           1159310358
+Question 23 (6 marks)
+
+Design a valid method to safely investigate the hypothesis: ‘increasing the temperature                                                     6
+increases the rate of a chemical reaction’.
+
+In your answer, include how you would calculate the rate of reaction.
+
+.........................................................................................................................................
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+
+
+
+                                                                                                                                                Do NOT write in this area.
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+
+
+
+                                                                      – 16 –
+                                Office Use Only – Do NOT write anything, or make any marks below this line.
+                                                                                                                                  4873310354
+                             Question 24 (7 marks)
+
+                             A researcher wanted to investigate the effect of distraction on the number of errors
+                             made by drivers. The researcher chose two students.
+
+                             The first student used a racing car simulation game and played for five uninterrupted
+                             minutes. The number of driving errors was recorded.
+
+                             The second student played the same racing car simulation game for five minutes, but
+                             was asked to send a short (10-word) text message every minute using their mobile
+                             phone, while driving. The number of driving errors was recorded.
+
+                             (a)   Propose a hypothesis for this experiment.                                                                                         1
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+
+                             (b)   Identify TWO problems with this experimental method AND explain why each                                                          3
+Do NOT write in this area.
+
+
+
+
+                                   is a problem.
+
+                                   ...............................................................................................................................
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+
+                             (c)   Evaluate the relevance of this method to the effect that the researcher wanted to                                                 3
+                                   investigate.
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+
+                                                                                               – 17 –
+                                                         Office Use Only – Do NOT write anything, or make any marks below this line.
+                                                                                                                                                           7471310351
+Question 25 (9 marks)
+
+The table shows approximate numbers of whale sightings from a coastal location from
+2000–2016.
+
+        Year                           2000      2002       2004        2006       2008       2010        2012       2014       2016
+        Whale
+                                         400      950       1100       1650        1500       1800        1700       2700       3050
+        sightings
+
+The graph shows atmospheric carbon dioxide levels at the same location over the
+same period.
+
+                               410
+
+                               405
+Atmospheric CO2 levels (ppm)
+
+
+
+
+                               400
+
+
+
+
+                                                                                                                                    Whale sightings
+
+
+
+
+                                                                                                                                                          Do NOT write in this area.
+                               395
+
+                               390
+
+                               385
+
+                               380
+
+                               375
+
+                               370
+                                  2000     2002      2004        2006        2008       2010        2012       2014          2016
+                                                                             Year
+
+(a)                            On the grid above, use a ruler to draw a straight line of best fit for the atmospheric                                 1
+                               carbon dioxide.
+
+
+(b)                            On the grid above, create an appropriate scale on the right-hand axis AND plot                                         2
+                               the number of whale sightings over this period. Use the symbol × to plot your
+                               data points.
+
+
+
+                                                           Question 25 continues on page 19
+
+
+
+
+                                                                                – 18 –
+                                               Office Use Only – Do NOT write anything, or make any marks below this line.
+                                                                                                                                    9964310350
+                             Question 25 (continued)
+
+                             (c)   What inference could be drawn from this graph? Use data from the graph to                                                         2
+                                   justify your answer.
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+
+                             (d)   Using a different example, explain how evidence of a correlation can be                                                           4
+                                   misinterpreted as causation.
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+Do NOT write in this area.
+
+
+
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+
+
+                                                                                    End of Question 25
+
+
+
+
+                                                                                               – 19 –
+                                                         Office Use Only – Do NOT write anything, or make any marks below this line.
+                                                                                                                                                           5638310354
+Question 26 (3 marks)
+
+In the 17th century, Jan Baptist van Helmont conducted a significant, but flawed,                                                           3
+experiment into the relationship between water and a tree’s growth.
+
+With reference to current knowledge of plant growth, identify the flaw and describe
+a modification that could be made by present-day scientists to correct the flaw in van
+Helmont’s experiment.
+
+.........................................................................................................................................
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+
+
+
+                                                                                                                                                Do NOT write in this area.
+
+
+
+
+                                                                      – 20 –
+                                Office Use Only – Do NOT write anything, or make any marks below this line.
+                                                                                                                                  9657310359
+                             Question 27 (4 marks)
+
+                             Aboriginal and Torres Strait Islander Peoples have known and understood the
+                             medicinal value of plants for thousands of years.
+
+                             (a)   Outline a specific medicinal use of an identified plant used by Aboriginal or                                                     2
+                                   Torres Strait Islander Peoples.
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+
+                             (b)   Outline the potential of a different Australian plant from Country and Place that                                                 2
+                                   could be used in the development of a new drug treatment.
+
+                                   ...............................................................................................................................
+Do NOT write in this area.
+
+
+
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+
+
+                                                                                      Please turn over
+
+
+
+
+                                                                                               – 21 –
+                                                         Office Use Only – Do NOT write anything, or make any marks below this line.
+                                                                                                                                                           6157310351
+Question 28 (7 marks)
+
+Discuss TWO types of misuse of scientific evidence by the tobacco industry in                                                               7
+relation to lung cancer. Support your answer with an example of each type of misuse.
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+
+
+
+                                                                                                                                                Do NOT write in this area.
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+                                                                      – 22 –
+                                Office Use Only – Do NOT write anything, or make any marks below this line.
+                                                                                                                                  1086310357
+                             Question 29 (5 marks)
+
+                             (a)   What is the main requirement in selecting a person to carry out a peer review of                                                  1
+                                   a scientific paper intended for publication?
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+
+                             (b)   How is science advanced by having peer reviews of scientific papers? Include                                                      4
+                                   an example to support your answer.
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+Do NOT write in this area.
+
+
+
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+
+
+
+                                                                                               – 23 –
+                                                         Office Use Only – Do NOT write anything, or make any marks below this line.
+                                                                                                                                                           6784310357
+Question 30 (6 marks)
+
+Projects to dam rivers both in Australia and overseas have influenced the way science
+is perceived by the public.
+
+(a)   Complete the table in relation to a relevant case study.                                                                          2
+
+
+       Name of river: ..................................................................................................
+
+               Positive aspect of damming                                     Negative aspect of damming
+
+
+
+
+                                                                                                                                            Do NOT write in this area.
+(b)   Analyse the effect that ONE project to dam a river had on the public image of                                                     4
+      science.
+
+      ...............................................................................................................................
+
+      ...............................................................................................................................
+
+      ...............................................................................................................................
+
+      ...............................................................................................................................
+
+      ...............................................................................................................................
+
+      ...............................................................................................................................
+
+      ...............................................................................................................................
+
+      ...............................................................................................................................
+
+      ...............................................................................................................................
+
+      ...............................................................................................................................
+
+      ...............................................................................................................................
+
+      ...............................................................................................................................
+
+
+
+
+                                                                  – 24 –
+                            Office Use Only – Do NOT write anything, or make any marks below this line.
+                                                                                                                              7927310357
+                             Question 31 (4 marks)
+
+                             The diagrams show two phenomena associated with waves.                                                                                      4
+
+                                          Phenomenon A                                                                Phenomenon B
+
+
+
+
+                             Identify each of the illustrated phenomena and describe how each has been applied in
+                             developing new technologies in telescopes.
+Do NOT write in this area.
+
+
+
+
+                             Phenomenon A ..................................... Phenomenon B ..............................................
+
+                             .........................................................................................................................................
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+
+
+
+                                                                                                   – 25 –
+                                                             Office Use Only – Do NOT write anything, or make any marks below this line.
+                                                                                                                                                               9403310358
+Question 32 (6 marks)
+
+Medical surgical devices can affect human health both negatively and positively.                                                            6
+
+Evaluate the impacts of ONE specific medical surgical device on human health. In
+your answer, refer to applications of the device.
+
+.........................................................................................................................................
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+
+
+
+                                                                                                                                                Do NOT write in this area.
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+
+
+
+                                                                      – 26 –
+                                Office Use Only – Do NOT write anything, or make any marks below this line.
+                                                                                                                                  8246310352
+                             Question 33 (6 marks)
+
+                             (a)   Explain, using an example, ONE ethical issue that may arise in relation to                                                        3
+                                   current scientific research.
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+
+                             (b)   Evaluate the effectiveness of ONE protocol or code of conduct that is in place                                                    3
+                                   to ensure that scientific research or practice is carried out ethically.
+Do NOT write in this area.
+
+
+
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+
+
+                                                                                      Please turn over
+
+
+
+
+                                                                                               – 27 –
+                                                         Office Use Only – Do NOT write anything, or make any marks below this line.
+                                                                                                                                                           9248310355
+Question 34 (7 marks)
+
+Analyse the impact that both government and large corporations have on scientific                                                              7
+research. Include examples, other than from the tobacco industry, to support your
+answer.
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+
+
+
+                                                                                                                                                           Do NOT write in this area.
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+                                                                End of paper
+
+                                                                      – 28 –                                    © 2019 NSW Education Standards Authority
+
+                                Office Use Only – Do NOT write anything, or make any marks below this line.
+                                                                                                                                  8455310354
+

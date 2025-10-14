@@ -1,0 +1,1266 @@
+Of course. I will ensure the full knowledge graph is parsed correctly before proceeding with the analysis and generation of the revised notes. My apologies for the repeated errors.
+
+Here is the plan for the graph-to-notes transformation:
+
+*   **Parse and Structure**: Ingest the entire curriculum knowledge graph, building a traversable structure of all modules, inquiry questions, concepts, outcomes, and assessment links.
+*   **Strict Adherence to Source**: Generate each module's notes to strictly reflect the graph's content, removing any external information or web links not explicitly cited within the graph data.
+*   **Enforce Skeleton**: Reformat all content to precisely match the specified Quarto document skeleton, ensuring every required section and table is present and correctly populated.
+*   **Validate Completeness**: Systematically check that every definition, case study, practical example, outcome, and assessment alignment present in the graph for each module is accurately included in the final notes.
+*   **Generate Pedagogical Aids**: Create a comprehensive question bank for each module based only on graph content and compile all explicit definitions into both module-specific and a final consolidated glossary for Modules 5–8.
+
+I will now proceed with generating the high-quality, complete, and correctly formatted study notes.
+
+***
+
+# Module 1: Cause and Effect – Observing
+
+*Subject/Course:* Investigating Science Stage 6   *Year Level:* 11   *Module:* 1   *Author:* *(not mentioned)*
+*Source Docs:* Investigating Science Stage 6 Syllabus (2017), National Literacy Learning Progression, National Numeracy Learning Progression
+*Date:* 2024-10-17
+
+## Introduction
+This module establishes observation as the foundation of scientific inquiry. It focuses on the skills required to design and conduct systematic observations, differentiate between raw observations and subsequent inferences, and use primary data to inform the planning of further, more detailed investigations. The module also explores the pivotal role of observation in historical scientific discoveries and in the deep ecological knowledge of Aboriginal and Torres Strait Islander Peoples.
+
+## Inquiry Question 1 – How does observation instigate scientific investigation?
+### Concepts
+- Carry out a practical investigation to record both quantitative and qualitative data from observations.
+- Discuss and evaluate the characteristics of observations made compared to inferences drawn in respect of the practical investigation.
+- Research how observation has instigated experimentation to investigate cause and effect in historical examples.
+- Assess ways in which Aboriginal and Torres Strait Islander Peoples use observation to develop an understanding of Country and Place in order to create innovative ways of managing the natural environment.
+
+### Definitions (from graph)
+*(not mentioned)*
+
+### Case Studies
+*(not mentioned)*
+
+### Practical Examples
+*(not mentioned)*
+
+### Links to Outcomes
+*(not mentioned)*
+
+### Exam Alignment (no full question text)
+*(not mentioned)*
+
+## Inquiry Question 2 – What are the benefits and drawbacks of qualitative and quantitative observations?
+### Concepts
+- Carry out a practical activity to qualitatively and quantitatively describe.
+- Analyse the quantitative data from the following information sources.
+- Evaluate the differences between qualitative and quantitative observations and data and where these are used.
+
+### Definitions (from graph)
+*(not mentioned)*
+
+### Case Studies
+*(not mentioned)*
+
+### Practical Examples
+*(not mentioned)*
+
+### Links to Outcomes
+*(not mentioned)*
+
+### Exam Alignment (no full question text)
+*(not mentioned)*
+
+## Inquiry Question 3 – How does primary data provide evidence for further investigation?
+### Concepts
+- Use data gathered to plan a practical investigation.
+- Develop a method to collect primary data for a practical investigation.
+- Evaluate how observation is limited by the observational tools available.
+
+### Definitions (from graph)
+*(not mentioned)*
+
+### Case Studies
+*(not mentioned)*
+
+### Practical Examples
+*(not mentioned)*
+
+### Links to Outcomes
+*(not mentioned)*
+
+### Exam Alignment (no full question text)
+*(not mentioned)*
+
+## Inquiry Question 4 – How does the collection and presentation of primary data affect the outcome of a scientific investigation?
+### Concepts
+- Carry out the planned practical investigation, above, to collect primary data.
+- Apply conventions for collecting and recording observations to qualitatively and quantitatively analyse the primary data.
+- Compare the usefulness of observations recorded in the initial practical activity with the primary data gathered in this planned practical investigation.
+
+### Definitions (from graph)
+*(not mentioned)*
+
+### Case Studies
+*(not mentioned)*
+
+### Practical Examples
+*(not mentioned)*
+
+### Links to Outcomes
+*(not mentioned)*
+
+### Exam Alignment (no full question text)
+*(not mentioned)*
+
+## Inquiry Question 5 – How do conclusions drawn from the interpretation of primary data promote further scientific investigation?
+### Concepts
+- Draw conclusions from the analysis of the primary data collected in the practical investigation.
+- Evaluate the process of drawing conclusions from the primary data collected.
+- Assess the findings of the scientific investigation in relation to the findings of other related investigations.
+- Assess the need to make further observations by gathering data about other phenomena arising from the practical investigation.
+
+### Definitions (from graph)
+*(not mentioned)*
+
+### Case Studies
+*(not mentioned)*
+
+### Practical Examples
+*(not mentioned)*
+
+### Links to Outcomes
+*(not mentioned)*
+
+### Exam Alignment (no full question text)
+*(not mentioned)*
+
+## Connections to Previous Material
+*(not mentioned)*
+
+## Outcomes & Assessment Alignment
+| Outcome Code | Strand | Outcome Statement | Assessment Links (Year Q#) |
+|--------------|--------|-------------------|-----------------------------|
+| *(not mentioned)* | *(not mentioned)* | *(not mentioned)* | *(not mentioned)* |
+
+## Conclusion / Preview
+Upon completing this module, learners will have the foundational skills in observation and primary data collection necessary to advance to Module 2, which focuses on making and validating inferences and generalisations.
+
+## Glossary of Key Terms
+| Term | Definition |
+|------|------------|
+| *(not mentioned)* | *(not mentioned)* |
+
+## Question Bank
+### Multiple-Choice (answers hidden in collapsible blocks)
+1. **Q:** What is the primary difference between an observation and an inference as explored in this module?
+- A. An observation is a guess, while an inference is a fact.
+- B. An observation is a direct record of information (qualitative or quantitative), while an inference is an interpretation or conclusion based on that information.
+- C. Observations are only qualitative, whereas inferences are quantitative.
+- D. Inferences are used to plan investigations, while observations are used to write conclusions.
+<details><summary>Answer</summary>B. An observation is a direct record of information (qualitative or quantitative), while an inference is an interpretation or conclusion based on that information. This distinction is a central theme of Inquiry Question 1.</details>
+
+2. **Q:** According to Inquiry Question 3, how might the available tools limit a scientific observation?
+- A. By making the experiment too safe.
+- B. By providing too much data to analyse.
+- C. By restricting the precision, range, or type of data that can be collected.
+- D. By requiring a hypothesis before use.
+<details><summary>Answer</summary>C. By restricting the precision, range, or type of data that can be collected. The concept "evaluate how observation is limited by the observational tools available" directly addresses this limitation.</details>
+
+### Short-Answer / Calculation
+1. **Q:** Based on the concepts in this module, explain the relationship between collecting primary data and planning a subsequent investigation.
+<details><summary>Answer</summary>The module outlines a process where initial observations and primary data collection are not the end point. This data is analysed to draw preliminary conclusions, which then inform the planning of a more refined or new practical investigation to explore phenomena that arose from the first one. (Derived from IQ3, IQ4, IQ5).</details>
+
+2. **Q:** Provide an example of a qualitative and a quantitative observation that could be recorded during a simple practical investigation.
+<details><summary>Answer</summary>In an investigation of a chemical reaction, a qualitative observation could be "the solution turned from blue to colourless." A quantitative observation could be "the initial temperature was 21.5°C and the final temperature was 28.0°C." (Derived from IQ1, IQ2).</details>
+
+## Formulas & Worked Examples
+```math
+*(not mentioned)*
+```
+*(not mentioned)*
+
+## Visual Aids Described
+*(not mentioned)*
+
+## Assigned Readings & References
+- Investigating Science Stage 6 Syllabus (2017)
+- National Literacy Learning Progression
+- National Numeracy Learning Progression
+- HSC Investigating Science exam papers and marking guidelines (2019-2024)
+
+***
+
+# Module 2: Cause and Effect – Inferences and Generalisations
+
+*Subject/Course:* Investigating Science Stage 6   *Year Level:* 11   *Module:* 2   *Author:* *(not mentioned)*
+*Source Docs:* Investigating Science Stage 6 Syllabus (2017), National Literacy Learning Progression, National Numeracy Learning Progression
+*Date:* 2024-10-17
+
+## Introduction
+This module transitions from observation to interpretation. It focuses on drawing reasoned inferences from primary data and validating these conclusions using secondary sources. Key concepts include understanding the human tendency to find patterns, the importance of identifying and handling outliers, and the process of forming and testing hypotheses and generalisations. The module also emphasises the critical role of collaboration, peer review, and considering alternative perspectives in strengthening scientific rigour.
+
+## Inquiry Question 1 – What inferences can be drawn from observations?
+### Concepts
+- Investigate the practices of Aboriginal and Torres Strait Islander Peoples that relate to observations and inferences.
+- Conduct a collaborative practical investigation and collect a range of qualitative and quantitative primary data.
+- Make inferences and conclusions derived from the primary data collected in this collaborative practical investigation.
+
+### Definitions (from graph)
+*(not mentioned)*
+
+### Case Studies
+*(not mentioned)*
+
+### Practical Examples
+*(not mentioned)*
+
+### Links to Outcomes
+*(not mentioned)*
+
+### Exam Alignment (no full question text)
+*(not mentioned)*
+
+## Inquiry Question 2 – How is secondary-sourced data used in practical investigations?
+### Concepts
+- Collect qualitative and quantitative secondary-sourced data to validate the inferences and conclusions drawn from the practical investigation.
+- Discuss how secondary-sourced data adds to the inferences and conclusions drawn from primary data.
+- Evaluate the usefulness of considering secondary-sourced research before undertaking an investigation to collect primary data.
+
+### Definitions (from graph)
+*(not mentioned)*
+
+### Case Studies
+*(not mentioned)*
+
+### Practical Examples
+*(not mentioned)*
+
+### Links to Outcomes
+*(not mentioned)*
+
+### Exam Alignment (no full question text)
+*(not mentioned)*
+
+## Inquiry Question 3 – How does humans' ability to recognise patterns affect the way they interpret data?
+### Concepts
+- Describe patterns that have been observed over time throughout the Universe and in nature.
+- Interpret data in order to propose a hypothesis based on an irregular pattern observed over time in the Universe and in nature.
+- Examine the human tendency to observe patterns and misinterpret information.
+- Discuss how the tendency to recognise patterns, even when they may not exist, can lead to misinterpretation of data.
+- Discuss the role and significance of outliers in data.
+
+### Definitions (from graph)
+*(not mentioned)*
+
+### Case Studies
+*(not mentioned)*
+
+### Practical Examples
+*(not mentioned)*
+
+### Links to Outcomes
+*(not mentioned)*
+
+### Exam Alignment (no full question text)
+*(not mentioned)*
+
+## Inquiry Question 4 – How can hypotheses and assumptions be tested?
+### Concepts
+- Gather secondary-sourced data describing historical instances of long-standing assumptions that have been updated by scientific investigation.
+- Propose an inquiry question, construct a hypothesis and conduct an investigation that tests a common assumption.
+- Use appropriate representations to analyse the data.
+
+### Definitions (from graph)
+*(not mentioned)*
+
+### Case Studies
+*(not mentioned)*
+
+### Practical Examples
+*(not mentioned)*
+
+### Links to Outcomes
+*(not mentioned)*
+
+### Exam Alignment (no full question text)
+*(not mentioned)*
+
+## Inquiry Question 5 – What generalisations and assumptions are made from observed data?
+### Concepts
+- Make generalisations to describe any trends found in the data.
+- Draw conclusion based on generalisations.
+
+### Definitions (from graph)
+*(not mentioned)*
+
+### Case Studies
+*(not mentioned)*
+
+### Practical Examples
+*(not mentioned)*
+
+### Links to Outcomes
+*(not mentioned)*
+
+### Exam Alignment (no full question text)
+*(not mentioned)*
+
+## Inquiry Question 6 – What role do peers play in scientific investigation?
+### Concepts
+- Assess the input that collaborative teams and alternative perspectives have had on the development of hypotheses and research questions.
+- Assess the scientific community's current understanding of scientific mysteries and outline why this understanding remains incomplete.
+- Evaluate biases that may have affected the scientific thinking of European settlers about Aboriginal and Torres Strait Islander Peoples' ecological understanding and knowledge.
+
+### Definitions (from graph)
+*(not mentioned)*
+
+### Case Studies
+*(not mentioned)*
+
+### Practical Examples
+*(not mentioned)*
+
+### Links to Outcomes
+*(not mentioned)*
+
+### Exam Alignment (no full question text)
+*(not mentioned)*
+
+## Connections to Previous Material
+This module builds directly on Module 1 by taking the collected observational data and applying interpretive lenses to it, such as inference and generalisation.
+
+## Outcomes & Assessment Alignment
+| Outcome Code | Strand | Outcome Statement | Assessment Links (Year Q#) |
+|--------------|--------|-------------------|-----------------------------|
+| *(not mentioned)* | *(not mentioned)* | *(not mentioned)* | *(not mentioned)* |
+
+## Conclusion / Preview
+After developing skills in interpreting data and collaborating with peers, learners will be prepared for Module 3, which explores how scientific models are constructed and used to represent complex phenomena.
+
+## Glossary of Key Terms
+| Term | Definition |
+|------|------------|
+| *(not mentioned)* | *(not mentioned)* |
+
+## Question Bank
+### Multiple-Choice (answers hidden in collapsible blocks)
+1. **Q:** What is the primary purpose of using secondary-sourced data in an investigation?
+- A. To replace the need for collecting primary data.
+- B. To find interesting patterns that may not exist in your own data.
+- C. To validate the inferences and conclusions drawn from primary data.
+- D. To make the investigation report longer.
+<details><summary>Answer</summary>C. To validate the inferences and conclusions drawn from primary data. Inquiry Question 2 explicitly focuses on using secondary data for validation.</details>
+
+2. **Q:** What is a significant risk associated with the human tendency to recognise patterns?
+- A. It makes data analysis too slow and methodical.
+- B. It can lead to the misinterpretation of data by seeing patterns where none exist.
+- C. It prevents scientists from identifying outliers in a dataset.
+- D. It requires collaboration, which can introduce bias.
+<details><summary>Answer</summary>B. It can lead to the misinterpretation of data by seeing patterns where none exist. This is a key concept in Inquiry Question 3.</details>
+
+### Short-Answer / Calculation
+1. **Q:** Explain how collaboration with peers can improve the quality of a scientific hypothesis.
+<details><summary>Answer</summary>Collaboration brings in alternative perspectives that can challenge assumptions and reveal potential biases in the initial framing of a hypothesis. This process of peer input helps refine the research question, making the resulting hypothesis more robust and testable. (Derived from IQ6).</details>
+
+2. **Q:** Why is it important for a scientist to consider the significance of an outlier, rather than automatically deleting it from a dataset?
+<details><summary>Answer</summary>An outlier may represent a measurement error, but it could also indicate a previously unknown phenomenon or a critical flaw in the experimental setup. Simply deleting it could cause a scientist to miss a new discovery. Therefore, its significance must be discussed and investigated. (Derived from IQ3).</details>
+
+## Formulas & Worked Examples
+```math
+*(not mentioned)*
+```
+*(not mentioned)*
+
+## Visual Aids Described
+*(not mentioned)*
+
+## Assigned Readings & References
+- Investigating Science Stage 6 Syllabus (2017)
+- National Literacy Learning Progression
+- National Numeracy Learning Progression
+- HSC Investigating Science exam papers and marking guidelines (2019-2024)
+
+***
+
+# Module 3: Scientific Models
+
+*Subject/Course:* Investigating Science Stage 6   *Year Level:* 11   *Module:* 3   *Author:* *(not mentioned)*
+*Source Docs:* Investigating Science Stage 6 Syllabus (2017), National Literacy Learning Progression, National Numeracy Learning Progression
+*Date:* 2024-10-17
+
+## Introduction
+This module examines the role of scientific models as essential tools for understanding the natural world. It explores the different types of models used in science—such as physical, conceptual, and mathematical models—and evaluates their usefulness in simplifying complex processes, making predictions, and testing hypotheses. A key focus is on understanding that all models are representations with inherent limitations and that they evolve over time as new evidence becomes available.
+
+## Inquiry Question 1 – What is a scientific model?
+### Concepts
+- Examine the types of models that may be used in science.
+
+### Definitions (from graph)
+*(not mentioned)*
+
+### Case Studies
+*(not mentioned)*
+
+### Practical Examples
+*(not mentioned)*
+
+### Links to Outcomes
+*(not mentioned)*
+
+### Exam Alignment (no full question text)
+*(not mentioned)*
+
+## Inquiry Question 2 – What makes scientific models useful?
+### Concepts
+- Examine the use of scientific models.
+- Outline how models have been used to illustrate, simplify and represent scientific concepts and processes.
+- Explain how scientific models are used to make predictions that are difficult to analyse in the real world.
+- Assess the effectiveness of models at facilitating the understanding of scientific processes, structures and mathematical relationships.
+- Evaluate how scientific models draw on a growing body of data from a wide range of disciplines and technologies to refine predictions and test new hypotheses.
+
+### Definitions (from graph)
+*(not mentioned)*
+
+### Case Studies
+*(not mentioned)*
+
+### Practical Examples
+*(not mentioned)*
+
+### Links to Outcomes
+*(not mentioned)*
+
+### Exam Alignment (no full question text)
+*(not mentioned)*
+
+## Inquiry Question 3 – When should a particular model be used?
+### Concepts
+- Explain why new evidence can challenge the use of existing scientific models and may result in those models being contested and refined or replaced.
+- Compare the limitations of simple and complex scientific models.
+
+### Definitions (from graph)
+*(not mentioned)*
+
+### Case Studies
+*(not mentioned)*
+
+### Practical Examples
+*(not mentioned)*
+
+### Links to Outcomes
+*(not mentioned)*
+
+### Exam Alignment (no full question text)
+*(not mentioned)*
+
+## Inquiry Question 4 – How can a model be constructed to simplify understanding of a scientific concept?
+### Concepts
+- Investigate a scientific concept or process that can be represented using a model.
+
+### Definitions (from graph)
+*(not mentioned)*
+
+### Case Studies
+*(not mentioned)*
+
+### Practical Examples
+*(not mentioned)*
+
+### Links to Outcomes
+*(not mentioned)*
+
+### Exam Alignment (no full question text)
+*(not mentioned)*
+
+## Connections to Previous Material
+This module builds on the data interpretation skills from Module 2 by introducing formal structures (models) that scientists use to represent the patterns and relationships they have inferred.
+
+## Outcomes & Assessment Alignment
+| Outcome Code | Strand | Outcome Statement | Assessment Links (Year Q#) |
+|--------------|--------|-------------------|-----------------------------|
+| *(not mentioned)* | *(not mentioned)* | *(not mentioned)* | *(not mentioned)* |
+
+## Conclusion / Preview
+Understanding the function and limitations of models prepares learners for Module 4, where they will differentiate between scientific theories and laws, both of which are often represented or tested using models.
+
+## Glossary of Key Terms
+| Term | Definition |
+|------|------------|
+| *(not mentioned)* | *(not mentioned)* |
+
+## Question Bank
+### Multiple-Choice (answers hidden in collapsible blocks)
+1. **Q:** What is a primary function of a scientific model?
+- A. To provide a perfect and complete replica of a natural phenomenon.
+- B. To illustrate, simplify, and represent scientific concepts and processes.
+- C. To prove a scientific law without the need for evidence.
+- D. To replace the need for conducting experiments.
+<details><summary>Answer</summary>B. To illustrate, simplify, and represent scientific concepts and processes. This is a core concept from Inquiry Question 2.</details>
+
+2. **Q:** What is the most likely reason for an existing scientific model to be refined or replaced?
+- A. The model becomes too popular in the media.
+- B. A new, more complex model is developed.
+- C. New evidence emerges that challenges the predictions or assumptions of the existing model.
+- D. Scientists decide the model is too simple to be useful.
+<details><summary>Answer</summary>C. New evidence emerges that challenges the predictions or assumptions of the existing model. Inquiry Question 3 directly addresses how new evidence can lead to the refinement or replacement of models.</details>
+
+### Short-Answer / Calculation
+1. **Q:** Compare one advantage of a simple scientific model with one advantage of a complex one.
+<details><summary>Answer</summary>A simple model is effective for illustrating a core concept clearly and can be easily understood. A complex model, while harder to understand, can incorporate more variables and data, often leading to more accurate predictions and a more nuanced representation of reality. (Derived from IQ3).</details>
+
+2. **Q:** Describe how a growing body of data can be used to refine a scientific model.
+<details><summary>Answer</summary>As more data is collected from different disciplines or new technologies, it can be used to test the predictions of a model. If discrepancies are found, the model's parameters can be adjusted, or its underlying assumptions can be revised to better fit the new evidence, thereby refining its predictive power. (Derived from IQ2).</details>
+
+## Formulas & Worked Examples
+```math
+*(not mentioned)*
+```
+*(not mentioned)*
+
+## Visual Aids Described
+*(not mentioned)*
+
+## Assigned Readings & References
+- Investigating Science Stage 6 Syllabus (2017)
+- National Literacy Learning Progression
+- National Numeracy Learning Progression
+- HSC Investigating Science exam papers and marking guidelines (2019-2024)
+
+***
+
+# Module 4: Theories and Laws
+
+*Subject/Course:* Investigating Science Stage 6   *Year Level:* 11   *Module:* 4   *Author:* *(not mentioned)*
+*Source Docs:* Investigating Science Stage 6 Syllabus (2017), National Literacy Learning Progression, National Numeracy Learning Progression
+*Date:* 2024-10-17
+
+## Introduction
+This module clarifies the distinct roles of scientific theories and laws. Learners will compare their characteristics by investigating examples such as the law of conservation of mass and the theory of plate tectonics. The module explores how theories are developed from extensive evidence and provide explanatory frameworks, while laws describe consistent, predictable relationships in nature. It also examines how both theories and laws are applied across scientific disciplines and how they can be re-evaluated in light of new discoveries, such as those from nuclear physics.
+
+## Inquiry Question 1 – What are the differences and similarities between scientific theories and laws?
+### Concepts
+- Collect primary data to investigate the law of conservation of mass.
+- Collect secondary-sourced data to investigate the theory of plate tectonics.
+- Compare the characteristics of theories and laws.
+
+### Definitions (from graph)
+*(not mentioned)*
+
+### Case Studies
+*(not mentioned)*
+
+### Practical Examples
+*(not mentioned)*
+
+### Links to Outcomes
+*(not mentioned)*
+
+### Exam Alignment (no full question text)
+*(not mentioned)*
+
+## Inquiry Question 2 – What leads to a theory being developed?
+### Concepts
+- Gather secondary-sourced data to investigate the supporting evidence and development of theories.
+- Gather secondary-sourced data to investigate how aspects of a theory can be disproved through the collection of evidence.
+
+### Definitions (from graph)
+*(not mentioned)*
+
+### Case Studies
+*(not mentioned)*
+
+### Practical Examples
+*(not mentioned)*
+
+### Links to Outcomes
+*(not mentioned)*
+
+### Exam Alignment (no full question text)
+*(not mentioned)*
+
+## Inquiry Question 3 – What leads to the acceptance of a scientific law?
+### Concepts
+- Gather secondary-sourced data to investigate and assess the evidence that supports scientific laws.
+- Design and collect primary data to show that results can be predicted by laws.
+
+### Definitions (from graph)
+*(not mentioned)*
+
+### Case Studies
+*(not mentioned)*
+
+### Practical Examples
+*(not mentioned)*
+
+### Links to Outcomes
+*(not mentioned)*
+
+### Exam Alignment (no full question text)
+*(not mentioned)*
+
+## Inquiry Question 4 – How are theories and laws used in science?
+### Concepts
+- Investigate how the law of conservation of energy is applied in different science disciplines.
+- Demonstrate, using evidence and examples, how diverse phenomena have been unified into specific theories.
+- Gather secondary-sourced data to investigate how scientific investigations of nuclear reactions and decay changed the way in which the law of conservation of mass and law of conservation of energy are interpreted.
+
+### Definitions (from graph)
+*(not mentioned)*
+
+### Case Studies
+*(not mentioned)*
+
+### Practical Examples
+*(not mentioned)*
+
+### Links to Outcomes
+*(not mentioned)*
+
+### Exam Alignment (no full question text)
+*(not mentioned)*
+
+## Connections to Previous Material
+This module builds upon Module 3 by distinguishing two key outputs of the scientific process—theories and laws—both of which may be developed and tested using the scientific models previously studied.
+
+## Outcomes & Assessment Alignment
+| Outcome Code | Strand | Outcome Statement | Assessment Links (Year Q#) |
+|--------------|--------|-------------------|-----------------------------|
+| *(not mentioned)* | *(not mentioned)* | *(not mentioned)* | *(not mentioned)* |
+
+## Conclusion / Preview
+This module concludes the Year 11 course by solidifying the understanding of major scientific frameworks. It prepares students for the Year 12 course, which begins with Module 5's focus on designing, conducting, and reporting complete scientific investigations.
+
+## Glossary of Key Terms
+| Term | Definition |
+|------|------------|
+| *(not mentioned)* | *(not mentioned)* |
+
+## Question Bank
+### Multiple-Choice (answers hidden in collapsible blocks)
+1. **Q:** Which statement best compares a scientific theory and a scientific law?
+- A. A theory is a guess, while a law is a proven fact.
+- B. A theory explains why a phenomenon occurs, while a law describes a consistent relationship under specific conditions.
+- C. A law is a more advanced and well-supported version of a theory.
+- D. A law describes qualitative patterns, while a theory describes quantitative relationships.
+<details><summary>Answer</summary>B. A theory explains why a phenomenon occurs, while a law describes a consistent relationship under specific conditions. This distinction is central to Inquiry Question 1.</details>
+
+2. **Q:** How did the study of nuclear reactions affect the interpretation of the laws of conservation of mass and energy?
+- A. It proved that both laws were incorrect and should be discarded.
+- B. It showed that the laws only apply to chemistry, not physics.
+- C. It led to a unified understanding that mass and energy can be interconverted (E=mc²), changing the interpretation of the two separate conservation laws.
+- D. It had no effect on the interpretation of these laws.
+<details><summary>Answer</summary>C. It led to a unified understanding that mass and energy can be interconverted (E=mc²), changing the interpretation of the two separate conservation laws. This is the focus of a concept in Inquiry Question 4.</details>
+
+### Short-Answer / Calculation
+1. **Q:** Using the examples from the module, distinguish between the theory of plate tectonics and the law of conservation of mass.
+<details><summary>Answer</summary>The theory of plate tectonics is a broad explanatory framework describing the mechanisms that drive the movement of Earth's lithospheric plates. The law of conservation of mass is a descriptive principle stating that in an isolated system, mass is neither created nor destroyed by chemical reactions or physical transformations. The theory explains 'how and why', while the law describes 'what' consistently happens. (Derived from IQ1).</details>
+
+2. **Q:** What kind of evidence is required for a scientific law to be accepted?
+<details><summary>Answer</summary>Acceptance of a scientific law requires extensive, consistently repeatable evidence, often from primary data collection, showing that a specific relationship holds true under stated conditions and that results can be reliably predicted by the law. (Derived from IQ3).</details>
+
+## Formulas & Worked Examples
+```math
+*(not mentioned)*
+```
+*(not mentioned)*
+
+## Visual Aids Described
+*(not mentioned)*
+
+## Assigned Readings & References
+- Investigating Science Stage 6 Syllabus (2017)
+- National Literacy Learning Progression
+- National Numeracy Learning Progression
+- HSC Investigating Science exam papers and marking guidelines (2019-2024)
+
+***
+
+# Module 5: Scientific Investigations
+
+*Subject/Course:* Investigating Science Stage 6   *Year Level:* 12   *Module:* 5   *Author:* *(not mentioned)*
+*Source Docs:* Investigating Science Stage 6 Syllabus (2017), National Literacy Learning Progression, National Numeracy Learning Progression
+*Date:* 2024-10-17
+
+## Introduction
+This module provides a comprehensive overview of the entire scientific investigation process, from initiation to reporting. Students will explore what triggers a scientific inquiry, how to select and justify an appropriate methodology, and the critical importance of integrity through concepts like validity and reliability. The module culminates in understanding and applying the formal conventions of scientific report writing, a key skill for communicating findings.
+
+## Inquiry Question 1 – What initiates an investigation?
+### Concepts
+- Research the factors that led scientists to investigate the following.
+- Propose a reason for the scientists undertaking their investigations above by examining the type of data or information that they sought.
+- Determine the hypotheses that were tested in each of the scientific investigations above.
+- Describe where deviations from the traditional and linear models of scientific methodology were necessary in order to test each hypothesis.
+
+### Definitions (from graph)
+*(not mentioned)*
+
+### Case Studies
+- **Microwaves (Percy Spencer)**: Percy Spencer, an engineer working on radar technology during WWII, accidentally discovered the heating effect of microwaves when a chocolate bar in his pocket melted. This observation led to controlled experiments with other foods, like popcorn, ultimately resulting in the invention of the microwave oven.
+
+### Practical Examples
+*(not mentioned)*
+
+### Links to Outcomes
+*(not mentioned)*
+
+### Exam Alignment (no full question text)
+*(not mentioned)*
+
+## Inquiry Question 2 – What type of methodology best suits a scientific investigation?
+### Concepts
+- Using examples, evaluate the objectives and data collected in an investigation by a recognised scientist or team of scientists.
+- Evaluate the methodology of the scientific investigations above.
+- Develop a method most appropriate to test a hypothesis following observation.
+- Justify the type of methodology used to test the hypothesis.
+
+### Definitions (from graph)
+*(not mentioned)*
+
+### Case Studies
+*(not mentioned)*
+
+### Practical Examples
+*(not mentioned)*
+
+### Links to Outcomes
+*(not mentioned)*
+
+### Exam Alignment (no full question text)
+*(not mentioned)*
+
+## Inquiry Question 3 – How is the integrity of a scientific investigation judged?
+### Concepts
+- Evaluate the design of the student investigation.
+- Conduct the planned investigation and collect, record and analyse primary data.
+- Draw a conclusion or conclusions, and suggest further investigation or research.
+- Evaluate the validity of the investigation.
+- Evaluate the reliability of the investigation.
+
+### Definitions (from graph)
+- **Reliability**: An experiment is reliable if the results are consistent and repeatable. This is achieved through repetition (at least 3 trials) and using a sufficiently large sample size.
+- **Validity**: An experiment is valid if its method is appropriate and directly tests the intended hypothesis. Core components include controlling variables, having a single independent variable, and appropriate measurement of the dependent variable.
+
+### Case Studies
+*(not mentioned)*
+
+### Practical Examples
+*(not mentioned)*
+
+### Links to Outcomes
+- INS12-12 — Develops and evaluates the process of undertaking scientific investigations.
+
+### Exam Alignment (no full question text)
+- 2020 Q25a: Reliability and sample size (self-injection example).
+- 2021 Q22b: Validity in experimental design (GMO mice vs diet).
+
+## Inquiry Question 4 – What is the structure of an investigative report?
+### Concepts
+- Review a published and peer-reviewed scientific report to determine the conventions of writing a report on a practical investigation.
+- Use a sample of a published and peer-reviewed secondary source to identify the purpose, language style, presentation and structure of the report.
+- Compare and contrast the structures and functions of a scientific investigation and its written report.
+- Prepare a report on the student investigation that was carried out.
+
+### Definitions (from graph)
+- **Scientific report conventions**: A formal scientific report follows a clear structure (Aim, Hypothesis, Method, Results, Discussion, Conclusion). The language must be objective, in the third person, and use precise scientific terminology.
+
+### Case Studies
+*(not mentioned)*
+
+### Practical Examples
+*(not mentioned)*
+
+### Links to Outcomes
+- INS11/12-7 — Communicates scientific understanding using suitable language and terminology for a specific audience or purpose.
+
+### Exam Alignment (no full question text)
+- 2023 Q30: Report conventions and scientific style.
+
+## Connections to Previous Material
+This module synthesises and formalises the skills developed throughout the Year 11 course (Modules 1-4), requiring students to apply their understanding of observation, inference, data analysis, and scientific frameworks to a complete investigation.
+
+## Outcomes & Assessment Alignment
+| Outcome Code | Strand | Outcome Statement | Assessment Links (Year Q#) |
+|--------------|--------|-------------------|-----------------------------|
+| INS12-12 | Planning investigations; Communicating | Develops and evaluates the process of undertaking scientific investigations | 2020 Q25a; 2021 Q22b |
+| INS11/12-7 | Communicating | Communicates scientific understanding using suitable language and terminology for a specific audience or purpose | 2023 Q30 |
+
+## Conclusion / Preview
+Mastery of the investigation and reporting cycle in this module is essential for subsequent modules. In Module 6, students will apply these skills to evaluate how technology impacts scientific investigations, and in Module 7, they will use them to critically assess scientific claims.
+
+## Glossary of Key Terms
+| Term | Definition |
+|------|------------|
+| Reliability | An experiment is reliable if the results are consistent and repeatable. This is achieved through repetition (at least 3 trials) and using a sufficiently large sample size. |
+| Scientific report conventions | A formal scientific report follows a clear structure (Aim, Hypothesis, Method, Results, Discussion, Conclusion). The language must be objective, in the third person, and use precise scientific terminology. |
+| Validity | An experiment is valid if its method is appropriate and directly tests the intended hypothesis. Core components include controlling variables, having a single independent variable, and appropriate measurement of the dependent variable. |
+
+## Question Bank
+### Multiple-Choice (answers hidden in collapsible blocks)
+1. **Q:** An investigation is repeated five times with very similar results obtained each time. However, the experimental method does not actually test the stated hypothesis. Which statement is the best evaluation of the investigation?
+- A. It is valid but not reliable.
+- B. It is both valid and reliable.
+- C. It is reliable but not valid.
+- D. It is neither reliable nor valid.
+<details><summary>Answer</summary>C. It is reliable but not valid. The consistent results indicate reliability, but the failure of the method to test the hypothesis means it lacks validity.</details>
+
+2. **Q:** Which of the following is a key convention of a formal scientific report?
+- A. Using personal pronouns like "I" and "we" to describe the procedure.
+- B. Writing the conclusion before the results are analysed.
+- C. Using objective, third-person language and precise terminology.
+- D. Including emotive language to make the findings more persuasive.
+<details><summary>Answer</summary>C. Using objective, third-person language and precise terminology. This is a core part of the definition of scientific report conventions from the graph.</details>
+
+### Short-Answer / Calculation
+1. **Q:** A student is investigating the effect of fertiliser concentration on plant growth. They forget to ensure each plant receives the same amount of water. Which aspect of experimental integrity (validity or reliability) does this mistake primarily compromise, and why?
+<details><summary>Answer</summary>This primarily compromises validity. By not controlling the amount of water, there are now two independent variables (fertiliser concentration and water volume). This means the experiment no longer directly tests the intended hypothesis about fertiliser alone, making it invalid.</details>
+
+2. **Q:** The HSC example for reliability involved a researcher self-injecting a bacterium (a sample size of one). Explain why this is scientifically unreliable.
+<details><summary>Answer</summary>This is unreliable because the result cannot be considered consistent or repeatable. With a sample size of one, it is impossible to determine if the outcome was due to the bacterium or a unique physiological reaction of that specific individual. Reliability requires repetition and a sufficiently large sample size to ensure the results are consistent.</details>
+
+## Formulas & Worked Examples
+```math
+*(not mentioned)*
+```
+*(not mentioned)*
+
+## Visual Aids Described
+*(not mentioned)*
+
+## Assigned Readings & References
+- Investigating Science Stage 6 Syllabus (2017)
+- National Literacy Learning Progression
+- National Numeracy Learning Progression
+- HSC Investigating Science exam papers and marking guidelines (2019-2024)
+
+***
+
+# Module 6: Technologies
+
+*Subject/Course:* Investigating Science Stage 6   *Year Level:* 12   *Module:* 6   *Author:* *(not mentioned)*
+*Source Docs:* Investigating Science Stage 6 Syllabus (2017), National Literacy Learning Progression, National Numeracy Learning Progression
+*Date:* 2024-10-17
+
+## Introduction
+This module explores the symbiotic relationship between science and technology. It examines how technological tools enhance and limit scientific investigations by influencing the accuracy, precision, and types of data that can be collected. Students will assess sources of error, compare analogue and digital technologies, and consider safety protocols. The module also investigates the powerful feedback loop where technological advancements enable new scientific discoveries, which in turn spur further technological innovation.
+
+## Inquiry Question 1 – How does technology enhance and/or limit scientific investigation?
+### Concepts
+- Design a practical investigation that uses available technologies to measure both the independent and dependent variables that produce quantitative data.
+- Conduct the practical investigation to obtain relevant data and evaluate the limitations of the technologies used.
+- Investigate the range of measuring devices used in the practical investigation and assess the likelihood of random and systematic errors and the devices' degree of accuracy.
+- Using specific examples, compare the accuracy of analogue and digital technologies in making observations.
+- Assess the safety of technologies selected for the practical investigation by using chemical safety data and Work Health and Safety guidelines.
+
+### Definitions (from graph)
+*(not mentioned)*
+
+### Case Studies
+*(not mentioned)*
+
+### Practical Examples
+- **Effect of Temperature on Reaction Rate**: A common investigation involves observing the effect of temperature on the brightness of a glow stick. The experiment uses beakers of water at different temperatures (iced, room temperature, warm) to demonstrate that higher temperatures lead to a faster reaction rate (brighter glow).
+
+### Links to Outcomes
+*(not mentioned)*
+
+### Exam Alignment (no full question text)
+*(not mentioned)*
+
+## Inquiry Question 2 – How have developments in technology led to advances in scientific theories and laws that, in turn, drive the need for further developments in technology?
+### Concepts
+- Using examples, assess the impact that developments in technologies have had on the accumulation of evidence for scientific theories, laws and models.
+- Using examples, assess the impact that developments in scientific theories, laws and models have had on the development of new technologies.
+- Investigate scientists' increasing awareness of the value of Aboriginal and Torres Strait Islander Peoples' knowledge and understanding of the medicinal and material uses of plants.
+
+### Definitions (from graph)
+- **Science-technology feedback loop**: Science and technology have a feedback loop. New technology enables new scientific understanding, which in turn enables the development of even newer technology.
+
+### Case Studies
+*(not mentioned)*
+
+### Practical Examples
+*(not mentioned)*
+
+### Links to Outcomes
+- INS12-13 — Describes and explains how science drives the development of technologies.
+
+### Exam Alignment (no full question text)
+- 2024 Q36: DNA structure and GM technologies—interdependence of technology and science.
+
+## Connections to Previous Material
+This module directly applies the investigation design principles from Module 5, focusing specifically on how the choice of measurement technology impacts data quality (validity, reliability, accuracy, and error).
+
+## Outcomes & Assessment Alignment
+| Outcome Code | Strand | Outcome Statement | Assessment Links (Year Q#) |
+|--------------|--------|-------------------|-----------------------------|
+| INS12-13 | Communicating | Describes and explains how science drives the development of technologies | 2024 Q36 |
+
+## Conclusion / Preview
+By understanding the interplay between technology and scientific evidence, students are now equipped to move to Module 7, where they will critically evaluate the quality of evidence used in public claims and scientific debates.
+
+## Glossary of Key Terms
+| Term | Definition |
+|------|------------|
+| Science-technology feedback loop | Science and technology have a feedback loop. New technology enables new scientific understanding, which in turn enables the development of even newer technology. |
+
+## Question Bank
+### Multiple-Choice (answers hidden in collapsible blocks)
+1. **Q:** The HSC example of X-ray crystallography leading to the DNA model, which then enabled genetic engineering, best illustrates which concept?
+- A. Random and systematic error.
+- B. The limitations of analogue technology.
+- C. The science-technology feedback loop.
+- D. The importance of WHS guidelines.
+<details><summary>Answer</summary>C. The science-technology feedback loop. The example shows technology (crystallography) enabling science (DNA model), which then enabled new technology (genetic engineering).</details>
+
+2. **Q:** A thermometer consistently reads 2°C higher than the actual temperature. This is an example of:
+- A. A random error.
+- B. A systematic error.
+- C. A parallax error.
+- D. A human error.
+<details><summary>Answer</summary>B. A systematic error. This type of error is consistent and repeatable, affecting the accuracy of all measurements in the same way.</details>
+
+### Short-Answer / Calculation
+1. **Q:** In the glow stick practical, what is one limitation of using the human eye as the measurement device for the dependent variable (brightness)?
+<details><summary>Answer</summary>The human eye is a subjective tool for measuring brightness, making the data qualitative rather than quantitative. This limitation makes it difficult to make precise comparisons of reaction rates at different temperatures and reduces the overall accuracy of the investigation.</details>
+
+2. **Q:** Explain one advantage of using a digital measuring device over an analogue one in a scientific investigation.
+<details><summary>Answer</summary>A digital device typically provides a higher degree of precision and reduces the likelihood of random errors associated with reading a scale (e.g., parallax error). This can lead to more accurate and reliable data collection.</details>
+
+## Formulas & Worked Examples
+```math
+*(not mentioned)*
+```
+*(not mentioned)*
+
+## Visual Aids Described
+*(not mentioned)*
+
+## Assigned Readings & References
+- Investigating Science Stage 6 Syllabus (2017)
+- National Literacy Learning Progression
+- National Numeracy Learning Progression
+- HSC Investigating Science exam papers and marking guidelines (2019-2024)
+
+***
+
+# Module 7: Fact or Fallacy?
+
+*Subject/Course:* Investigating Science Stage 6   *Year Level:* 12   *Module:* 7   *Author:* *(not mentioned)*
+*Source Docs:* Investigating Science Stage 6 Syllabus (2017), National Literacy Learning Progression, National Numeracy Learning Progression
+*Date:* 2024-10-17
+
+## Introduction
+This module equips students with the critical thinking skills needed to dissect scientific claims in a world of abundant information. It focuses on how to fairly test a claim, the importance of robust experimental design—including controls, placebos, and blinding—and the common logical fallacy of confusing correlation with causation. Students will also learn to identify the hallmarks of pseudoscience and understand the crucial role of the peer-review process as a quality control mechanism in science.
+
+## Inquiry Question 1 – How can a claim be tested?
+### Concepts
+- Plan and conduct an investigation based on testing a claim.
+- Using examples, evaluate the impact that sample selection and sample sizes can have on the results of an investigation.
+- Compare emotive advertising with evidence-based claims.
+
+### Definitions (from graph)
+*(not mentioned)*
+
+### Case Studies
+*(not mentioned)*
+
+### Practical Examples
+- **Testing a Product Claim**: A student investigated the claim that a brand of cookies contained '40% chocolate chips'. The methodology involved weighing a sample of cookies, carefully separating the chocolate chips from the dough, and then calculating the percentage mass of the chocolate. This provides a direct, evidence-based way to test a commercial claim.
+
+### Links to Outcomes
+*(not mentioned)*
+
+### Exam Alignment (no full question text)
+*(not mentioned)*
+
+## Inquiry Question 2 – What factors can affect the way data can be interpreted, analysed and understood?
+### Concepts
+- Using examples, justify the use of placebos, double-blind trials and control groups in order to draw valid conclusions.
+- Evaluate the impact of societal and economic influences on the collection and interpretation of data.
+
+### Definitions (from graph)
+*(not mentioned)*
+
+### Case Studies
+*(not mentioned)*
+
+### Practical Examples
+*(not mentioned)*
+
+### Links to Outcomes
+*(not mentioned)*
+
+### Exam Alignment (no full question text)
+*(not mentioned)*
+
+## Inquiry Question 3 – What type of evidence is needed to draw valid conclusions?
+### Concepts
+- Evaluate how evidence of a correlation can be misinterpreted as causation.
+
+### Definitions (from graph)
+- **Correlation vs Causation**: Correlation is a relationship where two variables change together, but it does not imply one causes the other. Causation is where a change in one variable directly causes a change in another. Mistaking correlation for causation is a common logical fallacy.
+
+### Case Studies
+- **The Hawthorne Effect**: A study on worker productivity found that productivity increased regardless of changes in lighting conditions. The researchers concluded that the workers' productivity was influenced by the fact they were being observed, not the changes in the independent variable. This highlights how the act of investigation itself can influence results.
+
+### Practical Examples
+*(not mentioned)*
+
+### Links to Outcomes
+- INS12-14 — Uses evidence-based analysis in a scientific investigation to support or refute a hypothesis.
+
+### Exam Alignment (no full question text)
+- 2019 Q25c: Correlation ≠ causation (whales/CO₂).
+
+## Inquiry Question 4 – How does the reporting of science influence the general public's understanding of the subject?
+### Concepts
+- Examine a contemporary scientific debate and how it is portrayed in the mainstream media.
+- Evaluate the use and interpretation of the terms 'theory', 'hypothesis', 'belief' and 'law' in relation to media reporting of scientific developments.
+- Compare the difference in reporting between a peer-reviewed journal article and a scientific article published in popular media.
+- Analyse how conflicts of interest can result in scientific evidence being suppressed, misinterpreted or misrepresented.
+- Describe the halo effect and, using examples, explain how the influence of positive perceptions can result in the rejection of valid alternative perspectives.
+- Using examples, analyse a pseudo-scientific claim and how scientific language and processes can be manipulated to sway public opinion.
+
+### Definitions (from graph)
+- **Pseudoscience**: Pseudoscience is a claim, belief, or practice presented as scientific, but which does not adhere to the scientific method. It often uses scientific-sounding language to mislead.
+
+### Case Studies
+*(not mentioned)*
+
+### Practical Examples
+*(not mentioned)*
+
+### Links to Outcomes
+- INS11/12-6 — Solves scientific problems using primary and secondary data, critical thinking skills and scientific processes.
+
+### Exam Alignment (no full question text)
+- 2020 Q27a: Identifying pseudoscience and misuse of scientific language.
+
+## Inquiry Question 5 – Can the scientific community and process of peer review find 'the truth'?
+### Concepts
+- Conduct an investigation using secondary sources to research a scientist who has falsified their scientific experimental results.
+- Analyse the scientific debate surrounding 'publication' and discuss the implications of scientists' need to 'publish or perish'.
+- Evaluate the increasing volume of scientific papers being published and assess the feasibility of science to effectively manage, review, replicate and validate investigations.
+- Analyse the benefits of peer review in relation to the advancement of science.
+- Discuss the impact of fake science journals on the public perception of science.
+
+### Definitions (from graph)
+- **Peer review**: Peer review is the evaluation of scientific work by other experts in the same field to ensure its quality and validity before it is published. It acts as a critical quality control filter.
+
+### Case Studies
+*(not mentioned)*
+
+### Practical Examples
+*(not mentioned)*
+
+### Links to Outcomes
+- INS11/12-5 — Analyses and evaluates primary and secondary data and information.
+
+### Exam Alignment (no full question text)
+- 2019 Q29b: Role of peer review in vetting revolutionary claims.
+
+## Connections to Previous Material
+This module builds on the investigation skills from Module 5 and the understanding of technology from Module 6 to critically assess the quality of evidence, methodology, and reporting in a broader societal context.
+
+## Outcomes & Assessment Alignment
+| Outcome Code | Strand | Outcome Statement | Assessment Links (Year Q#) |
+|--------------|--------|-------------------|-----------------------------|
+| INS12-14 | Problem solving | Uses evidence-based analysis in a scientific investigation to support or refute a hypothesis | 2019 Q25c |
+| INS11/12-6 | Problem solving | Solves scientific problems using primary and secondary data, critical thinking skills and scientific processes | 2020 Q27a |
+| INS11/12-5 | Analysing data and information | Analyses and evaluates primary and secondary data and information | 2019 Q29b |
+| INS12-5 | Analysing data and information | Analyses and evaluates primary and secondary data and information | 2019 Q1; 2019 Q21a |
+
+## Conclusion / Preview
+Having learned to critically evaluate scientific claims and the processes that ensure their integrity, students will progress to Module 8, which explores the complex interactions between science and society, including ethics, regulation, and the influence of economic and political factors.
+
+## Glossary of Key Terms
+| Term | Definition |
+|------|------------|
+| Correlation vs Causation | Correlation is a relationship where two variables change together, but it does not imply one causes the other. Causation is where a change in one variable directly causes a change in another. Mistaking correlation for causation is a common logical fallacy. |
+| Peer review | Peer review is the evaluation of scientific work by other experts in the same field to ensure its quality and validity before it is published. It acts as a critical quality control filter. |
+| Pseudoscience | Pseudoscience is a claim, belief, or practice presented as scientific, but which does not adhere to the scientific method. It often uses scientific-sounding language to mislead. |
+
+## Question Bank
+### Multiple-Choice (answers hidden in collapsible blocks)
+1. **Q:** A news report states that cities with more libraries have higher crime rates and suggests that libraries cause crime. This conclusion is an example of:
+- A. The Hawthorne effect.
+- B. Mistaking correlation for causation.
+- C. A double-blind trial.
+- D. Peer review.
+<details><summary>Answer</summary>B. Mistaking correlation for causation. It is more likely that a third variable, such as population size, is correlated with both the number of libraries and the crime rate.</details>
+
+2. **Q:** What is the primary benefit of the peer review process?
+- A. It guarantees that the published research is absolutely true.
+- B. It acts as a quality control filter, ensuring that research has been scrutinised for validity and methodological rigour by experts before publication.
+- C. It ensures that only research confirming popular beliefs is published.
+- D. It speeds up the process of scientific publication.
+<details><summary>Answer</summary>B. It acts as a quality control filter, ensuring that research has been scrutinised for validity and methodological rigour by experts before publication. This aligns with the definition and HSC example provided in the graph.</details>
+
+### Short-Answer / Calculation
+1. **Q:** Identify two characteristics that might indicate a claim is pseudoscientific.
+<details><summary>Answer</summary>Two indicators of pseudoscience are: (1) using scientific-sounding language to mislead or appear legitimate without providing evidence, and (2) making claims that are not falsifiable or testable, meaning they cannot be scientifically disproven. (Derived from the definition and HSC example for Pseudoscience).</details>
+
+2. **Q:** Why is a double-blind, placebo-controlled trial considered a high standard for medical research?
+<details><summary>Answer</summary>This design minimises bias. The placebo control allows researchers to distinguish the actual effect of a treatment from the psychological effect of receiving one (the placebo effect). The double-blind aspect, where neither participants nor researchers know who receives the treatment or placebo, prevents conscious or unconscious bias from influencing the results or their interpretation. (Derived from IQ2).</details>
+
+## Formulas & Worked Examples
+```math
+*(not mentioned)*
+```
+*(not mentioned)*
+
+## Visual Aids Described
+*(not mentioned)*
+
+## Assigned Readings & References
+- Investigating Science Stage 6 Syllabus (2017)
+- National Literacy Learning Progression
+- National Numeracy Learning Progression
+- HSC Investigating Science exam papers and marking guidelines (2019-2024)
+
+***
+
+# Module 8: Science and Society
+
+*Subject/Course:* Investigating Science Stage 6   *Year Level:* 12   *Module:* 8   *Author:* *(not mentioned)*
+*Source Docs:* Investigating Science Stage 6 Syllabus (2017), National Literacy Learning Progression, National Numeracy Learning Progression
+*Date:* 2024-10-17
+
+## Introduction
+This module explores the critical intersection of scientific practice and the broader societal context. It examines how major scientific events can shape public perception and trust in science. A central focus is the necessity of regulation and ethical frameworks in research, using examples like organ transplantation. The module also delves into how economic, social, and political forces—including government funding, corporate interests, and cultural perspectives—can influence the direction, execution, and communication of scientific research.
+
+## Inquiry Question 1 – How do science-related events affect society's view of science?
+### Concepts
+- Investigate case studies of past events to consider how they have affected the public image of science.
+
+### Definitions (from graph)
+*(not mentioned)*
+
+### Case Studies
+- **Development of the Smallpox Vaccine**: Edward Jenner's observation that milkmaids exposed to cowpox seemed immune to smallpox led to the development of the first vaccine. His work, though initially met with skepticism and ethical controversy (he experimented on a child), ultimately led to the eradication of smallpox. This event massively improved the public image of science, demonstrating its power to solve major health crises.
+
+### Practical Examples
+*(not mentioned)*
+
+### Links to Outcomes
+*(not mentioned)*
+
+### Exam Alignment (no full question text)
+*(not mentioned)*
+
+## Inquiry Question 2 – Why is scientific research regulated?
+### Concepts
+- Investigate the need for the regulation of scientific research.
+- Investigate and assess ethical issues surrounding current scientific research.
+- Investigate a range of international scientific codes of conduct in regard to scientific research and practice.
+- Evaluate the effectiveness of international regulation in scientific research and practice.
+
+### Definitions (from graph)
+- **Ethical research principles**: Ethical research is governed by core principles (NHMRC): Informed Consent (participants are briefed on risks), Beneficence (maximise benefits, minimise harm), and Justice (fair selection of participants).
+
+### Case Studies
+- **Organ Transplantation**: The demand for organ transplants far exceeds supply, creating significant ethical issues. This has led to the development of strict international codes of conduct and national regulations (e.g., Australia's 'DonateLife' program) to govern allocation, consent, and practice. However, organ shortages have also fueled a dangerous black market trade, highlighting the ongoing challenges in regulating this area of medical science.
+
+### Practical Examples
+*(not mentioned)*
+
+### Links to Outcomes
+- INS12-15 — Evaluates the implications of ethical, social, economic and political influences on science.
+
+### Exam Alignment (no full question text)
+- 2020 Q25b: Application of ethics frameworks to risky methodologies.
+
+## Inquiry Question 3 – How do economic, social and political influences affect scientific research?
+### Concepts
+- Evaluate the costs involved in space exploration compared to investments in social issues.
+- Evaluate how scientific research aids economic development and human progress.
+- Evaluate the impacts of scientific research, devices and applications on world health and human wellbeing.
+- Using examples, analyse the impacts that governments and large corporations have on scientific research.
+- Evaluate how personal, cultural and socioeconomic perspectives can influence the direction of scientific research.
+
+### Definitions (from graph)
+- **Conflict of interest**: Economic and political forces significantly influence science. A conflict of interest occurs when a researcher's private interests (e.g., financial ties to a company) could improperly influence their professional judgment.
+- **Social and political influence**: Social and political factors influence science. Scientific evidence can be used to inform political decisions and shape public opinion.
+
+### Case Studies
+*(not mentioned)*
+
+### Practical Examples
+*(not mentioned)*
+
+### Links to Outcomes
+- INS12-15 — Evaluates the implications of ethical, social, economic and political influences on science.
+
+### Exam Alignment (no full question text)
+- 2019 Q30b: Scientific evidence and political decision-making (Franklin River Dam).
+- 2020 Q32c: Climate communication conflict of interest.
+- 2022 Q33b: Corporate funding conflict of interest.
+
+## Connections to Previous Material
+This capstone module integrates the critical evaluation skills from Module 7 with an analysis of the external forces that shape science. It requires students to consider the real-world implications of the scientific process.
+
+## Outcomes & Assessment Alignment
+| Outcome Code | Strand | Outcome Statement | Assessment Links (Year Q#) |
+|--------------|--------|-------------------|-----------------------------|
+| INS12-15 | Communicating | Evaluates the implications of ethical, social, economic and political influences on science | 2019 Q30b; 2020 Q25b; 2020 Q32c; 2022 Q33b |
+
+## Conclusion / Preview
+This module concludes the Investigating Science course by situating scientific knowledge and practice within its complex societal context. Students will have developed the skills to not only understand scientific investigations but also to critically evaluate their ethical dimensions and their relationship with public policy, economics, and culture.
+
+## Glossary of Key Terms
+| Term | Definition |
+|------|------------|
+| Conflict of interest | Economic and political forces significantly influence science. A conflict of interest occurs when a researcher's private interests (e.g., financial ties to a company) could improperly influence their professional judgment. |
+| Ethical research principles | Ethical research is governed by core principles (NHMRC): Informed Consent (participants are briefed on risks), Beneficence (maximise benefits, minimise harm), and Justice (fair selection of participants). |
+| Social and political influence | Social and political factors influence science. Scientific evidence can be used to inform political decisions and shape public opinion. |
+
+## Question Bank
+### Multiple-Choice (answers hidden in collapsible blocks)
+1. **Q:** Which situation best describes a conflict of interest in scientific research?
+- A. A scientist collaborates with a researcher from another country.
+- B. A research study is funded by a company that stands to gain financially from a positive outcome.
+- C. A scientist submits their work to a peer-reviewed journal.
+- D. An ethics committee requests modifications to an experimental design.
+<details><summary>Answer</summary>B. A research study is funded by a company that stands to gain financially from a positive outcome. This creates a situation where private financial interests could improperly influence professional judgment, which is the definition of a conflict of interest.</details>
+
+2. **Q:** The use of scientific evidence to inform the High Court decision on the Franklin River Dam is a clear example of:
+- A. A conflict of interest.
+- B. Pseudoscience.
+- C. The Hawthorne effect.
+- D. The social and political influence of science.
+<details><summary>Answer</summary>D. The social and political influence of science. The HSC example demonstrates how scientific findings directly informed a major political and legal outcome.</details>
+
+### Short-Answer / Calculation
+1. **Q:** Briefly explain one reason why regulation of scientific research, such as in organ transplantation, is necessary.
+<details><summary>Answer</summary>Regulation is necessary to address significant ethical issues. In organ transplantation, the high demand and low supply create risks of exploitation and black markets. Regulations and codes of conduct ensure fair and just allocation based on clinical need, manage the process of informed consent, and aim to prevent unethical practices. (Derived from IQ2 case study).</details>
+
+2. **Q:** Based on the NHMRC principles, what is one key ethical consideration an ethics committee would have for a study involving human participants?
+<details><summary>Answer</summary>A key consideration would be 'Informed Consent'. The committee would need to ensure that all participants are fully briefed on the potential risks and benefits of the research and voluntarily agree to participate without coercion. (Derived from the definition of ethical research principles).</details>
+
+## Formulas & Worked Examples
+```math
+*(not mentioned)*
+```
+*(not mentioned)*
+
+## Visual Aids Described
+*(not mentioned)*
+
+## Assigned Readings & References
+- Investigating Science Stage 6 Syllabus (2017)
+- National Literacy Learning Progression
+- National Numeracy Learning Progression
+- HSC Investigating Science exam papers and marking guidelines (2019-2024)
+
+***
+
+# Consolidated Glossary for Modules 5-8
+
+This glossary contains all key terms and definitions provided in the knowledge graph for the HSC course (Modules 5, 6, 7, and 8).
+
+| Term | Definition | Module |
+|------|------------|:------:|
+| Conflict of interest | Economic and political forces significantly influence science. A conflict of interest occurs when a researcher's private interests (e.g., financial ties to a company) could improperly influence their professional judgment. | 8 |
+| Correlation vs Causation | Correlation is a relationship where two variables change together, but it does not imply one causes the other. Causation is where a change in one variable directly causes a change in another. Mistaking correlation for causation is a common logical fallacy. | 7 |
+| Ethical research principles | Ethical research is governed by core principles (NHMRC): Informed Consent (participants are briefed on risks), Beneficence (maximise benefits, minimise harm), and Justice (fair selection of participants). | 8 |
+| Peer review | Peer review is the evaluation of scientific work by other experts in the same field to ensure its quality and validity before it is published. It acts as a critical quality control filter. | 7 |
+| Pseudoscience | Pseudoscience is a claim, belief, or practice presented as scientific, but which does not adhere to the scientific method. It often uses scientific-sounding language to mislead. | 7 |
+| Reliability | An experiment is reliable if the results are consistent and repeatable. This is achieved through repetition (at least 3 trials) and using a sufficiently large sample size. | 5 |
+| Scientific report conventions | A formal scientific report follows a clear structure (Aim, Hypothesis, Method, Results, Discussion, Conclusion). The language must be objective, in the third person, and use precise scientific terminology. | 5 |
+| Science-technology feedback loop | Science and technology have a feedback loop. New technology enables new scientific understanding, which in turn enables the development of even newer technology. | 6 |
+| Social and political influence | Social and political factors influence science. Scientific evidence can be used to inform political decisions and shape public opinion. | 8 |
+| Validity | An experiment is valid if its method is appropriate and directly tests the intended hypothesis. Core components include controlling variables, having a single independent variable, and appropriate measurement of the dependent variable. | 5 |

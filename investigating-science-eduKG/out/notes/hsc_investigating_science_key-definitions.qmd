@@ -1,0 +1,391 @@
+---
+title: "HSC Investigating Science Stage 6 - Key Definitions"
+subtitle: "A Data-Driven Guide to the Full Syllabus"
+author: "MentorMind"
+date: "today"
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    theme: cosmo
+  pdf:
+    toc: true
+    toc-depth: 3
+---
+
+
+# Investigating Science Stage 6 — Definitions (Comprehensive Glossary)
+
+*Aligned to NSW Stage 6 Investigating Science. Concise, exam-ready definitions in Australian English. Use Cmd/Ctrl‑F to search.*
+
+Quick index: [A](#a) • [B](#b) • [C](#c) • [D](#d) • [E](#e) • [F](#f) • [G](#g) • [H](#h) • [I](#i) • [J](#j) • [K](#k) • [L](#l) • [M](#m) • [N](#n) • [O](#o) • [P](#p) • [Q](#q) • [R](#r) • [S](#s) • [T](#t) • [U](#u) • [V](#v) • [W](#w) • [Y](#y)
+
+---
+
+## A
+
+<a id="a"></a>
+
+* **Abstract**: A brief summary of the report’s purpose, key methods, principal results, and main conclusions.
+* **Accuracy**: The closeness of measured values to the true or accepted value.
+* **Account for**: State reasons for; report on and explain cause/effect.
+* **Aim**: The overall purpose of an investigation, expressed as what it intends to determine or establish.
+* **Analog technology**: Technology based on continuous signals, susceptible to noise and drift, often replaced by digital methods for precision and reproducibility.
+* **Analyse**: Identify components and relationships; draw out and relate implications.
+* **Anomaly**: An observation that deviates from the expected pattern and warrants investigation.
+* **Apparatus**: Equipment and instruments used in an investigation.
+* **Apply**: Use knowledge and understanding in a new situation.
+* **Argument**: A claim supported by evidence and reasoning, addressing counterarguments where relevant.
+* **Audience**: The intended readers or users of a communication product.
+
+## B
+
+<a id="b"></a>
+
+* **Bar chart**: A graph using bars to compare frequencies or values across categories.
+* **Beneficence**: An ethical principle requiring benefits to outweigh risks; researchers should maximise benefits and minimise harms.
+* **Bias**: Systematic deviation from the true value or an unbiased result due to design, selection, measurement, or interpretation.
+* **Bias potential**: Aspects of study design or conduct that could introduce systematic error, such as non-random allocation, unblinded assessment, or selective reporting.
+* **Biological plausibility**: Whether a proposed causal relationship is consistent with accepted biological mechanisms.
+* **Blank**: A sample containing no analyte, used to correct for background signal.
+
+## C
+
+<a id="c"></a>
+
+* **Calculate**: Ascertain/determine from given facts, figures or information.
+* **Calibration**: Adjustment or verification of an instrument against known standards to ensure accurate readings.
+* **Calibration curve**: A plot of instrument response versus known standards used to determine unknown concentrations.
+* **Capture–recapture**: A method for estimating population size by marking, releasing, and recapturing individuals.
+* **Case study**: An in-depth investigation of a particular instance, event, or small number of cases.
+* **Categorical data**: Data sorted into categories; may be nominal (unordered) or ordinal (ordered).
+* **Causation**: A relationship in which a change in one variable directly produces a change in another, established through controlled design and elimination of confounders.
+* **CER (Claim–Evidence–Reasoning)**: A structured explanation linking a claim to evidence with scientific reasoning.
+* **Cherry-picking**: Selecting only data that support a desired conclusion while ignoring contrary evidence.
+* **Children**: A vulnerable population requiring additional ethical safeguards, including assent and parental consent.
+* **Citation**: A formal reference to a source used; enables verification and avoids plagiarism.
+* **Claim**: A clear, testable statement or conclusion that answers the research question.
+* **Clarify**: Make clear or plain.
+* **Classify**: Arrange or include in classes or categories.
+* **Comparative study**: A design that compares groups or conditions without full control of variables.
+* **Competence**: In ethics, the capacity of participants to understand information and make an informed decision.
+* **Confidentiality**: Protecting participants’ information from unauthorised disclosure.
+* **Confidence**: The stated probability that a confidence interval contains the true value (e.g., 95% confidence).
+* **Conflict disclosure**: A transparent statement of any interests that could influence research conduct or reporting.
+* **Conflict of interest**: A situation where personal or financial interests could unduly influence judgements or reporting.
+* **Confounding variable**: A factor associated with both the independent and dependent variables that can distort the estimated effect.
+* **Consensus**: General agreement among experts based on convergent evidence.
+* **Consequence**: The severity of outcome if a hazardous event occurs.
+* **Construct**: Make; build; put together items or arguments.
+* **Content analysis**: A systematic method for coding and interpreting qualitative texts, media, or transcripts.
+* **Control group**: The group that does not receive the active treatment and is used for valid comparison.
+* **Control measure**: An action that eliminates or reduces risk (e.g., engineering controls, procedures, PPE).
+* **Controlled experiment**: An experiment that includes a control group or condition for valid comparison.
+* **Correlation**: A statistical association between variables indicating they change together without implying causation.
+* **Critically analyse**: Add a degree of accuracy, depth, knowledge and understanding, logic, questioning, reflection and quality to analysis.
+* **Critically evaluate**: Add a degree of accuracy, depth, knowledge and understanding, logic, questioning, reflection and quality to evaluating.
+* **Cross-sectional study**: A study that examines different subjects at a single point in time.
+
+## D
+
+<a id="d"></a>
+
+* **Data provenance**: The documented origin and processing history of a dataset.
+* **Data visualisation**: The graphical representation of data to reveal patterns, trends, and relationships.
+* **Deduce**: Draw conclusions from provided information; reason logically.
+* **Define**: State the meaning of a word, phrase, or concept.
+* **Dependent variable**: The variable measured as the response to changes in the independent variable.
+* **Descriptive statistics**: Numerical summaries (e.g., mean, median, standard deviation) that describe features of a dataset.
+* **Digital technology**: Technology that uses discrete binary signals, enabling error checking, replication, and high precision.
+* **Dilution**: The process of reducing solute concentration, often by adding solvent.
+* **Discussion**: The section that interprets results, evaluates method and data quality, and relates findings to the hypothesis and literature.
+* **Discrete data**: Quantities that take distinct, separate values (often counts).
+* **Dose–response relationship**: A pattern where changes in exposure level are associated with proportional changes in effect, supporting causation.
+* **Double-blind trial**: A study in which neither participants nor assessors know the assigned treatment, reducing bias.
+* **Drift**: A slow, systematic change in an instrument’s response over time.
+
+## E
+
+<a id="e"></a>
+
+* **Effect size**: A quantitative measure of the magnitude of a relationship or difference (e.g., Cohen’s d, r).
+* **Elimination (risk control)**: Removing the hazard entirely; the most effective control in the hierarchy.
+* **Environmental impact**: The effect of an activity on the biophysical environment.
+* **Evaluate**: Make a judgement based on criteria; determine the value of.
+* **Evaluation**: A critical appraisal of methods, data quality, and conclusions, noting strengths and limitations.
+* **Evidence**: Data or observations that support or refute a claim or hypothesis.
+* **Evidence quality**: The trustworthiness of data, influenced by design, bias control, precision, and reproducibility.
+* **Examine**: Inquire into; investigate.
+* **Experimental investigation**: A study in which one or more variables are manipulated to test a causal hypothesis.
+* **Expertise gaps**: Mismatches between an author’s claimed expertise and the topic, which can reduce credibility.
+* **Explain**: Relate cause and effect; make the relationships between things evident.
+* **Extract**: Choose relevant and/or appropriate details.
+
+## F
+
+<a id="f"></a>
+
+* **Fair test**: An investigation in which only the independent variable is changed while all other relevant variables are controlled.
+* **Falsifiability**: The property of a claim that it can be disproven by evidence from a possible observation or experiment.
+* **Field log**: A contemporaneous record of methods, conditions, and observations during field work.
+* **Field study**: An investigation conducted in a natural setting rather than a laboratory.
+* **Field work**: Scientific investigation conducted in natural settings rather than controlled laboratory conditions.
+* **Fraud detection**: Processes to identify fabrication, falsification, or plagiarism in research.
+* **Funding bias**: Systematic influence on research outcomes associated with the funder’s interests.
+
+## G
+
+<a id="g"></a>
+
+* **Generalisation (external validity)**: The extent to which results can apply to other populations, places, or times.
+* **GIS**: Geographic Information Systems; software for capturing, analysing, and visualising spatial data.
+* **GPS**: Global Positioning System; a satellite-based navigation system for determining location.
+* **Gradient (slope)**: The rate of change of the dependent variable with respect to the independent variable.
+* **Gross error**: A large mistake (e.g., misreading scale, recording error) that typically invalidates a data point.
+
+## H
+
+<a id="h"></a>
+
+* **Hazard**: A source or situation with potential to cause harm.
+* **Hierarchy of control**: An ordered framework of risk controls from most to least effective: eliminate, substitute, engineer, administrate, PPE.
+* **Histogram**: A plot showing the distribution of continuous data using contiguous bins.
+* **Hypothesis**: A testable prediction about the relationship between variables, derived from observations or existing theory.
+
+## I
+
+<a id="i"></a>
+
+* **Identify**: Recognise and name.
+* **Informed consent**: Voluntary agreement to participate after being informed of the study’s purpose, procedures, risks, and benefits.
+* **Infrastructure (research)**: Facilities, equipment, and platforms that enable data collection, storage, and collaboration.
+* **Institutional Review Board (IRB)**: A committee that reviews research proposals for ethical compliance; in Australia, an HREC.
+* **Instrument resolution**: The smallest increment of a quantity that an instrument can display.
+* **Intercept**: The value of the dependent variable when the independent variable is zero (where a line crosses the axis).
+* **Interquartile range**: The spread of the middle 50% of data; Q3 minus Q1.
+* **Interpret**: Draw meaning from.
+* **Introduction**: The section of a report that states the background, aim, and hypothesis or research question.
+
+## J
+
+<a id="j"></a>
+
+* **Justification**: A defence of a decision or conclusion using appropriate evidence and principles.
+* **Justice**: An ethical principle requiring fair recruitment, burden-sharing, and access to benefits among participants.
+
+## K
+
+<a id="k"></a>
+
+* **Key performance indicator (KPI)**: A metric used to evaluate the success of a process or intervention against targets.
+
+## L
+
+<a id="l"></a>
+
+* **Law**: A concise statement or mathematical relationship describing consistent natural regularities.
+* **Layout (figures/tables)**: Conventions for labelling axes, units, captions, and avoiding distortion.
+* **Likelihood**: The estimated probability that a hazardous event will occur.
+* **Line graph**: A graph connecting data points with lines to show changes over continuous intervals.
+* **Line of best fit**: A line that minimises the overall deviation between itself and the data points, representing the trend.
+* **Literature review**: A critical summary and synthesis of published research on a defined topic.
+* **Longitudinal study**: A study that follows the same subjects over an extended period to observe change.
+* **Low-quality evidence**: Findings with substantial risk of bias, imprecision, inconsistency, or indirectness.
+
+## M
+
+<a id="m"></a>
+
+* **Mean**: The arithmetic average of a set of values.
+* **Measurement uncertainty**: A quantified estimate of the range within which the true value is expected to lie, reflecting measurement limitations.
+* **Median**: The middle value when data are ordered; splits the dataset into two halves.
+* **Method**: The section detailing materials, variables, and procedures to allow replication.
+* **Methodology**: The systematic, theoretical analysis of methods applied to a field, encompassing the underpinning rationale for chosen methods.
+* **Mode**: The most frequently occurring value in a dataset.
+* **Modality**: The medium and mode of communication used (e.g., written report, poster, oral presentation).
+* **Model (computational)**: A model implemented in software to simulate system behaviour.
+* **Model (conceptual)**: A representation using ideas or diagrams to explain a system’s structure or function.
+* **Model (mathematical)**: A set of equations describing relationships between variables in a system.
+* **Model (physical)**: A tangible representation that demonstrates a system’s features or behaviour.
+* **Modelling study**: A study that develops and analyses models to explain or predict phenomena.
+
+## N
+
+<a id="n"></a>
+
+* **Nocebo**: A harmful or adverse effect arising from negative expectations rather than an active treatment.
+* **Nominal data**: Categorical data without an intrinsic order (e.g., species names, colours).
+* **Normalisation**: Rescaling data to a common scale to enable comparison.
+* **Null hypothesis**: A default claim that there is no effect or no difference, tested against an alternative hypothesis.
+
+## O
+
+<a id="o"></a>
+
+* **Observation**: Information obtained through the senses or instruments during an investigation.
+* **Observational study**: Research where phenomena are observed without manipulation, used when experimentation is impossible or unethical.
+* **Open science**: Practices that increase transparency and access, including open data, open methods, and preprints.
+* **Outlier**: A data point that lies far from other observations and may indicate variability, error, or a novel effect.
+
+## P
+
+<a id="p"></a>
+
+* **Paradigm**: A dominant framework of theories, methods, and standards that guides scientific practice.
+* **Pattern**: A recurring arrangement or relationship in data.
+* **Peer review**: The evaluation of scientific work by other experts before or after publication to check quality and credibility.
+* **Percentage**: A proportion expressed per hundred.
+* **Percentage error**: The absolute error expressed as a percentage of the true or accepted value.
+* **Plagiarism**: Presenting another’s ideas or words as one’s own without proper acknowledgment.
+* **Placebo**: An inert treatment used as a control to isolate expectancy effects under blinding.
+* **Pilot study**: A small-scale preliminary study to test feasibility, methods, and logistics prior to a full investigation.
+* **Population (study)**: The complete set of individuals or items about which conclusions are to be drawn.
+* **Precision**: The closeness of repeated measurements to each other, regardless of their accuracy.
+* **Precautionary principle**: The approach that lack of full scientific certainty should not delay measures to prevent serious or irreversible harm.
+* **Predict**: Suggest what may happen based on available information.
+* **Prepared mind (serendipity)**: The idea that chance favours researchers who are knowledgeable and attentive to anomalies.
+* **Primary data**: Data collected first-hand by the investigator for the specific purpose.
+* **Procedure**: The ordered steps used to perform an investigation or part of it.
+* **Processed data**: Data that have been cleaned, organised, or transformed from raw form.
+* **Proportion**: A ratio expressing a part relative to the whole.
+* **Propose**: Put forward (e.g., a point of view, idea, argument, suggestion) for consideration or action.
+* **Protocol**: A detailed, standardised set of steps that specifies how to carry out a procedure.
+* **Proxy measure**: An indirect measure that stands in for a variable that is difficult to measure directly.
+* **Publish or perish**: Pressure to publish frequently, which can distort incentives and research practices.
+* **Purpose**: The intended effect or outcome of the communication.
+
+## Q
+
+<a id="q"></a>
+
+* **Quadrat**: A square frame used to define a sample area for ecological surveys.
+* **Qualitative data**: Non-numeric information describing qualities or categories (e.g., colour, type).
+* **Quantitative data**: Numeric measurements that can be analysed statistically.
+
+## R
+
+<a id="r"></a>
+
+* **Random error**: Unpredictable variations in measurements that affect precision but can be minimised through repetition.
+* **Randomisation**: Assigning treatments or selecting samples by chance to reduce selection bias and confounding.
+* **Ratio**: A comparison of two quantities by division.
+* **Raw data**: Original, unprocessed measurements recorded during an investigation.
+* **Reasoning**: The logical process that connects evidence to a claim via scientific principles.
+* **Reagent**: A substance used to cause a chemical reaction or detect the presence of another substance.
+* **References**: The list of sources cited in the report, formatted consistently.
+* **Reliable experiment**: Measuring reaction rates with multiple trials, calculating mean and standard deviation.
+* **Reliability**: The consistency and reproducibility of experimental results, improved by replication, adequate sample size, and standardised procedures.
+* **Reliability of sources**: The extent to which a source consistently provides accurate and trustworthy information.
+* **Replicability**: The ability of an independent team to obtain consistent results using the same methods and data.
+* **Replication**: Conducting an independent repeat of an entire study to test the robustness of findings.
+* **Replicates**: Parallel, equivalent experimental units or measurements within the same study used to estimate variability.
+* **Resolution**: The smallest increment of a quantity that an instrument can display.
+* **Results**: The section presenting processed data, tables, and graphs without interpretation.
+* **Retraction**: A formal withdrawal of a published paper due to serious error, misconduct, or irreproducibility.
+* **Revision**: The modification of methods, models, or conclusions in response to new evidence.
+* **Risk**: The combination of the likelihood and consequence of harm occurring.
+* **Risk assessment**: A systematic process to identify hazards, evaluate risk, and select control measures.
+
+## S
+
+<a id="s"></a>
+
+* **Safety Data Sheet (SDS)**: A document that provides information on the properties of a chemical and advice on safe handling.
+* **Sample size**: The number of observations or experimental units; larger samples reduce random error and increase precision.
+* **Sampling method**: The strategy used to select units from a population (e.g., random, stratified, systematic).
+* **Scatter plot**: A graph showing individual data points for two variables to visualise relationships.
+* **Selection bias**: Distortion arising when participants or samples are not representative due to the selection process.
+* **Sensitivity**: The smallest change in the measurand that an instrument can detect reliably.
+* **Serendipity in science**: Accidental discoveries that occur when investigating unrelated phenomena, requiring a prepared mind to recognise their significance.
+* **Serial dilution**: A stepwise set of dilutions where each solution is diluted by the same factor.
+* **Significant figures**: Digits in a number that convey precision, including all certain digits and the first uncertain digit.
+* **Simulation**: An imitation of a real-world process or system to explore behaviour under varied conditions.
+* **Single-blind trial**: A study in which participants do not know which treatment they receive, reducing expectancy effects.
+* **Standard curve**: Another term for calibration curve.
+* **Standard deviation**: A measure of the dispersion of data around the mean.
+* **Standard operating procedure (SOP)**: An approved, detailed instruction set that prescribes the exact method to perform a routine task for consistency and safety.
+* **Standard solution**: A solution of accurately known concentration used for calibration or titration.
+* **Stakeholder**: Any person or group affected by, or with an interest in, a scientific issue or project.
+* **Sustainability**: Meeting present needs without compromising the ability of future generations to meet theirs.
+* **Systematic error**: Consistent bias in measurements that affects accuracy and cannot be eliminated through repetition.
+
+## T
+
+<a id="t"></a>
+
+* **Theory**: A well-substantiated explanation of aspects of the natural world that integrates laws, hypotheses, and evidence.
+* **Tolerance**: The allowable deviation from a specified value, usually set by design or manufacturer.
+* **Transect**: A straight-line path along which samples or observations are made in field studies.
+* **Transformed data**: Data converted mathematically (e.g., log, square root) to meet analysis assumptions.
+* **Treatment**: A defined level or condition of the independent variable applied to experimental units.
+* **Trend**: A consistent directional change in data over time or across levels of a variable.
+
+## U
+
+<a id="u"></a>
+
+* **Uncertainty**: A quantified estimate of the range within which the true value is expected to lie, reflecting measurement limitations.
+
+## V
+
+<a id="v"></a>
+
+* **Validity (external)**: The extent to which results can be generalised beyond the study conditions to other settings or populations.
+* **Validity (internal)**: The degree to which an investigation establishes a trustworthy cause–effect relationship, free from confounding.
+* **Validity of sources**: The degree to which a source’s content is sound, relevant, and supported by evidence.
+* **Variable**: Any factor that can change or be controlled in an investigation.
+
+## W
+
+<a id="w"></a>
+
+* **Working hypothesis**: The current best explanation guiding data collection and analysis, subject to revision.
+
+## Y
+
+<a id="y"></a>
+
+* **Young persons (ethics)**: Individuals who may have reduced capacity to consent; research requires assent and guardian consent where appropriate.
+
+---
+
+### Research communication & NESA “Glossary of Key Words” (exam verbs)
+
+* **Account for**: State reasons for; report on and explain cause/effect.
+* **Analyse**: Identify components and relationships; draw out and relate implications.
+* **Apply**: Use knowledge and understanding in a new situation.
+* **Assess**: Make a judgement of value, quality, outcomes or results.
+* **Calculate**: Ascertain/determine from given facts, figures or information.
+* **Clarify**: Make clear or plain.
+* **Classify**: Arrange or include in classes or categories.
+* **Compare**: Show how things are similar and different.
+* **Construct**: Make; build; put together items or arguments.
+* **Contrast**: Show how things are different or opposite.
+* **Critically analyse**: Add a degree of accuracy, depth, knowledge and understanding, logic, questioning, reflection and quality to analysis.
+* **Critically evaluate**: Add a degree of accuracy, depth, knowledge and understanding, logic, questioning, reflection and quality to evaluating.
+* **Deduce**: Draw conclusions from provided information; reason logically.
+* **Define**: State the meaning of a word, phrase, or concept.
+* **Demonstrate**: Show by example; give a practical exhibition or explanation.
+* **Describe**: Provide characteristics and features.
+* **Discuss**: Identify issues and provide points for and/or against.
+* **Distinguish**: Recognise or note/indicate as being distinct or different.
+* **Evaluate**: Make a judgement based on criteria; determine the value of.
+* **Examine**: Inquire into; investigate.
+* **Explain**: Relate cause and effect; make the relationships between things evident.
+* **Extract**: Choose relevant and/or appropriate details.
+* **Identify**: Recognise and name.
+* **Interpret**: Draw meaning from.
+* **Investigate**: Plan, inquire into, and draw conclusions about.
+* **Justify**: Support an argument or conclusion with evidence and reasoning.
+* **Outline**: Sketch in general terms; indicate the main features.
+* **Predict**: Suggest what may happen based on available information.
+* **Propose**: Put forward (for example a point of view, idea, argument, suggestion) for consideration or action.
+* **Recall**: Present remembered ideas, facts or experiences.
+* **Recommend**: Provide reasons in favour; suggest a course of action.
+* **Sketch**: Make a brief, general account or rough diagram; outline key features.
+* **Summarise**: Express, concisely, the relevant details.
+* **Synthesise**: Combine different ideas to create a new understanding.
+
+---
+
+*If you want printable flashcards or a filtered set (e.g., only Measurement & Error), say “flashcards: \[topic]” and I’ll add them.*

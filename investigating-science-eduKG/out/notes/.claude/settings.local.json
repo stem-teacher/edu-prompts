@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(quarto render:*)",
+      "Bash(ls:*)",
+      "Read(/Volumes/second-store/ai/edu-prompts/investigating-science-eduKG/**)",
+      "Read(/Volumes/second-store/ai/edu-prompts/investigating-science-eduKG/**)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

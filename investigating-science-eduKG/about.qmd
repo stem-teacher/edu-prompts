@@ -1,5 +1,4 @@
 ---
 title: "About"
 ---
-
-About this site
+This website provides a comprehensive, data-driven resource for the HSC Investigating Science course.

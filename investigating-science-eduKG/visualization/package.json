@@ -1,0 +1,35 @@
+{
+  "name": "investigating-science-visualization",
+  "version": "1.0.0",
+  "description": "Interactive D3.js visualization for Investigating Science eduKG",
+  "main": "src/components/InvestigatingScienceVisualization.tsx",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "type-check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "d3": "^7.8.5"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "@types/d3": "^7.4.0",
+    "@vitejs/plugin-react": "^4.0.0",
+    "typescript": "^5.0.0",
+    "vite": "^4.3.0"
+  },
+  "keywords": [
+    "education",
+    "visualization",
+    "d3",
+    "react",
+    "curriculum",
+    "knowledge-graph"
+  ],
+  "author": "",
+  "license": "MIT"
+}

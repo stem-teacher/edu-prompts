@@ -1,7 +1,5 @@
 ---
 title: "Group Chat"
 ---
-
 This page will host an embedded group chat for students to discuss topics and ask questions.
-
 *(Integration to be added)*

@@ -1,0 +1,1239 @@
+### Quiz 1: Module 5 – Initiating Investigations (IQ5-1) and Methodology (IQ5-2)
+
+1. A biologist notices mould growing only on the shaded side of bread slices. Which next step best exemplifies moving from observation to investigation?
+- [ ] Collect more bread samples from different bakeries
+- [x] Formulate a testable hypothesis about light exposure affecting mould growth
+- [ ] Search for news articles on mould outbreaks
+- [ ] Publish a report on mould hazards
+
+2. Which statement is the best example of a testable hypothesis?
+- [ ] Dark areas are bad for bread
+- [ ] Mould is disgusting
+- [x] Bread stored in darkness grows mould faster than bread stored under light
+- [ ] Light is healthier for bread
+
+3. A chemistry student wants to investigate whether a new catalyst increases reaction rate. Which methodology is most appropriate?
+- [ ] Observational study comparing published rates
+- [x] Controlled experiment with and without the catalyst, holding other variables constant
+- [ ] Survey of students on catalyst effectiveness
+- [ ] Modelling based on textbook data only
+
+4. Which factor most strongly initiates a new scientific investigation?
+- [ ] Social media interest in the topic
+- [x] Anomalous observation that contradicts expected results
+- [ ] A lack of funding for the area
+- [ ] Desire to prove a famous scientist wrong
+
+5. In planning an investigation on plant growth, which variable should be manipulated to test the effect of fertilizer concentration?
+- [ ] Soil type
+- [ ] Sunlight intensity
+- [ ] Watering frequency
+- [x] Fertilizer concentration
+
+6. A student claims “the more trials the better” when designing a method. This mainly improves which attribute?
+- [ ] Validity
+- [x] Reliability
+- [ ] Accuracy
+- [ ] Control
+
+7. Which situation best exemplifies serendipity leading to investigation?
+- [ ] Predicting an eclipse using celestial mechanics
+- [ ] Running planned titrations for acid analysis
+- [x] A lab tech notices a dye changes colour near a magnet and explores it
+- [ ] A student repeats a lab as written
+
+8. When should an observational study be preferred over a controlled experiment?
+- [ ] When sample sizes are small
+- [ ] When confounding variables are desired
+- [x] When manipulation is unethical or impractical
+- [ ] When cause-and-effect must be conclusively established
+
+9. Which research question is best aligned with a controlled experimental design?
+- [x] How does pH affect the rate of enzyme activity?
+- [ ] Why do people believe vitamins improve memory?
+- [ ] What do online forums say about probiotics?
+- [ ] How did antibiotics change modern medicine?
+
+10. A student wants to test whether a plant hormone increases seed germination. Which control is most appropriate?
+- [ ] Seeds exposed to another hormone
+- [x] Seeds treated identically without the hormone
+- [ ] Seeds with twice the hormone
+- [ ] Seeds of a different species
+
+11. In an investigation on corrosion rate of iron nails, which improvement primarily increases validity?
+- [ ] Increasing repeats from 2 to 5
+- [x] Maintaining equal salinity across all treatments except the independent variable
+- [ ] Averaging the results
+- [ ] Reporting uncertainties
+
+12. Which question is least testable as a scientific hypothesis?
+- [ ] Coffee consumption increases alertness in adults aged 18–25
+- [ ] Increasing nitrogen in soil boosts wheat yield
+- [x] Beauty products improve self-esteem spiritually
+- [ ] UV exposure increases skin cell mutations
+
+13. When choosing between fieldwork and lab methods, which trade-off is most accurate?
+- [ ] Fieldwork ensures higher reliability
+- [ ] Lab work ensures higher validity
+- [x] Fieldwork captures natural variability; lab offers stronger control of confounders
+- [ ] Lab work eliminates measurement error
+
+14. A student plans to measure bacterial growth using turbidity at 600 nm. This choice primarily reflects:
+- [x] Selecting an appropriate quantitative measure for the dependent variable
+- [ ] Reducing the number of controlled variables
+- [ ] Introducing qualitative bias
+- [ ] Simplifying data to avoid analysis
+
+15. Which planning step most directly addresses ethical considerations in human research?
+- [ ] Selecting apparatus with low cost
+- [ ] Using more replicates
+- [ ] Ensuring a single independent variable
+- [x] Obtaining informed consent following risk disclosure
+
+16. Which factor is most appropriate to vary to investigate “temperature effect on solubility”?
+- [ ] Stirring rate
+- [x] Temperature of the solvent
+- [ ] Solute identity
+- [ ] Volume of solvent
+
+17. The rationale for including a placebo in a trial is to:
+- [ ] Increase sample size
+- [x] Account for psychological effects independent of treatment
+- [ ] Reduce systematic error in instruments
+- [ ] Improve external validity
+
+18. Which is the best aim statement?
+- [ ] To learn about acids
+- [ ] To test beakers at school
+- [x] To determine the effect of acid concentration on magnesium reaction rate
+- [ ] To find the best acid
+
+19. Which is the most appropriate follow-up after unexpected results?
+- [ ] Discard the dataset
+- [ ] Adjust the hypothesis to fit the results without justification
+- [x] Re-examine method, controls, and measurement accuracy before repeating trials
+- [ ] Publish immediately
+
+20. A hypothesis must be:
+- [ ] True
+- [x] Testable and falsifiable
+- [ ] Popular
+- [ ] Based on belief
+
+---
+
+### Quiz 2: Module 5 – Validity, Reliability, Accuracy, Precision (IQ5-3)
+
+1. Which statement best distinguishes validity from reliability?
+- [ ] Validity is consistency; reliability is measuring what you intend
+- [x] Validity is measuring what you intend; reliability is consistency of results
+- [ ] Validity eliminates random error; reliability eliminates systematic error
+- [ ] Validity depends on repeats; reliability depends on controls
+
+2. Which change primarily improves accuracy?
+- [x] Calibrating the balance against a known mass standard
+- [ ] Increasing number of trials
+- [ ] Randomising sample order
+- [ ] Adding more decimal places to recorded values
+
+3. A student tests the effect of light on photosynthesis rate but changes both light intensity and CO2 supply. The main issue is:
+- [ ] Small sample size
+- [x] Confounding variables reduce validity
+- [ ] Lack of repeats reduces reliability
+- [ ] Inaccurate instruments
+
+4. Which action reduces random error?
+- [ ] Zeroing an uncalibrated instrument
+- [x] Increasing repeats and averaging
+- [ ] Using a biased sample
+- [ ] Changing two variables at once
+
+5. A thermometer consistently reads 0.8°C high. This is an example of:
+- [ ] Random error
+- [x] Systematic error
+- [ ] Precision
+- [ ] Reliability
+
+6. Precision is best described as:
+- [ ] Closeness to the true value
+- [x] Closeness of repeated measurements to each other
+- [ ] Elimination of systematic error
+- [ ] Valid method design
+
+7. Which design increases reliability in a seed germination study?
+- [x] Using 30 seeds per group instead of 5
+- [ ] Testing two hormones at once
+- [ ] Changing soil type between groups
+- [ ] Recording only successful trials
+
+8. Which best addresses external validity?
+- [ ] Using a calibrated pipette
+- [ ] Increasing repeats only
+- [x] Ensuring sample represents the target population or conditions
+- [ ] Recording more significant figures
+
+9. A student records mass to ±0.01 g. What is the best way to report averaged results?
+- [ ] With unlimited decimals
+- [ ] With one decimal place
+- [x] To the same precision as the instrument allows, plus uncertainty
+- [ ] As whole numbers for simplicity
+
+10. Which revision most strengthens validity in testing a fertilizer’s effect?
+- [x] Using the same plant species, soil, and light conditions across all groups
+- [ ] Measuring plant height once at the end
+- [ ] Doubling the watering in the treatment group
+- [ ] Using two fertilizers together
+
+11. An instrument has low sensitivity. Which is most affected?
+- [ ] Accuracy only
+- [ ] Validity of the method
+- [ ] Systematic error magnitude
+- [x] Ability to detect small changes in the dependent variable
+
+12. Which approach identifies a systematic error?
+- [x] Measuring a known standard and comparing to expected value
+- [ ] Increasing sample size
+- [ ] Randomising participant order
+- [ ] Blind analysis
+
+13. Reporting a 95% confidence interval primarily communicates:
+- [ ] Validity
+- [x] Precision and uncertainty around the mean estimate
+- [ ] Accuracy only
+- [ ] Elimination of bias
+
+14. If two measurements are precise but not accurate, the data will:
+- [ ] Be scattered around the true value
+- [x] Cluster together but offset from the true value
+- [ ] Match the true value exactly
+- [ ] Indicate no error
+
+15. Which change primarily reduces observer bias?
+- [ ] Using a more sensitive instrument
+- [x] Blinding the assessor to group allocation
+- [ ] Increasing the dose
+- [ ] Using fewer replicates
+
+16. A valid and reliable pH investigation should:
+- [ ] Use different probes for control and treatment
+- [x] Use the same calibrated pH probe and replicate measurements
+- [ ] Measure pH only once per sample
+- [ ] Change temperature between readings
+
+17. A large sample size helps to:
+- [ ] Eliminate systematic error
+- [x] Reduce the impact of random error on estimates
+- [ ] Replace the need for controls
+- [ ] Prove causation
+
+18. Which is the best reason to include a negative control?
+- [ ] To increase sample size
+- [x] To establish a baseline response in the absence of the treatment
+- [ ] To increase accuracy only
+- [ ] To reduce ethical concerns
+
+19. If an experiment’s method does not directly test the hypothesis, the investigation is:
+- [ ] Reliable but not accurate
+- [x] Invalid regardless of precision
+- [ ] Accurate but not precise
+- [ ] Valid if repeated
+
+20. Which statement is correct?
+- [x] Reliability without validity can produce consistent but wrong conclusions
+- [ ] Validity without reliability is impossible
+- [ ] Accuracy guarantees validity
+- [ ] Precision guarantees accuracy
+
+---
+
+### Quiz 3: Module 5 – Scientific Reporting and Communication (IQ5-4)
+
+1. Which section should present data without interpretation?
+- [ ] Introduction
+- [ ] Discussion
+- [x] Results
+- [ ] Conclusion
+
+2. Which is the most appropriate hypothesis format?
+- [x] If [independent variable] increases, then [dependent variable] will [specific change] because [rationale].
+- [ ] The independent variable affects the dependent variable.
+- [ ] We think X might do Y sometimes.
+- [ ] The results will be interesting.
+
+3. Which critique best fits a “Method” section error?
+- [ ] Lacks background theory
+- [x] Insufficient detail to reproduce the investigation
+- [ ] No interpretation of results
+- [ ] Missing implications
+
+4. Which data presentation best suits continuous quantitative data from multiple trials?
+- [ ] Pie chart
+- [x] Line graph with mean and error bars (e.g., SD)
+- [ ] Word cloud
+- [ ] Concept map
+
+5. In a scientific report, the “Discussion” should primarily:
+- [x] Interpret results and compare them with literature, acknowledging limitations
+- [ ] Reproduce the data tables
+- [ ] Describe apparatus
+- [ ] Include raw data
+
+6. Which practice best demonstrates objective scientific language?
+- [x] “The reaction rate increased by 24% ± 3% when temperature rose from 20°C to 30°C.”
+- [ ] “It was obvious the reaction sped up.”
+- [ ] “We were super excited by the results!”
+- [ ] “We smashed it; the rate totally skyrocketed.”
+
+7. Which referencing practice is most appropriate?
+- [x] Citing all secondary sources used in background and discussion with a consistent style
+- [ ] Only citing direct quotes
+- [ ] Listing websites without dates or authors
+- [ ] Avoiding citations to save word count
+
+8. A strong “Aim” statement is:
+- [ ] To prove our hypothesis
+- [x] To determine the effect of salinity on brine shrimp hatching rate
+- [ ] To check if brine shrimp are cool
+- [ ] To find the best salinity
+
+9. Which issue undermines the credibility of a report?
+- [x] Selective reporting of trials that support the hypothesis
+- [ ] Reporting measurement uncertainty
+- [ ] Using a formal tone
+- [ ] Including a negative control
+
+10. A student writes, “The spurt height of water was better at pH 4.” The best revision is:
+- [ ] “The spurt height was great at pH 4.”
+- [x] “Mean jet height at pH 4 was 12.3 ± 0.5 cm (n=5), higher than at pH 7 (9.1 ± 0.6 cm).”
+- [ ] “pH 4 is the best.”
+- [ ] “Our prediction was correct.”
+
+11. Which belongs in the “Conclusion”?
+- [ ] Full literature review
+- [ ] Raw data tables
+- [x] A concise statement addressing whether results support the hypothesis
+- [ ] Detailed method
+
+12. The Abstract should include:
+- [x] Aim, brief method, key results, and main conclusion
+- [ ] Full references
+- [ ] Extended theoretical background
+- [ ] Only the hypothesis
+
+13. Which figure label is best practice?
+- [x] “Figure 2. Mean fermentation rate (mL CO2 min−1) vs. temperature (°C), error bars = SD (n=5).”
+- [ ] “Fermentation graph.”
+- [ ] “Results.”
+- [ ] “Figure.”
+
+14. A limitation statement should:
+- [x] Honestly identify constraints (e.g., instrument resolution) and suggest improvements
+- [ ] Be omitted if results are significant
+- [ ] Focus on external factors only
+- [ ] Avoid mentioning errors
+
+15. Which element is inappropriate in scientific reporting?
+- [ ] Passive voice
+- [ ] Third-person
+- [ ] Formal tone
+- [x] Emotive language
+
+16. A table caption should:
+- [x] Allow the table to be understood without referring to the main text
+- [ ] Repeat the entire method
+- [ ] Contain only a title
+- [ ] Use abbreviations without explanation
+
+17. Which constitutes fabrication?
+- [ ] Rounding to appropriate significant figures
+- [x] Inventing data to fill missing trials
+- [ ] Using a standard error bar
+- [ ] Averaging replicates
+
+18. Ethical reporting requires:
+- [x] Disclosing conflicts of interest and funding sources
+- [ ] Emphasising only positive outcomes
+- [ ] Hiding adverse results to protect stakeholders
+- [ ] Not mentioning participant withdrawals
+
+19. The best practice for units is to:
+- [x] Include SI units consistently in text, tables, and figures
+- [ ] Mix units for variety
+- [ ] Omit units if obvious
+- [ ] Use colloquial measures (e.g., “spoonful”)
+
+20. A reproducible method includes:
+- [x] Specific quantities, concentrations, times, instruments, and calibration procedures
+- [ ] General descriptions only
+- [ ] Optional steps for creativity
+- [ ] Alternative hypotheses
+
+---
+
+### Quiz 4: Module 6 – Measurement Technologies, Errors, Safety (IQ6-1)
+
+1. Which specification most directly indicates an instrument’s ability to detect small changes?
+- [x] Resolution
+- [ ] Range
+- [ ] Accuracy
+- [ ] Robustness
+
+2. A digital scale reads 2.000 g for a 2.000 g standard but 0.995 g for a 1.000 g standard. This indicates:
+- [ ] Random error only
+- [x] Systematic error (nonlinear calibration)
+- [ ] Perfect accuracy
+- [ ] High sensitivity only
+
+3. Which scenario most likely introduces parallax error?
+- [x] Reading a meniscus on a burette at an angle
+- [ ] Using a digital pH meter
+- [ ] Averaging multiple trials
+- [ ] Running a double-blind trial
+
+4. Which action is the safest when using a new solvent in a lab?
+- [ ] Assume it’s non-toxic
+- [x] Consult the Safety Data Sheet (SDS) and follow PPE requirements
+- [ ] Test it on skin for irritation
+- [ ] Heat it gently to detect fumes
+
+5. Comparing analog and digital thermometers, which is generally true?
+- [ ] Analog always more accurate
+- [ ] Digital always more reliable
+- [x] Digital often offers greater precision, but may have response lag
+- [ ] Analog eliminates systematic error
+
+6. A photometer saturates at high light levels. The appropriate response is to:
+- [x] Reduce intensity or use neutral density filters to stay within range
+- [ ] Ignore high readings
+- [ ] Increase exposure time
+- [ ] Switch to a less precise meter
+
+7. Which best reduces drift in an electronic balance?
+- [x] Warm-up and re-zeroing following manufacturer guidance
+- [ ] Using it near a fan
+- [ ] Placing it on a sloped bench
+- [ ] Ignoring minor fluctuations
+
+8. The term sensitivity describes:
+- [ ] The instrument’s error bars
+- [x] Change in output per unit change in input
+- [ ] Maximum load
+- [ ] Memory capacity
+
+9. Which practice most reduces electrical noise in sensor readings?
+- [x] Shielded cables and proper grounding
+- [ ] Increasing sampling rate only
+- [ ] Placing sensors near motors
+- [ ] Using longer unshielded cables
+
+10. Which technology choice improves quantitative analysis for reaction colour changes?
+- [ ] Naked-eye observation
+- [ ] Smartphone camera without standardisation
+- [x] Spectrophotometer at appropriate wavelength with cuvette standardisation
+- [ ] Colour wheel
+
+11. A pipette calibrated “to deliver” (TD) is used. Which is correct?
+- [x] Expect a small residue to remain; calibration accounts for it
+- [ ] Blow out all liquid to be accurate
+- [ ] No calibration is necessary
+- [ ] Use it as “to contain” (TC)
+
+12. When instrument range is too coarse for small changes, the primary issue is:
+- [x] Resolution limits
+- [ ] Accuracy only
+- [ ] Reliability only
+- [ ] Validity only
+
+13. An infrared thermometer reads surface temperatures lower than core temperatures. This limitation reflects:
+- [ ] Random error
+- [ ] Low resolution
+- [x] Measurement principle sensitivity to emissivity and surface vs core
+- [ ] Perfect accuracy
+
+14. Data logging with a calibrated digital sensor primarily improves:
+- [ ] External validity
+- [ ] Ethical compliance
+- [x] Precision of temporal measurements and data density
+- [ ] Sample diversity
+
+15. Which WHS practice is most appropriate when handling acids?
+- [x] Add acid to water when diluting
+- [ ] Add water to acid to speed mixing
+- [ ] Mix in a closed container without ventilation
+- [ ] Remove goggles briefly to inspect
+
+16. Which technology trade-off is accurate?
+- [x] Higher precision may increase susceptibility to noise and require careful shielding
+- [ ] Higher precision eliminates drift
+- [ ] Analog devices avoid calibration needs
+- [ ] Digital devices have no systematic errors
+
+17. A student measures light using a phone app without calibration. The main concern is:
+- [ ] Too much precision
+- [x] Unknown accuracy due to lack of calibration and standardisation
+- [ ] Excessive safety risk
+- [ ] Too high resolution
+
+18. Which error source is most likely with thermistor probes in flowing water?
+- [ ] Parallax error
+- [ ] Observer bias
+- [x] Thermal lag causing delayed response
+- [ ] Publication bias
+
+19. To compare two pH meters, a student measures pH 4.00 and 7.00 buffers. This is done to assess:
+- [x] Accuracy and calibration across a range
+- [ ] External validity
+- [ ] Random error only
+- [ ] Safety compliance
+
+20. Which best justifies selecting a digital timer over manual counting for reaction time?
+- [x] Reduces human reaction-time error, improving precision
+- [ ] Increases ethical compliance
+- [ ] Improves external validity
+- [ ] Guarantees accuracy without calibration
+
+---
+
+### Quiz 5: Module 6 – Science–Technology Feedback Loop (IQ6-2)
+
+1. Which sequence best illustrates the science–technology feedback loop?
+- [x] New imaging tech → Discovery of structure → New manipulation tech → Refined theory
+- [ ] New theory → No change in tech → No further discoveries
+- [ ] Tech develops randomly → Science ignores it
+- [ ] Science and tech are unrelated
+
+2. X-ray crystallography enabled the double helix model of DNA. That model later enabled:
+- [ ] The steam engine
+- [ ] Plate tectonics
+- [x] PCR and gene editing technologies
+- [ ] Newtonian mechanics
+
+3. Which is the best example of convergent technologies producing new capability?
+- [x] Combining microscopy, microfluidics, and AI image analysis for rapid diagnostics
+- [ ] Using a single magnifying glass
+- [ ] Hand-drawing cell diagrams
+- [ ] Reading textbooks only
+
+4. A new telescope reveals exoplanet atmospheres. This primarily impacts:
+- [ ] Ethics committees
+- [x] Planetary science models and tech for spectroscopic analysis
+- [ ] Marine biology field methods
+- [ ] Soil chemistry
+
+5. Which statement about enabling technology is most accurate?
+- [ ] It usually reduces scientific rigour
+- [x] It allows previously impossible measurements, opening new inquiry
+- [ ] It replaces the need for peer review
+- [ ] It eliminates systematic error
+
+6. Indigenous seasonal calendars have informed modern climate science by:
+- [x] Providing longitudinal observational knowledge that complements instrument data
+- [ ] Replacing the need for instruments
+- [ ] Eliminating climate uncertainty
+- [ ] Making lab experiments obsolete
+
+7. Which outcome often follows a major scientific discovery?
+- [x] Development of new technologies that exploit the discovery
+- [ ] Immediate end to research funding
+- [ ] A ban on instrumentation
+- [ ] Less interest in modelling
+
+8. A new spectrometer with higher sensitivity reveals trace pollutants. Likely impact?
+- [ ] No change to environmental policy
+- [x] Revised standards and models based on improved detection
+- [ ] Reduced measurement precision
+- [ ] Removal of calibration protocols
+
+9. Which pairing shows science driving technology?
+- [ ] Epicycles → RCC circuits
+- [x] Electromagnetic theory → Wireless communication
+- [ ] Plate tectonics → Bicycle gears
+- [ ] Phlogiston → Solar panels
+
+10. Quantum mechanics theory led to which technology?
+- [ ] Horse-drawn ploughs
+- [x] Semiconductors and lasers
+- [ ] Food canning
+- [ ] Paper making
+
+11. Development of electron microscopy most directly advanced:
+- [ ] Planetary orbits
+- [x] Organelle discovery and cell ultrastructure models
+- [ ] Photosynthesis equations alone
+- [ ] Fossil fuel combustion efficiency
+
+12. Which is a risk of technology outpacing ethical frameworks?
+- [x] Misuse of gene editing without adequate regulation
+- [ ] Improved calibration standards
+- [ ] Reduced measurement uncertainty
+- [ ] Better peer review
+
+13. Which feedback loop example is accurate?
+- [x] Hubble images → Dark energy inference → Next-gen telescopes designed
+- [ ] Fossil record → End of palaeontology
+- [ ] GPS → End of relativity
+- [ ] Electron beam → No device applications
+
+14. Advances in computing primarily:
+- [x] Transform modelling accuracy and data analysis across sciences
+- [ ] Reduce need for experimental replication
+- [ ] Eliminate measurement errors
+- [ ] Remove ethical concerns
+
+15. A wearable biosensor detects biomarkers continuously. Scientific impact?
+- [x] High-frequency datasets enabling new physiological models
+- [ ] Fewer data points for clarity
+- [ ] Eliminate variability
+- [ ] Replace clinical trials
+
+16. A portable DNA sequencer spreads into field ecology. Benefit?
+- [x] Real-time genetic identification improving biodiversity assessments
+- [ ] No need to preserve samples
+- [ ] Eliminates contamination risk entirely
+- [ ] Avoids need for training
+
+17. When science reveals limitations in existing tech:
+- [ ] Tech remains unchanged
+- [x] Drives innovation to overcome constraints
+- [ ] Research stops
+- [ ] Models become pseudoscience
+
+18. Which is a challenge of rapid tech development?
+- [x] Ensuring reproducibility and standardisation across labs
+- [ ] Eliminating error bars
+- [ ] Automatic ethical compliance
+- [ ] Guaranteed external validity
+
+19. Which illustrates tech enabling model refinement?
+- [x] High-resolution climate satellites improving circulation models
+- [ ] Anecdotes refining climate models
+- [ ] Reducing data frequency to simplify models
+- [ ] Avoiding new measurements to maintain consistency
+
+20. Indigenous medicinal plant knowledge informing pharmacology demonstrates:
+- [ ] Pseudoscience influencing science
+- [x] Integration of traditional evidence with modern validation to drive tech development
+- [ ] Replacement of clinical trials
+- [ ] End of ethical oversight
+
+---
+
+### Quiz 6: Module 7 – Testing Claims and Sampling (IQ7-1)
+
+1. Which claim is most testable?
+- [ ] This herb restores inner peace
+- [x] This cereal contains 40% fibre by mass
+- [ ] This bracelet attracts luck
+- [ ] This color boosts productivity
+
+2. The strongest design for testing a product’s “improves memory” claim is:
+- [ ] Customer testimonials
+- [ ] Open-label user trial
+- [x] Randomised, double-blind, placebo-controlled study
+- [ ] Researcher self-experiment
+
+3. A sample is biased if:
+- [x] It systematically differs from the target population on relevant characteristics
+- [ ] It is large
+- [ ] It includes control groups
+- [ ] It uses randomisation
+
+4. Which action increases statistical power for detecting a real effect?
+- [x] Increasing sample size
+- [ ] Reducing blinding
+- [ ] Using non-random selection
+- [ ] Reducing measurement precision
+
+5. A student tests only 3 cookies to check a “40% chocolate” claim. The main issue is:
+- [ ] Validity
+- [x] Reliability due to small sample size
+- [ ] Accuracy due to calibration
+- [ ] Ethics
+
+6. Which is the best operational definition for “memory improvement”?
+- [x] Increase in number of words recalled in a standardized test after 2 weeks
+- [ ] Feeling sharper
+- [ ] Anecdotal reports from friends
+- [ ] Social media ratings
+
+7. To reduce selection bias, recruitment should be:
+- [x] Random and representative of the target population
+- [ ] Based on convenience (first 20 volunteers)
+- [ ] Only from a single social media group
+- [ ] Chosen by the researcher’s preference
+
+8. Which is true about effect size?
+- [x] It quantifies magnitude of difference independent of sample size
+- [ ] It equals p-value
+- [ ] It measures instrument accuracy
+- [ ] It replaces the need for controls
+
+9. A claim “new pesticide increases yield” is best tested by:
+- [x] Controlled field trial with random plot assignment and consistent farming practices
+- [ ] Comparing yields across different regions without controls
+- [ ] Asking farmers for opinions
+- [ ] Modelling only
+
+10. Blinding primarily reduces:
+- [x] Observer and participant biases
+- [ ] Random error
+- [ ] Systematic instrument error
+- [ ] External validity issues
+
+11. If the null hypothesis is true, a low p-value suggests:
+- [x] Observed difference is unlikely due to chance alone
+- [ ] Instrument accuracy is poor
+- [ ] Sample is biased
+- [ ] The effect size is zero
+
+12. Confidence intervals that do not overlap zero difference indicate:
+- [x] An effect consistent with statistical significance at the chosen level
+- [ ] No effect observed
+- [ ] Low validity
+- [ ] Calibration error
+
+13. A pilot study is most useful for:
+- [ ] Publishing final conclusions
+- [x] Refining methods, estimating variability, informing sample size
+- [ ] Replacing full trials
+- [ ] Avoiding ethics approval
+
+14. In testing a “low GI” claim, the dependent variable is:
+- [ ] Type of food
+- [x] Postprandial blood glucose response
+- [ ] Portion size
+- [ ] Participant age
+
+15. Which practice inflates Type I error rates?
+- [ ] Pre-registration
+- [x] P-hacking by testing many outcomes without correction
+- [ ] Blinding
+- [ ] Using a priori analysis plans
+
+16. Which is the best falsifiable claim?
+- [x] The supplement reduces resting heart rate by ≥5 bpm after 4 weeks in adults 18–30
+- [ ] The supplement helps some people sometimes
+- [ ] The supplement is great
+- [ ] The supplement works via energy balance
+
+17. A negative control for antimicrobial testing is:
+- [x] Disc with solvent only
+- [ ] Disc with known antibiotic
+- [ ] Disc with plant extract
+- [ ] No plate
+
+18. An outlier appears in mass data. First action?
+- [x] Check for recording or measurement error; justify inclusion/exclusion
+- [ ] Delete it immediately
+- [ ] Average it in without comment
+- [ ] Change the method
+
+19. Which sampling method best supports generalisation?
+- [ ] Snowball sampling
+- [ ] Convenience sampling
+- [x] Stratified random sampling
+- [ ] Self-selection
+
+20. When testing a claim, pre-registering the protocol helps to:
+- [ ] Increase cost only
+- [x] Reduce bias and analytic flexibility, enhancing credibility
+- [ ] Inflate Type I error
+- [ ] Avoid peer review
+
+---
+
+### Quiz 7: Module 7 – Interpreting Data, Bias, and Trials (IQ7-2)
+
+1. The placebo effect refers to:
+- [x] Improvement due to expectation rather than active treatment
+- [ ] Random error in instruments
+- [ ] Observer bias only
+- [ ] Selection bias
+
+2. Double-blind trials mitigate:
+- [x] Both participant and observer biases
+- [ ] Only random error
+- [ ] Only systematic instrument error
+- [ ] Publication bias
+
+3. A clinical trial without a control group cannot:
+- [ ] Measure side effects
+- [x] Attribute changes to the treatment with confidence
+- [ ] Collect data
+- [ ] Obtain consent
+
+4. Which best defines confirmation bias?
+- [x] Tendency to favour information that supports existing beliefs
+- [ ] Random assignment of participants
+- [ ] Accurate measurement of variables
+- [ ] Use of controls
+
+5. A funder has a financial interest in positive results. This is:
+- [x] A conflict of interest likely to bias study design or interpretation
+- [ ] Peer review
+- [ ] Random error
+- [ ] Ethical compliance
+
+6. “Cherry-picking” in data analysis is:
+- [x] Selecting favourable data and omitting contradictory evidence
+- [ ] Random sampling
+- [ ] Increasing sample size
+- [ ] Pre-registration
+
+7. In a vaccine efficacy trial, why include a placebo arm?
+- [x] To compare rates of disease between vaccinated and unvaccinated under similar conditions
+- [ ] To increase cost
+- [ ] To reduce sample size
+- [ ] To avoid randomisation
+
+8. Which reduces observer expectancy effects?
+- [x] Masking group labels during assessment
+- [ ] Using more colourful graphs
+- [ ] Reducing repeats
+- [ ] Using a less precise instrument
+
+9. Socioeconomic influence on participation can cause:
+- [ ] Random error
+- [x] Sampling bias
+- [ ] Instrument drift
+- [ ] Increased resolution
+
+10. A trial compares outcomes across seasons without adjustment. Likely confounder?
+- [x] Seasonal variation affecting outcomes
+- [ ] Instrument resolution
+- [ ] Placebo effect
+- [ ] Publication bias
+
+11. Which is NOT a feature of rigorous trials?
+- [ ] Randomisation
+- [ ] Blinding
+- [x] Post hoc hypothesis invention without disclosure
+- [ ] Adequate sample size
+
+12. Why use a control group receiving standard therapy instead of no treatment?
+- [x] Ethical necessity when withholding treatment would cause harm
+- [ ] To inflate effect sizes
+- [ ] To reduce validity
+- [ ] To eliminate confounding
+
+13. Reporting adverse events is essential because:
+- [x] It enables risk–benefit assessment and ethical transparency
+- [ ] It reduces publication chances
+- [ ] It is optional in science
+- [ ] It replaces informed consent
+
+14. In a nutrition study, self-reported diet introduces:
+- [x] Recall and reporting biases
+- [ ] Instrument parallax error
+- [ ] Calibration drift
+- [ ] Elimination of confounding
+
+15. Which practice strengthens causal inference?
+- [x] Pre-specifying outcomes and controlling confounders
+- [ ] Increasing number of exploratory tests without correction
+- [ ] Selecting only responders
+- [ ] Ignoring protocol deviations
+
+16. A single-centre study may limit:
+- [ ] Internal validity only
+- [ ] Precision only
+- [x] External validity (generalizability)
+- [ ] Need for blinding
+
+17. Which is an ethical requirement in human trials?
+- [x] Informed consent outlining risks and benefits
+- [ ] Deception without debriefing
+- [ ] Coercion for better recruitment
+- [ ] Omission of adverse events
+
+18. Societal pressure to find positive results can lead to:
+- [ ] Lower effect sizes
+- [x] Publication bias and questionable research practices
+- [ ] Improved blinding
+- [ ] Reduced sample sizes only
+
+19. An intent-to-treat analysis:
+- [x] Analyses participants in assigned groups regardless of adherence, preserving randomisation benefits
+- [ ] Only includes completers
+- [ ] Excludes protocol violators
+- [ ] Increases Type I error
+
+20. A run-in period before randomisation is used to:
+- [x] Stabilise participants and identify non-adherent subjects
+- [ ] Reduce sample size
+- [ ] Increase bias
+- [ ] Avoid consent
+
+---
+
+### Quiz 8: Module 7 – Correlation vs Causation; Pseudoscience and Media (IQ7-3, IQ7-4, IQ7-5)
+
+1. A city’s ice cream sales and drowning incidents both increase in summer. This is:
+- [x] Correlation due to a confounding variable (temperature)
+- [ ] Direct causation
+- [ ] Pseudoscience
+- [ ] Random error
+
+2. Which criterion best supports causation?
+- [ ] Anecdotes
+- [x] Temporality (cause precedes effect)
+- [ ] Media coverage
+- [ ] Strong emotions
+
+3. A dose–response relationship strengthens causal inference because:
+- [x] Greater exposure is associated with greater effect
+- [ ] It reduces random error
+- [ ] It ensures external validity
+- [ ] It eliminates bias
+
+4. A spurious correlation arises when:
+- [x] Two variables vary together due to a third variable
+- [ ] One variable causes another
+- [ ] There is no measurement error
+- [ ] Sample size is large
+
+5. Which statement best describes pseudoscience?
+- [ ] Claims that are testable and falsifiable
+- [ ] Peer-reviewed findings
+- [ ] Theories refined by new evidence
+- [x] Claims using scientific-sounding language without adhering to scientific method
+
+6. A media article presents “both sides” of climate science as equal despite unequal evidence. This is:
+- [x] False balance
+- [ ] Peer review
+- [ ] Replication
+- [ ] Blinding
+
+7. The halo effect can cause:
+- [x] Overestimation of claims from sources perceived as prestigious
+- [ ] Increased random error
+- [ ] Better calibration
+- [ ] Lower placebo effects
+
+8. Which is a red flag for pseudoscientific claims?
+- [x] Unfalsifiable predictions and reliance on anecdotes
+- [ ] Transparent methods and data
+- [ ] Pre-registered analysis plans
+- [ ] Independent replication
+
+9. “Scientists are hiding the truth” is commonly used to:
+- [x] Dismiss criticism via conspiracy rather than evidence
+- [ ] Improve peer review
+- [ ] Reduce bias
+- [ ] Increase sample size
+
+10. A press release claims “miracle cure” based on a cell culture study. Best critique?
+- [x] Evidence hierarchy: preliminary in vitro results cannot justify clinical claims
+- [ ] The media avoids bias
+- [ ] Placebos are irrelevant
+- [ ] The study guarantees causation
+
+11. Which is essential for public trust?
+- [x] Transparency about uncertainties, methods, funding, and limitations
+- [ ] Sensational claims
+- [ ] Avoiding peer review
+- [ ] Confusing jargon
+
+12. Predatory journals are problematic because they:
+- [x] Charge fees without legitimate peer review, lowering research quality
+- [ ] Perform the most rigorous peer review
+- [ ] Reduce publication bias
+- [ ] Guarantee replication
+
+13. Post-publication peer review can:
+- [x] Identify errors and improve the literature after publication
+- [ ] Replace ethical approval
+- [ ] Eliminate the need for replication
+- [ ] Guarantee accuracy
+
+14. The Bradford Hill criteria are used to:
+- [x] Evaluate evidence for causation in epidemiology
+- [ ] Calculate p-values
+- [ ] Calibrate instruments
+- [ ] Design placebos
+
+15. “Cherry-picked” time windows in graphs most likely:
+- [x] Misrepresent trends by excluding contradictory data
+- [ ] Improve external validity
+- [ ] Enhance precision
+- [ ] Reduce bias
+
+16. A celebrity endorses a supplement; sales rise. This demonstrates:
+- [x] Social influence, not evidence of efficacy
+- [ ] High internal validity
+- [ ] Double-blind results
+- [ ] Causation established
+
+17. “Replicability” means:
+- [x] Independent studies using the same methods obtain consistent results
+- [ ] The same lab can always reproduce findings with original data
+- [ ] Eliminating all error
+- [ ] Pre-registration alone
+
+18. Which conclusion overreaches the data?
+- [x] Observing an association → claiming direct causation without addressing confounders
+- [ ] Reporting limitations
+- [ ] Suggesting further research
+- [ ] Comparing with literature
+
+19. A proper media comparison involves:
+- [x] Contrasting a peer-reviewed paper with a popular article for accuracy and context
+- [ ] Counting social media likes
+- [ ] Measuring headline length
+- [ ] Ignoring methods
+
+20. A predatory journal’s impact on the public includes:
+- [x] Eroding trust by publishing low-quality or fraudulent studies
+- [ ] Improving replication
+- [ ] Ensuring open data
+- [ ] Guaranteeing ethics
+
+---
+
+### Quiz 9: Module 8 – Ethics and Regulation in Research (IQ8-2)
+
+1. Which principle requires maximising benefits and minimising harm?
+- [x] Beneficence
+- [ ] Justice
+- [ ] Autonomy only
+- [ ] Equipoise
+
+2. Informed consent requires:
+- [x] Voluntary agreement after disclosure of risks, benefits, and procedures
+- [ ] Only a signature without explanation
+- [ ] Deception without debrief
+- [ ] Implied consent from attendance
+
+3. A study recruits only prisoners for convenience. Main ethical concern?
+- [x] Vulnerability and potential coercion compromising justice
+- [ ] Beneficence
+- [ ] Equipoise
+- [ ] Calibration
+
+4. The 3Rs in animal research stand for:
+- [x] Replacement, Reduction, Refinement
+- [ ] Repeat, Review, Report
+- [ ] Randomise, Replicate, Refute
+- [ ] Record, Retain, Release
+
+5. The Declaration of Helsinki relates to:
+- [x] Ethical principles for medical research involving human subjects
+- [ ] Calibration protocols
+- [ ] Statistical significance thresholds
+- [ ] Data visualisation standards
+
+6. Organ allocation ethics emphasise:
+- [x] Fair distribution and prohibition of organ trafficking
+- [ ] Donor payment schemes
+- [ ] First-come only
+- [ ] Auctioning organs
+
+7. Which is an example of dual-use research concern?
+- [x] Techniques that can be used for beneficial or harmful purposes
+- [ ] Replication of benign studies
+- [ ] Data sharing
+- [ ] Pre-registration
+
+8. Ethics committees typically require:
+- [x] Risk–benefit analysis, consent procedures, data protection plans
+- [ ] Only sample size calculations
+- [ ] Headline benefits
+- [ ] Guarantees of positive results
+
+9. A study on a rare disease excludes women without justification. Violated principle?
+- [x] Justice (equitable selection)
+- [ ] Beneficence
+- [ ] Respect only
+- [ ] Equipoise
+
+10. Historical abuses (e.g., Tuskegee) led to:
+- [x] Stronger ethical oversight and informed consent standards
+- [ ] Less oversight
+- [ ] Abandoning clinical research
+- [ ] Eliminating peer review
+
+11. For children in research:
+- [x] Parental consent and child assent when appropriate
+- [ ] No consent needed
+- [ ] Only verbal assent
+- [ ] Payment as coercion
+
+12. A researcher plans to withhold standard therapy for a control group. Ethical issue?
+- [x] Withholding proven effective treatment may cause harm (violates beneficence)
+- [ ] Justice only
+- [ ] Calibration
+- [ ] Placebo effect
+
+13. Which enhances participant privacy?
+- [x] De-identification and secure data storage
+- [ ] Public posting of raw data with names
+- [ ] Open access to consent forms
+- [ ] Collecting unnecessary personal data
+
+14. International regulation challenges include:
+- [x] Variability in enforcement and cross-border research ethics
+- [ ] Constant standards globally
+- [ ] Elimination of misconduct
+- [ ] No cultural considerations
+
+15. In high-risk studies, equipoise means:
+- [x] Genuine uncertainty within the expert community about which intervention is better
+- [ ] Certain knowledge the new treatment is superior
+- [ ] No risk exists
+- [ ] Bias toward innovation
+
+16. Compensation in research should:
+- [x] Reimburse time/expenses without coercion
+- [ ] Be so large as to override consent
+- [ ] Be unnecessary
+- [ ] Replace consent
+
+17. Community consultation is especially important when:
+- [x] Research involves Indigenous communities and culturally sensitive knowledge
+- [ ] Only lab equipment is used
+- [ ] Animal studies occur
+- [ ] Calibration is complex
+
+18. A study requires genetic data storage. Ethical practice?
+- [x] Clear consent on storage duration, access, and future use
+- [ ] Silent storage with no disclosure
+- [ ] Selling data to third parties without consent
+- [ ] Permanent retention without limit
+
+19. “Right to withdraw” means:
+- [x] Participants can leave at any time without penalty, data use clarified
+- [ ] Only allowed in first 24 hours
+- [ ] Requires refunding payment
+- [ ] Not permitted once started
+
+20. Ethical oversight is needed because:
+- [x] It protects participants and scientific integrity
+- [ ] It guarantees significant results
+- [ ] It ensures faster publication
+- [ ] It replaces peer review
+
+---
+
+### Quiz 10: Module 8 – Science, Society, and Policy (IQ8-1, IQ8-3)
+
+1. Public trust in science is strengthened by:
+- [x] Transparency, robust methods, and clear communication of uncertainty
+- [ ] Sensational headlines
+- [ ] Concealing conflicts of interest
+- [ ] Withholding data
+
+2. Which is a potential negative impact of corporate funding on science?
+- [x] Funding bias leading to design choices favouring sponsor interests
+- [ ] Improved peer review independence
+- [ ] Automatic open data
+- [ ] Guaranteed replication
+
+3. The “publish or perish” culture can increase:
+- [x] Publication bias and questionable research practices
+- [ ] Sample size
+- [ ] Blinding quality
+- [ ] Ethics compliance automatically
+
+4. Which illustrates science informing policy?
+- [x] Environmental impact assessments contributing to court decisions on development
+- [ ] Social media polls replacing expert reports
+- [ ] Funding cuts based on popularity
+- [ ] Ignoring scientific consensus
+
+5. Open science promotes:
+- [x] Transparency and reproducibility via open methods and data
+- [ ] Secrecy in methods
+- [ ] Paywalled access only
+- [ ] Less replication
+
+6. A political ideology suppresses climate reports. This is an example of:
+- [x] Political influence affecting science communication and policy
+- [ ] Improved calibration
+- [ ] Enhanced sample size
+- [ ] Ethical oversight
+
+7. A philanthropic foundation funds neglected tropical disease research. Likely effect?
+- [x] Shifts research priorities and supports underfunded areas
+- [ ] Increases publication bias
+- [ ] Eliminates peer review
+- [ ] Reduces transparency
+
+8. A tech company funds a study of its own device’s health effects. To strengthen credibility:
+- [x] Ensure independent oversight, pre-registration, and full data sharing
+- [ ] Allow company control of analysis
+- [ ] Suppress negative findings
+- [ ] Omit conflict disclosures
+
+9. Which best characterises “conflict of interest”?
+- [x] Personal/financial interests that could improperly influence professional judgment
+- [ ] Random error
+- [ ] Systematic error
+- [ ] Statistical power
+
+10. Social movements can influence research by:
+- [x] Shaping funding priorities and prompting targeted studies
+- [ ] Eliminating ethical review
+- [ ] Removing confounders
+- [ ] Increasing instrument resolution
+
+11. A government invests in space exploration over social programs. An evidence-based critique should:
+- [x] Evaluate opportunity costs, benefits, and long-term returns with data
+- [ ] Reject space research on principle
+- [ ] Demand only social spending
+- [ ] Avoid cost–benefit analysis
+
+12. Corporate ghostwriting of articles can:
+- [x] Mislead about evidence strength and bias conclusions
+- [ ] Improve transparency
+- [ ] Enhance peer review
+- [ ] Reduce conflicts
+
+13. A study’s results align with funder interests; authors disclose funding and data. This:
+- [x] Increases transparency; independent replication still needed
+- [ ] Eliminates need for replication
+- [ ] Confirms causation
+- [ ] Removes all bias
+
+14. “Science literacy” helps society by:
+- [x] Enabling critical evaluation of claims and informed decision-making
+- [ ] Ensuring all studies are true
+- [ ] Eliminating uncertainty
+- [ ] Replacing ethics panels
+
+15. The “valley of death” refers to:
+- [x] The gap between basic research and commercial application
+- [ ] Ethical review delay
+- [ ] Random error spike
+- [ ] Data loss in archiving
+
+16. A fair media summary of a study should:
+- [x] Report methods, sample, limitations, and avoid overgeneralisation
+- [ ] Focus on anecdotes
+- [ ] Hide uncertainty
+- [ ] Use sensational claims
+
+17. Which policy promotes ethical international collaboration?
+- [x] Adhering to shared codes of conduct and mutual review agreements
+- [ ] Ignoring local regulations
+- [ ] Prioritising speed over ethics
+- [ ] Concealing protocols
+
+18. In allocating research funds, evidence-based prioritisation should consider:
+- [x] Disease burden, potential impact, feasibility, and equity
+- [ ] Social media trends only
+- [ ] Lobbying strength only
+- [ ] Short-term publicity
+
+19. A social factor that can bias data interpretation is:
+- [x] Cultural expectations influencing self-reporting
+- [ ] Instrument drift
+- [ ] Calibration error
+- [ ] Randomisation
+
+20. Science–society dialogue is most productive when:
+- [x] Scientists communicate clearly with stakeholders and respect diverse perspectives while centring evidence
+- [ ] Scientists avoid public engagement
+- [ ] Only policymakers decide
+- [ ] Only activists decide
+
+---

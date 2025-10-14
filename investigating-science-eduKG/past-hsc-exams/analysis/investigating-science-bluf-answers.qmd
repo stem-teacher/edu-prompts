@@ -1,0 +1,781 @@
+---
+title: "Investigating Science BLUF Model Answers"
+subtitle: "2019–2024 HSC Section II Perfect Responses"
+format:
+  html:
+    toc: true
+    toc-depth: 3
+  pdf:
+    toc: true
+    toc-depth: 3
+date: "2024-08-27"
+number-sections: true
+---
+
+```{.callout-note}
+All responses use a Bottom Line Up Front (BLUF) structure: the opening sentence states the judgement or finding, followed by concise evidence or reasoning aligned with the NSW Investigating Science Stage 6 marking criteria. Expressions use Australian English and HSC glossary command verbs.
+```
+
+# 2019 HSC Investigating Science
+
+## Question 21 (6 marks)
+
+### (a) Outline an observation that led Marshall and Warren to study peptic ulcers. (2 marks)
+
+**BLUF:** Marshall and Warren linked peptic ulcers to infection after repeatedly observing spiral-shaped bacteria in gastric biopsies from ulcer patients but not in healthy tissue. This consistent correlation between bacterial presence and ulcer pathology prompted their investigation into an infectious cause.
+
+### (b) Outline the steps taken by Marshall and Warren to establish the cause of peptic ulcers. (4 marks)
+
+**BLUF:** Marshall and Warren satisfied causation criteria by isolating the bacterium, demonstrating it caused gastritis, and eradicating it with antibiotics to resolve disease.  
+- Isolated *Helicobacter pylori* from ulcer patients and confirmed its absence in Marshall before exposure.  
+- Marshall ingested a pure culture, developed gastritis symptoms, and biopsy confirmed colonisation.  
+- Administered antibiotics that eliminated the bacterium and resolved inflammation, completing the causal chain.
+
+## Question 22 (4 marks)
+
+### (a) Sketch a graph to show the expected relationship between speed and distance travelled. (2 marks)
+
+**BLUF:** Plot distance on the y-axis against speed on the x-axis as a straight line through the origin to show that distance increases directly with speed when time is fixed. Label axes with SI units (m for distance, m s⁻¹ for speed) and maintain equal scaling to convey proportionality.
+
+### (b) Identify another variable that determines the distance travelled and explain why it must be kept constant. (2 marks)
+
+**BLUF:** Keep the elapsed time constant because distance equals speed multiplied by time, so changing time would introduce a second independent variable and invalidate the investigation. Holding time fixed ensures that any change in distance is attributable solely to speed, preserving validity.
+
+## Question 23 (6 marks)
+
+**Prompt:** Design a valid method to safely investigate the hypothesis, “increasing the temperature increases the rate of a chemical reaction”, and state how to calculate the rate.
+
+**BLUF:** Conduct the same reaction at multiple controlled temperatures, timing a consistent endpoint and calculating rate as change in mass or volume over time to demonstrate that higher temperature increases reaction rate.  
+- Choose a safe reaction (e.g., effervescent tablet in water) with equal-mass tablets and identical solvent volumes in insulated beakers.  
+- Use thermostatically controlled water baths (e.g., 10 °C increments) to equilibrate reagents, keeping concentration, surface area, mixing method, and ambient pressure constant.  
+- Start timing when the tablet contacts water; stop when gas production ceases or the tablet fully dissolves, recording time for each temperature and repeating for reliability.  
+- Calculate rate for each trial as Δm divided by Δt, or as the change in gas volume ΔV_gas divided by Δt, then plot rate versus temperature and interpret the trend.  
+- Apply PPE and use tongs for hot vessels to manage burns and spill risks.
+
+## Question 24 (7 marks)
+
+### (a) Propose a hypothesis for the distraction investigation. (1 mark)
+
+**BLUF:** Drivers who text while using the racing simulation will commit more driving errors than drivers who do not text during the simulation.
+
+### (b) Identify two problems with the experimental method and explain why each is problematic. (3 marks)
+
+**BLUF:** The method is invalid because the sample is unrepresentative and uncontrolled, giving unreliable data.  
+- Using only two students provides no replication, so results cannot establish trends or reliability.  
+- Failing to match driver experience or skill introduces uncontrolled variables, meaning any difference in errors could stem from driver ability rather than texting.
+
+### (c) Evaluate the relevance of the method to real driving. (3 marks)
+
+**BLUF:** The simulator offers partial insight into texting impacts but lacks key features of real driving, so relevance is limited. It mimics visual attention and hand–eye coordination demands, supporting qualitative relevance, yet it omits real-world stakes such as vehicle feedback, traffic conditions, and crash consequences, reducing external validity for actual road driving.
+
+## Question 25 (9 marks)
+
+### (a) Draw a straight line of best fit for atmospheric CO₂. (1 mark)
+
+**BLUF:** Use a ruler to draw a straight best-fit line through the CO₂ data trend with roughly equal numbers of points above and below, showing the steady increase from ~370 ppm (2000) to ~410 ppm (2016).
+
+### (b) Create a right-hand scale and plot whale sightings with × symbols. (2 marks)
+
+**BLUF:** Add a right-hand y-axis scaled from about 0 to 3200 whale sightings, mark 400-point intervals, and plot each data pair with an × at the corresponding year to display the upward trend. Ensure axes share the year baseline, and label the new axis “Whale sightings”.
+
+### (c) Inference from the graph with data support. (2 marks)
+
+**BLUF:** Both atmospheric CO₂ and whale sightings increased between 2000 and 2016, suggesting a positive correlation but not causation. CO₂ rose from ~370 ppm to ~410 ppm while sightings climbed from 400 to 3050, indicating the variables change together without proving whales drive CO₂ levels.
+
+### (d) Explain how correlation can be misinterpreted as causation using another example. (4 marks)
+
+**BLUF:** Correlation can mislead when a third factor drives both variables, such as ice-cream sales and drowning deaths rising together in summer. Higher temperatures increase ice-cream purchases and swimming activity, so the shared seasonal driver, not ice-cream consumption, causes more drownings—demonstrating correlation without causation.
+
+## Question 26 (3 marks)
+
+**BLUF:** Van Helmont’s experiment was flawed because it ignored gaseous inputs and outputs, so modern scientists would monitor carbon dioxide uptake and oxygen release to close the mass balance. By enclosing the plant, measuring gas exchange alongside soil and plant mass, and replenishing nutrients, present-day investigators could account for atmospheric contributions to biomass gain.
+
+## Question 27 (4 marks)
+
+### (a) Outline a specific medicinal use of an identified plant by Aboriginal or Torres Strait Islander Peoples. (2 marks)
+
+**BLUF:** Aboriginal healers apply crushed tea-tree (*Melaleuca alternifolia*) leaves to infected wounds because the oil’s antiseptic properties disinfect and promote healing. This traditional poultice harnesses the plant’s antimicrobial compounds to manage skin infections.
+
+### (b) Outline the potential of a different Australian plant for developing a new drug treatment. (2 marks)
+
+**BLUF:** The blushwood tree (*Hylandia dockrillii*) produces the compound EBC-46, which shows promise as an injectable anti-cancer agent by triggering rapid tumour necrosis. Isolating and formulating this phytochemical could yield a novel therapy while recognising the knowledge held within the species’ Country.
+
+## Question 28 (7 marks)
+
+**BLUF:** The tobacco industry misused science by both misrepresenting findings and suppressing damaging data to delay acceptance of smoking’s risks.  
+- **Misrepresentation:** Companies issued coordinated statements claiming “no conclusive proof” that smoking caused cancer, selectively citing uncertainty despite strong epidemiological evidence.  
+- **Suppression:** Firms such as RJ Reynolds closed research units and withheld internal results that linked tobacco to carcinogenic outcomes, preventing peer review and regulatory scrutiny.  
+These practices obscured the causal link for decades, undermining public health policy and illustrating deliberate distortion of scientific evidence.
+
+## Question 29 (5 marks)
+
+### (a) State the main requirement for selecting a peer reviewer. (1 mark)
+
+**BLUF:** A peer reviewer must be an independent expert in the paper’s disciplinary field to judge the methodology and interpretation credibly.
+
+### (b) Explain how peer review advances science, with an example. (4 marks)
+
+**BLUF:** Peer review advances science by validating methods, refining interpretations, and filtering flawed research before publication, as shown when *The Lancet* reviewers endorsed Marshall and Warren’s ulcer study. Subject-matter reviewers interrogated their experimental design, ensuring the evidence linking *H. pylori* to ulcers met disciplinary standards; publishing the validated work shifted clinical practice worldwide.
+
+## Question 30 (6 marks)
+
+### (a) Complete the damming case study table. (2 marks)
+
+**BLUF:** The Franklin River dam proposal promised hydroelectric power but threatened wilderness ecosystems and cultural heritage. Record “Franklin River” as the river, note renewable electricity generation and regional jobs as the positive, and identify habitat loss, biodiversity decline, and displacement of Aboriginal heritage as the negative aspect.
+
+### (b) Analyse how one river-damming project affected the public image of science. (4 marks)
+
+**BLUF:** The Franklin River dispute boosted the public perception of science as guardianship of environmental evidence because scientific impact assessments armed activists and the High Court with authoritative data. Ecologists quantified species loss and geomorphologists modelled flooding impacts, so science was seen as an impartial arbiter opposing purely economic narratives; conversely, pro-dam advocates portrayed science as obstructive to development, highlighting polarised public views.
+
+## Question 31 (4 marks)
+
+**BLUF:** Phenomenon A is reflection and Phenomenon B is refraction; modern telescopes exploit both by using adaptive mirrors and refractive correction optics to sharpen astronomical images. Reflecting telescopes employ precisely figured mirrors that redirect light to a focal point, while adaptive optics analyse atmospheric refraction and deform secondary mirrors or insert correcting prisms to counter turbulence, delivering high-resolution observations.
+
+## Question 32 (6 marks)
+
+**BLUF:** Endoscopes have transformed health care by enabling minimally invasive diagnostics and surgery that reduce morbidity, although improper sterilisation or perforations pose risks. Flexible endoscopes use fibre optics and cameras to visualise the gastrointestinal tract, permitting early detection and removal of polyps with less postoperative pain, shorter hospital stays, and lower infection rates than open surgery; however, inadequate decontamination can transmit pathogens and rare bowel perforations require prompt management.
+
+## Question 33 (6 marks)
+
+### (a) Explain an ethical issue in current scientific research using an example. (3 marks)
+
+**BLUF:** Informed consent remains a critical ethical issue, exemplified by early gene therapy trials where participants were not fully briefed on vector risks, leading to adverse outcomes. Researchers must disclose potential harms and alternatives so volunteers can make autonomous decisions; failing to do so breaches ethical standards and public trust.
+
+### (b) Evaluate the effectiveness of one protocol or code of conduct ensuring ethical practice. (3 marks)
+
+**BLUF:** The NSW Animal Research Act 1985 effectively safeguards animal welfare by requiring ethics committee approval, mandating the 3Rs (replacement, reduction, refinement), and enabling audits that shut down non-compliant studies. By imposing legal penalties and oversight, the Act operationalises ethical guidelines and has eliminated practices such as breeding classroom animals for dissection.
+
+## Question 34 (7 marks)
+
+**BLUF:** Governments and corporations steer research agendas through targeted funding and strategic priorities, simultaneously accelerating innovation and introducing bias. Australian Research Council grants channel public funds toward national priorities such as renewable energy, enabling large projects like the University of Tasmania’s sustainable polymer initiative but disadvantaging unfashionable basic research. Multinationals, exemplified by Monsanto collaborating with Asian governments on the International Rice Genome Sequencing Project, bankroll applied research that delivers improved crop yields yet risk favouring commercialisable outcomes over public-good inquiries; industry-sponsored clinical trials likewise tend to report results aligned with sponsors’ interests. Together, these actors expand scientific capacity while shaping which questions are investigated and how findings are disseminated.
+
+# 2020 HSC Investigating Science
+
+## Question 21 (3 marks)
+
+**BLUF:** Priestley showed plants restore “injured air” by comparing survival time of organisms in sealed jars with and without vegetation. In one trial he confined a mouse in a bell jar and timed its death as oxygen was depleted; in a second trial he repeated the setup with a sprig of mint and recorded that the mouse and a candle burned longer, demonstrating that the plant regenerated breathable air.
+
+## Question 22 (7 marks)
+
+### (a) Graph the data and draw a straight line of best fit. (2 marks)
+
+**BLUF:** Plot pressure versus 1/volume and draw a straight best-fit line with a negative slope through the clustered points, reflecting the inverse proportionality. Label axes with pressure (kPa) and 1/volume (L⁻¹) and place the line so approximately half the data points lie on each side.
+
+### (b) Assess the validity of extrapolating the line to 300 kPa. (3 marks)
+
+**BLUF:** The extrapolation to 300 kPa is invalid because it extends far beyond measured data, so the assumed linear relationship may not hold under that compression. Without evidence for the pressure–volume product remaining constant outside the observed 30–80 kPa range, the predicted 0.25 L volume lacks empirical support.
+
+### (c) Determine the pressure at a volume of 1.1 L using the graph. (2 marks)
+
+**BLUF:** Reading the best-fit line at 1/volume ≈ 0.91 L⁻¹ gives a pressure of about 66 kPa. Calculation: 1/1.1 L ≈ 0.91 L⁻¹; locate this on the x-axis, project to the line, and read the corresponding y value of 66 kPa.
+
+## Question 23 (6 marks)
+
+### (a) Describe, with an example, how fraudulent research can be uncovered. (3 marks)
+
+**BLUF:** Fraud is exposed when independent scientists scrutinise original data and reveal inconsistencies, as in the Debendox case where colleagues identified falsified dosage records and alerted regulators. Re-examination of McBride’s raw data showed missing controls and manipulated results; investigative journalism and tribunal review then confirmed misconduct.
+
+### (b) Explain two implications of the “publish or perish” expectation. (3 marks)
+
+**BLUF:** Publish-or-perish pressures can degrade research quality and skew topic selection because career advancement hinges on output metrics. Tight timelines encourage rushed or salami-sliced studies that risk errors or ethical breaches, while funding bodies favour fashionable areas that promise rapid publications, leaving necessary but slower investigations under-resourced.
+
+## Question 24 (5 marks)
+
+### (a) Conclusion about 1970 spending. (1 mark)
+
+**BLUF:** In 1970 the US Government spent more on welfare than on space research, as the welfare curve sits well above the space research curve.
+
+### (b) Explain how the presentation can affect public perception of space spending. (4 marks)
+
+**BLUF:** The dual-axis graph exaggerates space research spending by using different scales, so taller space bars could convince the public that space funding rivals welfare outlays. Because the left axis (space) spans $0–$40 × 10⁹ while the right axis (welfare) spans $0–$20 × 10¹¹, casual viewers misread the visual height comparison and may argue that space budgets should be cut, despite welfare receiving orders of magnitude more funding throughout the period.
+
+## Question 25 (6 marks)
+
+### (a) Explain why the experiment is unreliable. (2 marks)
+
+**BLUF:** The conclusion is unreliable because it relies on a single self-experiment with no replication or controls, so results could be due to chance or other variables. Without multiple subjects or a placebo comparison, consistency cannot be established.
+
+### (b) Justify two likely ethics committee recommendations. (4 marks)
+
+**BLUF:** An ethics committee would require preclinical animal studies and enhanced participant safeguards to minimise risk. They would insist on initial trials in model organisms to characterise safety and efficacy before human exposure, and mandate protocols such as medical supervision, informed consent from independent volunteers, and contingency treatment plans to manage potential harm.
+
+## Question 26 (7 marks)
+
+### (a) Describe how a technology impacted the development of atomic theory. (3 marks)
+
+**BLUF:** Photographic plates revolutionised atomic theory by revealing radioactivity, proving atoms contained substructures. When uranium ores fogged plates in the dark, Becquerel deduced spontaneous emissions, prompting Rutherford’s scattering experiments that replaced the plum pudding model with the nuclear model.
+
+### (b) Explain how understanding radioactivity advanced radiotherapy. (4 marks)
+
+**BLUF:** Recognising that gamma radiation delivers high-energy, deeply penetrating ionisation enabled targeted radiotherapy that destroys tumour DNA while sparing surrounding tissue. Knowledge of decay pathways allowed clinicians to select isotopes (e.g., cobalt-60) with predictable half-lives, collimate beams, and fractionate doses to maximise malignant cell death and minimise healthy tissue damage.
+
+## Question 27 (6 marks)
+
+### (a) Explain how the term “retrograde” might influence public opinion of astrology. (2 marks)
+
+**BLUF:** Borrowing the astronomical term “retrograde” lends astrology scientific credibility, encouraging the public to accept its claims as evidence-based. The jargon suggests planetary mechanics underlie predictions, masking the lack of empirical validation.
+
+### (b) Design an investigation to test whether Mercury retrograde correlates with travel disruption. (4 marks)
+
+**BLUF:** Use historical transport data to compare travel delays during Mercury retrograde with matched control periods while controlling confounders. Collect air and rail delay statistics over at least 10 years, align datasets with astronomical ephemerides, compute average delays inside and outside retrograde windows, and apply statistical tests (e.g., t-test) to determine if differences exceed variability after accounting for seasonal factors.
+
+## Question 28 (6 marks)
+
+### (a) Explain how X-ray diffraction revealed DNA structure. (2 marks)
+
+**BLUF:** X-ray diffraction patterns from crystallised DNA displayed repeating helical symmetry, enabling Watson and Crick to deduce base pairing geometry and double-helix dimensions. The distinctive “X” photograph identified a 3.4 Å repeat and 20 Å diameter, constraining model building.
+
+### (b) Describe two technologies that arose from knowing DNA’s structure. (4 marks)
+
+**BLUF:** DNA’s double-helix architecture underpins recombinant DNA engineering and forensic profiling. Restriction enzymes exploit base-sequence specificity to splice genes into vectors for transgenic crops like Bt cotton, while short tandem repeat analysis compares unique base sequences across loci to match crime-scene samples to suspects with high discriminatory power.
+
+## Question 29 (8 marks)
+
+### (a) Propose a suitable hypothesis. (1 mark)
+
+**BLUF:** The observer will hear a higher pitch from trumpeters on the approaching train and a lower pitch as it recedes compared with stationary trumpeters, due to relative motion.
+
+### (b) Sketch the expected pitch–time graph. (3 marks)
+
+**BLUF:** Plot time on the x-axis and pitch (Hz) on the y-axis, showing a constant line for ground trumpeters and a Doppler-shifted curve for train trumpeters that peaks above the ground line as the train approaches, crosses at closest approach, and dips below as it recedes. Label both traces using the supplied key and mark approximate timestamps for approach, passing, and departure.
+
+### (c) Explain the results using a scientific phenomenon. (4 marks)
+
+**BLUF:** The pattern is explained by the Doppler effect: relative motion compresses sound waves from the approaching train, raising perceived frequency, and stretches them as it recedes, lowering pitch. The stationary group shares the observer’s frame, so their wavelength and frequency remain unchanged.
+
+## Question 30 (7 marks)
+
+**BLUF:** Scientific research into water quality has markedly improved global health by delivering treatment technologies that reduce pathogen loads and chemical contamination, though infrastructure gaps persist. Advances such as coagulation–flocculation, membrane filtration, and chlorination curb water-borne diseases, while desalination and UV disinfection supply potable water to arid regions; however, energy demands and maintenance costs can limit access in low-income communities.
+
+## Question 31 (7 marks)
+
+### (a) Provide reasons for the differing statements from the two agencies. (3 marks)
+
+**BLUF:** The UN-aligned advisory agency draws on epidemiological evidence prioritising population health, whereas the industry-funded body has financial incentives to downplay asbestos risks. The health agency’s mandate and expert composition favour conservative, evidence-based messaging; the asbestos agency’s dependence on mining revenue biases its communication toward product safety claims.
+
+### (b) Discuss decisions by some countries to continue mining asbestos. (4 marks)
+
+**BLUF:** Continuing asbestos mining balances economic gains against severe health costs, yielding contentious policy. Supporters cite employment, export revenue, and affordable building materials, yet critics highlight future liabilities from mesothelioma treatment, occupational exposure, and international condemnation, indicating that long-term public health harms outweigh short-term economic benefit.
+
+## Question 32 (12 marks)
+
+### (a) Describe the relationship shown in the graph. (2 marks)
+
+**BLUF:** The graph indicates a positive correlation: as water vapour anomalies increase, global air temperature anomalies rise in step over 1988–2014, with both series tracking above and below zero together. Peaks in vapour coincide with temperature peaks, implying co-variation.
+
+### (b) Assess the reliability of the information in student summary 1. (3 marks)
+
+**BLUF:** Summary 1 is weakly reliable because it relies on a single scientist funded by oil companies and presents correlation as causation without peer review. The article lacks methodological detail, cites no sources beyond one commentator, and contains a disclosed conflict of interest, reducing trustworthiness.
+
+### (c) Analyse how conflicts of interest affect climate data collection and interpretation. (7 marks)
+
+**BLUF:** Conflicts of interest can bias both the gathering and the framing of climate evidence, privileging narratives that align with sponsors while marginalising consensus science. In summary 1, industry funding incentivises the astrophysicist to emphasise water vapour data and downplay carbon dioxide measurements, potentially cherry-picking datasets or interpreting correlation wrongly. Summary 2 shows independent reviewers re-evaluating the article, highlighting how unbiased organisations can correct such distortions. Summary 3 underscores that fossil-fuel political influence can suppress emissions monitoring or promote selective reporting, shaping policy debates. Together these examples illustrate that who funds research and media platforms can skew data selection, interpretation, and public messaging, necessitating transparency and replication to maintain integrity.
+
+# 2021 HSC Investigating Science
+
+## Question 21 (3 marks)
+
+**BLUF:** Regulation is required to protect participants and the public, ensuring research stays ethical and safe, as illustrated by nuclear industry controls that prevent reactor accidents. Licensing, safety audits, and emergency protocols mandated by regulators reduce the risk of radiation exposure for neighbouring communities.
+
+## Question 22 (6 marks)
+
+### (a) Outline a structural feature of DNA enabling genetic modification. (2 marks)
+
+**BLUF:** Complementary base pairing means the same nucleotide sequences encode genes across organisms, allowing scientists to insert foreign DNA that cells can read. Identical pairing rules enable restriction enzymes to cut and ligases to insert genes into host genomes for expression.
+
+### (b) Explain why four groups were required. (4 marks)
+
+**BLUF:** Two independent variables—genotype (GM vs normal) and diet (normal vs high-fat)—necessitated four groups to isolate each factor and their interaction. Groups 1 and 2 reveal diet effects on normal mice; groups 3 and 4 show genotype effects under different diets; comparing groups 2 and 4 tests the hypothesis that GM mice gain less weight on high-fat diets, while groups 1 and 3 confirm baseline equivalence, ensuring validity.
+
+## Question 23 (2 marks)
+
+**BLUF:** Validate secondary information by using reputable, peer-reviewed sources and establish reliability by comparing multiple independent sources for consistent findings. Cross-check author credentials, publication venue, and alignment of key data across textbooks, journals, or official statistics.
+
+## Question 24 (4 marks)
+
+**BLUF:** Spencer deviated from the linear investigation model when he pivoted from defence research to microwave heating, yet he returned to systematic testing to confirm his new hypothesis. The melted chocolate bar prompted an observational leap outside the planned method, but subsequent experiments controlled variables, measured heating effects, and iterated designs, aligning with the linear cycle of hypothesis–testing–analysis.
+
+## Question 25 (3 marks)
+
+**BLUF:** The graph does not support the hypothesis because public backing for nuclear energy was already declining before Three Mile Island and remained steady after Chernobyl, indicating accidents were not the sole driver. While support dipped around Fukushima, the long-term trend shows other factors influence opinion.
+
+## Question 26 (7 marks)
+
+### (a) Provide appropriate units for each axis. (2 marks)
+
+**BLUF:** Label the x-axis “Speed (m s⁻¹)” and the y-axis “Distance (m)” to align units within the linear relationship. Any consistent SI pair (e.g., km h⁻¹ and km) is acceptable if matched.
+
+### (b) Draw the data table used to make the graph. (2 marks)
+
+**BLUF:** List speed values with corresponding distances for each time period, e.g.:
+
+| Speed | Time period A distance | Time period B distance |
+|-------|-----------------------|-----------------------|
+| 10    | 20                    | 10                    |
+
+### (c) Explain the distance difference using calculations. (3 marks)
+
+**BLUF:** Time period A lasted twice as long, so at 10 m s⁻¹ the object travelled 20 m compared with 10 m in period B. Calculation: t_A = 20 m ÷ 10 m s⁻¹ = 2.0 s; t_B = 10 m ÷ 10 m s⁻¹ = 1.0 s. Greater elapsed time explains the longer distance.
+
+## Question 27 (6 marks)
+
+### (a) Outline two pieces of information volunteers needed before the trial. (2 marks)
+
+**BLUF:** Volunteers needed to know the potential risks and the chance of receiving a placebo instead of the vaccine, ensuring fully informed consent.
+
+### (b) Compare the company’s trial with Jenner’s smallpox vaccine process. (4 marks)
+
+**BLUF:** The company used a large randomised, placebo-controlled trial that met modern ethical standards, whereas Jenner relied on a single uncontrolled self-designed experiment lacking informed consent. Contemporary methods provide statistical power, blinding, and oversight; Jenner’s approach had no control group, minimal participants, and ethically questionable recruitment.
+
+## Question 28 (7 marks)
+
+### (a) Explain the scientific difference between a theory and a law with examples. (4 marks)
+
+**BLUF:** A theory explains why phenomena occur using evidence-based models, whereas a law describes consistent relationships, often mathematically; natural selection explains evolution, while Newton’s second law quantifies force–acceleration proportionality. Theories integrate mechanisms and can predict new phenomena; laws summarise observed patterns without detailing causation.
+
+### (b) Evaluate the media’s use of “hypothesis” and “theory”. (3 marks)
+
+**BLUF:** The media quote misuses the terms because atomic theory and the theory of gravity are robust theories, not hypotheses, so equating them with current hypotheses confuses levels of scientific certainty. A hypothesis is a testable tentative explanation; calling established theories “hypotheses” undermines their evidentiary status and should be corrected in reporting.
+
+## Question 29 (5 marks)
+
+**BLUF:** Test the claim with a randomised, double-blind trial where one group receives the green tea extract and the other a matched placebo, measuring predefined outcomes over time. Recruit an appropriate sample, randomise participants to coded capsules prepared by a pharmacist, ensure neither participants nor investigators know assignments until after data analysis, monitor compliance and side effects, and compare outcome metrics statistically to determine efficacy.
+
+## Question 30 (4 marks)
+
+**BLUF:** Einstein’s endorsement exemplifies the halo effect because his immense scientific reputation in physics lent undue weight to policy advocacy outside his direct expertise. The public and policymakers may have equated his genius with infallible judgement on defence strategy, illustrating how celebrity status can bias decision-making.
+
+## Question 31 (6 marks)
+
+### (a) Explain one benefit of damming the river. (2 marks)
+
+**BLUF:** Damming secures a reliable water supply by storing runoff, supporting irrigation and drinking needs during dry periods.
+
+### (b) Explain how the council misrepresented residents’ views. (4 marks)
+
+**BLUF:** The council overstated support by pooling surveys; while Town A favoured the dam (2612/2771 ≈ 94%), Town B overwhelmingly opposed it (275/286 ≈ 96%), so quoting 95% support ignores Town B’s stance. Weighting both towns equally reveals substantial opposition, making the “95% support” claim misleading.
+
+## Question 32 (9 marks)
+
+**BLUF:** Group A produced more accurate but less reliable results, whereas Group B improved reliability yet introduced systematic error, but both maintained validity by controlling variables. Group A’s single trials at each temperature scatter around the literature trend, suggesting accuracy but limited repeatability; Group B’s triplicate trials cluster tightly, showing high reliability, yet their rates are consistently low, indicating systematic error. Both groups controlled mass, acid concentration, and reaction setup, so the investigations remained valid; however, only Group A’s data align with the expected doubling per 10 °C, while Group B must identify and remove the bias causing underestimation.
+
+## Question 33 (13 marks)
+
+### (a) Propose a hypothesis and conclusion. (2 marks)
+
+**BLUF:** Hypothesis: A plant in the sealed jar will extend the mouse’s survival time because it replenishes oxygen. Conclusion: The mouse lived longer with the plant present, supporting the idea that the plant restored air quality.
+
+### (b) Identify two controlled variables with justification. (4 marks)
+
+**BLUF:** Fix jar volume and plant mass so only the presence of photosynthesis changes survival time. Identical jar sizes keep the air volume—and therefore available oxygen—the same in both trials, while using plants of equal species and biomass ensures comparable photosynthetic capacity, preventing confounding.
+
+### (c) Explain two reasons the modern setup is improved and justify further refinements. (7 marks)
+
+**BLUF:** Gas sensors allow quantitative tracking of oxygen and carbon dioxide, and removing animals eliminates ethical issues, yet reliability can still improve through replication and environmental control. Continuous sensor data reveal how gas composition changes, confirming causal mechanisms; ethical refinement arises by substituting instrumentation for live mice. Further improvements include calibrating sensors, controlling temperature and light intensity, replicating jars, and logging data digitally to strengthen reliability and validity.
+
+## Question 34 (5 marks)
+
+**BLUF:** Economic priorities and political agendas strongly steer research portfolios, exemplified by Australia’s investment in renewable energy and defence technologies despite social calls for health equity research. Government grants such as ARENA funding drive solar innovation to meet economic and carbon targets, while political focus on national security bankrolls hypersonic weapons research; simultaneously, social advocacy can redirect resources toward public health studies, showing the interplay of these factors.
+
+# 2022 HSC Investigating Science
+
+## Question 21 (3 marks)
+
+**BLUF:** Key sections such as the Method and Discussion guide readers through how the investigation was conducted and what the results mean. The Method outlines materials, variables, and procedures so the experiment can be replicated, while the Discussion interprets data, evaluates reliability/validity, and relates findings to the hypothesis.
+
+## Question 22 (6 marks)
+
+### (a) Assess balance accuracy. (3 marks)
+
+**BLUF:** The analogue balance is more accurate because its readings (1.12–1.16 kg) cluster near the true mass of 1.15 kg, whereas the digital balance overestimates at 1.27–1.30 kg. The analogue average (~1.13 kg) deviates by ~0.02 kg, while the digital average (~1.29 kg) deviates by ~0.14 kg, indicating larger systematic error.
+
+### (b) Minimise random error. (3 marks)
+
+**BLUF:** Repeat more trials and average results to reduce random fluctuations, ensuring consistent sample placement. Additional steps include zeroing the balance between measurements, using weighing boats to stabilise the sample, and measuring under controlled environmental conditions to dampen random variation.
+
+## Question 23 (4 marks)
+
+**BLUF:** Scientific research accelerates human progress by converting evidence into transformative technologies, exemplified by mRNA vaccine development that curbed COVID-19 mortality. Foundational molecular biology and lipid nanoparticle research enabled rapid vaccine design, protecting populations, reopening economies, and demonstrating how rigorous inquiry delivers societal gains.
+
+## Question 24 (9 marks)
+
+### (a) Graph results and draw best-fit line. (4 marks)
+
+**BLUF:** Plot the number of cubes on the x-axis and recorded mass on the y-axis, then draw a straight best-fit line that passes near the origin and follows the linear trend through earlier data, acknowledging upward deviation at higher cube counts. Mark axes with appropriate units and place the line to reflect average mass gain per cube.
+
+### (b) Explain two significant features of the best-fit line. (3 marks)
+
+**BLUF:** The linear trend through lower counts confirms mass increases proportionally with cube number, while upward curvature after ~25 cubes indicates systematic error such as residual sugar on the balance. The intercept near zero supports negligible tare mass, and the late deviation suggests the sample exceeded the balance’s capacity or cubes stuck together.
+
+### (c) Determine average mass of one cube from the graph. (2 marks)
+
+**BLUF:** The slope of the best-fit line gives an average mass of about 3.9–4.0 g per cube (e.g., 20 cubes ≈ 78 g), aligning with the 4.0 g claim.
+
+## Question 25 (5 marks)
+
+**BLUF:** Eratosthenes’ method was justified because it used simultaneous shadow measurements at Syene and Alexandria, geometry of parallel sun rays, and known baseline distance to compute Earth’s circumference accurately. The angle difference (~7.2°) between verticals equalled the arc subtended by the cities; multiplying the measured distance (~800 km) by 360/7.2 yielded a circumference near 40 000 km, validating the trigonometric reasoning.
+
+## Question 26 (4 marks)
+
+**BLUF:** The Kakadu Plum benefit-sharing partnership improves community wellbeing and commercial outcomes by aligning Indigenous knowledge with bioprospecting revenue. Traditional owners share harvesting practices with researchers who develop antioxidant-rich nutraceuticals, while agreements ensure royalties, local employment, and cultural stewardship, demonstrating ethical collaboration.
+
+## Question 27 (4 marks)
+
+**BLUF:** Van Helmont grew a willow tree in a pot, controlling soil mass and water input, and concluded biomass came from water. He planted a sapling in weighed soil, watered it with measured rainwater for five years, then reweighed the tree and soil—finding the tree gained mass while soil mass stayed nearly constant—inferring water was the primary contributor.
+
+## Question 28 (7 marks)
+
+**BLUF:** Economic pressures can bias data collection and presentation as industries and governments emphasise statistics that protect revenue streams, exemplified by the tobacco industry’s historical manipulation of lung cancer data. Companies funded studies with narrow endpoints, suppressed unfavourable results, and reported relative risks in misleading ways to maintain sales, illustrating how financial incentives distort both data gathering and public interpretation.
+
+## Question 29 (7 marks)
+
+### (a) Describe safe, reliable steps. (5 marks)
+
+**BLUF:** Use a sealed syringe connected to a gas pressure sensor, water bath, and thermometer to vary temperature while monitoring volume safely. Equilibrate the gas in a water bath at set temperatures, record volume readings, repeat trials for each temperature, maintain constant pressure via weights, and wear PPE to avoid burns.
+
+### (b) Sketch expected results with labels. (2 marks)
+
+**BLUF:** Plot temperature (°C or K) on the x-axis and volume (mL) on the y-axis, drawing a straight line showing direct proportionality (Charles’ law). Include origin intercept near zero when using Kelvin scale.
+
+## Question 30 (4 marks)
+
+**BLUF:** Superconducting magnet technology in the LHC enabled proton beams to collide at unprecedented energies, making Higgs boson production detectable. The 8 T dipole magnets steered and focused beams within the 27 km ring, while high-resolution detectors registered decay signatures, allowing confirmation of the Higgs in 2012.
+
+## Question 31 (4 marks)
+
+**BLUF:** Diverse cultural and ethical perspectives steer research priorities, as seen in renewed studies of bush foods to support multicultural dietary needs. Community demand for evidence-based guidance on traditional diets funds nutritional analysis of Indigenous ingredients, shaping projects that respect cultural knowledge while meeting health objectives.
+
+## Question 32 (6 marks)
+
+**BLUF:** Peer review advances science by filtering flawed work, refining sound studies, and guiding funding toward credible research. Expert reviewers scrutinise methods, statistics, and conclusions, ensuring only rigorously tested findings enter the literature; this communal quality control prevents wasted resources and underpins scientific progress.
+
+## Question 33 (17 marks)
+
+### (a) Describe trends in funding sources. (3 marks)
+
+**BLUF:** Corporate funding has risen sharply since 1980, overtaking government contributions, while other sources remain low and stable. Government funding shows moderate growth but lags behind corporations after ~2005.
+
+### (b) Justify regulating future corporate funding. (4 marks)
+
+**BLUF:** If corporate dominance continues, research agendas may prioritise profit over public interest, so regulation ensures transparency, balanced investment, and conflict-of-interest management. Oversight can mandate public reporting, diversify funding portfolios, and protect fundamental science.
+
+### (c)(i) Explain potential world health impact of purification tablet research. (3 marks)
+
+**BLUF:** Effective tablets could reduce water-borne diseases by delivering portable disinfection in low-resource settings, improving health and economic productivity. Safe tablets support emergency relief and chronic water scarcity regions.
+
+### (c)(ii) Evaluate contract conditions’ influence on investigation integrity. (7 marks)
+
+**BLUF:** Restricting funding to three years and 100 participants undermines robustness by limiting sample size, follow-up, and iterative refinement, inviting bias. A small cohort reduces statistical power and may miss rare adverse effects; a short timeframe discourages longitudinal tracking and process optimisation. Dependence on a single corporate sponsor can pressure researchers to deliver positive early results to retain support, potentially compromising protocol adherence, data transparency, and publication freedom; independent monitoring or diversified funding is necessary to safeguard integrity.
+
+# 2023 HSC Investigating Science
+
+## Question 21 (2 marks)
+
+### (a) State a hypothesis. (1 mark)
+
+**BLUF:** The number of butterflies sighted increases as daily temperature rises.
+
+### (b) Identify a controlled factor. (1 mark)
+
+**BLUF:** Observe butterflies at the same time of day each session to maintain consistent light conditions.
+
+## Question 22 (2 marks)
+
+**BLUF:** Cataract surgery restores vision, reducing injury risk and improving quality of life for millions worldwide. The procedure replaces cloudy lenses with intraocular implants, preventing blindness and enabling people to work and live independently.
+
+## Question 23 (3 marks)
+
+**BLUF:** Bioharvesting is valued because Indigenous ecological knowledge identifies species with unique medicinal compounds, creating sustainable economic opportunities. Partnerships with First Nations communities lead to new pharmaceuticals while respecting cultural custodianship and biodiversity conservation.
+
+## Question 24 (4 marks)
+
+### (a) Explain thermometer readings. (2 marks)
+
+**BLUF:** The analogue thermometer shows a systematic error, reading ~3.5 °C high, possibly due to miscalibration or parallax. Because every measurement is 103.5 °C despite constant pressure, the instrument is offset.
+
+### (b) Justify validity and accuracy of digital probe. (2 marks)
+
+**BLUF:** The digital probe is valid because it measures temperature directly and provides readings near 100 °C with minor random variation, demonstrating accuracy within ±0.02 °C. The probe’s consistent alignment with the known boiling point confirms its suitability.
+
+## Question 25 (5 marks)
+
+### (a) Provide examples of a scientific law and theory. (2 marks)
+
+**BLUF:** Newton’s law of universal gravitation and the germ theory of disease exemplify a law and a theory respectively.
+
+### (b) Evaluate media depiction. (3 marks)
+
+**BLUF:** The caption is inaccurate because reflection is a law, not a theory, and the diagram likely shows refraction rather than mirror optics. Correct reporting should reference the law of reflection and JWST’s segmented mirrors, not “Theory of Reflection.”
+
+## Question 26 (7 marks)
+
+### (a) Justify need for regulation. (3 marks)
+
+**BLUF:** Regulation protects participants and public trust, as shown by the Tuskegee syphilis study, where lack of oversight led to unethical withholding of treatment. Modern regulations such as Institutional Review Boards enforce informed consent and risk management.
+
+### (b) Evaluate effectiveness of a regulation. (4 marks)
+
+**BLUF:** The Nuremberg Code effectively curbed unethical human experimentation by mandating voluntary consent and minimising harm, shaping contemporary ethics committees. Compliance prevents abuses, though enforcement relies on continual vigilance and national legislation.
+
+## Question 27 (3 marks)
+
+**BLUF:** Fake journals exploit “publish or perish” pressures by offering rapid acceptance without rigorous review, enabling researchers to pad CVs and sponsors to promote favourable findings. Authors seeking metrics or avoiding rejection fees may choose predatory outlets despite credibility risks.
+
+## Question 28 (4 marks)
+
+**BLUF:** Marshall and Warren’s self-infection study directly challenged prevailing ulcer theories grounded in stress and acid, making it highly relevant despite scepticism. By culturing *H. pylori*, demonstrating infection pathology, and aligning with emerging histology, their investigation filled a gap left by existing literature that ignored bacterial causation, ultimately reshaping treatment.
+
+## Question 29 (6 marks)
+
+### (a) Identify two technologies and limitations. (3 marks)
+
+**BLUF:** The glass tubing lacks graduations, limiting precise volume measurement, and mobile phone imagery is qualitative, preventing accurate displacement quantification. Alternatively, the hot plate risks uneven heating without feedback control.
+
+### (b) Explain expected result. (3 marks)
+
+**BLUF:** Heating the gas increases its volume, pushing coloured water up the tube; as the air cools, volume contracts and water level drops, demonstrating Charles’ law.
+
+## Question 30 (7 marks)
+
+**BLUF:** The report lacks formal structure and objective language, so it fails to meet scientific communication standards. Replace narrative headings with Aim, Method, Results, and Discussion, present quantitative measurements instead of “a bit” or “heaps,” report in third-person past tense, and address reliability, validity, and improvements formally.
+
+## Question 31 (7 marks)
+
+### (a) Construct an appropriate graph of the data provided in the table. (4 marks)
+
+**BLUF:** Plot phosphorus level (ppm) on the x-axis and leaf mass (g) on the y-axis, showing both current and elevated CO₂ datasets as labelled line graphs on the same axes.
+
+- Use a scale from 70–400 ppm horizontally and 20–100 g vertically, marking regular intervals so the trend is clear.
+- Plot the five data points for each CO₂ condition, join them with straight segments or a smooth curve, and include a legend distinguishing “Current CO₂” and “Higher CO₂”.
+- Give the graph a descriptive title and label axes with units to communicate the relationship accurately.
+
+### (b) Explain whether the results support the hypothesis. (3 marks)
+
+**BLUF:** The data support the hypothesis because higher phosphorus unlocks the benefit of elevated CO₂, yielding progressively greater leaf mass only when both factors are high.
+
+At 70 ppm phosphorus, both atmospheres produced 24 g leaves, showing no CO₂ advantage without extra phosphorus. From 100 ppm upward, seedlings exposed to higher CO₂ outperformed the current atmosphere by 10 g (36 g vs 46 g), 26 g (42 g vs 68 g), 38 g (48 g vs 86 g), and 43 g (51 g vs 94 g), demonstrating that added phosphorus enables trees to exploit additional CO₂ and increase biomass.
+
+## Question 32 (5 marks)
+
+### (a) Outline how one factor in the design of this trial decreases its validity. (2 marks)
+
+**BLUF:** The trial lacks a control group using either an existing sunscreen or no product, so there is no baseline to attribute skin-damage reductions to the new moisturiser.
+
+Without a comparator, the observed 5–80% damage values could stem from weather, participant behaviour, or chance rather than the product, meaning the design cannot isolate the moisturiser’s effect.
+
+### (b) Analyse the claim made on the packaging. (3 marks)
+
+**BLUF:** The packaging’s promise that “regular use reduces skin damage by 99%” overstates the evidence because the best group only achieved a 95% reduction and only when worn for six hours daily.
+
+Groups using the product only on weekends still experienced 70–80% damage, showing irregular use is ineffective. Even with daily application, variability remained (40% vs 5% damage for 2 h vs 6 h exposure), so the claim exaggerates both the magnitude and consistency of protection implied by the trial.
+
+## Question 33 (5 marks)
+
+**BLUF:** The development of flight transformed science’s public image from scepticism to admiration by delivering demonstrable breakthroughs that validated scientific method.
+
+Initial reactions in 1903 reflected distrust: Newcomb and other authorities dismissed heavier-than-air flight as impossible, reinforcing public doubt about scientists’ promises. Once the Wright brothers’ sustained flights were documented, iterative experimentation, improved engines, and aerodynamic theory proved science could solve the “impossible,” shifting sentiment. During WWI, pilots such as Eddie Rickenbacker showcased aeronautics’ strategic value, elevating scientists and engineers as innovators whose work affected national security. Subsequent civil aviation—air mail, passenger services, and later jet travel—delivered tangible social and economic benefits, cementing the view that rigorous research yields transformative technologies. Thus, flight’s success replaced ridicule with confidence in science’s capacity to tackle grand challenges.
+
+## Question 34 (5 marks)
+
+**BLUF:** Vaccination research has fuelled economic development by enabling healthier, more productive populations and spawning biotechnology industries, as seen in Australia’s CSL influenza programs.
+
+CSL’s continual R&D into quadrivalent influenza vaccines attracts federal funding, creates high-skill jobs, and anchors a manufacturing hub in Melbourne. The resulting immunisation campaigns reduce absenteeism costs and hospital burdens each winter, yielding productivity gains. Exporting seasonal doses to the Asia–Pacific region generates revenue while showcasing Australian capability, illustrating how sustained scientific research produces broad economic dividends.
+
+## Question 35 (8 marks)
+
+### (a) State the claim tested and outline the procedure. (4 marks)
+
+**BLUF:** A supermarket yoghurt labelled “contains live probiotics” was confirmed to deliver viable bacteria by culturing the product on sterile nutrient agar alongside blank plates and comparing colony growth after incubation.
+
+**Claim tested:** The yoghurt retains live probiotic cultures after four weeks of refrigerated storage.
+
+**Procedure:**
+1. Sterilise six labelled petri dishes and pour equal depths of nutrient agar, allowing them to set with lids covering to minimise contamination.
+2. Use autoclaved swabs to streak 1 mL yoghurt onto four dishes; leave two dishes untampered as negative controls.
+3. Seal plates with parafilm, place all dishes in a 35 °C incubator for 72 h, and record colony counts using the same magnification.
+4. Repeat the culture run with fresh agar to confirm reliability, and compare mean colony numbers between inoculated and control plates to evaluate the claim.
+
+### (b) Evaluate the impact that sample size AND sample selection can have on the results of an investigation. (4 marks)
+
+**BLUF:** Large, representative samples stabilise outcomes, while small or biased samples magnify random error and mislead conclusions, directly affecting validity and generalisability.
+
+Increasing sample size reduces the influence of outliers and narrows confidence intervals, making observed effects more likely to reflect the true population; too few trials let noise dominate and can falsely confirm or refute the claim. Robust sample selection—randomising across the population of interest and avoiding volunteer bias—ensures findings apply beyond the test cohort. Skewed selection (for example, choosing only health-conscious yoghurt consumers) introduces systematic error that can inflate success rates. Together, inadequate numbers or poor selection compromise accuracy, reliability, and the strength of the investigation’s conclusion.
+
+## Question 36 (7 marks)
+
+**BLUF:** Rosalind Franklin’s refinement of X-ray crystallography provided the diffraction data that unlocked Watson and Crick’s double-helix model, which in turn enabled recombinant DNA technologies such as biosynthetic insulin.
+
+Franklin aligned hydrated DNA fibres, controlled humidity, and used shorter-wavelength beams with microfocus cameras to capture Photo 51, revealing the molecule’s helical symmetry and 3.4 Å repeat. Watson and Crick integrated her lattice measurements with Chargaff’s ratios to model antiparallel strands and complementary base pairing, transforming DNA from a speculative polymer into a predictive molecular blueprint. This mechanistic understanding legitimised cutting and ligating DNA with restriction enzymes, leading to recombinant plasmids that express human insulin in *E. coli*—commercialised in 1982 as the first genetically engineered drug. The chain from improved technology to new model to transformative biotechnology exemplifies science’s iterative progress.
+
+# 2024 HSC Investigating Science
+
+## Question 21 (3 marks)
+
+**BLUF:** Percy Spencer’s microwave oven emerged from radar magnetron tests, where escaping microwaves melted a chocolate bar in his pocket and prompted him to harness the heating effect for kitchens.
+
+While servicing magnetrons at Raytheon in 1945, Spencer noticed the melted chocolate, confirmed the phenomenon by popping corn and cooking an egg, then designed a shielded waveguide cavity with timed power controls so microwaves could heat food safely—creating the first commercial microwave oven.
+
+## Question 22 (3 marks)
+
+**BLUF:** Childhood vaccination programs reduce disease transmission and mortality, so community immunity improves global health outcomes such as life expectancy and hospital load.
+
+Routine immunisation builds individual antibodies and herd immunity, meaning pathogens such as measles or polio cannot easily spread. Fewer outbreaks lower child deaths and chronic disability, freeing hospitals and improving global health indicators tracked by the WHO.
+
+## Question 23 (4 marks)
+
+**BLUF:** The company manipulated both graphics—stacked percentages above 100% and truncated axes in Graph 1, and replacing recent data with optimistic projections in Graph 2—to polish its public image.
+
+Graph 1 starts the y-axis near 48% and sums the market shares to more than 100%, visually exaggerating Brand A’s dominance. Graph 2 suppresses actual malfunction data after 2021 and inserts a downward projection, implying faults are already resolved. Together the graphs make the fleet appear popular and improving, masking persistent reliability issues to protect the company’s reputation.
+
+## Question 24 (3 marks)
+
+**BLUF:** Aboriginal knowledge is prized because it identifies bioactive species like Kakadu plum, whose vitamin-C-rich fruit treats skin infections and now informs evidence-based skincare.
+
+Gurindji and Bininj communities apply the pulp and bark to sores; laboratory assays confirm potent antioxidants, so researchers co-develop topical serums and nutraceuticals in partnership with custodians. Respecting this knowledge accelerates product innovation while honouring cultural stewardship.
+
+## Question 25 (4 marks)
+
+**BLUF:** Laparoscopic vessel-sealing devices let surgeons cut and cauterise tissue through keyhole ports, shortening operations and improving patient wellbeing.
+
+The ultrasonic or bipolar jaws grasp a vessel, deliver energy to denature collagen, and sever tissue in a single activation, controlling bleeding without open incisions. The technology reduces blood loss, operative time, and infection risk, leading to shorter hospital stays and faster recovery—a net positive impact.
+
+## Question 26 (4 marks)
+
+### (a) Define numerology. (1 mark)
+
+**BLUF:** Numerology claims that numbers and digit patterns exert mystical influence over a person’s character and destiny.
+
+### (b) Explain why numerology is a pseudoscience. (3 marks)
+
+**BLUF:** Numerology is pseudoscience because it lacks testable mechanisms, rejects empirical validation, and survives on anecdotal confirmation rather than reproducible evidence.
+
+Its interpretations are unfalsifiable—different calculations can justify any outcome—so trials cannot disprove the system. No peer-reviewed studies link birth dates to life events, and proponents ignore contradictory data, breaching the methodological standards of genuine science.
+
+## Question 27 (8 marks)
+
+### (a) Justify whether the student could ethically conduct this investigation. (2 marks)
+
+**BLUF:** The investigation can proceed ethically if the student secures approval, minimises stress, and returns each lizard promptly, because short observational trials impose minimal harm when animal-welfare protocols are followed.
+
+They must obtain a wildlife permit, provide temperature-controlled enclosures resembling natural habitat, monitor the reptiles for distress, and release them back to the capture site immediately after the 30-minute observation.
+
+### (b) State the conclusion the student should have drawn. (2 marks)
+
+**BLUF:** Tongue length had no meaningful impact on fly capture, as every lizard caught roughly 45–47 flies regardless of tongue category.
+
+### (c) Justify THREE modifications to improve integrity. (4 marks)
+
+**BLUF:** Reliability and validity improve by increasing replication, measuring tongue length quantitatively, and standardising hunger cues.
+
+1. Test multiple lizards in each tongue-length category and repeat trials on different days; replication averages out individual variability and strengthens reliability.
+2. Measure tongue length with digital callipers (millimetres) instead of categories, allowing precise correlation analysis and improving accuracy.
+3. Standardise pre-trial fasting time and randomise trial order so hunger and acclimation are controlled, maintaining validity by ensuring capture rate differences stem from tongue length alone.
+
+## Question 28 (11 marks)
+
+### (a) Describe a sequence of steps to determine the pressure–volume relationship. (7 marks)
+
+**BLUF:** Trap a fixed mass of gas in a syringe linked to a calibrated pressure sensor, vary the volume in measured increments at constant temperature, and record replicated pressure readings for analysis.
+
+1. Connect a 60 mL gas syringe to a zeroed pressure sensor and data logger; flush briefly to ensure a fixed gas sample and seal the system.
+2. Immerse the apparatus in a thermostatic water bath (for example, 25 °C) for five minutes so temperature stays constant, protecting validity.
+3. Set the initial volume (for example, 60 mL), record the equilibrium pressure, and note the exact volume reading.
+4. Compress the plunger in 5–10 mL steps, allow the gas to re-equilibrate with the bath, and log the new pressure and volume at each step.
+5. Expand back to the starting volume to check for hysteresis and identify leaks; reseal if readings drift.
+6. Repeat the full sequence at least twice more, using the same increments, to obtain reliable replicate datasets.
+7. Process the data by calculating 1/volume for each point, plotting pressure versus 1/volume, and determining the linear relationship predicted by Boyle’s law.
+
+### (b) Justify a step that ensures validity. (2 marks)
+
+**BLUF:** Maintaining constant temperature by using the water bath keeps kinetic energy fixed, so any pressure change arises solely from volume adjustments; without this control the gas would heat or cool during compression, confounding the relationship.
+
+### (c) Sketch a graph demonstrating the relationship. (2 marks)
+
+**BLUF:** Plot pressure (kPa) on the vertical axis and volume (mL) on the horizontal axis, using measured pairs to draw a smooth decreasing curve; label axes with units and title it to show the inverse pressure–volume relationship.
+
+## Question 29 (4 marks)
+
+**BLUF:** Jenner’s cowpox experiments proved cross-immunity, launching vaccination programs that eradicated smallpox and reshaped global health systems.
+
+By inoculating James Phipps with cowpox lymph in 1796, Jenner demonstrated protection against subsequent smallpox exposure, establishing that immunity could be induced safely. The success prompted widespread vaccination, culminating in the WHO’s 1967 eradication campaign that saved millions of lives and enabled modern immunisation infrastructure—highlighting the immense importance of those events.
+
+## Question 30 (4 marks)
+
+**BLUF:** Space exploration warrants continued funding because it yields technologies and data that address terrestrial problems, yet investment must sit alongside poverty initiatives rather than replace them.
+
+Student A rightly notes spinoffs such as satellite navigation, remote sensing for disaster response, and water-filtration systems derived from life-support research—direct benefits to society. Student B’s concern about opportunity cost is valid, but space budgets are a small fraction of national expenditure, and Earth-observing satellites support agriculture and humanitarian logistics that mitigate poverty. Balanced portfolios allow space science to keep delivering breakthroughs while governments fund social programs.
+
+## Question 31 (9 marks)
+
+### (a) State a relevant hypothesis. (1 mark)
+
+**BLUF:** Providing more water each day increases the mass gained by the seedlings over four weeks.
+
+### (b) Construct a table for all data. (3 marks)
+
+**BLUF:** Arrange the measurements in a comparative table that separates the two watering regimes and calculates mass gain.
+
+| Seedling group | Initial mass (g) | Final mass (g) | Mass gain (g) |
+|----------------|------------------|----------------|----------------|
+| 5 mL – Plant 1 | 2.0 | 3.5 | 1.5 |
+| 5 mL – Plant 2 | 3.0 | 4.0 | 1.0 |
+| 5 mL – Plant 3 | 3.5 | 4.5 | 1.0 |
+| 10 mL – Plant 4 | 2.5 | 5.0 | 2.5 |
+| 10 mL – Plant 5 | 2.0 | 4.5 | 2.5 |
+| 10 mL – Plant 6 | 3.0 | 5.5 | 2.5 |
+
+### (c) Compare the students’ results with van Helmont’s. (2 marks)
+
+**BLUF:** The students linked water volume to mass gain, whereas van Helmont concluded that plant mass was not derived from soil because the soil mass remained constant.
+
+Their seedlings receiving 10 mL daily gained about 2.5 g compared with 1.0–1.5 g for the 5 mL group, implying water supply influenced growth. Van Helmont’s willow gained mass even though the soil mass barely changed, showing that most biomass came from air rather than water or soil.
+
+### (d) Evaluate the validity of the students’ investigation. (3 marks)
+
+**BLUF:** The method is only partly valid because it altered both water volume and plant grouping while failing to control soil mass, so it cannot directly test van Helmont’s conclusion.
+
+They did not measure soil mass before and after, used different seedlings instead of the same plant, and changed water volume—deviations that break alignment with van Helmont’s design. Without controlling these variables, the investigation cannot isolate whether biomass originated from water or air, reducing validity.
+
+## Question 32 (6 marks)
+
+### (a) Graph the results including a line of best fit. (3 marks)
+
+**BLUF:** Plot speed (m s⁻¹) on the x-axis and distance (m) on the y-axis, mark each data pair, and draw a straight line of best fit through the points to show distance increases with launch speed.
+
+Use consistent scales (0–1.2 m s⁻¹ and 0–0.6 m), label axes with units, include a title, and extend the best-fit line so roughly half the points lie on either side, illustrating the direct proportionality.
+
+### (b) Interpret the gradient with a calculation. (3 marks)
+
+**BLUF:** The gradient represents the time the ball spent in the air; using points (0, 0) and (1.0 m s⁻¹, 0.45 m) gives gradient = 0.45 m ÷ 1.0 m s⁻¹ = 0.45 s, matching the constant flight time.
+
+Because horizontal distance equals speed multiplied by time, the constant gradient confirms each launch kept the ball airborne for about 0.45 s.
+
+## Question 33 (5 marks)
+
+### (a) Describe an issue with the methodology. (2 marks)
+
+**BLUF:** The two-week duration is too brief to observe dietary effects on glycaemic control, so the study risks missing long-term physiological changes.
+
+Blood glucose regulation adapts over months; with only 10 participants per group and no control of other dietary inputs, the brief trial cannot establish stable trends, undermining validity.
+
+### (b) Explain the possible effect of the conflict of interest. (3 marks)
+
+**BLUF:** Because the authors consult for a gut-bacteria company, they may interpret inconclusive data as supporting microbiome products, biasing conclusions and recommendations.
+
+Financial ties create pressure to emphasise gut bacteria as the key determinant despite non-significant results, potentially influencing study design, data interpretation, or publication tone to favour commercial interests rather than evidence.
+
+## Question 34 (5 marks)
+
+**BLUF:** Governments shape university research budgets through grant priorities and compliance rules, as shown by the Australian Research Council directing funds toward clean-energy polymers.
+
+When the ARC names sustainable manufacturing a priority, universities align proposals to match, and projects such as the University of Tasmania’s recyclable polymer program receive multi-year funding while unfunded areas shrink. Reporting requirements, performance metrics, and renewal decisions determine whether labs can retain staff or equipment, demonstrating how government decisions expand some fields and constrain others.
+
+## Question 35 (7 marks)
+
+**BLUF:** Randomised, double-blind allocation of copper and inert bracelets, combined with look-alike placebos, ensures any change in arthritis pain results from copper exposure rather than expectation or assessor bias.
+
+Placebos: Provide bracelets machined from non-copper alloy but identical in appearance so expectations are controlled; pain changes in this group quantify the placebo effect.
+
+Control group: The placebo wearers supply the comparison baseline for pain scores, letting researchers determine whether copper delivers benefit beyond expectancy.
+
+Double-blind: Coding bracelets so neither participants nor assessors know allocations prevents biased reporting or scoring. Blinding, consistent pain scales, and random assignment keep the investigation valid and reliable.

@@ -1,0 +1,1242 @@
+# Module 1: Cause and Effect – Observing
+
+- Parsed the graph: syllabus → Module 1 → Inquiry Questions → Concepts, cases, practicals.
+- Preserved outcomes and HSC links provided via DERIVES_FROM/ASSESSES; no extras added.
+- Added concise context from authoritative sources where the graph was silent (not altering graph facts). ([educationstandards.nsw.edu.au](https://www.educationstandards.nsw.edu.au/wps/portal/nesa/11-12/stage-6-learning-areas/stage-6-science/investigating-science-2017?utm_source=openai), [nsw.gov.au](https://www.nsw.gov.au/education-and-training/nesa/curriculum/science/investigating-science-stage-6-2017?utm_source=openai))
+- Created glossary strictly from graph-provided definitions (none here).
+- Wrote question bank from in-graph content only; no external facts.
+- Marked genuinely missing elements as “(not mentioned)”.
+
+Subject/Course: Investigating Science Stage 6 (NESA)   Year Level: 11   Module: 1   Author: (not mentioned)
+Source Docs: Investigating Science Stage 6 Syllabus (2017); National Literacy Learning Progression; National Numeracy Learning Progression; HSC exams 2019–2024
+Date: 2025-09-03
+
+## Introduction
+This module develops the foundational skill of observation as the spark for scientific inquiry. It emphasises designing and conducting simple observations, distinguishing observations from inferences, and using initial primary data to plan further investigations. It also prompts students to recognise the role of observation in historical science and in Aboriginal and Torres Strait Islander Peoples’ knowledge of Country/Place. For course framing, see the official NESA syllabus overview and Year 11 module list. ([educationstandards.nsw.edu.au](https://www.educationstandards.nsw.edu.au/wps/portal/nesa/11-12/stage-6-learning-areas/stage-6-science/investigating-science-2017?utm_source=openai), [nsw.gov.au](https://www.nsw.gov.au/education-and-training/nesa/curriculum/science/investigating-science-stage-6-2017?utm_source=openai))
+
+## Inquiry Question 1 – How does observation instigate scientific investigation?
+### Concepts
+- Carry out a practical investigation to record both quantitative and qualitative data from observations.
+- Discuss and evaluate the characteristics of observations made compared with inferences drawn from the practical investigation.
+- Research how observation has instigated experimentation to investigate cause and effect in historical examples.
+- Assess ways in which Aboriginal and Torres Strait Islander Peoples use observation to understand Country and Place and to manage the natural environment.
+
+### Definitions (from graph)
+- (not mentioned)
+
+### Case Studies
+- (not mentioned)
+
+### Practical Examples
+- (not mentioned)
+
+### Links to Outcomes
+- (not mentioned)
+
+### Exam Alignment (no full question text)
+- (not mentioned)
+
+## Inquiry Question 2 – What are the benefits and drawbacks of qualitative and quantitative observations?
+### Concepts
+- Carry out a practical activity to qualitatively and quantitatively describe.
+- Analyse quantitative data from given information sources.
+- Evaluate differences between qualitative and quantitative observations/data and where these are used.
+
+### Definitions (from graph)
+- (not mentioned)
+
+### Case Studies
+- (not mentioned)
+
+### Practical Examples
+- (not mentioned)
+
+### Links to Outcomes
+- (not mentioned)
+
+### Exam Alignment (no full question text)
+- (not mentioned)
+
+## Inquiry Question 3 – How does primary data provide evidence for further investigation?
+### Concepts
+- Use data gathered to plan a practical investigation.
+- Develop a method to collect primary data for a practical investigation.
+- Evaluate how observation is limited by available observational tools.
+
+### Definitions (from graph)
+- (not mentioned)
+
+### Case Studies
+- (not mentioned)
+
+### Practical Examples
+- (not mentioned)
+
+### Links to Outcomes
+- (not mentioned)
+
+### Exam Alignment (no full question text)
+- (not mentioned)
+
+## Inquiry Question 4 – How does the collection and presentation of primary data affect the outcome of a scientific investigation?
+### Concepts
+- Carry out the planned practical investigation to collect primary data.
+- Apply conventions for collecting/recording observations to qualitatively and quantitatively analyse primary data.
+- Compare the usefulness of observations recorded in the initial activity with the primary data gathered in the planned investigation.
+
+### Definitions (from graph)
+- (not mentioned)
+
+### Case Studies
+- (not mentioned)
+
+### Practical Examples
+- (not mentioned)
+
+### Links to Outcomes
+- (not mentioned)
+
+### Exam Alignment (no full question text)
+- (not mentioned)
+
+## Inquiry Question 5 – How do conclusions drawn from the interpretation of primary data promote further scientific investigation?
+### Concepts
+- Draw conclusions from analysis of primary data collected in the investigation.
+- Evaluate the process of drawing conclusions from the collected primary data.
+- Assess findings of the investigation relative to other related investigations.
+- Assess the need to make further observations by gathering data about other phenomena arising from the investigation.
+
+### Definitions (from graph)
+- (not mentioned)
+
+### Case Studies
+- (not mentioned)
+
+### Practical Examples
+- (not mentioned)
+
+### Links to Outcomes
+- (not mentioned)
+
+### Exam Alignment (no full question text)
+- (not mentioned)
+
+## Connections to Previous Material
+(not mentioned)
+
+## Outcomes & Assessment Alignment
+| Outcome Code | Strand | Outcome Statement | Assessment Links (Year Q#) |
+|--------------|--------|-------------------|-----------------------------|
+| (not mentioned) | (not mentioned) | (not mentioned) | (not mentioned) |
+
+## Conclusion / Preview
+By the end of this module, students should be ready to progress to making inferences and generalisations from observational data (Module 2). ([nsw.gov.au](https://www.nsw.gov.au/education-and-training/nesa/curriculum/science/investigating-science-stage-6-2017?utm_source=openai))
+
+## Glossary of Key Terms
+| Term | Definition |
+|------|------------|
+| (not mentioned) | (not mentioned) |
+
+## Question Bank
+### Multiple-Choice (answers hidden in collapsible blocks)
+1. Q: In this module, what distinguishes an observation from an inference?
+- A. Observations are conclusions drawn from data; inferences are raw measurements
+- B. Observations are direct records from senses/devices; inferences interpret what those records might mean
+- C. Observations must be numerical; inferences must be descriptive
+- D. Observations are always accurate; inferences are always uncertain
+<details><summary>Answer</summary>B. Observations are direct qualitative/quantitative records; inferences are interpretations based on those records (as emphasised across IQ1–IQ2).</details>
+
+2. Q: Which action best shows how primary data can prompt further investigation?
+- A. Rewriting the hypothesis to match expected results
+- B. Using initial measurements to design a refined method targeting a new variable
+- C. Comparing your results with a textbook diagram
+- D. Stopping once any data have been collected
+<details><summary>Answer</summary>B. IQ3 and IQ5 highlight using gathered primary data to plan refined methods and identify next questions.</details>
+
+### Short-Answer / Calculation
+1. Q: Give one example of a qualitative observation and one of a quantitative observation from the same practical.
+<details><summary>Answer</summary>Qualitative: colour change observed in a solution. Quantitative: temperature recorded as 22.4 °C. Drawn from IQ2 focus on both forms.</details>
+
+2. Q: Explain one way observational tools can limit conclusions in an investigation.
+<details><summary>Answer</summary>Tools determine resolution, range and precision; limitations (e.g., scale with 1 g graduations) constrain the sensitivity and therefore the strength of conclusions. From IQ3.</details>
+
+## Formulas & Worked Examples
+```math
+(not mentioned)
+```
+(not mentioned)
+
+## Visual Aids Described
+- Flowchart: Observation → Question → Simple test/measurement → Primary data → Pattern noticed → Plan refined investigation → Conclusions → New observations.
+- Comparative table layout: Columns for “Observation (raw record)” vs “Inference (interpretation)” with examples from a class practical.
+- Infographic scaffold: “Tools shape what we see” showing device range/precision limiting detectable change.
+
+## Assigned Readings & References
+- Investigating Science Stage 6 Syllabus (2017), NESA. ([educationstandards.nsw.edu.au](https://www.educationstandards.nsw.edu.au/wps/portal/nesa/11-12/stage-6-learning-areas/stage-6-science/investigating-science-2017?utm_source=openai), [nsw.gov.au](https://www.nsw.gov.au/education-and-training/nesa/curriculum/science/investigating-science-stage-6-2017?utm_source=openai))
+- Context on Country/Place and observation: AIATSIS “What is Country?”; CSIRO on cultural burning (for teacher context/enrichment). ([aiatsis.gov.au](https://aiatsis.gov.au/explore/welcome-country?utm_source=openai), [blog.csiro.au](https://blog.csiro.au/cultural-burning-australia/?utm_source=openai))
+- Assessment materials (HSC Investigating Science 2019–2024 exam papers and marking guidelines). (documents referenced in graph)
+
+
+# Module 2: Cause and Effect – Inferences and Generalisations
+
+- Parsed the graph: Module 2 with six Inquiry Questions and embedded concepts.
+- Preserved graph-provided content; added minimal context from authoritative sources (pattern recognition, outliers). ([itl.nist.gov](https://itl.nist.gov/div898/handbook/eda/section3/eda35h.htm?utm_source=openai))
+- No extra outcomes beyond graph links (none present).
+- Glossary includes only terms defined in-graph (none here).
+- Built question bank solely from in-graph ideas.
+
+Subject/Course: Investigating Science Stage 6 (NESA)   Year Level: 11   Module: 2   Author: (not mentioned)
+Source Docs: Investigating Science Stage 6 Syllabus (2017); National Literacy Learning Progression; National Numeracy Learning Progression; HSC exams 2019–2024
+Date: 2025-09-03
+
+## Introduction
+This module moves from observation to interpretation: drawing inferences, validating them with secondary sources, recognising human pattern-seeking (and its pitfalls), and forming/test­ing hypotheses, assumptions and generalisations from data. It also foregrounds collaboration, alternative perspectives, and critical reflection. ([nsw.gov.au](https://www.nsw.gov.au/education-and-training/nesa/curriculum/science/investigating-science-stage-6-2017?utm_source=openai))
+
+## Inquiry Question 1 – What inferences can be drawn from observations?
+### Concepts
+- Investigate practices of Aboriginal and Torres Strait Islander Peoples related to observations and inferences.
+- Conduct a collaborative practical investigation and collect a range of qualitative and quantitative primary data.
+- Make inferences and conclusions derived from the primary data collected.
+
+### Definitions (from graph)
+- (not mentioned)
+
+### Case Studies
+- (not mentioned)
+
+### Practical Examples
+- (not mentioned)
+
+### Links to Outcomes
+- (not mentioned)
+
+### Exam Alignment (no full question text)
+- (not mentioned)
+
+## Inquiry Question 2 – How is secondary-sourced data used in practical investigations?
+### Concepts
+- Collect qualitative and quantitative secondary-sourced data to validate inferences and conclusions drawn from the practical.
+- Discuss how secondary data add to inferences from primary data.
+- Evaluate the usefulness of considering secondary research before undertaking primary data collection.
+
+### Definitions (from graph)
+- (not mentioned)
+
+### Case Studies
+- (not mentioned)
+
+### Practical Examples
+- (not mentioned)
+
+### Links to Outcomes
+- (not mentioned)
+
+### Exam Alignment (no full question text)
+- (not mentioned)
+
+## Inquiry Question 3 – How does humans' ability to recognise patterns affect the way they interpret data?
+### Concepts
+- Describe patterns observed over time in the Universe and nature.
+- Interpret data to propose a hypothesis based on an irregular pattern observed over time.
+- Examine the human tendency to observe patterns and misinterpret information.
+- Discuss how the tendency to recognise patterns, even when they may not exist, can lead to misinterpretation of data.
+- Discuss the role and significance of outliers in data. ([itl.nist.gov](https://itl.nist.gov/div898/handbook/eda/section3/eda35h.htm?utm_source=openai))
+
+### Definitions (from graph)
+- (not mentioned)
+
+### Case Studies
+- (not mentioned)
+
+### Practical Examples
+- (not mentioned)
+
+### Links to Outcomes
+- (not mentioned)
+
+### Exam Alignment (no full question text)
+- (not mentioned)
+
+## Inquiry Question 4 – How can hypotheses and assumptions be tested?
+### Concepts
+- Gather secondary-sourced data on historical assumptions revised by scientific investigation.
+- Propose an inquiry question, construct a hypothesis and conduct an investigation that tests a common assumption.
+- Use appropriate representations to analyse the data.
+
+### Definitions (from graph)
+- (not mentioned)
+
+### Case Studies
+- (not mentioned)
+
+### Practical Examples
+- (not mentioned)
+
+### Links to Outcomes
+- (not mentioned)
+
+### Exam Alignment (no full question text)
+- (not mentioned)
+
+## Inquiry Question 5 – What generalisations and assumptions are made from observed data?
+### Concepts
+- Make generalisations to describe any trends found in the data.
+- Draw conclusions based on generalisations.
+
+### Definitions (from graph)
+- (not mentioned)
+
+### Case Studies
+- (not mentioned)
+
+### Practical Examples
+- (not mentioned)
+
+### Links to Outcomes
+- (not mentioned)
+
+### Exam Alignment (no full question text)
+- (not mentioned)
+
+## Inquiry Question 6 – What role do peers play in scientific investigation?
+### Concepts
+- Assess the input of collaborative teams and alternative perspectives on hypothesis/research question development.
+- Assess the scientific community’s current understanding of scientific mysteries and why it remains incomplete.
+- Evaluate biases that may have affected European settlers’ views of Aboriginal and Torres Strait Islander ecological knowledge.
+
+### Definitions (from graph)
+- (not mentioned)
+
+### Case Studies
+- (not mentioned)
+
+### Practical Examples
+- (not mentioned)
+
+### Links to Outcomes
+- (not mentioned)
+
+### Exam Alignment (no full question text)
+- (not mentioned)
+
+## Connections to Previous Material
+(not mentioned)
+
+## Outcomes & Assessment Alignment
+| Outcome Code | Strand | Outcome Statement | Assessment Links (Year Q#) |
+|--------------|--------|-------------------|-----------------------------|
+| (not mentioned) | (not mentioned) | (not mentioned) | (not mentioned) |
+
+## Conclusion / Preview
+Students now progress to considering scientific models as tools to represent and predict phenomena (Module 3). ([nsw.gov.au](https://www.nsw.gov.au/education-and-training/nesa/curriculum/science/investigating-science-stage-6-2017?utm_source=openai))
+
+## Glossary of Key Terms
+| Term | Definition |
+|------|------------|
+| (not mentioned) | (not mentioned) |
+
+## Question Bank
+### Multiple-Choice
+1. Q: Which action best validates an inference made from primary data?
+- A. Repeating the inference to the class
+- B. Searching for secondary-sourced data that support or challenge it
+- C. Changing units to make the trend look stronger
+- D. Ignoring outliers to improve the correlation
+<details><summary>Answer</summary>B. IQ2 centres on using secondary sources to test inferences from primary data.</details>
+
+2. Q: An “outlier” in a dataset is best described as:
+- A. Any datum that reduces the correlation coefficient
+- B. An observation markedly distant from the rest, warranting investigation before deciding how to treat it
+- C. A measurement error that must always be deleted
+- D. A result proving the hypothesis false
+<details><summary>Answer</summary>B. It is a markedly different observation; investigate before removal or use robust methods. ([itl.nist.gov](https://itl.nist.gov/div898/handbook/eda/section3/eda35h.htm?utm_source=openai))</details>
+
+### Short-Answer
+1. Q: Explain how pattern-recognition can mislead scientists and how to counter this risk.
+<details><summary>Answer</summary>Humans tend to see patterns even in randomness, which can produce spurious hypotheses. Counter by pre-registering methods, using appropriate statistics, testing with new data, and consulting secondary sources (IQ2–IQ3).</details>
+
+2. Q: Outline one way peers improve the quality of an investigation.
+<details><summary>Answer</summary>Peers provide alternative perspectives that can reveal biases, refine hypotheses, and challenge assumptions (IQ6).</details>
+
+## Formulas & Worked Examples
+```math
+(not mentioned)
+```
+(not mentioned)
+
+## Visual Aids Described
+- Diagram: Data cloud with an outlier flagged; arrows to decisions “error?”, “new phenomenon?”, “use robust stats”. ([itl.nist.gov](https://itl.nist.gov/div898/handbook/eda/section3/eda35h.htm?utm_source=openai))
+- Map of inquiry flow: Observations → Inferences → Secondary validation → Generalisations → Conclusions.
+
+## Assigned Readings & References
+- Investigating Science Stage 6 Syllabus (2017), NESA. ([educationstandards.nsw.edu.au](https://www.educationstandards.nsw.edu.au/wps/portal/nesa/11-12/stage-6-learning-areas/stage-6-science/investigating-science-2017?utm_source=openai))
+- NIST e‑Handbook: Outliers (teacher reference/enrichment). ([itl.nist.gov](https://itl.nist.gov/div898/handbook/eda/section3/eda35h.htm?utm_source=openai))
+- Assessment materials (HSC Investigating Science 2019–2024).
+
+
+# Module 3: Scientific Models
+
+- Parsed the graph: Module 3 with four Inquiry Questions and concepts.
+- Preserved all in-graph content; added neutral framing about models’ roles from reputable scholarship. ([plato.stanford.edu](https://plato.stanford.edu/entries/models-science/?utm_source=openai))
+- No outcomes/exam links were provided in-graph for this module.
+- Glossary restricted to in-graph definitions (none present).
+- Question bank derived from graph only.
+
+Subject/Course: Investigating Science Stage 6 (NESA)   Year Level: 11   Module: 3   Author: (not mentioned)
+Source Docs: Investigating Science Stage 6 Syllabus (2017); National Literacy Learning Progression; National Numeracy Learning Progression; HSC exams 2019–2024
+Date: 2025-09-03
+
+## Introduction
+This module explores what scientific models are, why they are useful, when to choose among them, and how to construct a model to simplify understanding of a concept. Models act as representations that aid explanation, prediction and communication, but always with limitations and assumptions that must be evaluated. ([plato.stanford.edu](https://plato.stanford.edu/entries/models-science/?utm_source=openai))
+
+## Inquiry Question 1 – What is a scientific model?
+### Concepts
+- Examine the types of models that may be used in science (e.g., physical, mathematical, computational, conceptual).
+
+### Definitions (from graph)
+- (not mentioned)
+
+### Case Studies
+- (not mentioned)
+
+### Practical Examples
+- (not mentioned)
+
+### Links to Outcomes
+- (not mentioned)
+
+### Exam Alignment (no full question text)
+- (not mentioned)
+
+## Inquiry Question 2 – What makes scientific models useful?
+### Concepts
+- Examine the use of scientific models.
+- Outline how models illustrate, simplify and represent scientific concepts and processes.
+- Explain how models are used to make predictions difficult to analyse in the real world.
+- Assess the effectiveness of models for understanding processes, structures and mathematical relationships.
+- Evaluate how models draw on growing datasets across disciplines/technologies to refine predictions and test new hypotheses.
+
+### Definitions (from graph)
+- (not mentioned)
+
+### Case Studies
+- (not mentioned)
+
+### Practical Examples
+- (not mentioned)
+
+### Links to Outcomes
+- (not mentioned)
+
+### Exam Alignment
+- (not mentioned)
+
+## Inquiry Question 3 – When should a particular model be used?
+### Concepts
+- Explain why new evidence can challenge existing models, leading to refinement or replacement.
+- Compare limitations of simple and complex scientific models.
+
+### Definitions (from graph)
+- (not mentioned)
+
+### Case Studies
+- (not mentioned)
+
+### Practical Examples
+- (not mentioned)
+
+### Links to Outcomes
+- (not mentioned)
+
+### Exam Alignment
+- (not mentioned)
+
+## Inquiry Question 4 – How can a model be constructed to simplify understanding of a scientific concept?
+### Concepts
+- Investigate a scientific concept or process that can be represented using a model.
+
+### Definitions (from graph)
+- (not mentioned)
+
+### Case Studies
+- (not mentioned)
+
+### Practical Examples
+- (not mentioned)
+
+### Links to Outcomes
+- (not mentioned)
+
+### Exam Alignment
+- (not mentioned)
+
+## Connections to Previous Material
+(not mentioned)
+
+## Outcomes & Assessment Alignment
+| Outcome Code | Strand | Outcome Statement | Assessment Links (Year Q#) |
+|--------------|--------|-------------------|-----------------------------|
+| (not mentioned) | (not mentioned) | (not mentioned) | (not mentioned) |
+
+## Conclusion / Preview
+This module prepares students to distinguish theories and laws and to see how models interact with, support, or are revised by them (Module 4). ([nsw.gov.au](https://www.nsw.gov.au/education-and-training/nesa/curriculum/science/investigating-science-stage-6-2017?utm_source=openai))
+
+## Glossary of Key Terms
+| Term | Definition |
+|------|------------|
+| (not mentioned) | (not mentioned) |
+
+## Question Bank
+### Multiple-Choice
+1. Q: A scientific model is best described as:
+- A. A perfect replica of reality
+- B. A representation used to explain, predict, or explore aspects of a system under simplifying assumptions
+- C. A hypothesis that has been proven
+- D. A law expressed mathematically
+<details><summary>Answer</summary>B. Models are representational tools with assumptions and limits. ([plato.stanford.edu](https://plato.stanford.edu/entries/models-science/?utm_source=openai))</details>
+
+2. Q: When new evidence conflicts with a widely used model, scientists should:
+- A. Ignore the evidence to preserve consensus
+- B. Immediately discard the model without analysis
+- C. Reassess assumptions, refine or replace the model as needed
+- D. Treat the evidence as an outlier
+<details><summary>Answer</summary>C. IQ3 focuses on revision of models in light of evidence.</details>
+
+### Short-Answer
+1. Q: Give one benefit and one limitation of using a simple model over a complex one.
+<details><summary>Answer</summary>Benefit: clarity and accessibility for explanation. Limitation: may omit critical variables, reducing accuracy (IQ3).</details>
+
+2. Q: Describe a phenomenon you could model and state what data would refine your model.
+<details><summary>Answer</summary>Example: modelling cooling of a hot object; refine with time–temperature data at different environments (IQ4).</details>
+
+## Formulas & Worked Examples
+```math
+(not mentioned)
+```
+(not mentioned)
+
+## Visual Aids Described
+- Decision tree: “Purpose → Available data → Complexity allowed → Select model type; evaluate assumptions/limits.”
+- Comparison panel: simple vs complex model—trade-offs of generality, accuracy, simplicity. ([plato.stanford.edu](https://plato.stanford.edu/entries/models-science/?utm_source=openai))
+
+## Assigned Readings & References
+- Investigating Science Stage 6 Syllabus (2017), NESA. ([educationstandards.nsw.edu.au](https://www.educationstandards.nsw.edu.au/wps/portal/nesa/11-12/stage-6-learning-areas/stage-6-science/investigating-science-2017?utm_source=openai))
+- Background on modelling in science (teacher enrichment): Stanford Encyclopedia of Philosophy, “Models in Science.” ([plato.stanford.edu](https://plato.stanford.edu/entries/models-science/?utm_source=openai))
+
+
+# Module 4: Theories and Laws
+
+- Parsed the graph: Module 4 with four Inquiry Questions and concepts.
+- Preserved in-graph content (mass/energy conservation, plate tectonics, theory/law characteristics).
+- No outcomes/exam links attached in graph for this module.
+- Glossary remains graph-only; none provided.
+- Question bank built from module content.
+
+Subject/Course: Investigating Science Stage 6 (NESA)   Year Level: 11   Module: 4   Author: (not mentioned)
+Source Docs: Investigating Science Stage 6 Syllabus (2017); National Literacy Learning Progression; National Numeracy Learning Progression; HSC exams 2019–2024
+Date: 2025-09-03
+
+## Introduction
+Students compare theories and laws, investigate how each is supported by evidence, and see how both are applied across disciplines (e.g., conservation principles). The module also explores how new evidence can reshape interpretations (e.g., nuclear reactions and conservation). ([nsw.gov.au](https://www.nsw.gov.au/education-and-training/nesa/curriculum/science/investigating-science-stage-6-2017?utm_source=openai))
+
+## Inquiry Question 1 – What are the differences and similarities between scientific theories and laws?
+### Concepts
+- Collect primary data to investigate the law of conservation of mass.
+- Collect secondary-sourced data to investigate the theory of plate tectonics.
+- Compare the characteristics of theories and laws.
+
+### Definitions (from graph)
+- (not mentioned)
+
+### Case Studies
+- (not mentioned)
+
+### Practical Examples
+- (not mentioned)
+
+### Links to Outcomes
+- (not mentioned)
+
+### Exam Alignment
+- (not mentioned)
+
+## Inquiry Question 2 – What leads to a theory being developed?
+### Concepts
+- Gather secondary-sourced data to investigate supporting evidence and development of theories.
+- Gather secondary data to investigate how aspects of a theory can be disproved by evidence.
+
+### Definitions
+- (not mentioned)
+
+### Case Studies / Practical Examples
+- (not mentioned)
+
+### Links to Outcomes
+- (not mentioned)
+
+### Exam Alignment
+- (not mentioned)
+
+## Inquiry Question 3 – What leads to the acceptance of a scientific law?
+### Concepts
+- Gather secondary-sourced data to assess evidence supporting scientific laws.
+- Design and collect primary data to show that results can be predicted by laws.
+
+### Definitions / Case Studies / Practical Examples
+- (not mentioned)
+
+### Links to Outcomes
+- (not mentioned)
+
+### Exam Alignment
+- (not mentioned)
+
+## Inquiry Question 4 – How are theories and laws used in science?
+### Concepts
+- Investigate applications of the law of conservation of energy in different disciplines.
+- Demonstrate, with evidence and examples, how diverse phenomena have been unified into specific theories.
+- Gather secondary data on how nuclear reactions/decay changed interpretations of conservation of mass and energy.
+
+### Definitions / Case Studies / Practical Examples
+- (not mentioned)
+
+### Links to Outcomes
+- (not mentioned)
+
+### Exam Alignment
+- (not mentioned)
+
+## Connections to Previous Material
+(not mentioned)
+
+## Outcomes & Assessment Alignment
+| Outcome Code | Strand | Outcome Statement | Assessment Links (Year Q#) |
+|--------------|--------|-------------------|-----------------------------|
+| (not mentioned) | (not mentioned) | (not mentioned) | (not mentioned) |
+
+## Conclusion / Preview
+This closes the Preliminary course arc and prepares students for designing and evaluating their own investigations (Module 5). ([nsw.gov.au](https://www.nsw.gov.au/education-and-training/nesa/curriculum/science/investigating-science-stage-6-2017?utm_source=openai))
+
+## Glossary of Key Terms
+| Term | Definition |
+|------|------------|
+| (not mentioned) | (not mentioned) |
+
+## Question Bank
+### Multiple-Choice
+1. Q: A scientific law primarily:
+- A. Explains why phenomena occur
+- B. Describes consistent relationships under specified conditions, often mathematically
+- C. Is a speculative idea awaiting evidence
+- D. Is replaced once a theory is formed
+<details><summary>Answer</summary>B. Laws describe regularities; theories offer explanatory frameworks.</details>
+
+2. Q: Which activity best supports the development of a theory?
+- A. Collecting a single anecdote
+- B. Gathering convergent evidence from multiple, independent sources over time
+- C. Rewording a law
+- D. Relying on expert opinion alone
+<details><summary>Answer</summary>B. IQ2 emphasises sustained evidential support.</details>
+
+### Short-Answer
+1. Q: In a conservation-of-mass practical, the measured mass decreases after a reaction. Give one plausible methodological cause.
+<details><summary>Answer</summary>Gas escape from an unsealed system (methodological limitation), not a violation of the law.</details>
+
+2. Q: Briefly differentiate “theory” and “law” using plate tectonics and conservation of mass as anchors.
+<details><summary>Answer</summary>Plate tectonics is a theory that explains mechanisms of continental movement; conservation of mass is a law describing a consistent quantitative relationship in closed systems.</details>
+
+## Formulas & Worked Examples
+```math
+(not mentioned)
+```
+(not mentioned)
+
+## Visual Aids Described
+- Venn diagram: Theories vs Laws—overlap (predictive utility), distinctions (explanatory vs descriptive roles).
+- Lab schematic: sealed vs open systems for conservation-of-mass practical.
+
+## Assigned Readings & References
+- Investigating Science Stage 6 Syllabus (2017), NESA. ([educationstandards.nsw.edu.au](https://www.educationstandards.nsw.edu.au/wps/portal/nesa/11-12/stage-6-learning-areas/stage-6-science/investigating-science-2017?utm_source=openai))
+- Assessment materials (HSC Investigating Science 2019–2024).
+
+
+# Module 5: Scientific Investigations
+
+- Parsed the graph: Module 5 with four Inquiry Questions; kept all definitions, HSC examples, cases.
+- Preserved explicit outcome links (INS12-12; INS11/12-7) and HSC alignments (2019–2023 items).
+- Added minimal regulatory/safety enrichment from authoritative Australian sources (WHS, SDS). ([education.nsw.gov.au](https://education.nsw.gov.au/teaching-and-learning/curriculum/science/science-safety-and-compliance?utm_source=openai), [safeworkaustralia.gov.au](https://www.safeworkaustralia.gov.au/safety-topic/hazards/chemicals/safety-data-sheets/preparing-safety-data-sheets?utm_source=openai), [legislation.nsw.gov.au](https://legislation.nsw.gov.au/view/whole/html/sl-2017-0404?utm_source=openai))
+- Glossary entries exactly as defined in-graph.
+- Question bank built strictly from in-graph content.
+
+Subject/Course: Investigating Science Stage 6 (NESA)   Year Level: 12   Module: 5   Author: (not mentioned)
+Source Docs: Investigating Science Stage 6 Syllabus (2017); National Literacy Learning Progression; National Numeracy Learning Progression; HSC exams 2019–2024
+Date: 2025-09-03
+
+## Introduction
+This module develops full-cycle investigation competence: identifying triggers for inquiry, selecting and justifying methodology, executing and evaluating investigations (validity, reliability), and reporting scientifically. It aligns with planning/conducting outcomes and with conventions for scientific communication. ([nsw.gov.au](https://www.nsw.gov.au/education-and-training/nesa/curriculum/science/investigating-science-stage-6-2017?utm_source=openai))
+
+## Inquiry Question 1 – What initiates an investigation?
+### Concepts
+- Research factors that led scientists to investigate phenomena (e.g., observation → question → hypothesis).
+- Case study – Microwaves (Percy Spencer): accidental melting of a chocolate bar near radar led to tests (e.g., popcorn) and ultimately the microwave oven.
+- Propose reasons for scientists’ investigations by examining the types of data they sought.
+- Determine hypotheses tested in each investigation.
+- Describe where deviations from traditional/linear methodologies were needed to test each hypothesis.
+
+### Definitions (from graph)
+- (not mentioned)
+
+### Case Studies
+- Microwaves (Percy Spencer): observation-led innovation pathway from radar work to microwave ovens.
+
+### Practical Examples
+- (not mentioned)
+
+### Links to Outcomes
+- (not mentioned)
+
+### Exam Alignment
+- (not mentioned)
+
+## Inquiry Question 2 – What type of methodology best suits a scientific investigation?
+### Concepts
+- Using examples, evaluate the objectives and data collected in a recognised investigation.
+- Evaluate methodologies of those investigations.
+- Develop a method most appropriate to test a hypothesis following observation.
+- Justify the type of methodology used to test the hypothesis.
+
+### Definitions (from graph)
+- (not mentioned)
+
+### Case Studies / Practical Examples
+- (not mentioned)
+
+### Links to Outcomes
+- (not mentioned)
+
+### Exam Alignment
+- (not mentioned)
+
+## Inquiry Question 3 – How is the integrity of a scientific investigation judged?
+### Concepts
+- Evaluate the design of the student investigation.
+- Conduct the planned investigation; collect, record and analyse primary data.
+- Draw conclusions and suggest further investigation or research.
+- Evaluate the validity of the investigation.
+- Evaluate the reliability of the investigation.
+
+### Definitions (from graph)
+- Validity: “An experiment is valid if its method is appropriate and directly tests the intended hypothesis. Core components include controlling variables, having a single independent variable, and appropriate measurement of the dependent variable.” HSC example: 2021 Q22b GMO mice x diet groups illustrate control/IV structure.
+- Reliability: “An experiment is reliable if the results are consistent and repeatable. This is achieved through repetition (at least 3 trials) and using a sufficiently large sample size.” HSC example: 2020 Q25a self-injection—unreliable with n=1.
+
+### Case Studies
+- (not mentioned)
+
+### Practical Examples
+- (not mentioned)
+
+### Links to Outcomes
+- INS12-12 — Develops and evaluates the process of undertaking scientific investigations.
+
+### Exam Alignment (no full question text)
+- 2021 Q22b: Validity in experimental design (GMO mice vs diet).
+- 2020 Q25a: Reliability and sample size (self-injection example).
+
+## Inquiry Question 4 – What is the structure of an investigative report?
+### Concepts
+- Review a published, peer‑reviewed scientific report to determine conventions of writing (structure, style).
+- Identify purpose, language style, presentation and structure using a secondary source sample.
+- Compare structures/functions of a scientific investigation and its written report.
+- Prepare a report on the student investigation.
+
+### Definitions (from graph)
+- Scientific report conventions: “Aim, Hypothesis, Method, Results, Discussion, Conclusion; objective third-person language with precise scientific terminology.” HSC example: 2023 Q30—penalised for informal headings/colloquial terms.
+
+### Case Studies / Practical Examples
+- (not mentioned)
+
+### Links to Outcomes
+- INS11/12-7 — Communicates scientific understanding using suitable language/terminology for audience/purpose.
+
+### Exam Alignment (no full question text)
+- 2023 Q30: Report conventions and scientific style.
+
+## Connections to Previous Material
+- Validity, reliability and reporting link to planning/processing outcomes across Stage 6 and underpin Modules 6–8. For school safety and compliance when planning methods, consult NSW guidance on risk assessment and chemical SDS requirements. ([education.nsw.gov.au](https://education.nsw.gov.au/teaching-and-learning/curriculum/science/science-safety-and-compliance?utm_source=openai), [safeworkaustralia.gov.au](https://www.safeworkaustralia.gov.au/safety-topic/hazards/chemicals/safety-data-sheets/preparing-safety-data-sheets?utm_source=openai), [legislation.nsw.gov.au](https://legislation.nsw.gov.au/view/whole/html/sl-2017-0404?utm_source=openai))
+
+## Outcomes & Assessment Alignment
+| Outcome Code | Strand | Outcome Statement | Assessment Links (Year Q#) |
+|--------------|--------|-------------------|-----------------------------|
+| INS12-12 | Planning investigations; Communicating | Develops and evaluates the process of undertaking scientific investigations | 2021 Q22b; 2020 Q25a |
+| INS11/12-7 | Communicating | Communicates scientific understanding using suitable language and terminology | 2023 Q30 |
+
+## Conclusion / Preview
+Students now apply investigation literacy to explore technology–science feedbacks (Module 6) and to evaluate claims and evidence (Module 7). ([nsw.gov.au](https://www.nsw.gov.au/education-and-training/nesa/curriculum/science/investigating-science-stage-6-2017?utm_source=openai))
+
+## Glossary of Key Terms
+| Term | Definition |
+|------|------------|
+| Validity | An experiment directly tests the intended hypothesis; control of variables; single IV; appropriate DV measurement. |
+| Reliability | Results are consistent/repeatable; repetition (≥3 trials) and adequate sample size. |
+| Scientific report (structure/style) | Aim, Hypothesis, Method, Results, Discussion, Conclusion; objective third-person language, precise terminology. |
+
+## Question Bank
+### Multiple-Choice
+1. Q: Which change most directly improves validity?
+- A. Increasing trials from 1 to 3
+- B. Adding a second independent variable
+- C. Introducing a control while holding all variables constant except the IV
+- D. Using informal language in the report
+<details><summary>Answer</summary>C. Validity is about method appropriateness and isolating the IV with controls.</details>
+
+2. Q: A study with n=1 and no repeats primarily fails on:
+- A. Accuracy
+- B. Reliability
+- C. Validity
+- D. Ethics
+<details><summary>Answer</summary>B. Reliability—consistency/replicability needs repeats/sample size.</details>
+
+### Short-Answer
+1. Q: State two features of a scientifically written report that would be penalised if missing.
+<details><summary>Answer</summary>Correct sectioning (e.g., Hypothesis, Method) and objective, precise terminology (avoid colloquialisms) per the definition/HSC example.</details>
+
+2. Q: Distinguish a design flaw affecting validity from one affecting reliability in the same investigation.
+<details><summary>Answer</summary>Validity flaw: two independent variables changed simultaneously. Reliability flaw: only one trial per condition (no replication).</details>
+
+## Formulas & Worked Examples
+```math
+(not mentioned)
+```
+(not mentioned)
+
+## Visual Aids Described
+- Checklist poster: Validity (controls, IV, DV) vs Reliability (repeats, sample size).
+- Report template layout with annotated exemplar features.
+
+## Assigned Readings & References
+- Investigating Science Stage 6 Syllabus (2017), NESA; Years 11–12 Assessment advice. ([educationstandards.nsw.edu.au](https://www.educationstandards.nsw.edu.au/wps/portal/nesa/11-12/stage-6-learning-areas/stage-6-science/investigating-science-2017?utm_source=openai))
+- NSW Education: Science safety and compliance (risk assessment, CSIS). SafeWork/Safe Work Australia guidance on SDS. ([education.nsw.gov.au](https://education.nsw.gov.au/teaching-and-learning/curriculum/science/science-safety-and-compliance?utm_source=openai), [safeworkaustralia.gov.au](https://www.safeworkaustralia.gov.au/safety-topic/hazards/chemicals/safety-data-sheets/preparing-safety-data-sheets?utm_source=openai), [legislation.nsw.gov.au](https://legislation.nsw.gov.au/view/whole/html/sl-2017-0404?utm_source=openai))
+- HSC Investigating Science Exams/Marking Guidelines 2019–2024 (as referenced in graph).
+
+
+# Module 6: Technologies
+
+- Parsed the graph: Module 6 with two Inquiry Questions; retained the given practical and definitions.
+- Preserved outcome link INS12-13 and HSC link (2024 Q36) for the science–technology feedback loop.
+- Added enrichment on chemiluminescence/glow-stick temperature effect from RSC/ACS resources. ([edu.rsc.org](https://edu.rsc.org/exhibition-chemistry/the-glow-stick-reaction/3010386.article/?utm_source=openai), [acs.org](https://www.acs.org/education/celebrating-chemistry-editions/2021-ncw/slow-the-glow.html?utm_source=openai))
+- Included WHS/SDS reminders where selecting technologies. ([education.nsw.gov.au](https://education.nsw.gov.au/teaching-and-learning/curriculum/science/science-safety-and-compliance?utm_source=openai), [safework.nsw.gov.au](https://www.safework.nsw.gov.au/hazards-a-z/hazardous-chemical/general-requirements/general-requirements-accordion/obtain-and-provide-safety-information?utm_source=openai))
+
+Subject/Course: Investigating Science Stage 6 (NESA)   Year Level: 12   Module: 6   Author: (not mentioned)
+Source Docs: Investigating Science Stage 6 Syllabus (2017); National Literacy Learning Progression; National Numeracy Learning Progression; HSC exams 2019–2024
+Date: 2025-09-03
+
+## Introduction
+Students examine how measurement technologies shape data quality (accuracy, error, safety) and how science and technology co‑evolve: new tools enable discoveries that, in turn, drive further technologies. ([nsw.gov.au](https://www.nsw.gov.au/education-and-training/nesa/curriculum/science/investigating-science-stage-6-2017?utm_source=openai))
+
+## Inquiry Question 1 – How does technology enhance and/or limit scientific investigation?
+### Concepts
+- Design a practical using available technologies to measure IV and DV and produce quantitative data.
+- Conduct the investigation; evaluate limitations of the technologies used.
+- Investigate measuring devices used; assess likelihood of random/systematic errors and degree of accuracy.
+- Compare accuracy of analogue and digital technologies in making observations.
+- Assess safety of selected technologies using chemical safety data and WHS guidelines. ([education.nsw.gov.au](https://education.nsw.gov.au/teaching-and-learning/curriculum/science/science-safety-and-compliance?utm_source=openai), [safework.nsw.gov.au](https://www.safework.nsw.gov.au/hazards-a-z/hazardous-chemical/general-requirements/general-requirements-accordion/obtain-and-provide-safety-information?utm_source=openai))
+
+### Definitions (from graph)
+- (not mentioned)
+
+### Case Studies
+- (not mentioned)
+
+### Practical Examples
+- Effect of Temperature on Reaction Rate (glow stick brightness vs temperature). ([edu.rsc.org](https://edu.rsc.org/exhibition-chemistry/the-glow-stick-reaction/3010386.article/?utm_source=openai), [acs.org](https://www.acs.org/education/celebrating-chemistry-editions/2021-ncw/slow-the-glow.html?utm_source=openai))
+
+### Links to Outcomes
+- (not mentioned)
+
+### Exam Alignment
+- (not mentioned)
+
+## Inquiry Question 2 – How have developments in technology led to advances in scientific theories and laws that, in turn, drive further developments in technology?
+### Concepts
+- Using examples, assess the impact of technological developments on evidence for theories/laws/models.
+- Using examples, assess the impact of evolving theories/laws/models on development of new technologies.
+- Investigate scientists’ increasing awareness of the value of Aboriginal and Torres Strait Islander Peoples’ knowledge of medicinal/material uses of plants.
+
+### Definitions (from graph)
+- Science–technology feedback loop: “New technology enables new scientific understanding, which in turn enables newer technology.” HSC example (2024 Q36): X-ray crystallography (Photo 51) → DNA double helix model → recombinant DNA/GMOs. ([kcl.ac.uk](https://www.kcl.ac.uk/the-story-behind-photograph-51?utm_source=openai))
+
+### Case Studies / Practical Examples
+- (not mentioned)
+
+### Links to Outcomes
+- INS12-13 — Describes and explains how science drives the development of technologies.
+
+### Exam Alignment (no full question text)
+- 2024 Q36: DNA structure and GM technologies—interdependence of technology and science.
+
+## Connections to Previous Material
+- Error analysis and accuracy discussions build on Module 5’s validity/reliability focus; SDS/WHS compliance continues to underpin practical work. ([education.nsw.gov.au](https://education.nsw.gov.au/teaching-and-learning/curriculum/science/science-safety-and-compliance?utm_source=openai), [safeworkaustralia.gov.au](https://www.safeworkaustralia.gov.au/safety-topic/hazards/chemicals/safety-data-sheets/preparing-safety-data-sheets?utm_source=openai))
+
+## Outcomes & Assessment Alignment
+| Outcome Code | Strand | Outcome Statement | Assessment Links (Year Q#) |
+|--------------|--------|-------------------|-----------------------------|
+| INS12-13 | Communicating | Describes and explains how science drives the development of technologies | 2024 Q36 |
+
+## Conclusion / Preview
+Students will now apply these skills to evaluate claims, evidence quality, and bias in public and scientific communication (Module 7). ([nsw.gov.au](https://www.nsw.gov.au/education-and-training/nesa/curriculum/science/investigating-science-stage-6-2017?utm_source=openai))
+
+## Glossary of Key Terms
+| Term | Definition |
+|------|------------|
+| Science–technology feedback loop | New technology enables new scientific understanding, which then enables further technological development. |
+
+## Question Bank
+### Multiple-Choice
+1. Q: A digital sensor with known calibration drift primarily risks:
+- A. Reduced validity only
+- B. Systematic error (bias) affecting accuracy
+- C. Random error only
+- D. Ethical non-compliance by default
+<details><summary>Answer</summary>B. Drift introduces systematic error, biasing measurements.</details>
+
+2. Q: In the glow‑stick practical, placing one stick in hot water and one in ice shows that:
+- A. Higher temperature slows the reaction but brightens light
+- B. Higher temperature accelerates the reaction, increasing brightness but shortening duration
+- C. Lower temperature increases both brightness and duration
+- D. Temperature has no effect
+<details><summary>Answer</summary>B. Reaction rate rises with temperature, increasing brightness but reducing duration. ([acs.org](https://www.acs.org/education/celebrating-chemistry-editions/2021-ncw/slow-the-glow.html?utm_source=openai))</details>
+
+### Short-Answer
+1. Q: Give one advantage and one limitation of an analogue device compared with its digital counterpart.
+<details><summary>Answer</summary>Advantage: may offer continuous readout that reveals trends. Limitation: harder to read precisely (parallax), increasing random error.</details>
+
+2. Q: Identify one WHS step you must take before using a new chemical reagent in a school experiment.
+<details><summary>Answer</summary>Obtain and consult the current Safety Data Sheet and complete a risk assessment in line with NSW guidance. ([education.nsw.gov.au](https://education.nsw.gov.au/teaching-and-learning/curriculum/science/science-safety-and-compliance?utm_source=openai), [safework.nsw.gov.au](https://www.safework.nsw.gov.au/hazards-a-z/hazardous-chemical/general-requirements/general-requirements-accordion/obtain-and-provide-safety-information?utm_source=openai))</details>
+
+## Formulas & Worked Examples
+```math
+(not mentioned)
+```
+(not mentioned)
+
+## Visual Aids Described
+- Error taxonomy graphic: Accuracy vs Precision; Random vs Systematic sources mapped to device features.
+- Science–technology loop timeline: Photo 51 → DNA model → recombinant DNA tools. ([kcl.ac.uk](https://www.kcl.ac.uk/the-story-behind-photograph-51?utm_source=openai))
+
+## Assigned Readings & References
+- Investigating Science Stage 6 Syllabus (2017), NESA. ([educationstandards.nsw.edu.au](https://www.educationstandards.nsw.edu.au/wps/portal/nesa/11-12/stage-6-learning-areas/stage-6-science/investigating-science-2017?utm_source=openai))
+- RSC/ACS resources for chemiluminescence and temperature effects. ([edu.rsc.org](https://edu.rsc.org/exhibition-chemistry/the-glow-stick-reaction/3010386.article/?utm_source=openai), [acs.org](https://www.acs.org/education/celebrating-chemistry-editions/2021-ncw/slow-the-glow.html?utm_source=openai))
+- NSW Science safety and SDS requirements. ([education.nsw.gov.au](https://education.nsw.gov.au/teaching-and-learning/curriculum/science/science-safety-and-compliance?utm_source=openai), [safeworkaustralia.gov.au](https://www.safeworkaustralia.gov.au/safety-topic/hazards/chemicals/safety-data-sheets/preparing-safety-data-sheets?utm_source=openai), [legislation.nsw.gov.au](https://legislation.nsw.gov.au/view/whole/html/sl-2017-0404?utm_source=openai))
+- HSC Investigating Science 2024 exam (as referenced in graph).
+
+
+# Module 7: Fact or Fallacy?
+
+- Parsed the graph: Module 7 with five Inquiry Questions; preserved definitions and HSC examples.
+- Preserved outcomes and numerous HSC alignments (2019, 2020).
+- Added enrichment on correlation vs causation from ABS; peer review from COPE. ([abs.gov.au](https://www.abs.gov.au/statistics/understanding-statistics/statistical-terms-and-concepts/correlation-and-causation?utm_source=openai), [publicationethics.org](https://publicationethics.org/peerreview?utm_source=openai))
+- Glossary entries are exactly those defined in-graph.
+
+Subject/Course: Investigating Science Stage 6 (NESA)   Year Level: 12   Module: 7   Author: (not mentioned)
+Source Docs: Investigating Science Stage 6 Syllabus (2017); National Literacy Learning Progression; National Numeracy Learning Progression; HSC exams 2019–2024
+Date: 2025-09-03
+
+## Introduction
+This module equips students to test claims, design fair comparisons (controls, blinding, placebos), separate correlation from causation, detect pseudoscience, and understand the role and limitations of peer review in shaping scientific knowledge and public understanding. ([nsw.gov.au](https://www.nsw.gov.au/education-and-training/nesa/curriculum/science/investigating-science-stage-6-2017?utm_source=openai))
+
+## Inquiry Question 1 – How can a claim be tested?
+### Concepts
+- Plan and conduct an investigation based on testing a claim.
+- Evaluate how sample selection and sample size affect results.
+- Compare emotive advertising with evidence‑based claims.
+
+### Definitions (from graph)
+- (not mentioned)
+
+### Case Studies
+- (not mentioned)
+
+### Practical Examples
+- Testing a product claim (e.g., mass % of chocolate chips in cookies) via separation and percentage-by-mass calculation.
+
+### Links to Outcomes
+- (not mentioned)
+
+### Exam Alignment
+- (not mentioned)
+
+## Inquiry Question 2 – What factors can affect the way data can be interpreted, analysed and understood?
+### Concepts
+- Justify the use of placebos, double‑blind trials and control groups to draw valid conclusions.
+- Evaluate the impact of societal and economic influences on data collection and interpretation. ([tga.gov.au](https://www.tga.gov.au/resources/guidance/australian-clinical-trial-handbook?utm_source=openai))
+
+### Definitions (from graph)
+- (not mentioned)
+
+### Case Studies / Practical Examples
+- (not mentioned)
+
+### Links to Outcomes
+- (not mentioned)
+
+### Exam Alignment
+- (not mentioned)
+
+## Inquiry Question 3 – What type of evidence is needed to draw valid conclusions?
+### Concepts
+- Evaluate how evidence of a correlation can be misinterpreted as causation.
+
+### Definitions (from graph)
+- Correlation vs causation: correlation = variables change together; causation = one variable directly causes change in another; confusing the two is a fallacy. HSC example: 2019 Q25c whales vs CO₂.
+
+### Case Studies
+- The Hawthorne Effect: observation itself influences results (workers’ productivity increases when observed).
+
+### Practical Examples
+- (not mentioned)
+
+### Links to Outcomes
+- INS12-14 — Uses evidence-based analysis to support or refute a hypothesis.
+
+### Exam Alignment (no full question text)
+- 2019 Q25c: Correlation ≠ causation (whales/CO₂). For general statistical framing, see ABS guidance. ([abs.gov.au](https://www.abs.gov.au/statistics/understanding-statistics/statistical-terms-and-concepts/correlation-and-causation?utm_source=openai))
+
+## Inquiry Question 4 – How does the reporting of science influence the general public's understanding of the subject?
+### Concepts
+- Examine a contemporary scientific debate and its portrayal in mainstream media.
+- Evaluate use/interpretation of “theory”, “hypothesis”, “belief”, “law” in media reporting.
+- Compare reporting between a peer‑reviewed journal article and popular media.
+- Analyse how conflicts of interest can suppress, misinterpret or misrepresent evidence.
+- Describe the halo effect; explain how positive perceptions can reject valid alternatives.
+- Analyse a pseudo‑scientific claim and how scientific language/processes are manipulated to sway opinion.
+
+### Definitions (from graph)
+- Pseudoscience: claim/belief/practice presented as scientific but not adhering to the scientific method; often uses scientific‑sounding language to mislead. HSC example: 2020 Q27a astrology.
+
+### Case Studies / Practical Examples
+- (not mentioned)
+
+### Links to Outcomes
+- INS11/12-6 — Problem solving using data and scientific processes (applied to pseudoscientific claims).
+
+### Exam Alignment (no full question text)
+- 2020 Q27a: Identifying pseudoscience and misuse of scientific language.
+
+## Inquiry Question 5 – Can the scientific community and process of peer review find 'the truth'?
+### Concepts
+- Investigate a case of falsified results using secondary sources.
+- Analyse the “publish or perish” debate and its implications.
+- Evaluate the rising volume of publications and feasibility of review/replication/validation.
+- Analyse benefits of peer review for advancing science.
+
+### Definitions (from graph)
+- Peer review: evaluation of scientific work by experts to ensure quality/validity before publication; quality‑control filter. HSC example: 2019 Q29b—peer review scrutinised Marshall & Warren’s H. pylori ulcer work.
+
+### Case Studies / Practical Examples
+- (not mentioned)
+
+### Links to Outcomes
+- INS11/12-5 — Analyses and evaluates primary and secondary data/information.
+
+### Exam Alignment (no full question text)
+- 2019 Q29b: Role of peer review in vetting revolutionary claims.
+
+## Connections to Previous Material
+- Builds on Module 5 (controls, validity) and Module 6 (technology limits), now focusing on trial design elements like blinding/placebos and on evaluating claims in public discourse. For rigour in interpreting correlation vs causation, see ABS statistical guidance; for peer‑review ethics, see COPE. ([abs.gov.au](https://www.abs.gov.au/statistics/understanding-statistics/statistical-terms-and-concepts/correlation-and-causation?utm_source=openai), [publicationethics.org](https://publicationethics.org/peerreview?utm_source=openai))
+
+## Outcomes & Assessment Alignment
+| Outcome Code | Strand | Outcome Statement | Assessment Links (Year Q#) |
+|--------------|--------|-------------------|-----------------------------|
+| INS12-14 | Problem solving | Uses evidence-based analysis to support or refute a hypothesis | 2019 Q25c |
+| INS11/12-6 | Problem solving | Solves problems using data, critical thinking and scientific processes | 2020 Q27a |
+| INS11/12-5 | Analysing data and information | Analyses and evaluates data and information | 2019 Q29b |
+| INS12-5 | Analysing data and information | Analyses and evaluates primary and secondary data and information | 2019 Q1; 2019 Q21a |
+
+## Conclusion / Preview
+Students now broaden to the societal interface of science—ethics, regulation, economics, politics—in Module 8. ([nsw.gov.au](https://www.nsw.gov.au/education-and-training/nesa/curriculum/science/investigating-science-stage-6-2017?utm_source=openai))
+
+## Glossary of Key Terms
+| Term | Definition |
+|------|------------|
+| Correlation vs causation | Correlation: variables change together; causation: one directly produces change in the other; conflating them is a fallacy. |
+| Pseudoscience | A claim presented as scientific without adhering to the scientific method; often misuses scientific language. |
+| Peer review | Expert evaluation before publication to ensure quality and validity; a key quality‑control mechanism. |
+
+## Question Bank
+### Multiple-Choice
+1. Q: Which design most reduces expectation bias in a medical trial?
+- A. Open trial with no control
+- B. Single‑blind without placebo
+- C. Double‑blind with placebo control
+- D. Case study with historical controls
+<details><summary>Answer</summary>C. Double‑blind placebo‑controlled design minimises participant/researcher expectations. ([tga.gov.au](https://www.tga.gov.au/resources/guidance/australian-clinical-trial-handbook?utm_source=openai))</details>
+
+2. Q: A media article claims “Eating ice cream causes sunburn.” Your best first response is to:
+- A. Accept it; correlation proves causation
+- B. Dismiss it; correlation is always meaningless
+- C. Seek the original study to check controls and confounders (e.g., temperature/season)
+- D. Assume fraud
+<details><summary>Answer</summary>C. Check the primary source for design and confounders; correlation alone is insufficient. ([abs.gov.au](https://www.abs.gov.au/statistics/understanding-statistics/statistical-terms-and-concepts/correlation-and-causation?utm_source=openai))</details>
+
+### Short-Answer
+1. Q: Give two indicators a claim is pseudoscientific.
+<details><summary>Answer</summary>Not falsifiable/testable; misuses scientific jargon to mask lack of evidence; absence of peer‑reviewed support; reliance on testimonials (drawn from definition and IQ4 focus).</details>
+
+2. Q: Briefly explain one benefit and one limitation of peer review.
+<details><summary>Answer</summary>Benefit: filters poor methods and improves clarity, aiding trust. Limitation: potential bias and capacity constraints with growing volume (IQ5); see COPE guidance on managing bias. ([publicationethics.org](https://publicationethics.org/resources/forum-discussions/bias-peer-review?utm_source=openai))</details>
+
+## Formulas & Worked Examples
+```math
+(not mentioned)
+```
+(not mentioned)
+
+## Visual Aids Described
+- Trial-design diagram: population → randomisation → treatment vs placebo → blinding layers.
+- “Correlation ≠ Causation” graphic with confounder example (seasonal factor). ([abs.gov.au](https://www.abs.gov.au/statistics/understanding-statistics/statistical-terms-and-concepts/correlation-and-causation?utm_source=openai))
+- Peer‑review flow schematic (submission → editor triage → reviewers → revision → decision). ([publicationethics.org](https://publicationethics.org/peerreview?utm_source=openai))
+
+## Assigned Readings & References
+- Investigating Science Stage 6 Syllabus (2017), NESA. ([educationstandards.nsw.edu.au](https://www.educationstandards.nsw.edu.au/wps/portal/nesa/11-12/stage-6-learning-areas/stage-6-science/investigating-science-2017?utm_source=openai))
+- ABS: Correlation and Causation (teacher/student enrichment). ([abs.gov.au](https://www.abs.gov.au/statistics/understanding-statistics/statistical-terms-and-concepts/correlation-and-causation?utm_source=openai))
+- COPE resources on peer review and bias. ([publicationethics.org](https://publicationethics.org/peerreview?utm_source=openai))
+- HSC Investigating Science 2019–2024 exam materials referenced in graph.
+
+
+# Module 8: Science and Society
+
+- Parsed the graph: Module 8 with three Inquiry Questions; kept definitions, cases, HSC links.
+- Preserved outcome links (INS12-15) and HSC alignments (2019, 2020, 2022).
+- Added enrichment on ethics (NHMRC National Statement 2023—effective 1 Jan 2024) and organ donation regulation (DonateLife; WHO principles). ([nhmrc.gov.au](https://www.nhmrc.gov.au/research-policy/ethics/national-statement-ethical-conduct-human-research?utm_source=openai), [donatelife.gov.au](https://www.donatelife.gov.au/donation-and-transplantation-data?utm_source=openai), [who.int](https://www.who.int/publications/i/item/WHO-HTP-EHT-CPR-2010.01?utm_source=openai))
+
+Subject/Course: Investigating Science Stage 6 (NESA)   Year Level: 12   Module: 8   Author: (not mentioned)
+Source Docs: Investigating Science Stage 6 Syllabus (2017); National Literacy Learning Progression; National Numeracy Learning Progression; HSC exams 2019–2024
+Date: 2025-09-03
+
+## Introduction
+This module examines how scientific events and research affect public trust; why research is regulated; and how economic, social and political forces shape science. Australian ethical frameworks (NHMRC 2023 National Statement) and organ donation systems (DonateLife) provide contemporary context. ([nhmrc.gov.au](https://www.nhmrc.gov.au/research-policy/ethics/national-statement-ethical-conduct-human-research?utm_source=openai), [donatelife.gov.au](https://www.donatelife.gov.au/?utm_source=openai))
+
+## Inquiry Question 1 – How do science-related events affect society's view of science?
+### Concepts
+- Investigate past events and their effect on science’s public image.
+- Case study – Development of the Smallpox Vaccine (Jenner): observation → vaccination → eradication’s impact on public confidence. ([who.int](https://www.who.int/health-topics/smallpox?utm_source=openai))
+
+### Definitions (from graph)
+- (not mentioned)
+
+### Case Studies
+- Smallpox Vaccine: from Jenner’s 1796 observation to WHO‑led eradication declared in 1980. ([who.int](https://www.who.int/health-topics/smallpox?utm_source=openai))
+
+### Practical Examples
+- (not mentioned)
+
+### Links to Outcomes
+- (not mentioned)
+
+### Exam Alignment
+- (not mentioned)
+
+## Inquiry Question 2 – Why is scientific research regulated?
+### Concepts
+- Investigate the need for regulation of research.
+- Assess ethical issues surrounding current research.
+- Investigate international scientific codes of conduct regarding research and practice.
+- Evaluate the effectiveness of international regulation in research and practice.
+
+### Definitions (from graph)
+- Ethical research (NHMRC core principles): Informed Consent; Beneficence; Justice. HSC example: 2020 Q25b—ethics committee conditions for self‑injection scenario. ([nhmrc.gov.au](https://www.nhmrc.gov.au/research-policy/ethics/national-statement-ethical-conduct-human-research?utm_source=openai))
+
+### Case Studies
+- Organ Transplantation: allocation/consent frameworks; risks of black markets; national programs such as Australia’s DonateLife; WHO Guiding Principles. ([donatelife.gov.au](https://www.donatelife.gov.au/?utm_source=openai), [who.int](https://www.who.int/publications/i/item/WHO-HTP-EHT-CPR-2010.01?utm_source=openai))
+
+### Practical Examples
+- (not mentioned)
+
+### Links to Outcomes
+- INS12-15 — Evaluates implications of ethical, social, economic and political influences on science.
+
+### Exam Alignment (no full question text)
+- 2020 Q25b: Application of ethics frameworks to risky methodologies.
+
+## Inquiry Question 3 – How do economic, social and political influences affect scientific research?
+### Concepts
+- Evaluate costs of space exploration relative to social investments.
+- Evaluate how scientific research aids economic development and human progress.
+- Evaluate impacts of research, devices and applications on world health and wellbeing.
+- Analyse impacts of governments and corporations on research (conflicts of interest).
+- Evaluate how personal, cultural and socioeconomic perspectives influence research direction.
+
+### Definitions (from graph)
+- Conflict of interest: when private interests (e.g., funding ties) could improperly influence professional judgement. HSC examples: 2022 Q33b corporate funding; 2020 Q32c climate communication conflict.
+- Social/political influence: scientific evidence can inform political decisions and shape public opinion. HSC example: 2019 Q30b Franklin River Dam—scientific evidence informing political/legal outcomes. ([peo.gov.au](https://peo.gov.au/understand-our-parliament/history-of-parliament/history-milestones/australian-parliament-history-timeline/events/high-court-rules-on-the-franklin-dam-case?utm_source=openai))
+
+### Case Studies
+- (not mentioned)
+
+### Practical Examples
+- (not mentioned)
+
+### Links to Outcomes
+- INS12-15 — Ethical, social, economic and political influences.
+
+### Exam Alignment (no full question text)
+- 2022 Q33b; 2020 Q32c: Corporate funding/conflict of interest.
+- 2019 Q30b: Scientific evidence and political decision-making (Franklin River Dam). ([peo.gov.au](https://peo.gov.au/understand-our-parliament/history-of-parliament/history-milestones/australian-parliament-history-timeline/events/high-court-rules-on-the-franklin-dam-case?utm_source=openai))
+
+## Connections to Previous Material
+- Builds on Module 7’s critique of claims/media by extending to governance and ethics; consult the current NHMRC National Statement (in effect since 1 Jan 2024) for human research conduct in Australia. ([nhmrc.gov.au](https://www.nhmrc.gov.au/research-policy/ethics/national-statement-ethical-conduct-human-research?utm_source=openai))
+
+## Outcomes & Assessment Alignment
+| Outcome Code | Strand | Outcome Statement | Assessment Links (Year Q#) |
+|--------------|--------|-------------------|-----------------------------|
+| INS12-15 | Communicating | Evaluates ethical, social, economic and political influences on science | 2020 Q25b; 2022 Q33b; 2020 Q32c; 2019 Q30b |
+
+## Conclusion / Preview
+This capstone module integrates scientific practice with societal decision‑making and ethics, preparing students to evaluate science claims responsibly in civic contexts. ([nsw.gov.au](https://www.nsw.gov.au/education-and-training/nesa/curriculum/science/investigating-science-stage-6-2017?utm_source=openai))
+
+## Glossary of Key Terms
+| Term | Definition |
+|------|------------|
+| Ethical research (core principles) | Informed Consent; Beneficence; Justice (NHMRC National Statement). ([nhmrc.gov.au](https://www.nhmrc.gov.au/research-policy/ethics/national-statement-ethical-conduct-human-research?utm_source=openai)) |
+| Conflict of interest | A situation where private interests could improperly influence professional judgement (applies to funding, publishing, etc.). ([nhmrc.gov.au](https://www.nhmrc.gov.au/research-policy/research-integrity/2018-australian-code-responsible-conduct-research?utm_source=openai)) |
+| Social/political influence | The use of scientific evidence to inform policy and shape public opinion. |
+
+## Question Bank
+### Multiple-Choice
+1. Q: According to current Australian guidance, which statement is most accurate?
+- A. The 2007 National Statement is the current guideline
+- B. The 2023 National Statement took effect on 1 Jan 2024 and supersedes the 2007 (updated 2018) version
+- C. Ethics review is optional for minimal‑risk human research
+- D. Only universities must follow the National Statement
+<details><summary>Answer</summary>B. NHMRC states the 2023 National Statement is effective from 1 Jan 2024, superseding the 2007/2018 version. ([nhmrc.gov.au](https://www.nhmrc.gov.au/research-policy/ethics/national-statement-ethical-conduct-human-research?utm_source=openai))</details>
+
+2. Q: Which practice most clearly mitigates conflict‑of‑interest risks in research publications?
+- A. Using emotive language to persuade readers
+- B. Declaring and managing funding relationships per recognised codes of conduct
+- C. Only publishing positive results
+- D. Submitting to non‑peer‑reviewed outlets for speed
+<details><summary>Answer</summary>B. Disclosure and management per the Australian Code/COPE practices. ([nhmrc.gov.au](https://www.nhmrc.gov.au/research-policy/research-integrity/2018-australian-code-responsible-conduct-research?utm_source=openai))</details>
+
+### Short-Answer
+1. Q: Give one regulatory/organisational mechanism that supports ethical organ transplantation internationally.
+<details><summary>Answer</summary>WHO Guiding Principles (e.g., altruistic donation; transparency; allocation by clinical criteria) provide an ethical framework for jurisdictions. ([who.int](https://www.who.int/publications/i/item/WHO-HTP-EHT-CPR-2010.01?utm_source=openai))</details>
+
+2. Q: Briefly describe how a historic science event improved public trust in science.
+<details><summary>Answer</summary>Smallpox eradication (declared 1980) demonstrated the power of coordinated, evidence‑based vaccination, enhancing confidence in science’s societal value. ([who.int](https://www.who.int/health-topics/smallpox?utm_source=openai))</details>
+
+## Formulas & Worked Examples
+```math
+(not mentioned)
+```
+(not mentioned)
+
+## Visual Aids Described
+- Ethics framework diagram: Participants ↔ Researchers ↔ HREC (consent, beneficence, justice); arrows to transparency/COI disclosure.
+- Policy case map: Evidence → Public debate → Policy/High Court decision (Franklin Dam example). ([peo.gov.au](https://peo.gov.au/understand-our-parliament/history-of-parliament/history-milestones/australian-parliament-history-timeline/events/high-court-rules-on-the-franklin-dam-case?utm_source=openai))
+
+## Assigned Readings & References
+- Investigating Science Stage 6 Syllabus (2017), NESA. ([educationstandards.nsw.edu.au](https://www.educationstandards.nsw.edu.au/wps/portal/nesa/11-12/stage-6-learning-areas/stage-6-science/investigating-science-2017?utm_source=openai))
+- NHMRC National Statement on Ethical Conduct in Human Research (2023; effective 1 Jan 2024). ([nhmrc.gov.au](https://www.nhmrc.gov.au/research-policy/ethics/national-statement-ethical-conduct-human-research?utm_source=openai))
+- DonateLife (Australian Government) — program overview and data. ([donatelife.gov.au](https://www.donatelife.gov.au/?utm_source=openai))
+- WHO Guiding Principles on Human Cell, Tissue and Organ Transplantation. ([who.int](https://www.who.int/publications/i/item/WHO-HTP-EHT-CPR-2010.01?utm_source=openai))
+- HSC Investigating Science exam materials referenced in graph.

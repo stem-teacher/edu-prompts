@@ -1,0 +1,1287 @@
+       NSW Education Standards Authority
+
+
+
+
+       2022 HIGHER SCHOOL CERTIFICATE EXAMINATION
+
+       Investigating Science
+       General        • Reading time – 5 minutes
+       Instructions   • Working time – 3 hours
+                      • Write using black pen
+                      • Draw diagrams using pencil
+                      • Calculators approved by NESA may be used
+
+
+       Total marks:   Section I – 20 marks (pages 2–11)
+       100            • Attempt Questions 1–20
+                      • Allow about 35 minutes for this section
+
+                      Section II – 80 marks (pages 13–32)
+                      • Attempt Questions 21–33
+                      • Allow about 2 hours and 25 minutes for this section
+
+
+
+
+2100
+Section I
+
+20 marks
+Attempt Questions 1–20
+Allow about 35 minutes for this section
+
+Use the multiple-choice answer sheet for Questions 1–20.
+
+
+1    Which scientist(s) collected data to investigate peptic ulcers?
+
+     A.     Doppler
+     B.     Smolyanitsky
+     C.     Marshall and Warren
+     D.     Pons and Fleischmann
+
+
+2    Which event is most likely to have improved the public image of science?
+
+     A.     A decrease in biodiversity after the damming of a river
+     B.     The reduction in transport times due to the development of flight
+     C.     High levels of radiation in the environment due to a nuclear meltdown
+     D.     Unexpected negative side effects after administration of a smallpox vaccine
+
+
+3    What gas did Priestley collect data on?
+
+     A.     Hydrogen
+     B.     Oxygen
+     C.     Radon
+     D.     Xenon
+
+
+
+
+                                            –2–
+Use the information provided to answer Questions 4−5.
+
+A student designed an investigation to test their hypothesis that plants lose more water on a
+windy day than on a non-windy day.
+
+     1.   The student had two pot plants of the same size and the same type of plant.
+     2.   Both pots were weighed, then one pot was placed outside in the wind, while the other
+          was left inside.
+     3.   After six hours, the outside pot plant was brought inside and both pot plants were
+          weighed.
+
+
+4    Which row in the table correctly identifies the independent variable and a controlled
+     variable in this investigation?
+
+              Independent        Controlled
+     A.     Wind               Water loss
+     B.     Water loss         Size of pot
+     C.     Wind               Type of plant
+     D.     Water loss         Wind
+
+
+
+5    Which of the following statements about this investigation is correct?
+
+     A.    It does not have a control.
+     B.    It has no dependent variable.
+     C.    It is well designed because it tests reliability.
+     D.    It is poorly designed because not all variables are controlled.
+
+
+6    What was the scientific advancement made possible by the interpretation of the
+     photograph taken by Rosalind Franklin in 1952 using X-ray diffraction?
+
+     A.    Evidence of the structure of the DNA molecule
+     B.    Understanding the pathway of X-rays through DNA
+     C.    The pattern of radiation given off by a DNA molecule
+     D.    Understanding the reflection and refraction of X-rays through DNA
+
+
+
+
+                                               –3–
+7   A parent purchases a music book for their child who is learning to play an instrument.
+    They choose a more expensive book that has the picture of a popular recording artist on
+    the cover rather than a similar book with a plain cover.
+
+    What does the perception behind this purchase illustrate?
+
+    A.   The halo effect
+    B.   The Mozart effect
+    C.   The butterfly effect
+    D.   The accordion effect
+
+
+8   Which of the following would be an example of ethical scientific practice?
+
+    A.   Selectively removing outliers from results prior to peer review
+    B.   Stopping an expensive medical trial due to negative side effects
+    C.   Declaring a conflict of interest between the conclusion of a scientific trial and the
+         publishing of results
+    D.   Ensuring consent of participants is obtained between the conclusion of a scientific
+         trial and the publishing of results
+
+
+
+
+                                          –4–
+Use the following information to answer Questions 9–10.
+
+A company claims that its dietary supplement reduces cholesterol by 10% after one week of
+use. The company measured the cholesterol level of eight people who had been taking the
+supplement for one week and compared the measurements to the cholesterol level of eight
+people who had not taken the supplement.
+
+The company presented the data in the table to support their claim.
+
+                  AVERAGE BLOOD CHOLESTEROL LEVEL (mmol L–1)
+                  Group with supplement            Group without supplement
+                            5.2                                 5.8
+
+
+
+9    What is the dependent variable in this experiment?
+
+     A.    Diet
+     B.    The supplement
+     C.    Blood cholesterol level
+     D.    The number of people in each group
+
+
+10   Why could the claim made by the company be considered misleading?
+
+     A.    There is no control group in the experiment.
+     B.    The reduction in cholesterol levels according to the averages provided is
+           0.6 mmol L–1.
+     C.    The people taking the supplement may have been unknowingly influenced by the
+           Hawthorne effect.
+     D.    The initial blood cholesterol levels of the participants in each group were not taken
+           into consideration.
+
+
+
+
+                                            –5–
+11   The purpose of a placebo in a scientific investigation is to
+
+     A.    act as a control.
+     B.    increase the number of participants.
+     C.    ensure no bias is demonstrated by researchers.
+     D.    compare the effectiveness to previous medication used.
+
+
+12   The volume of a box is given by the formula:
+
+                               Volume = Length × Width × Height.
+
+                       Width
+
+
+                                                                 Height
+
+
+
+
+                                       Length
+
+     A student measured the dimensions of a box and recorded them.
+
+                                  Dimension         Length (m)
+                                   Length              2.86
+                                    Width              0.91
+                                    Height             2.00
+
+
+     Which of the following should the student use to report the volume of the box?
+
+     A.    5 m3
+     B.    5.2 m3
+     C.    5.21 m3
+     D.    5.2052 m3
+
+
+
+
+                                              –6–
+13   The graph shows the number of deaths due to an infectious disease. The 10-year average
+     number of deaths was calculated for the period 1952–1961 and is shown as a dotted line
+     across the entire graph.
+
+                        800
+
+
+                        600
+     Number of deaths
+
+
+
+
+                        400
+
+
+                        200
+
+
+                          0
+                          1950       1955       1960        1965       1970       1975       1980
+                                                            Year
+
+     A student hypothesised that a vaccine was introduced against the infectious disease some
+     time between 1962 and 1968.
+
+     How does data from the graph support this hypothesis?
+
+     A.                 There were zero deaths from the disease after 1968.
+     B.                 There were fewer cases of the disease in 1968 than in 1970.
+     C.                 The number of people contracting the disease decreased between 1962 and 1968.
+     D.                 The number of people dying from the disease was consistently below the 10-year
+                        average after 1968.
+
+
+14   A researcher wants to determine the efficacy of a new medication intended to treat a
+     condition by conducting a double-blind trial on a group of people who suffer from the
+     condition. The group of people involved in the trial are randomly assigned to be in
+     Group A or Group B.
+
+     How should this trial be conducted?
+
+     A.                 The researcher allocates a placebo to Group A and the medication to Group B.
+     B.                 The researcher allocates a placebo AND the medication to Group A and allocates a
+                        placebo AND the medication to Group B.
+     C.                 Placebos are allocated to Group A and the medication is allocated to Group B,
+                        without the researcher knowing what allocations have been made.
+     D.                 Placebos AND the medication are allocated to Group A and placebos AND
+                        the medication are allocated to Group B, without the researcher knowing what
+                        allocations have been made.
+
+
+                                                        –7–
+15   The graph shows a country’s rate of birth by caesarean section (surgical removal)
+     according to gestational age between 1996 and 2006. Gestational age is the time a baby
+     has been inside the uterus before it is born.
+
+      per 100 births at gestational age   50
+       Number of caesarean sections
+
+
+
+                                          40
+
+                                          30
+
+                                          20
+
+                                          10
+
+                                           0
+                                           1996        1998          2000       2002       2004        2006
+                                                                       Time (year)
+                                               KEY
+                                                Less than 34 weeks     34–36 weeks     More than 36 weeks
+
+
+     Which statement about the graph is correct?
+
+     A.                        There were 25 caesarean births in 2004 for babies with a gestational age of more
+                               than 36 weeks.
+     B.                        40% of babies with a gestational age of less than 34 weeks were born by caesarean
+                               section in 1998.
+     C.                        The rate of caesarean births in the 34–36 weeks gestational age range increased
+                               uniformly over the time period shown.
+     D.                        Babies with a gestational age of more than 36 weeks had an increased rate of
+                               caesarean birth compared to babies born with less than 34 weeks gestation.
+
+
+16   A student wants to conduct an experiment to determine the relationship between the
+     speed of a car and the distance that it travels.
+
+     Which variable should be kept constant during the experiment?
+
+     A.                        The model of the car used
+     B.                        The distance travelled by the car
+     C.                        The speed at which the car travels
+     D.                        The period of time that the car travels
+
+
+
+
+                                                                       –8–
+17   A vehicle travelling at constant speed also produces sound of constant frequency.
+
+     A stationary student used a data logger to graph the frequency of the sound over a period
+     of five seconds: as the vehicle approached, passed and then continued to move away
+     from the student.
+
+     Which graph best represents the data collected?
+            Frequency of sound
+
+
+
+
+                                                              Frequency of sound
+      A.                                              B.
+
+
+
+
+                                 Time                                              Time
+            Frequency of sound
+
+
+
+
+                                                              Frequency of sound
+      C.                                              D.
+
+
+
+
+                                 Time                                              Time
+
+
+18   A student wanted to calculate the average speed of a motorised toy car over 5.00 metres.
+     The student conducted four trials, recording the time taken for the car to cover
+     5.00 metres. The student entered the results in the table as shown.
+
+                                        Trial         Time (s)
+                                         1                 12.1
+                                         2                 1.20
+                                         3                 12.2
+                                         4                 12.0
+
+
+     What is the best approximation for the average speed of the toy car?
+
+     A.    0.413 m s–1
+     B.    0.533 m s–1
+     C.    1.65 m s–1
+     D.    2.13 m s–1
+
+
+
+
+                                                –9–
+Use the information provided to answer Questions 19–20.
+
+A tuned mass damper (TMD) is a piece of technology that can be used to reduce the damage
+to buildings during an earthquake. A TMD is a large mass that is suspended from the top of a
+building.
+
+A student wanted to investigate the effect of a TMD by constructing the model shown in the
+diagram.
+
+                           Sensor
+
+                            String
+
+
+                               Mass
+
+
+
+
+                    Shaking table
+
+
+The model had the following features:
+
+     1.   A shaking table that moves horizontally at a constant frequency to model the
+          forces a building would experience during an earthquake.
+     2.   A sensor placed at the top of the model to record horizontal acceleration.
+
+With no mass suspended from the top of the model, the student recorded the results shown in
+the graph.
+
+                                            6
+                                            4
+                            Acceleration
+
+
+
+
+                                            2
+                                            0
+                                           –2
+                                           –4
+                                           –6
+                                                0   5      10    15   20
+                                                          Time
+
+
+
+
+                                                        – 10 –
+19   The student then repeated the experiment with a large mass suspended from the top of
+     the model.
+
+     What would be the expected shape of the graph produced after this change?
+
+     A.                   6                                B.                   6
+                          4                                                     4
+          Acceleration
+
+
+
+
+                                                                Acceleration
+                          2                                                     2
+                          0                                                     0
+                         –2                                                    –2
+                         –4                                                    –4
+                         –6                                                    –6
+                              0   5    10    15    20                               0   5    10    15   20
+                                      Time                                                  Time
+
+
+     C.                   6                                D.                   6
+                          4                                                     4
+
+                                                                Acceleration
+          Acceleration
+
+
+
+
+                          2                                                     2
+                          0                                                     0
+                         –2                                                    –2
+                         –4                                                    –4
+                         –6                                                    –6
+                              0   5    10    15    20                               0   5    10    15   20
+                                      Time                                                  Time
+
+
+20   Which is the best explanation for the effectiveness of a TMD, according to Newton’s laws?
+
+     A.     Increasing the mass of the TMD decreases the inertia of the building.
+     B.     The TMD will reduce the magnitude of the equal but opposite forces on the
+            building.
+     C.     As the acceleration of the building increases, the horizontal force on the TMD
+            decreases.
+     D.     The acceleration of the building is inversely proportional to the combined mass of
+            the TMD and building.
+
+
+
+
+                                                  – 11 –
+         BLANK PAGE
+
+
+
+
+               – 12 –
+© 2022 NSW Education Standards Authority
+                             2022 HIGHER SCHOOL CERTIFICATE EXAMINATION
+
+                                                                                                                              Centre Number
+
+                             Investigating Science
+                                                                                                                              Student Number
+                             Section II Answer Booklet
+
+
+
+
+                             80 marks
+                             Attempt Questions 21–33
+                             Allow about 2 hours and 25 minutes for this section
+Do NOT write in this area.
+
+
+
+
+                             Instructions    • Write your Centre Number and Student Number at the top of this
+                                               page.
+
+                                             • Answer the questions in the spaces provided. These spaces
+                                               provide guidance for the expected length of response.
+
+                                             • Show all relevant working in questions involving calculations.
+
+                                             • Extra writing space is provided at the back of this booklet.
+                                               If you use this space, clearly indicate which question you are
+                                               answering.
+
+
+
+
+                                                                       Please turn over
+
+
+
+
+                                                                                 – 13 –
+                                                Office Use Only – Do NOT write anything, or make any marks below this line.
+                                                                                                                                  5638310365
+                               2101     15215
+                          BLANK PAGE
+
+
+
+
+                                                                                           Do NOT write in this area.
+
+
+
+
+                                 – 14 –
+Office Use Only – Do NOT write anything, or make any marks below this line.
+                                                                              0589310365
+                             Question 21 (3 marks)
+
+                             Complete the table to identify TWO different sections of a student’s investigative                                                      3
+                             report AND the purpose of each section.
+
+                                    Section of                                                 Purpose of this section
+                               investigative report
+
+
+                                                                   ..............................................................................................
+                              ..................................
+                                                                   ..............................................................................................
+
+                                                                   ..............................................................................................
+
+
+                                                                   ..............................................................................................
+                              ..................................
+                                                                   ..............................................................................................
+Do NOT write in this area.
+
+
+
+
+                                                                   ..............................................................................................
+
+
+
+
+                                                                                       Please turn over
+
+
+
+
+                                                                                                – 15 –
+                                                            Office Use Only – Do NOT write anything, or make any marks below this line.
+                                                                                                                                                            1024310360
+Question 22 (6 marks)
+
+A group of students wanted to compare the accuracy of two types of balance.
+A sample of iron with a known mass of 1.15 kg was weighed three times on each
+balance. The results are shown in the table.
+
+                                                     MASS OF IRON (kg)
+                                 Analogue balance                                 Digital balance
+                                            1.12                                           1.30
+                                            1.12                                           1.27
+                                            1.16                                           1.29
+
+
+(a)   Using data from the table, assess the accuracy of the analogue balance and the                                                    3
+      digital balance.
+      ...............................................................................................................................
+
+
+
+
+                                                                                                                                            Do NOT write in this area.
+      ...............................................................................................................................
+      ...............................................................................................................................
+      ...............................................................................................................................
+      ...............................................................................................................................
+      ...............................................................................................................................
+
+
+(b)   A student suspected the difference between the known value and the experimental                                                   3
+      results could be due to random error.
+
+      Justify the steps a student could take to minimise random error in this
+      investigation.
+      ...............................................................................................................................
+      ...............................................................................................................................
+      ...............................................................................................................................
+      ...............................................................................................................................
+      ...............................................................................................................................
+      ...............................................................................................................................
+
+
+
+
+                                                                  – 16 –
+                            Office Use Only – Do NOT write anything, or make any marks below this line.
+                                                                                                                              5486310366
+                             Question 23 (4 marks)
+
+                             Evaluate how scientific research has affected human progress. Refer to ONE relevant                                                         4
+                             example to support your answer.
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+Do NOT write in this area.
+
+
+
+
+                             .........................................................................................................................................
+
+
+
+                                                                                          Please turn over
+
+
+
+
+                                                                                                   – 17 –
+                                                             Office Use Only – Do NOT write anything, or make any marks below this line.
+                                                                                                                                                               7986310363
+Question 24 (9 marks)
+
+A student carried out an investigation to test the claim that the average mass of a sugar
+cube is 4.0 g. The student used a balance to measure the mass of multiple sugar cubes.
+The results are shown in the table.
+
+                                      Number of             Recorded mass
+                                     sugar cubes                 (g)
+                                             5                       10
+                                            10                       30
+                                            15                       50
+                                            20                       70
+                                            25                      104
+                                            30                      110
+                                            35                      130
+
+
+
+
+                                                                                                                Do NOT write in this area.
+                                            40                      136
+
+
+
+(a)   Graph these results on the grid provided AND include an appropriate line of best                      4
+      fit for the data.
+
+
+
+
+                                 Question 24 continues on page 19
+
+
+                                                      – 18 –
+                     Office Use Only – Do NOT write anything, or make any marks below this line.
+                                                                                                   0736310369
+                             Question 24 (continued)
+
+                             (b)   Propose reasons for TWO significant features of the line of best fit you have                                                     3
+                                   drawn for the data.
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+
+                             (c)   Using your graph, determine the average mass of one sugar cube.                                                                   2
+                                   ...............................................................................................................................
+Do NOT write in this area.
+
+
+
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+
+
+                                                                                    End of Question 24
+
+
+
+
+                                                                                               – 19 –
+                                                         Office Use Only – Do NOT write anything, or make any marks below this line.
+                                                                                                                                                           6277310365
+Question 25 (5 marks)
+
+Justify the method used by Eratosthenes to calculate the circumference of Earth.                                                            5
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+
+
+
+                                                                                                                                                Do NOT write in this area.
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+
+
+
+                                                                      – 20 –
+                                Office Use Only – Do NOT write anything, or make any marks below this line.
+                                                                                                                                  1032310369
+                             Question 26 (4 marks)
+
+                             Some Indigenous communities have formed benefit-sharing partnerships with                                                                   4
+                             scientists, governments and large corporations.
+
+                             Analyse the impacts of ONE benefit-sharing partnership involving an Indigenous
+                             community. Use a specific example of a benefit-sharing partnership in your response.
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+Do NOT write in this area.
+
+
+
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+
+
+                                                                                          Please turn over
+
+
+
+
+                                                                                                   – 21 –
+                                                             Office Use Only – Do NOT write anything, or make any marks below this line.
+                                                                                                                                                               0136310363
+Question 27 (4 marks)
+
+Explain the method that van Helmont used to investigate how plants grow. In your                                                            4
+answer, refer to variables that van Helmont controlled.
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+
+
+
+                                                                                                                                                Do NOT write in this area.
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+
+
+
+                                                                      – 22 –
+                                Office Use Only – Do NOT write anything, or make any marks below this line.
+                                                                                                                                  7037310360
+                             Question 28 (7 marks)
+
+                             Analyse how economic influences have impacted the collection and manipulation of                                                            7
+                             statistical data. Include a relevant example in your response.
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+Do NOT write in this area.
+
+
+
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+
+
+
+                                                                                                   – 23 –
+                                                             Office Use Only – Do NOT write anything, or make any marks below this line.
+                                                                                                                                                               2207310364
+Question 29 (7 marks)
+
+A student carried out an experiment to investigate the relationship between the
+temperature and the volume of a gas sample.
+
+(a)   Describe a series of steps for this experiment that would allow a student to                                                      5
+      safely and reliably collect first-hand data.
+      ...............................................................................................................................
+      ...............................................................................................................................
+      ...............................................................................................................................
+      ...............................................................................................................................
+      ...............................................................................................................................
+      ...............................................................................................................................
+      ...............................................................................................................................
+
+
+
+
+                                                                                                                                            Do NOT write in this area.
+      ...............................................................................................................................
+      ...............................................................................................................................
+      ...............................................................................................................................
+      ...............................................................................................................................
+      ...............................................................................................................................
+      ...............................................................................................................................
+      ...............................................................................................................................
+
+
+(b)   Sketch the expected results for this experiment AND add appropriate labels                                                        2
+      (including units) on the axes.
+
+
+
+
+        0
+            0
+
+
+                                                                  – 24 –
+                            Office Use Only – Do NOT write anything, or make any marks below this line.
+                                                                                                                              1619310360
+                             Question 30 (4 marks)
+
+                             Explain how ONE technological development contributed to the discovery of the                                                               4
+                             Higgs boson. Refer to the Large Hadron Collider (LHC) in your response.
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+Do NOT write in this area.
+
+
+
+
+                             .........................................................................................................................................
+
+
+
+                                                                                          Please turn over
+
+
+
+
+                                                                                                   – 25 –
+                                                             Office Use Only – Do NOT write anything, or make any marks below this line.
+                                                                                                                                                               0585310361
+Question 31 (4 marks)
+
+The direction of scientific research has changed in areas such as:                                                                          4
+    • perceptions about diet in a multicultural society
+    • investigating traditional medical treatments
+    • mining practices.
+
+Evaluate how different perspectives can influence the direction of scientific research.
+In your answer, refer to an example above OR to a specific example of scientific
+research you have studied.
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+
+
+
+                                                                                                                                                Do NOT write in this area.
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+.........................................................................................................................................
+
+
+
+
+                                                                      – 26 –
+                                Office Use Only – Do NOT write anything, or make any marks below this line.
+                                                                                                                                  6577310368
+                             Question 32 (6 marks)
+
+                             Discuss the value of peer review in relation to the advancement of science.                                                                 6
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+Do NOT write in this area.
+
+
+
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+                             .........................................................................................................................................
+
+
+
+                                                                                          Please turn over
+
+
+
+
+                                                                                                   – 27 –
+                                                             Office Use Only – Do NOT write anything, or make any marks below this line.
+                                                                                                                                                               4074310368
+Question 33 (17 marks)
+
+The graph shows how the funding sources for scientific research for a particular
+country have changed over time.
+
+                                               25
+        Funding amount (billions of dollars)
+
+
+
+
+                                               20
+
+
+                                               15
+
+
+                                               10
+
+
+                                                5
+
+
+
+
+                                                                                                                                                   Do NOT write in this area.
+                                                0
+                                                    1980 1985        1990      1995       2000 2005            2010       2015 2020
+                                                                                          Year
+
+                                               KEY
+                                                      Large corporations                           Government                       Other
+
+
+
+(a)   Describe the trends in the graph.                                                                                                        3
+      ...............................................................................................................................
+
+      ...............................................................................................................................
+
+      ...............................................................................................................................
+
+      ...............................................................................................................................
+
+      ...............................................................................................................................
+
+      ...............................................................................................................................
+
+
+
+                                                                  Question 33 continues on page 29
+
+
+
+
+                                                                                       – 28 –
+                                                      Office Use Only – Do NOT write anything, or make any marks below this line.
+                                                                                                                                      9566310369
+                             Question 33 (continued)
+
+                             (b)   If the trends in the graph were to continue, justify the need to regulate funding                                                 4
+                                   from large corporations for scientific research.
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+
+                                   ...............................................................................................................................
+                                   ...............................................................................................................................
+Do NOT write in this area.
+
+
+
+
+                                   ...............................................................................................................................
+
+
+                             (c)   A large corporation provides funding for research into a new water purification
+                                   tablet.
+
+                                      (i)     Explain the impact that this research could have on world health.                                                      3
+                                               ...................................................................................................................
+
+                                               ...................................................................................................................
+
+                                               ...................................................................................................................
+
+                                               ...................................................................................................................
+
+                                               ...................................................................................................................
+
+                                               ...................................................................................................................
+
+
+
+                                                                       Question 33 continues on page 30
+
+
+
+
+                                                                                               – 29 –
+                                                         Office Use Only – Do NOT write anything, or make any marks below this line.
+                                                                                                                                                           0008310361
+Question 33 (continued)
+
+       (ii)   Before funding the research into the water purification tablet, the large                                             7
+              corporation requires the researchers to enter into a contract with the
+              following conditions:
+              1. the corporation will only fund the research for three years
+              2. the funding is only sufficient to test the safety of the tablet on 100
+                 people.
+
+              Evaluate how these contract requirements could influence the integrity
+              of the investigation.
+
+              ...................................................................................................................
+
+              ...................................................................................................................
+
+              ...................................................................................................................
+
+              ...................................................................................................................
+
+
+
+
+                                                                                                                                        Do NOT write in this area.
+              ...................................................................................................................
+
+              ...................................................................................................................
+
+              ...................................................................................................................
+
+              ...................................................................................................................
+
+              ...................................................................................................................
+
+              ...................................................................................................................
+
+              ...................................................................................................................
+
+              ...................................................................................................................
+
+              ...................................................................................................................
+
+              ...................................................................................................................
+
+              ...................................................................................................................
+
+              ...................................................................................................................
+
+              ...................................................................................................................
+
+              ...................................................................................................................
+
+              ...................................................................................................................
+
+              ...................................................................................................................
+
+              ...................................................................................................................
+
+                                                        End of paper
+                                                              – 30 –
+                        Office Use Only – Do NOT write anything, or make any marks below this line.
+                                                                                                                          8952310367
+                             Section II extra writing space
+                             If you use this space, clearly indicate which question you are answering.
+Do NOT write in this area.
+
+
+
+
+                                                                                     – 31 –
+                                                    Office Use Only – Do NOT write anything, or make any marks below this line.
+                                                                                                                                  2306310364
+Section II extra writing space
+If you use this space, clearly indicate which question you are answering.
+
+
+
+
+                                                                                                                                       Do NOT write in this area.
+
+
+
+
+                                                        – 32 –                              © 2022 NSW Education Standards Authority
+
+                       Office Use Only – Do NOT write anything, or make any marks below this line.
+                                                                                                           2770310369
+
