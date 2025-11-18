@@ -1,0 +1,624 @@
+---
+title: "Chemistry"
+subtitle: "2020 HIGHER SCHOOL CERTIFICATE EXAMINATION"
+format:
+  pdf:
+    documentclass: article
+    geometry:
+      - margin=2.5cm
+    fontsize: 11pt
+    include-in-header:
+      text: |
+        \usepackage{chemfig}
+        \usepackage{mhchem}
+        \usepackage{siunitx}
+        \usepackage{graphicx}
+        \usepackage{tikz}
+        \usepackage{fancyhdr}
+        \pagestyle{fancy}
+        \fancyhead[L]{Centre Number}
+        \fancyhead[R]{Student Number}
+---
+
+\begin{center}
+\includegraphics[width=3cm]{images/nsw-logo.png}
+
+NSW Education Standards Authority
+
+\vspace{1cm}
+
+{\Large \textbf{2020} HIGHER SCHOOL CERTIFICATE EXAMINATION}
+
+\vspace{1cm}
+
+{\Huge Chemistry}
+\end{center}
+
+\vspace{1cm}
+
+**General Instructions**
+
+- Reading time – 5 minutes
+- Working time – 3 hours
+- Write using black pen
+- Draw diagrams using pencil
+- Calculators approved by NESA may be used
+- A formulae sheet, data sheet and Periodic Table are provided at the back of this paper
+
+**Total marks: 100**
+
+**Section I – 20 marks** (pages 2–11)
+
+- Attempt Questions 1–20
+- Allow about 35 minutes for this section
+
+**Section II – 80 marks** (pages 13–36)
+
+- Attempt Questions 21–36
+- Allow about 2 hours and 25 minutes for this section
+
+\newpage
+
+# Section I
+
+**20 marks**
+**Attempt Questions 1–20**
+**Allow about 35 minutes for this section**
+
+Use the multiple-choice answer sheet for Questions 1–20.
+
+### Question 1
+
+What is the function of the magnetic field in a mass spectrometer?
+
+A. It detects the mass of the particles.
+
+B. It deflects the stream of charged particles.
+
+C. It excites electrons to higher energy levels.
+
+D. It produces a stream of electrons that bombards the sample.
+
+### Question 2
+
+Which indicator in the table would be best for distinguishing between a face cleanser (pH = 5.0) and a soap (pH = 9.0)?
+
+![Indicator table](images/q2-indicator-table.png){width=80%}
+
+A. Bromophenol blue
+
+B. Methyl orange
+
+C. Phenol red
+
+D. Thymolphthalein
+
+### Question 3
+
+Which of the following compounds is the most basic?
+
+A. Ethane
+
+B. Ethanol
+
+C. Ethanamine
+
+D. Ethyl ethanoate
+
+### Question 4
+
+Which pair of compounds would be difficult to distinguish using infrared spectroscopy?
+
+A. Butane and propane
+
+B. Ethane and propan-1-ol
+
+C. Propanol and propanoic acid
+
+D. Methanamine and propanone
+
+### Question 5
+
+A $^{13}$C NMR spectrum is shown.
+
+![13C NMR spectrum](images/q5-nmr-spectrum.png){width=80%}
+
+Which compound gives rise to this spectrum?
+
+A. chloroethane
+
+B. 1-chloropropane
+
+C. 1,2-dichloroethane
+
+D. 1,2-dichloropropane
+
+### Question 6
+
+The structure of a compound is shown.
+
+![Compound structure](images/q6-structure.png){width=40%}
+
+What is the preferred IUPAC name of this compound?
+
+A. 1,1,1-tribromo-2-fluoropropan-3-ol
+
+B. 2-fluoro-3,3,3-tribromopropan-1-ol
+
+C. 2-fluoro-1,1,1-tribromopropan-3-ol
+
+D. 3,3,3-tribromo-2-fluoropropan-1-ol
+
+### Question 7
+
+The structures of four isomers are shown.
+
+![Four isomer structures](images/q7-isomers.png){width=100%}
+
+Which statement is correct?
+
+A. Compounds 1 and 2 are chain isomers.
+
+B. Compounds 1 and 4 are chain isomers.
+
+C. Compounds 2 and 3 are functional group isomers.
+
+D. Compounds 2 and 4 are positional isomers.
+
+### Question 8
+
+A weak base is titrated with 1.0 mol L^-1^ aqueous HCl. The pH curve is shown.
+
+![pH titration curve](images/q8-titration-curve.png){width=70%}
+
+At which pH value would the solution be most effective as a buffer?
+
+A. 5
+
+B. 7
+
+C. 8
+
+D. 9
+
+### Question 9
+
+Which compound reacts readily with sodium hydrogen carbonate?
+
+![Four organic structures](images/q9-structures.png){width=70%}
+
+### Question 10
+
+Equimolar solutions of \ce{NaCl(aq)}, \ce{NH4Cl(aq)} and \ce{NaCH3COO(aq)} were prepared.
+
+In which of the following are these salt solutions listed from least to most acidic?
+
+A. \ce{NaCl(aq)}, \ce{NH4Cl(aq)}, \ce{NaCH3COO(aq)}
+
+B. \ce{NaCl(aq)}, \ce{NaCH3COO(aq)}, \ce{NH4Cl(aq)}
+
+C. \ce{NH4Cl(aq)}, \ce{NaCl(aq)}, \ce{NaCH3COO(aq)}
+
+D. \ce{NaCH3COO(aq)}, \ce{NaCl(aq)}, \ce{NH4Cl(aq)}
+
+### Question 11
+
+Equal volumes of two 0.04 mol L^-1^ solutions were mixed together.
+
+Which pair of solutions would give the greatest mass of precipitate?
+
+A. \ce{Ba(OH)2} and \ce{MgCl2}
+
+B. \ce{Ba(OH)2} and \ce{MgSO4}
+
+C. \ce{Ba(OH)2} and \ce{NaCl}
+
+D. \ce{Ba(OH)2} and \ce{Na2SO4}
+
+### Question 12
+
+The structure of part of a polymer chain is shown.
+
+![Polymer structure](images/q12-polymer.png){width=60%}
+
+Which statement best explains why plastics made from this polymer require a temperature of approximately 250°C before they begin to soften?
+
+A. The carbon–carbon bonds in the polymer chains are strong.
+
+B. The carbon–hydrogen bonds in the polymer chains are strong.
+
+C. Extensive dipole–dipole and dispersion forces exist between the polymer chains.
+
+D. Extensive hydrogen bonds and dispersion forces exist between the polymer chains.
+
+### Question 13
+
+Which of the following conversions results in the formation of a different shape around the carbon atom?
+
+A. Methanoic acid to methanal
+
+B. Methanoic acid to methanol
+
+C. Methanoic acid to methanamide
+
+D. Methanoic acid to sodium methanoate
+
+### Question 14
+
+The equation for the autoionisation of water is shown.
+
+$$\ce{2H2O(l) <=> H3O+(aq) + OH-(aq)}$$
+
+At 50°C the water ionisation constant, $K_w$, is $5.5 \times 10^{-14}$.
+
+What is the pH of water at 50°C?
+
+A. 5.50
+
+B. 6.63
+
+C. 6.93
+
+D. 7.00
+
+### Question 15
+
+The structure of chloroacetamide is shown.
+
+![Chloroacetamide structure](images/q15-chloroacetamide.png){width=40%}
+
+The common isotopes of chlorine are $^{35}$Cl and $^{37}$Cl.
+
+The mass spectrum of chloroacetamide contains a peak at m/z = 51.
+
+What is the most likely source of this peak?
+
+A. $[\ce{OCl}]^+$
+
+B. $[\ce{NH2}]^+$
+
+C. $[\ce{C4H3}]^+$
+
+D. $[\ce{CH2Cl}]^+$
+
+### Question 16
+
+Compounds X, Y and Z are in equilibrium. The diagram shows the effects of temperature and pressure on the equilibrium yield of compound Z.
+
+![Equilibrium yield diagram](images/q16-equilibrium.png){width=70%}
+
+Which equation would be consistent with this data?
+
+A. \ce{X(g) + 3Y(g) <=> 2Z(g)} $\Delta H > 0$
+
+B. \ce{X(g) + 3Y(g) <=> 2Z(g)} $\Delta H < 0$
+
+C. \ce{2X(g) <=> 2Y(g) + Z(g)} $\Delta H > 0$
+
+D. \ce{2X(g) <=> 2Y(g) + Z(g)} $\Delta H < 0$
+
+### Question 17
+
+The following apparatus was set up in a temperature-controlled laboratory.
+
+![Apparatus diagram](images/q17-apparatus.png){width=50%}
+
+Excess solid sodium hydroxide is added to the beaker.
+
+Which row of the table correctly identifies the change in the \ce{CuSO4(s)} mass and the colour of the solution after several days?
+
+| | Solid \ce{CuSO4} mass | Colour of solution |
+|---|---|---|
+| A. | No change | No change |
+| B. | No change | Blue colour fades |
+| C. | Decreases | Blue colour intensifies |
+| D. | Decreases | Blue colour fades |
+
+### Question 18
+
+An aqueous solution of sodium hydrogen carbonate has a pH greater than 7.
+
+Which statement best explains this observation?
+
+A. \ce{H2O(l)} is a stronger acid than \ce{HCO3-(aq)}.
+
+B. \ce{HCO3-(aq)} is a weaker acid than \ce{H2CO3(aq)}.
+
+C. \ce{Na+(aq)} reacts with water to produce the strong base \ce{NaOH(aq)}.
+
+D. The conjugate acid of \ce{HCO3-(aq)} is a stronger acid than \ce{H2O(l)}.
+
+### Question 19
+
+Nitrogen dioxide reacts to form dinitrogen tetroxide in a sealed flask according to the following equation.
+
+$$\ce{2NO2(g) <=> N2O4(g)} \quad \Delta H = -57.2 \text{ kJ mol}^{-1}$$
+
+Which graph best represents the rates of both the forward and reverse reactions when an equilibrium system containing these gases is cooled at time $t$?
+
+![Rate graphs](images/q19-rate-graphs.png){width=100%}
+
+### Question 20
+
+The graph shows the concentration of silver and chromate ions which can exist in a saturated solution of silver chromate.
+
+![Solubility graph](images/q20-solubility-graph.png){width=80%}
+
+Based on the information provided, what is the $K_{sp}$ for silver chromate?
+
+A. $1.1 \times 10^{-8}$
+
+B. $2.2 \times 10^{-8}$
+
+C. $1.1 \times 10^{-12}$
+
+D. $4.4 \times 10^{-12}$
+
+\newpage
+
+# Section II
+
+**80 marks**
+**Attempt Questions 21–36**
+**Allow about 2 hours and 25 minutes for this section**
+
+Answer the questions in the spaces provided. These spaces provide guidance for the expected length of response.
+
+Show all relevant working in questions involving calculations.
+
+### Question 21 (2 marks)
+
+The mass spectrum of an alkane is shown.
+
+![Mass spectrum](images/q21-mass-spectrum.png){width=80%}
+
+Use the information provided to identify the alkane and justify your choice.
+
+\vspace{4cm}
+
+### Question 22 (5 marks)
+
+A 0.1 mol L^-1^ solution of an unknown salt is to be analysed. The cation is one of magnesium, calcium or barium. The anion is one of chloride, acetate or hydroxide.
+
+Outline a sequence of tests that could be performed in a school laboratory to confirm the identity of this salt solution. Include expected observations and a balanced chemical equation in your answer.
+
+\vspace{12cm}
+
+### Question 23 (4 marks)
+
+The flow chart summarises an industrial process for the synthesis of ethane-1,2-diol.
+
+![Flowchart for ethane-1,2-diol synthesis](images/q23-flowchart.png){width=90%}
+
+Explain THREE factors that may have been considered in the design of this industrial process. Make specific reference to the flow chart.
+
+\vspace{12cm}
+
+### Question 24 (10 marks)
+
+Biodiesel, an alternative fuel to diesel, may be produced from vegetable oil. The chemical reaction which converts oils from biomass into biodiesel is shown. R~1~, R~2~ and R~3~ are alkyl chains which may vary from 10 to 22 carbons in length.
+
+![Biodiesel reaction](images/q24-biodiesel-reaction.png){width=100%}
+
+**(a)** Which functional group is present in both the oil and the biodiesel? **(1 mark)**
+
+\vspace{2cm}
+
+**(b)** Explain why biodiesel (\ce{C14H30O2}) produces less soot than diesel (\ce{C18H38}) when combusted under the same conditions. Support your answer with balanced chemical equations. **(3 marks)**
+
+\vspace{6cm}
+
+**(c)** The energy densities of biodiesel and diesel are 38 MJ kg^-1^ and 43 MJ kg^-1^ respectively. The densities of biodiesel and diesel are 0.90 kg L^-1^ and 0.83 kg L^-1^ respectively. **(2 marks)**
+
+When 60.0 L of diesel is combusted in a typical engine, 2141 MJ of energy is released.
+
+What volume of biodiesel would be required to produce the same amount of energy?
+
+\vspace{4cm}
+
+**(d)** Explain TWO advantages and TWO disadvantages of using bioethanol (ethanol produced from biomass) as an alternative to a fossil fuel. **(4 marks)**
+
+\vspace{10cm}
+
+### Question 25 (7 marks)
+
+Citric acid reacts with sodium hydroxide according to the following chemical equation:
+
+$$\ce{C6H8O7(aq) + 3NaOH(aq) -> Na3C6H5O7(aq) + 3H2O(l)}$$
+
+Various volumes of 1.0 mol L^-1^ citric acid solution were mixed with 8.0 mL of a sodium hydroxide solution of unknown concentration and sufficient deionised water added to make the total volume of the resulting solution 14.0 mL. The change in temperature of each solution was measured.
+
+The data are given in the table.
+
+| Volume of 1.0 mol L^-1^ citric acid (aq) (mL) | Temperature increase (°C) |
+|---|---|
+| 0.0 | 0.00 |
+| 1.0 | 2.50 |
+| 2.0 | 5.20 |
+| 3.0 | 6.15 |
+| 4.0 | 6.10 |
+| 5.0 | 6.20 |
+| 6.0 | 6.15 |
+
+By graphing the data in the table and performing relevant calculations, determine the concentration of the sodium hydroxide solution.
+
+![Graph paper](images/q25-graph-paper.png){width=100%}
+
+\vspace{5cm}
+
+### Question 26 (5 marks)
+
+Nitric oxide gas (NO) can be produced from the direct combination of nitrogen gas and oxygen gas in a reversible reaction.
+
+**(a)** Write the balanced chemical equation for this reaction. **(1 mark)**
+
+\vspace{2cm}
+
+**(b)** The energy profile diagram for this reaction is shown. **(4 marks)**
+
+![Energy profile diagram](images/q26-energy-profile.png){width=60%}
+
+Explain, using collision theory, how an increase in temperature would affect the value of $K_{eq}$ for this system. Refer to the diagram in your answer.
+
+\vspace{10cm}
+
+### Question 27 (5 marks)
+
+A student makes up a solution of propan-2-amine in water with a concentration of 1.00 mol L^-1^.
+
+**(a)** Using structural formulae, complete the equation for the reaction of propan-2-amine with water. **(2 marks)**
+
+![Reaction equation boxes](images/q27-equation.png){width=80%}
+
+**(b)** The equilibrium constant for the reaction of propan-2-amine with water is $4.37 \times 10^{-4}$. **(3 marks)**
+
+Calculate the concentration of hydroxide ions in this solution.
+
+\vspace{8cm}
+
+### Question 28 (3 marks)
+
+A chemist used the following method to determine the concentration of a dilute solution of propanoic acid ($pK_a = 4.88$).
+
+The chemist weighed out 1.000 g of solid NaOH on an electronic balance and then made up the solution in a 250.0 mL volumetric flask.
+
+The chemist then performed titrations, using bromocresol green as the indicator. This indicator is yellow below pH 3.2 and green above pH 5.2.
+
+The results are shown in the table.
+
+| Titre | Volume of \ce{NaOH(aq)} added (mL) |
+|---|---|
+| 1 | 16.35 |
+| 2 | 10.10 |
+| 3 | 12.35 |
+| 4 | 11.25 |
+
+Explain why this method produces inaccurate and unreliable results.
+
+\vspace{8cm}
+
+### Question 29 (5 marks)
+
+The flow chart shows reactions involving five different organic compounds, A to E.
+
+![Flowchart](images/q29-flowchart.png){width=90%}
+
+Draw the structure of each compound A to E in the corresponding space provided.
+
+![Structure boxes](images/q29-structures.png){width=80%}
+
+### Question 30 (7 marks)
+
+A chemist discovered a bottle simply labelled '\ce{C5H10O2}'.
+
+To confirm the molecular structure of the contents of the bottle, a sample was submitted for analysis by infrared spectroscopy and $^1$H and $^{13}$C NMR spectroscopy. The resulting spectra are shown.
+
+![IR spectrum](images/q30-ir-spectrum.png){width=100%}
+
+![1H NMR spectrum](images/q30-h-nmr.png){width=100%}
+
+![13C NMR spectrum](images/q30-c-nmr.png){width=100%}
+
+Data from $^1$H NMR spectrum:
+
+| Chemical shift | Relative peak area | Splitting pattern |
+|---|---|---|
+| 1.2 | 6 | doublet (2) |
+| 2.0 | 3 | singlet (1) |
+| 5.0 | 1 | septet (7) |
+
+In the space provided, draw a structural formula for the unknown compound that is consistent with all of the information provided. Justify your answer with reference to the information provided.
+
+\vspace{15cm}
+
+### Question 31 (4 marks)
+
+A water sample was analysed to determine the chloride ion content. 100.0 mL of this water was added to 25.00 mL of 0.100 mol L^-1^ \ce{AgNO3(aq)}.
+
+The mixture was filtered and the filtrate was titrated against 0.0500 mol L^-1^ \ce{KSCN(aq)} according to the following reaction.
+
+$$\ce{Ag+(aq) + SCN-(aq) -> AgSCN(s)}$$
+
+The titration was repeated three times and the average titre was 28.65 mL.
+
+Calculate the concentration of chloride ions in the water, expressed in mg L^-1^.
+
+\vspace{8cm}
+
+### Question 32 (4 marks)
+
+The table shows three compounds and their boiling points.
+
+| Compound | Boiling point (°C) |
+|---|---|
+| Methanol | 64.7 |
+| Propanoic acid | 141.2 |
+| Methyl propanoate | 79.8 |
+
+An ester does not always have a lower boiling point than both the alcohol and the alkanoic acid from which it is produced.
+
+Using the information in the table, account for this observation.
+
+\vspace{10cm}
+
+### Question 33 (6 marks)
+
+Excess solid calcium hydroxide is added to a beaker containing 0.100 L of 2.00 mol L^-1^ hydrochloric acid and the mixture is allowed to come to equilibrium.
+
+**(a)** Show that the amount (in mol) of calcium hydroxide that reacts with the hydrochloric acid is 0.100 mol. **(2 marks)**
+
+\vspace{6cm}
+
+**(b)** It is valid in this instance to make the simplifying assumption that the amount of calcium ions present at equilibrium is equal to the amount generated in the reaction in part (a). **(4 marks)**
+
+Calculate the pH of the resulting solution.
+
+\vspace{8cm}
+
+### Question 34 (4 marks)
+
+The effect of concentration on the pH of acrylic acid (\ce{C2H3COOH}) and hydrochloric acid (HCl) solutions is shown in the graph. Both of these acids are monoprotic.
+
+![pH vs concentration graph](images/q34-ph-graph.png){width=80%}
+
+Explain the trends in the graph. Include relevant chemical equations in your answer.
+
+\vspace{10cm}
+
+### Question 35 (4 marks)
+
+In aqueous solution, iodide ions (\ce{I-}) react rapidly with iodine (\ce{I2}) to form triiodide ions (\ce{I3-}), making the equilibrium system shown in the chemical equation:
+
+$$\ce{I-(aq) + I2(aq) <=> I3-(aq)}$$
+
+The following relationships can be derived from the reaction mechanism:
+
+$$[\ce{I-}]_{eq} = 2[\ce{I2}]_{eq}$$
+
+$$[\ce{I-}]_{initial} = 4[\ce{I2}]_{eq} + 3[\ce{I3-}]_{eq}$$
+
+where 'initial' designates the initial concentration and 'eq' designates the equilibrium concentration.
+
+The absorbance of the solution in the UV–Vis spectrum is given by:
+
+$$A = [\ce{I3-}] \times 2.76 \times 10^4$$
+
+Determine the value of the equilibrium constant, given that $A = 0.745$ at equilibrium and $[\ce{I-}]_{initial} = 7.00 \times 10^{-4}$ mol L^-1^.
+
+\vspace{12cm}
+
+### Question 36 (5 marks)
+
+100.00 mL of 2.00 mol L^-1^ \ce{HCl(aq)} was initially at a temperature of 22.5°C. The mass of this solution was 103 g.
+
+10.0 g of solid NaOH was added to the acid. The specific heat capacity of the resulting solution was 3.99 J g^-1^ K^-1^.
+
+Assuming no energy loss to the environment, calculate the maximum temperature reached by the solution.
+
+Use the following information in your calculations.
+
+$$\ce{NaOH(s) -> Na+(aq) + OH-(aq)} \quad \Delta H = -44.5 \text{ kJ mol}^{-1}$$
+
+$$\ce{NaOH(aq) + HCl(aq) -> NaCl(aq) + H2O(l)} \quad \Delta H = -56.1 \text{ kJ mol}^{-1}$$
+
+\vspace{12cm}

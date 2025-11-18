@@ -1,0 +1,637 @@
+---
+title: "Chemistry"
+subtitle: "2022 HIGHER SCHOOL CERTIFICATE EXAMINATION"
+format:
+  pdf:
+    documentclass: article
+    geometry:
+      - margin=2.5cm
+    fontsize: 11pt
+    include-in-header:
+      text: |
+        \usepackage{chemfig}
+        \usepackage{mhchem}
+        \usepackage{siunitx}
+        \usepackage{graphicx}
+        \usepackage{tikz}
+        \usepackage{fancyhdr}
+        \pagestyle{fancy}
+        \fancyhead[L]{Centre Number}
+        \fancyhead[R]{Student Number}
+---
+
+\begin{center}
+\includegraphics[width=3cm]{nsw-logo.png}
+
+NSW Education Standards Authority
+\end{center}
+
+\vspace{2cm}
+
+**General Instructions**
+
+- Reading time – 5 minutes
+- Working time – 3 hours
+- Write using black pen
+- Draw diagrams using pencil
+- Calculators approved by NESA may be used
+- A formulae sheet, data sheet and Periodic Table are provided at the back of this paper
+
+**Total marks: 100**
+
+**Section I – 20 marks** (pages 2–12)
+
+- Attempt Questions 1–20
+- Allow about 35 minutes for this section
+
+**Section II – 80 marks** (pages 13–36)
+
+- Attempt Questions 21–36
+- Allow about 2 hours and 25 minutes for this section
+
+\newpage
+
+# Section I
+
+**20 marks**
+**Attempt Questions 1–20**
+**Allow about 35 minutes for this section**
+
+Use the multiple-choice answer sheet for Questions 1–20.
+
+### Question 1
+
+What term is used to define the repeating unit of a polymer?
+
+A. Dimer
+B. Isomer
+C. Monomer
+D. Primer
+
+### Question 2
+
+When a solution of a primary standard is prepared for titration, which of the following is required?
+
+A. A burette
+B. A balance
+C. An indicator
+D. A condenser
+
+### Question 3
+
+Which of the following features is NOT a characteristic of a state of equilibrium?
+
+A. Equilibrium is achieved in a closed system.
+B. Equilibrium position depends on temperature.
+C. Equilibrium can be reached from either direction.
+D. Equilibrium concentrations of reactants and products are equal.
+
+\newpage
+
+### Question 4
+
+An analytical chemist was using atomic absorption spectroscopy (AAS) to determine the manganese concentration in a sample.
+
+The following diagram shows the absorbance lines of manganese.
+
+![Manganese absorbance spectrum](images/q4-manganese-absorbance.png){width=80%}
+
+The diagrams below show the emission spectra of four AAS lamps.
+
+Which lamp should be used to determine the manganese concentration in the sample?
+
+![AAS lamp emission spectra options](images/q4-lamp-spectra.png){width=80%}
+
+### Question 5
+
+Which pair of ions can be distinguished using a flame test in the school laboratory?
+
+A. \ce{Ag+} and \ce{Mg^2+}
+B. \ce{Ba^2+} and \ce{Ca^2+}
+C. \ce{Br-} and \ce{Cl-}
+D. \ce{Fe^2+} and \ce{Fe^3+}
+
+### Question 6
+
+A UV-visible spectrometer was used to obtain the spectra of solutions of substances P and Q. The absorbance spectra are shown.
+
+![UV-visible absorbance spectra of solutions P and Q](images/q6-uv-vis-spectra.png){width=80%}
+
+Which wavelength would be appropriate to determine the concentration of Q in a mixture of the two solutions?
+
+A. 410 nm
+B. 475 nm
+C. 550 nm
+D. 630 nm
+
+\newpage
+
+### Question 7
+
+The name 2-ethyl-3-chlorohexane does not follow IUPAC conventions.
+
+What is the systematic name of this organic compound?
+
+A. 3-chloro-2-ethylhexane
+B. 4-chloro-3-methylheptane
+C. 4-chloro-5-ethylhexane
+D. 5-methyl-4-chloroheptane
+
+### Question 8
+
+A system is described as follows.
+
+$$\ce{2NaHCO3(s) <=> Na2CO3(s) + CO2(g) + H2O(g)}$$
+
+What is the equilibrium expression for this system?
+
+A. $K_{eq} = [\ce{CO2}]$
+
+B. $K_{eq} = [\ce{CO2}][\ce{H2O}]$
+
+C. $K_{eq} = \frac{1}{[\ce{CO2}][\ce{H2O}]}$
+
+D. $K_{eq} = \frac{[\ce{Na2CO3}][\ce{CO2}][\ce{H2O}]}{[\ce{NaHCO3}]^2}$
+
+### Question 9
+
+What is the structure of \ce{CH3C(CH3)2CH2CH(CH3)2}?
+
+![Structural formula options for the compound](images/q9-structures.png){width=80%}
+
+\newpage
+
+### Question 10
+
+Which equation shows the hydrogen carbonate ion acting as a Brønsted–Lowry acid?
+
+A. \ce{HCO3-(aq) <=> CO3^2-(aq) + H+(aq)}
+
+B. \ce{HCO3-(aq) + H2O(l) <=> H2CO3(aq) + OH-(aq)}
+
+C. \ce{HCO3-(aq) + NH3(aq) <=> CO3^2-(aq) + NH4+(aq)}
+
+D. \ce{HCO3-(aq) + HCOOH(aq) <=> HCOO-(aq) + H2CO3(aq)}
+
+### Question 11
+
+Cyclohexanol is an alcohol and undergoes a dehydration reaction with sulfuric acid as shown.
+
+![Cyclohexanol dehydration reaction and product options](images/q11-cyclohexanol-reaction.png){width=80%}
+
+What is the major organic product of this reaction?
+
+### Question 12
+
+Which isomer of \ce{C6H14} would have the fewest signals in $^{13}$C NMR?
+
+![C6H14 isomer structures](images/q12-c6h14-isomers.png){width=80%}
+
+\newpage
+
+### Question 13
+
+Nitrosyl bromide decomposes according to the following equation.
+
+$$\ce{2NOBr(g) <=> 2NO(g) + Br2(g)}$$
+
+A 0.64 mol sample of \ce{NOBr} is placed in an evacuated 1.00 L flask. After the system comes to equilibrium, the flask contains 0.46 mol \ce{NOBr}.
+
+What are the concentrations of \ce{NO} and \ce{Br2} in the flask at equilibrium?
+
+|     | [\ce{NO}] (mol L^-1^) | [\ce{Br2}] (mol L^-1^) |
+|-----|-----------------------|------------------------|
+| A.  | 0.18                  | 0.09                   |
+| B.  | 0.18                  | 0.18                   |
+| C.  | 0.36                  | 0.18                   |
+| D.  | 0.92                  | 0.46                   |
+
+### Question 14
+
+Nitrogen dioxide can react with itself to produce dinitrogen tetroxide.
+
+$$\ce{2NO2(g) <=> N2O4(g)} \quad K_{eq} = 0.010$$
+
+In an experiment, 100.0 cm$^3$ of \ce{NO2} is placed in a syringe. The plunger is then pushed in until the volume is 50.0 cm$^3$, while maintaining a constant temperature. The system is allowed to return to equilibrium.
+
+Which statement is true for the system at equilibrium?
+
+A. The value of $K_{eq}$ has increased.
+
+B. The ratio $\frac{[\ce{NO2}]}{[\ce{N2O4}]}$ has decreased.
+
+C. The concentration of \ce{N2O4} has decreased.
+
+D. The concentrations of \ce{NO2} and \ce{N2O4} have doubled.
+
+\newpage
+
+### Question 15
+
+A 25.00 mL sample of 0.1131 mol L^-1^ \ce{HCl(aq)} was titrated with an aqueous ammonia solution. The conductivity of the solution was measured throughout the titration and the results graphed.
+
+![Conductivity titration graph](images/q15-conductivity-graph.png){width=80%}
+
+What was the concentration of the ammonia solution?
+
+A. 0.0452 mol L^-1^
+B. 0.189 mol L^-1^
+C. 0.283 mol L^-1^
+D. 0.690 mol L^-1^
+
+### Question 16
+
+A blue solution of copper(II) sulfate was investigated using colourimetry. Orange light ($\lambda = 630$ nm) was used and the pathlength was 1.00 cm.
+
+Which change would result in a higher absorbance value?
+
+A. Diluting the solution
+B. Using a higher intensity lamp
+C. Using blue light ($\lambda = 450$ nm)
+D. Setting the pathlength to 2.00 cm
+
+### Question 17
+
+A 2.0 g sample of silver carbonate ($MM = 275.81$ g mol^-1^) was added to 100.0 mL of water in a beaker. The solubility of silver carbonate at this temperature is $1.2 \times 10^{-4}$ mol L^-1^. It was then diluted by adding another 100.0 mL of water.
+
+What is the ratio of the concentration of silver ions in solution before and after dilution?
+
+A. 1 : 1
+B. 1 : 2
+C. 2 : 1
+D. 4 : 1
+
+\newpage
+
+### Question 18
+
+A low molecular weight biopolymer is being investigated for its suitability for medical use. In one trial a molecular weight of $2900 \pm 100$ g mol^-1^ proved to be optimum.
+
+A section of this biopolymer is shown.
+
+![Biopolymer structure and monomer options](images/q18-biopolymer.png){width=90%}
+
+Which will produce the suitable biopolymer?
+
+### Question 19
+
+What is the molar solubility of iron(II) hydroxide?
+
+A. $2.3 \times 10^{-6}$ mol L^-1^
+B. $2.9 \times 10^{-6}$ mol L^-1^
+C. $3.7 \times 10^{-6}$ mol L^-1^
+D. $4.9 \times 10^{-9}$ mol L^-1^
+
+### Question 20
+
+Cyanidin is a plant pigment that may be used as a pH indicator. It has four levels of protonation, each with a different colour, represented by these equilibria:
+
+$$\ce{H3Cy+ <=>[+H+][-H+] H2Cy <=>[+H+][-H+] HCy- <=>[+H+][-H+] Cy^2-}$$
+
+Red $\quad$ Colourless $\quad$ Purple $\quad$ Blue
+
+The following graph shows the relative amount of each species present at different pH values.
+
+![Cyanidin species distribution vs pH](images/q20-indicator-graph.png){width=80%}
+
+What colour would the indicator be if added to a 0.75 mol L^-1^ solution of hypoiodous acid, \ce{HIO} ($pK_a = 10.64$)?
+
+A. Red
+B. Colourless
+C. Purple
+D. Blue
+
+\newpage
+
+# Section II
+
+**80 marks**
+**Attempt Questions 21–36**
+**Allow about 2 hours and 25 minutes for this section**
+
+Answer the questions in the spaces provided. These spaces provide guidance for the expected length of response.
+
+### Question 21 (2 marks)
+
+Prop-1-ene reacts with \ce{Cl2} in an addition reaction. In the box given, draw the structural formula of the product of this reaction.
+
+\ce{CH2=CH-CH3 + Cl2 ->}
+
+\vspace{6cm}
+
+### Question 22 (2 marks)
+
+The following equation describes an equilibrium reaction.
+
+$$\ce{HF(aq) + PO4^3-(aq) <=> HPO4^2-(aq) + F-(aq)}$$
+
+Identify ONE base and its conjugate acid in the above equation.
+
+| Base | Conjugate acid |
+|------|----------------|
+|      |                |
+
+\vspace{2cm}
+
+\newpage
+
+### Question 23 (6 marks)
+
+Consider the following system which is at equilibrium in a rigid, sealed container.
+
+$$\ce{4NH3(g) + 5O2(g) <=> 4NO(g) + 6H2O(g)} \quad \Delta H = -950 \text{ kJ mol}^{-1}$$
+
+**(a)** Identify what would happen to the amount of \ce{NO(g)} if the temperature was increased. **(1 mark)**
+
+\vspace{2cm}
+
+**(b)** Explain why a catalyst does not affect the equilibrium position of this system. **(2 marks)**
+
+\vspace{4cm}
+
+**(c)** Using collision theory, explain what would happen to the concentration of \ce{NO(g)} if \ce{H2O(g)} was removed from the system. **(3 marks)**
+
+\vspace{6cm}
+
+\newpage
+
+### Question 24 (3 marks)
+
+The following graph shows the boiling points of some 1-chloroalkanes.
+
+![Boiling points of 1-chloroalkanes](images/q24-boiling-points.png){width=80%}
+
+Explain the trend shown in the graph.
+
+\vspace{6cm}
+
+### Question 25 (3 marks)
+
+The pH of two aqueous solutions was compared.
+
+![Two beakers showing HCl and HCN solutions](images/q25-beakers.png){width=60%}
+
+Explain why the \ce{HCN(aq)} solution has a higher pH than the \ce{HCl(aq)} solution. Include a relevant chemical equation for the \ce{HCN(aq)} solution.
+
+\vspace{6cm}
+
+\newpage
+
+### Question 26 (4 marks)
+
+Students conducted an experiment to determine $\Delta H$ for the reaction between sodium hydroxide and hydrochloric acid.
+
+The data from one student are shown in the table below.
+
+| Mass of 100.0 mL of 0.50 mol L^-1^ \ce{HCl}   | 100.7 g  |
+| Mass of 100.0 mL of 0.50 mol L^-1^ \ce{NaOH}  | 102.0 g  |
+| Initial temperature of \ce{HCl} solution       | 21.0°C   |
+| Initial temperature of \ce{NaOH} solution      | 21.2°C   |
+| Final temperature of mixture                   | 24.4°C   |
+
+Assume that all the solutions have the same specific heat capacity as water.
+
+**(a)** Calculate the heat energy released in this experiment. **(2 marks)**
+
+\vspace{4cm}
+
+**(b)** A second student using the same procedure obtained $2.6 \times 10^3$ J for the heat energy released in their experiment.
+
+Use this value to determine the enthalpy of neutralisation, $\Delta H$, in kJ mol^-1^, for the reaction shown.
+
+$$\ce{NaOH(aq) + HCl(aq) -> NaCl(aq) + H2O(l)}$$
+
+**(2 marks)**
+
+\vspace{4cm}
+
+\newpage
+
+### Question 27 (7 marks)
+
+A bottle labelled 'propanol' contains one of two isomers of propanol.
+
+**(a)** Draw the TWO isomers of propanol. **(2 marks)**
+
+\vspace{6cm}
+
+**(b)** Describe how $^{13}$C NMR spectroscopy might be used to identify which isomer is in the bottle. **(2 marks)**
+
+\vspace{5cm}
+
+**(c)** Each isomer produces a different product when oxidised.
+
+Write equations to represent the oxidation reactions of the two isomers. Include reaction conditions. **(3 marks)**
+
+\vspace{6cm}
+
+\newpage
+
+### Question 28 (5 marks)
+
+The iron content of an impure sample (4.32 g) was determined by the process shown in the flow chart.
+
+![Flowchart for iron analysis](images/q28-flowchart.png){width=80%}
+
+**(a)** Identify the brown precipitate formed at the end of step 3. **(1 mark)**
+
+\vspace{2cm}
+
+**(b)** Calculate the percentage of iron in the original impure sample if 4.21 g of iron(III) oxide (\ce{Fe2O3}) was collected. Assume that all the iron was converted to iron(III) oxide. **(4 marks)**
+
+\vspace{8cm}
+
+\newpage
+
+### Question 29 (5 marks)
+
+The enthalpies of combustion of four alcohols were determined in a school laboratory.
+
+The results are shown in the table.
+
+| Alcohol      | $\Delta_c H$ (kJ mol^-1^) |
+|--------------|---------------------------|
+| Methanol     | −596                      |
+| Ethanol      | −978                      |
+| Propan-1-ol  | −1507                     |
+| Pentan-1-ol  | −2910                     |
+
+**(a)** Plot the results, including a curved line of best fit, to estimate the enthalpy of combustion of butan-1-ol. **(3 marks)**
+
+\vspace{1cm}
+
+(Graph space provided in booklet)
+
+Enthalpy of combustion of butan-1-ol: _______________
+
+**(b)** The published value for the enthalpy of combustion of pentan-1-ol is closer to −3331 kJ mol^-1^.
+
+Justify ONE possible reason for the difference between the school's results and published values. **(2 marks)**
+
+\vspace{4cm}
+
+\newpage
+
+### Question 30 (7 marks)
+
+The following spectra were obtained for an unknown organic compound.
+
+![Mass spectrum](images/q30-mass-spectrum.png){width=80%}
+
+![Infrared spectrum](images/q30-ir-spectrum.png){width=80%}
+
+![Proton NMR spectrum](images/q30-proton-nmr.png){width=80%}
+
+![Carbon-13 NMR spectrum](images/q30-c13-nmr.png){width=80%}
+
+In the space provided, draw and name the unknown compound that is consistent with all the information provided. Justify your answer with reference to the information provided.
+
+Structure:
+
+\vspace{6cm}
+
+Name: _______________
+
+Justification:
+
+\vspace{8cm}
+
+\newpage
+
+### Question 31 (7 marks)
+
+Silver ions form the following complex with ammonia solution.
+
+$$\ce{Ag+(aq) + 2NH3(aq) <=> [Ag(NH3)2]+(aq)}$$
+
+The equilibrium constant is $1.6 \times 10^7$ at 25°C.
+
+**(a)** In order to determine the free \ce{Ag+} concentration in an aqueous ammonia solution, a student carried out a precipitation titration with \ce{NaI(aq)} as the titrant.
+
+Evaluate the suitability of this method. **(3 marks)**
+
+\vspace{6cm}
+
+**(b)** If 0.010% of the total silver ions in solution are present as \ce{Ag+(aq)} at equilibrium, calculate the equilibrium concentration of aqueous ammonia in this solution. **(4 marks)**
+
+\vspace{8cm}
+
+\newpage
+
+### Question 32 (8 marks)
+
+The concentration of citric acid, a triprotic acid, in a carbonated soft drink was to be determined.
+
+**Step 1:** A solution of \ce{NaOH(aq)} was standardised by titrating it against 25.00 mL aliquots of a solution of the monoprotic acid potassium hydrogen phthalate (KHP). The KHP solution was produced by dissolving 4.989 g in enough water to make 100.0 mL of solution. The molar mass of KHP is 204.22 g mol^-1^.
+
+The results of the standardisation titration are given in the table.
+
+| Titration | Volume NaOH (mL) |
+|-----------|------------------|
+| 1         | 28.60            |
+| 2         | 27.40            |
+| 3         | 27.20            |
+| 4         | 27.60            |
+
+**Step 2:** A 75.00 mL bottle of the drink was opened and the contents quantitatively transferred to a beaker. The soft drink was gently heated to remove \ce{CO2}.
+
+**Step 3:** The cooled drink was quantitatively transferred to a 250.0 mL volumetric flask and distilled water was added up to the mark.
+
+**Step 4:** 25.00 mL samples of the solution were titrated with the \ce{NaOH(aq)} solution. The average volume of \ce{NaOH(aq)} used was 13.10 mL.
+
+**(a)** Calculate the concentration of the triprotic citric acid in the soft drink. **(6 marks)**
+
+\vspace{12cm}
+
+**(b)** Explain how your answer to part (a) would be different if the carbon dioxide was not removed from the soft drink. **(2 marks)**
+
+\vspace{4cm}
+
+\newpage
+
+### Question 33 (8 marks)
+
+Analyse how a student could design a chemical synthesis process to be undertaken in the school laboratory. In your response, use a specific process relating to the synthesis of an organic compound, including a chemical equation, and refer to:
+
+- selection of reagent(s)
+- reaction conditions
+- any potential hazards and any safety precautions to minimise the risk
+- yield and purity of the product(s).
+
+\vspace{20cm}
+
+\newpage
+
+### Question 34 (4 marks)
+
+Sodium hypochlorite (\ce{NaOCl}) is the active ingredient in pool chlorine. It completely dissolves in water to produce the hypochlorite ion (\ce{OCl-}), which undergoes hydrolysis according to the following equilibrium.
+
+$$\ce{OCl-(aq) + H2O(l) <=> HOCl(aq) + OH-(aq)}$$
+
+The equilibrium constant for this reaction at 25°C is $3.33 \times 10^{-7}$.
+
+For pool chlorine to be effective the pH is maintained by a different buffer at 7.5 and the hypochlorous acid (\ce{HOCl}) concentration should be $1.3 \times 10^{-4}$ mol L^-1^.
+
+Calculate the volume of 2.0 mol L^-1^ sodium hypochlorite solution that needs to be added to a $1.00 \times 10^4$ L pool to meet the required conditions.
+
+\vspace{8cm}
+
+\newpage
+
+### Question 35 (5 marks)
+
+A precipitate of strontium hydroxide \ce{Sr(OH)2}, ($MM = 121.63$ g mol^-1^) was produced when 80.0 mL of 1.50 mol L^-1^ strontium nitrate solution was mixed with 80.0 mL of 0.855 mol L^-1^ sodium hydroxide solution. The mass of the dried precipitate was 3.93 g.
+
+What is the $K_{sp}$ of strontium hydroxide?
+
+\vspace{10cm}
+
+\newpage
+
+### Question 36 (4 marks)
+
+Consider the equilibrium system shown.
+
+$$\ce{H2O(l) <=> H2O(g)}$$
+
+In a laboratory at 23°C, a 100 mL sample of water is held in a beaker and another 100 mL sample is held in a sealed bottle.
+
+Explain the differences in evaporation for these TWO samples. In your answer, consider changes in enthalpy and entropy for this process.
+
+\vspace{10cm}
+
+\newpage
+
+# Formulae Sheet
+
+(Content from pages 37-40 of the original PDF would be included here)
+
+**FORMULAE SHEET**
+
+$$n = \frac{m}{MM}$$
+
+$$c = \frac{n}{V}$$
+
+$$PV = nRT$$
+
+$$q = mc\Delta T$$
+
+$$\Delta G° = \Delta H° - T\Delta S°$$
+
+$$pH = -\log_{10}[\ce{H+}]$$
+
+$$pK_a = -\log_{10}[K_a]$$
+
+$$A = \varepsilon lc = \log_{10}\frac{I_0}{I}$$
+
+**Physical Constants:**
+
+- Avogadro constant, $N_A$ = $6.022 \times 10^{23}$ mol^-1^
+- Volume of 1 mole ideal gas at 100 kPa and:
+  - at 0°C (273.15 K) = 22.71 L
+  - at 25°C (298.15 K) = 24.79 L
+- Gas constant = $8.314$ J mol^-1^ K^-1^
+- Ionisation constant for water at 25°C (298.15 K), $K_w$ = $1.0 \times 10^{-14}$
+- Specific heat capacity of water = $4.18 \times 10^3$ J kg^-1^ K^-1^
+
+© 2022 NSW Education Standards Authority

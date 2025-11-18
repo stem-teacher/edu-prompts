@@ -1,0 +1,660 @@
+---
+title: "Chemistry"
+subtitle: "2021 HIGHER SCHOOL CERTIFICATE EXAMINATION"
+format:
+  pdf:
+    documentclass: article
+    geometry:
+      - margin=2.5cm
+    fontsize: 11pt
+    include-in-header:
+      text: |
+        \usepackage{chemfig}
+        \usepackage{mhchem}
+        \usepackage{siunitx}
+        \usepackage{graphicx}
+        \usepackage{tikz}
+        \usepackage{fancyhdr}
+        \pagestyle{fancy}
+        \fancyhead[L]{Centre Number}
+        \fancyhead[R]{Student Number}
+---
+
+\begin{center}
+\Large NSW Education Standards Authority
+
+\vspace{1cm}
+
+\Large \textbf{2021 HIGHER SCHOOL CERTIFICATE EXAMINATION}
+
+\vspace{1cm}
+
+\Huge \textbf{Chemistry}
+
+\vspace{1cm}
+\end{center}
+
+**General Instructions**
+
+- Reading time – 5 minutes
+- Working time – 3 hours
+- Write using black pen
+- Draw diagrams using pencil
+- Calculators approved by NESA may be used
+- A formulae sheet, data sheet and Periodic Table are provided at the back of this paper
+
+**Total marks: 100**
+
+**Section I – 20 marks** (pages 3–12)
+
+- Attempt Questions 1–20
+- Allow about 35 minutes for this section
+
+**Section II – 80 marks** (pages 13–32)
+
+- Attempt Questions 21–36
+- Allow about 2 hours and 25 minutes for this section
+
+\newpage
+
+# Section I
+
+**20 marks**
+**Attempt Questions 1–20**
+**Allow about 35 minutes for this section**
+
+Use the multiple-choice answer sheet for Questions 1–20.
+
+### Question 1
+
+Which pair of components must be equal for a chemical system to be at equilibrium?
+
+A. The rate of the forward reaction and the rate of the reverse reaction
+
+B. The concentrations of the reactants and the concentrations of the products
+
+C. The enthalpy of the forward reaction and the enthalpy of the reverse reaction
+
+D. The time that an atom exists in a reactant molecule and in a product molecule
+
+### Question 2
+
+Which ion can be detected using a precipitation reaction with silver nitrate?
+
+A. \ce{Ag+}
+
+B. \ce{Cl-}
+
+C. \ce{Mg^2+}
+
+D. \ce{NO3-}
+
+### Question 3
+
+The structure of a compound is shown.
+
+![Structure of N-methylpropanamide](images/q3-structure.png){width=50%}
+
+What is the preferred IUPAC name of this compound?
+
+A. *N*-methylpropanamide
+
+B. *N*-methylpropanamine
+
+C. *N*-propanylamine
+
+D. *N*-propylmethanamide
+
+### Question 4
+
+The structure of ethyl pentanoate is shown.
+
+![Structure of ethyl pentanoate](images/q4-ethyl-pentanoate.png){width=60%}
+
+Which pair of chemicals would produce ethyl pentanoate by esterification?
+
+A. Ethene and pentan-1-ol
+
+B. Ethane and pentanoic acid
+
+C. Ethanol and pentanoic acid
+
+D. Ethanoic acid and pentan-1-ol
+
+### Question 5
+
+A student used the following method to titrate an acetic acid solution of unknown concentration with a standardised solution of dilute sodium hydroxide.
+
+- Rinse burette with deionised water.
+- Fill burette with sodium hydroxide solution.
+- Rinse pipette and conical flask with acetic acid solution.
+- Pipette 25.00 mL of acetic acid solution into conical flask.
+- Add appropriate indicator to the conical flask.
+- Titrate to endpoint and record volume of sodium hydroxide solution used.
+
+Compared to the actual concentration of the acetic acid, the calculated concentration will be
+
+A. lower.
+
+B. higher.
+
+C. the same.
+
+D. different, but higher or lower cannot be predicted.
+
+### Question 6
+
+Which row of the table describes what happens when a solution of a weak acid is diluted? (Assume constant temperature.)
+
+| | $K_a$ | Extent of acid ionisation |
+|---|---|---|
+| A. | Decreases | Increases |
+| B. | Decreases | Decreases |
+| C. | Remains the same | Increases |
+| D. | Remains the same | Decreases |
+
+### Question 7
+
+Methanol undergoes a substitution reaction using hydrogen bromide.
+
+Compared to methanol, the product of this reaction has a
+
+A. lower boiling point.
+
+B. lower molecular mass.
+
+C. greater solubility in water.
+
+D. different molecular geometry at the carbon atom.
+
+### Question 8
+
+Which diagram shows the expected arrangement of soap anions in an emulsion?
+
+![Soap emulsion diagrams A, B, C, D](images/q8-soap-emulsion.png){width=80%}
+
+### Question 9
+
+The amount of paracetamol in a sample needs to be determined.
+
+The UV absorption spectrum of paracetamol is shown.
+
+![UV absorption spectrum of paracetamol](images/q9-paracetamol-spectrum.png){width=60%}
+
+Based on the absorption spectra provided, which solvent should be used to determine the amount of paracetamol?
+
+![Solvent spectra A, B, C, D](images/q9-solvent-spectra.png){width=100%}
+
+### Question 10
+
+The structure of part of a polymer chain is shown.
+
+![Polymer chain structure](images/q10-polymer-structure.png){width=60%}
+
+Which is the monomer of this polymer?
+
+![Monomer options A, B, C, D](images/q10-monomer-options.png){width=80%}
+
+### Question 11
+
+Consider this system in a fixed volume at constant temperature.
+
+$$\ce{PCl5(s) <=> PCl3(l) + Cl2(g)}$$
+
+This system is initially at equilibrium. A small amount of solid \ce{PCl5} is added.
+
+Which statement is correct?
+
+A. The amount of \ce{Cl2} will increase.
+
+B. The amount of \ce{PCl3} will decrease.
+
+C. The amount of \ce{Cl2} will not change.
+
+D. The amount of \ce{PCl5} will increase then decrease.
+
+### Question 12
+
+The mass spectrum and carbon-13 NMR for an organic compound are shown.
+
+![Mass spectrum and C-13 NMR](images/q12-spectra.png){width=100%}
+
+Question 12 continues on page 9
+
+\newpage
+
+**Question 12 (continued)**
+
+Which compound could produce the two spectra?
+
+![Structural formulas A, B, C, D](images/q12-structures.png){width=100%}
+
+### Question 13
+
+A chemist synthesises a substance using the following pathway.
+
+$$\text{X} \xrightarrow{\text{hydration}} \text{Y} \xrightarrow{\text{oxidation}} \text{Z}$$
+
+What are compounds X, Y and Z?
+
+| | X | Y | Z |
+|---|---|---|---|
+| A. | propane | propan-1-ol | propan-2-one |
+| B. | propane | propan-1-ol | propanoic acid |
+| C. | prop-1-ene | propan-2-ol | propan-2-one |
+| D. | prop-1-ene | propan-2-ol | propanoic acid |
+
+### Question 14
+
+A sample of nickel was dissolved in nitric acid to produce a solution with a volume of 50.00 mL. 10.00 mL of this solution was then diluted to 250.0 mL. This solution was subjected to colorimetric analysis. A calibration curve for this analysis is given.
+
+![Calibration curve for nickel analysis](images/q14-calibration-curve.png){width=70%}
+
+The solution gave an absorbance value of 0.30.
+
+What was the mass of the sample of nickel?
+
+A. 0.0021 g
+
+B. 0.031 g
+
+C. 0.053 g
+
+D. 0.15 g
+
+### Question 15
+
+What is the pH of the resultant solution after 20.0 mL of 0.20 mol L^-1^ \ce{HCl(aq)} is mixed with 20.0 mL of 0.50 mol L^-1^ \ce{NaOH(aq)}?
+
+A. 11.8
+
+B. 13.2
+
+C. 13.5
+
+D. 14.0
+
+### Question 16
+
+This titration curve is produced when an acid is titrated with a sodium hydroxide solution of the same concentration.
+
+![Titration curve](images/q16-titration-curve.png){width=70%}
+
+How many acidic protons does this acid possess?
+
+A. 1
+
+B. 2
+
+C. 3
+
+D. 4
+
+### Question 17
+
+A sample was contaminated with sodium phosphate. The sample was dissolved in water and added to an excess of acidified \ce{(NH4)2MoO4} to produce a precipitate of \ce{(NH4)3PO4*12MoO3} (MM = 1877 g mol^-1^).
+
+If 24.21 g of dry \ce{(NH4)3PO4*12MoO3} was obtained, what was the mass of sodium phosphate in the original sample?
+
+A. 1.225 g
+
+B. 1.521 g
+
+C. 1.818 g
+
+D. 2.115 g
+
+### Question 18
+
+The table lists the information from a proton NMR spectrum.
+
+| *Chemical shift* (ppm) | *Multiplicity* | *Number of hydrogens* |
+|---|---|---|
+| 1.0 | Triplet | 3 |
+| 1.4 | Singlet | 3 |
+| 1.8 | Quartet | 2 |
+
+Which compound could have produced this spectrum?
+
+A. 1,2,2-trichlorobutane
+
+B. 1,3-dichloro-2-methylpropane
+
+C. 2-chloro-2-methylbutane
+
+D. 2,2-dichlorobutane
+
+### Question 19
+
+A quantity of silver nitrate is added to 250.0 mL of 0.100 mol L^-1^ potassium sulfate at 298 K in order to produce a precipitate. Silver nitrate has a molar mass of 169.9 g mol^-1^.
+
+What mass of silver nitrate will cause precipitation to start?
+
+A. 0.00510 g
+
+B. 0.186 g
+
+C. 0.465 g
+
+D. 0.854 g
+
+### Question 20
+
+The trimethylammonium ion, \ce{[(CH3)3NH]+}, is a weak acid. The acid dissociation equation is shown.
+
+$$\ce{[(CH3)3NH]+(aq) + H2O(l) <=> H3O+(aq) + (CH3)3N(aq)} \quad K_a = 1.55 \times 10^{-10}$$
+
+At 20°C, a saturated solution of trimethylammonium chloride, \ce{[(CH3)3NH]Cl}, has a pH of 4.46.
+
+What is the $K_{sp}$ of trimethylammonium chloride?
+
+A. $1.26 \times 10^{-9}$
+
+B. 7.76
+
+C. 60.2
+
+D. $5.01 \times 10^{10}$
+
+\newpage
+
+# Section II
+
+**80 marks**
+**Attempt Questions 21–36**
+**Allow about 2 hours and 25 minutes for this section**
+
+Answer the questions in the spaces provided. These spaces provide guidance for the expected length of response.
+
+Show all relevant working in questions involving calculations.
+
+### Question 21 (6 marks)
+
+Four organic liquids are used in an experiment. The four liquids are
+
+- hexane
+- hex-1-ene
+- propan-1-ol
+- propanoic acid.
+
+**(a)** State ONE safety concern associated with organic liquids and suggest ONE way to address this safety concern. **(2 marks)**
+
+\vspace{3cm}
+
+**(b)** The organic liquids are held separately in four flasks but the flasks are not labelled. Tests were conducted to identify these liquids. The outcomes of the tests are summarised below. **(2 marks)**
+
+| *Flask* | *Reaction with acidified oxidant* (\ce{KMnO4}/\ce{H+})? | *Miscible with water?* |
+|---|---|---|
+| 1 | No | Yes |
+| 2 | Yes | No |
+| 3 | Yes | Yes |
+| 4 | No | No |
+
+Identify the FOUR liquids.
+
+| *Flask* | *Liquid* |
+|---|---|
+| 1 | |
+| 2 | |
+| 3 | |
+| 4 | |
+
+**(c)** What chemical test, other than those used in part (b), could be used to confirm the identification of ONE of the liquids? Include the expected observation in your answer. **(2 marks)**
+
+Liquid: ....................................................................................................................
+
+\vspace{4cm}
+
+### Question 22 (3 marks)
+
+Consider the following equilibrium system.
+
+$$\ce{2CrO4^2-(aq) + 2H+(aq) <=> Cr2O7^2-(aq) + H2O(l)} \quad \Delta H = -895 \text{ kJ mol}^{-1}$$
+
+yellow$\qquad\qquad\qquad\qquad\qquad$orange
+
+The solution is orange.
+
+Justify TWO ways to shift the equilibrium to the left to change the colour of the solution.
+
+\vspace{7cm}
+
+### Question 23 (4 marks)
+
+Methanoic acid reacts with aqueous potassium hydroxide. A salt is produced in this reaction.
+
+**(a)** Write a balanced chemical equation for this reaction. **(2 marks)**
+
+\vspace{2cm}
+
+**(b)** Is the salt acidic, basic or neutral? Justify your answer. **(2 marks)**
+
+\vspace{3cm}
+
+### Question 24 (4 marks)
+
+A straight-chained alkane has a molar mass of 72.146 g mol^-1^.
+
+Provide the structural formulae for this alkane and all other isomers of it in the space provided.
+
+Name these molecules using IUPAC conventions.
+
+| *Structural formula* | *Name* |
+|---|---|
+| | |
+| | |
+| | |
+| | |
+| | |
+
+\vspace{12cm}
+
+### Question 25 (4 marks)
+
+A student conducted an experiment in the school laboratory under standard laboratory conditions (25°C, 100 kPa) to determine the volume of carbon dioxide gas produced during the fermentation of glucose. The following apparatus was set up.
+
+![Fermentation apparatus](images/q25-apparatus.png){width=60%}
+
+The following data were collected.
+
+| *Day* | *Total volume of gas* (mL) |
+|---|---|
+| 1 | 489 |
+| 2 | 677 |
+| 3 | 899 |
+| 4 | 1006 |
+| 5 | 1006 |
+
+Assume the total volume of gas produced was due to the production of carbon dioxide.
+
+Calculate the mass of ethanol produced by the fermentation reaction. Include a relevant chemical equation in your answer.
+
+\vspace{8cm}
+
+### Question 26 (6 marks)
+
+A sequence of chemical reactions, starting with 2-methylprop-1-ene, is shown in the flow chart.
+
+**(a)** Complete the flow chart by drawing structural formulae for compounds A, B, C and D. **(4 marks)**
+
+![Reaction flow chart](images/q26-flowchart.png){width=100%}
+
+**(b)** Reflux is used in the synthesis of methyl 2-methylpropanoate. **(2 marks)**
+
+Provide TWO reasons for using this technique.
+
+\vspace{3cm}
+
+### Question 27 (6 marks)
+
+An experiment is carried out to determine the $K_{sp}$ value for lithium phosphate (\ce{Li3PO4}).
+
+Five samples of \ce{Li+} ion solution were prepared, and a different solution of \ce{PO4^3-} was added to each of them. Columns 2 and 3 of the table show the values before any reaction occurs.
+
+| *Sample* | [\ce{Li+}] (mol L^-1^) | [\ce{PO4^3-}] (mol L^-1^) | *Observation* |
+|---|---|---|---|
+| 1 | 0.15 | 0.00010 | No precipitate |
+| 2 | 0.15 | 0.0010 | No precipitate |
+| 3 | 0.15 | 0.010 | No precipitate |
+| 4 | 0.15 | 0.10 | White precipitate |
+| 5 | 0.15 | 1.00 | Heavy white precipitate |
+
+**(a)** Calculate the range within which the $K_{sp}$ value of lithium phosphate lies. **(4 marks)**
+
+\vspace{10cm}
+
+**(b)** Justify ONE way in which the procedure of this investigation could be improved to increase the accuracy of the calculated result. **(2 marks)**
+
+\vspace{5cm}
+
+### Question 28 (4 marks)
+
+A 5.30 g sample of an alkali metal hydroxide was dissolved in water. After mixing with excess \ce{Cu(NO3)2}, the precipitate was collected, dried, measured and found to have a mass of 4.61 g.
+
+Identify the alkali metal hydroxide. Support your answer with calculations and a balanced equation.
+
+\vspace{16cm}
+
+### Question 29 (7 marks)
+
+A chemist obtained spectral data of pentane-1,5-diamine (\ce{C5H14N2}).
+
+$$\ce{H2N-CH2-CH2-CH2-CH2-CH2-NH2}$$
+
+![Infrared spectrum](images/q29-ir-spectrum.png){width=100%}
+
+![Mass spectrum](images/q29-mass-spectrum.png){width=100%}
+
+![Carbon-13 NMR](images/q29-c13-nmr.png){width=100%}
+
+![Proton NMR](images/q29-h-nmr.png){width=100%}
+
+Relate the highlighted features of the spectra to the structure of pentane-1,5-diamine.
+
+\vspace{25cm}
+
+### Question 30 (5 marks)
+
+A student was trying to identify the ions present in a dilute aqueous solution.
+
+The solution contained ions of barium, calcium or magnesium, and ions of hydroxide or acetate.
+
+The student performed the following tests and recorded their observations. A fresh sample of the solution was used for each test.
+
+- When aqueous sodium chloride was added, no visible reaction was observed.
+- When aqueous silver nitrate was added, brown precipitate was produced. The precipitate dissolved when dilute hydrochloric acid was added.
+- When concentrated aqueous sodium sulfate was added, white precipitate was produced.
+
+Evaluate this procedure as a method of identifying the ions.
+
+\vspace{18cm}
+
+### Question 31 (4 marks)
+
+Ammonia is produced according to the following equilibrium equation.
+
+$$\ce{N2(g) + 3H2(g) <=> 2NH3(g)}$$
+
+There are 4.50 moles of nitrogen gas, 1.00 mole of hydrogen gas and 5.80 moles of ammonia in a 10.0 L vessel. The system is at equilibrium at 298 K. The value of $K_{eq}$ at this temperature is 748.
+
+How many moles of nitrogen gas need to be added to the vessel to increase the amount of ammonia by 0.050 moles?
+
+\vspace{12cm}
+
+### Question 32 (4 marks)
+
+The molar enthalpies of neutralisation of three reactions are given.
+
+Reaction 1:
+$$\ce{HCl(aq) + KOH(aq) -> KCl(aq) + H2O(l)} \quad \Delta H = -57.6 \text{ kJ mol}^{-1}$$
+
+Reaction 2:
+$$\ce{HNO3(aq) + KOH(aq) -> KNO3(aq) + H2O(l)} \quad \Delta H = -57.6 \text{ kJ mol}^{-1}$$
+
+Reaction 3:
+$$\ce{HCN(aq) + KOH(aq) -> KCN(aq) + H2O(l)} \quad \Delta H = -12.0 \text{ kJ mol}^{-1}$$
+
+Explain why the first two reactions have the same enthalpy value but the third reaction has a different value.
+
+\vspace{14cm}
+
+### Question 33 (6 marks)
+
+The relationships between $\Delta H$ and $T\Delta S$ with temperature for a chemical system are displayed in the graph.
+
+![Graph of ΔH and TΔS vs temperature](images/q33-graph.png){width=80%}
+
+**(a)** Calculate $\Delta G$ for this system at 300 K. **(2 marks)**
+
+\vspace{3cm}
+
+**(b)** What can be deduced about the system when the temperature is $T_1$, $T_2$ and $T_3$? Support your answer with reference to the graph. **(4 marks)**
+
+\vspace{11cm}
+
+### Question 34 (5 marks)
+
+Gaseous \ce{HCl} was bubbled into water and two solutions, *X* and *Y*. Solutions *X* and *Y* contain the same type of ions. The pH of each was monitored over time and recorded in the graph shown.
+
+![pH vs time graph](images/q34-ph-graph.png){width=70%}
+
+Explain the observed pH of the water and each of the solutions at $t_0$, $t_1$ and $t_2$. Include a relevant balanced chemical equation in your answer.
+
+\vspace{12cm}
+
+### Question 35 (7 marks)
+
+A manufacturer requires that its product contains at least 85% v/v ethanol.
+
+The concentration of ethanol in water can be determined by a back titration. Ethanol is first oxidised to ethanoic acid using an excess of acidified potassium dichromate solution.
+
+$$\ce{3C2H5OH(aq) + 2Cr2O7^2-(aq) + 16H+(aq) -> 3CH3COOH(aq) + 4Cr^3+(aq) + 11H2O(l)}$$
+
+The remaining dichromate ions are reacted with excess iodide ions to produce iodine (\ce{I2}).
+
+$$\ce{Cr2O7^2-(aq) + 14H+(aq) + 6I-(aq) -> 2Cr^3+(aq) + 7H2O(l) + 3I2(aq)}$$
+
+The iodine produced is then titrated with sodium thiosulfate (\ce{Na2S2O3}).
+
+$$\ce{I2(aq) + 2S2O3^2-(aq) -> 2I-(aq) + S4O6^2-(aq)}$$
+
+A 25.0 mL sample of the manufacturer's product was diluted with distilled water to 1.00 L. A 25.0 mL aliquot of the diluted solution was added to 20.0 mL of 0.500 mol L^-1^ acidified potassium dichromate solution in a conical flask. Potassium iodide (2.0 g) was added and the solution titrated with 0.900 mol L^-1^ sodium thiosulfate. This was repeated three times.
+
+*\*The quantity of potassium iodide should be 5.0 g. This is not required for the calculation.*
+
+The following results were obtained.
+
+| *Time* | *Volume of* \ce{Na2S2O3(aq)} *added* (mL) |
+|---|---|
+| 1 | 29.9 |
+| 2 | 28.7 |
+| 3 | 28.4 |
+| 4 | 28.6 |
+
+The density of ethanol is 0.789 g mL^-1^.
+
+Does the sample meet the manufacturer's requirements? Support your answer with calculations.
+
+\vspace{25cm}
+
+### Question 36 (5 marks)
+
+The $pK_a$ of sulfurous acid in the following reaction is 1.82.
+
+$$\ce{H2SO3(aq) + H2O(l) <=> H3O+(aq) + HSO3-(aq)}$$
+
+The $pK_a$ of hydrogen sulfite in the following reaction is 7.17.
+
+$$\ce{HSO3-(aq) + H2O(l) <=> H3O+(aq) + SO3^2-(aq)}$$
+
+Calculate the equilibrium constant for the following reaction:
+
+$$\ce{H2SO3(aq) + 2H2O(l) <=> 2H3O+(aq) + SO3^2-(aq)}$$
+
+\vspace{20cm}
+
+\begin{center}
+End of paper
+
+© 2021 NSW Education Standards Authority
+\end{center}
