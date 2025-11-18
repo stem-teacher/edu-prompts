@@ -1,0 +1,706 @@
+---
+title: "Chemistry"
+subtitle: "2018 HIGHER SCHOOL CERTIFICATE EXAMINATION"
+format:
+  pdf:
+    documentclass: article
+    geometry:
+      - margin=2.5cm
+    fontsize: 11pt
+    include-in-header:
+      text: |
+        \usepackage{chemfig}
+        \usepackage{mhchem}
+        \usepackage{siunitx}
+        \usepackage{graphicx}
+        \usepackage{tikz}
+        \usepackage{fancyhdr}
+        \pagestyle{fancy}
+        \fancyhead[L]{Centre Number}
+        \fancyhead[R]{Student Number}
+---
+
+\begin{center}
+\Large{\textbf{General Instructions}}
+\end{center}
+
+- Reading time – 5 minutes
+- Working time – 3 hours
+- Write using black pen
+- Draw diagrams using pencil
+- Calculators approved by NESA may be used
+- A data sheet and Periodic Table are provided at the back of this paper
+
+\vspace{1cm}
+
+\begin{center}
+\large{\textbf{Total marks: 100}}
+\end{center}
+
+**Section I – 75 marks** (pages 2–24)
+
+This section has two parts, Part A and Part B
+
+**Part A – 20 marks**
+
+- Attempt Questions 1–20
+- Allow about 35 minutes for this part
+
+**Part B – 55 marks**
+
+- Attempt Questions 21–30
+- Allow about 1 hour and 40 minutes for this part
+
+**Section II – 25 marks** (pages 25–32)
+
+- Attempt ONE question from Questions 31–35
+- Allow about 45 minutes for this section
+
+\newpage
+
+# Section I
+
+**75 marks**
+
+## Part A – 20 marks
+
+**Attempt Questions 1–20**
+
+**Allow about 35 minutes for this part**
+
+Use the multiple-choice answer sheet for Questions 1–20.
+
+### Question 1
+
+Which of the following is an industrial use of ammonia?
+
+A. As a catalyst in the Haber process
+
+B. As a reagent in the production of fertilisers
+
+C. As a catalyst in the manufacture of explosives
+
+D. As a reagent in the treatment of drinking water
+
+### Question 2
+
+Which row of the table correctly matches the chemical additive with its main function in a water treatment plant?
+
+|     | Additive | Function |
+|-----|----------|----------|
+| A.  | Chlorine | Kills microorganisms |
+| B.  | Fluoride | Reduces turbidity |
+| C.  | \ce{Fe^3+} | Minimises tooth decay |
+| D.  | HCl | Increases the pH of the water |
+
+### Question 3
+
+An esterification reaction is to be performed.
+
+Which of the following substances, when added, would increase the yield of the product?
+
+A. Water
+
+B. Boiling chips
+
+C. More alkanol
+
+D. Dilute sulfuric acid
+
+### Question 4
+
+Which of the following greatly enhanced scientific understanding of the effects of trace elements?
+
+A. Improved filtration techniques
+
+B. The development of atomic absorption spectroscopy
+
+C. The creation of new elements in particle accelerators
+
+D. The work of Le Chatelier in describing chemical equilibrium
+
+### Question 5
+
+Cellulose extracted from biomass is able to be used as a raw material in the manufacture of polymers because it
+
+A. is a condensation polymer.
+
+B. is a strong flexible molecule.
+
+C. produces carbon dioxide when burnt.
+
+D. contains a basic carbon-chain structure.
+
+### Question 6
+
+Sodium hydrogen carbonate is often used to clean up large spills of acids and alkalis.
+
+Why is it a suitable chemical for this application?
+
+A. It is diprotic and is readily neutralised.
+
+B. It is amphiprotic, stable and easily handled.
+
+C. It is diprotic and easily cleaned up when neutralised.
+
+D. It is amphiprotic and only small quantities are required.
+
+### Question 7
+
+Which diagram represents ionisation of a weak acid?
+
+![Diagrams showing ionisation of weak acid with key showing water molecules and molecules of weak acid](images/q7-weak-acid-ionisation.png){width=80%}
+
+### Question 8
+
+Which row of the table correctly identifies a major source of an acidic oxide in the atmosphere and the chemical equation for the formation of the oxide?
+
+|     | Source | Equation |
+|-----|--------|----------|
+| A.  | Volcanoes | \ce{N2(g) + O2(g) -> 2NO(g)} |
+| B.  | Mineral smelting | \ce{2ZnS(s) + 3O2(g) -> 2ZnO(s) + 2SO2(g)} |
+| C.  | Lightning | \ce{4NO(g) + 3O2(g) + 2H2O(g) -> 4HNO3(aq)} |
+| D.  | Incomplete combustion of fuels | \ce{2C8H18(l) + 17O2(g) -> 16CO(g) + 18H2O(g)} |
+
+### Question 9
+
+Which of the following would NOT have been classified as an acid by Antoine Lavoisier in 1780?
+
+A. Acetic acid
+
+B. Citric acid
+
+C. Sulfuric acid
+
+D. Hydrochloric acid
+
+### Question 10
+
+Which row of the table correctly matches the reaction type with the reactant(s), catalyst and product(s)?
+
+|     | Reaction type | Reactant(s) | Catalyst | Product(s) |
+|-----|---------------|-------------|----------|------------|
+| A.  | Hydration | \ce{C2H4 + H2O} | Dilute acid | \ce{C2H6} |
+| B.  | Hydration | \ce{C2H4} | Concentrated acid | \ce{C2H5OH} |
+| C.  | Dehydration | \ce{C2H5OH} | Dilute acid | \ce{C2H4} |
+| D.  | Dehydration | \ce{C2H5OH} | Concentrated acid | \ce{C2H4 + H2O} |
+
+### Question 11
+
+Which row of the table correctly matches the polymer with its structural feature and property?
+
+|     | Polymer | Structural feature | Property |
+|-----|---------|-------------------|----------|
+| A.  | Polyvinyl chloride | Chlorine side group | Rigid |
+| B.  | Low density polyethylene | Tightly packed molecules | Opaque |
+| C.  | High density polyethylene | Branched chains | Transparent |
+| D.  | Polystyrene | Large side chains | Flexible |
+
+### Question 12
+
+A silver spoon becomes tarnished over time according to the following reaction.
+
+$$\ce{4Ag(s) + O2(g) + 2H2S(g) -> 2Ag2S(s) + 2H2O(l)}$$
+
+Which row of the table correctly describes this process?
+
+|     | Type of reaction of silver | Change in oxidation state |
+|-----|---------------------------|--------------------------|
+| A.  | Oxidation | From 0 to +1 |
+| B.  | Oxidation | From 0 to +2 |
+| C.  | Reduction | From +2 to +1 |
+| D.  | Reduction | From +4 to +2 |
+
+### Question 13
+
+Pentanol, propyl acetate, pentanoic acid and ethyl propanoate all contain five carbon atoms. These four compounds are mixed in a flask and then separated by fractional distillation.
+
+Which compound would be most likely to remain in the flask?
+
+A. Pentanol
+
+B. Propyl acetate
+
+C. Pentanoic acid
+
+D. Ethyl propanoate
+
+### Question 14
+
+How many isomers are there of \ce{C3H6ClF}?
+
+A. 3
+
+B. 4
+
+C. 5
+
+D. 6
+
+### Question 15
+
+A solution containing potassium dihydrogen phosphate and potassium hydrogen phosphate is a common laboratory buffer with a pH close to 7.
+
+Which row of the table correctly identifies the chemistry of this buffer?
+
+|     | Buffer equation | Equilibrium shift |  |
+|-----|----------------|-------------------|---|
+|     |                | Acid is added to the solution | Alkali is added to the solution |
+| A.  | \ce{HPO4^2- + H2O <=> PO4^3- + H3O+} | Right | Left |
+| B.  | \ce{HPO4^2- + H2O <=> PO4^3- + H3O+} | Left | Right |
+| C.  | \ce{H2PO4- + H2O <=> HPO4^2- + H3O+} | Right | Left |
+| D.  | \ce{H2PO4- + H2O <=> HPO4^2- + H3O+} | Left | Right |
+
+### Question 16
+
+An investigation was carried out to determine the calcium ion concentration of a 2.0 L sample of tap water. Excess \ce{Na2CO3} was added to the sample. The precipitate was filtered, dried and weighed. The mass of the dried precipitate was 400 mg.
+
+What was the concentration of calcium ions in the sample of tap water?
+
+A. 80 mg L^-1^
+
+B. 160 mg L^-1^
+
+C. 200 mg L^-1^
+
+D. 400 mg L^-1^
+
+### Question 17
+
+Increasing amounts of carbon dioxide were dissolved in two beakers, one containing water and one a mixture of water and a buffer. The pH in each beaker was measured and the results graphed.
+
+Which graph best represents the results?
+
+![Four graphs showing pH vs CO2 concentration for water and water+buffer](images/q17-ph-buffer-graphs.png){width=90%}
+
+### Question 18
+
+The pH of a 0.080 mol L^-1^ solution of acetic acid is 2.9.
+
+What percentage of the acetic acid has dissociated into ions?
+
+A. 1.1%
+
+B. 1.3%
+
+C. 1.6%
+
+D. 2.8%
+
+### Question 19
+
+Which of the following standard galvanic cells will show the HIGHEST reading on the voltmeter?
+
+![Four galvanic cell diagrams with different electrode combinations](images/q19-galvanic-cells.png){width=100%}
+
+### Question 20
+
+The Winkler method is used to determine the amount of dissolved oxygen in a water sample. The procedure involves the following sequence of reactions.
+
+Step 1. \ce{2Mn^2+(aq) + O2(g) + 4OH-(aq) -> 2MnO(OH)2(s)}
+
+Step 2. \ce{MnO(OH)2(s) + 2I-(aq) + 4H+(aq) -> I2(aq) + Mn^2+(aq) + 3H2O(aq)}
+
+Step 3. \ce{I2(aq) + 2S2O3^2-(aq) -> 2I-(aq) + S4O6^2-(aq)}
+
+When a 5.00 L sample of water was analysed using the Winkler method, a total of $4.00 \times 10^{-3}$ mol of thiosulfate (\ce{S2O3^2-}) was required in Step 3.
+
+What concentration of oxygen was present in the original sample?
+
+A. 3.20 mg L^-1^
+
+B. 6.40 mg L^-1^
+
+C. 12.8 mg L^-1^
+
+D. 32.0 mg L^-1^
+
+\newpage
+
+## Part B – 55 marks
+
+**Attempt Questions 21–30**
+
+**Allow about 1 hour and 40 minutes for this part**
+
+Answer the questions in the spaces provided. These spaces provide guidance for the expected length of response.
+
+### Question 21 (3 marks)
+
+Ethylene can be readily transformed into many useful products.
+
+**(a)** What is the name of the industrial process by which ethylene is obtained from long chain alkanes? **(1 mark)**
+
+\vspace{2cm}
+
+**(b)** Ethylene can be converted into vinyl chloride. **(2 marks)**
+
+Draw structural formulae for vinyl chloride and its polymer, polyvinyl chloride.
+
+\vspace{8cm}
+
+### Question 22 (4 marks)
+
+A bottle of solution is missing its label. It is either \ce{Pb(NO3)2}, \ce{Ba(NO3)2} or \ce{Fe(NO3)2}.
+
+Using only HCl, NaOH and \ce{H2SO4} solutions, outline a sequence of steps that could be followed to confirm the identity of the solution in the bottle. Include observed results and ionic equations in your answer. **(4 marks)**
+
+\vspace{12cm}
+
+### Question 23 (6 marks)
+
+A student makes an ester in the school laboratory using methanol and butanoic acid.
+
+**(a)** Using structural formulae, write an equation for this reaction. **(2 marks)**
+
+\vspace{6cm}
+
+**(b)** Explain the conditions needed to efficiently and safely carry out this reaction in the school laboratory. **(4 marks)**
+
+\vspace{10cm}
+
+### Question 24 (4 marks)
+
+The following apparatus was set up to test the reaction rate of fermentation of glucose at different temperatures.
+
+![Fermentation apparatus with gas syringe](images/q24-fermentation-apparatus.png){width=50%}
+
+**(a)** Write a balanced equation for the fermentation of glucose. **(1 mark)**
+
+\vspace{2cm}
+
+**(b)** After 24 hours, 5.5 mL of gas was collected at 25°C and 100 kPa. **(3 marks)**
+
+Calculate the mass of glucose that would have been reacted.
+
+\vspace{8cm}
+
+### Question 25 (4 marks)
+
+The graph shows the number of molecules of \ce{N2} and \ce{H2} that possess a certain kinetic energy at two different temperatures.
+
+![Graph showing kinetic energy distribution at two temperatures](images/q25-kinetic-energy-graph.png){width=70%}
+
+With reference to the graph, explain why changing the temperature and adding a catalyst would change the rate of production of ammonia. **(4 marks)**
+
+\vspace{10cm}
+
+### Question 26 (7 marks)
+
+**(a)** Outline ONE method that is used to detect radiation to ensure the safety of workers that use radioisotopes. **(2 marks)**
+
+\vspace{4cm}
+
+**(b)** Analyse the impact on society of the use of ONE named radioisotope, with reference to its properties. **(5 marks)**
+
+\vspace{12cm}
+
+### Question 27 (5 marks)
+
+**(a)** Identify the systematic name of the compound shown. **(1 mark)**
+
+![Structural formula of chlorofluorocarbon compound](images/q27-cfc-structure.png){width=30%}
+
+\vspace{2cm}
+
+**(b)** Assess the suitability of the compound shown in part (a) as a replacement for chlorofluorocarbons (CFCs) in aerosols. **(4 marks)**
+
+\vspace{10cm}
+
+### Question 28 (8 marks)
+
+A camp stove using butane as a fuel was used to heat a pot of water inside a small tent. Poisonous carbon monoxide (CO) gas can be released from these stoves.
+
+![Camp stove diagram showing clearance height](images/q28-camp-stove.png){width=40%}
+
+An investigation was carried out to determine the carbon monoxide concentration in the tent when the clearance height of the pot above the flame was altered. The results are shown in the table.
+
+| Clearance height (mm) | 35 | 40 | 45 | 50 |
+|----------------------|----|----|----|----|
+| CO concentration (ppm) | 120 | 87 | 50 | 18 |
+
+**(a)** Construct a graph of the data on the grid. **(3 marks)**
+
+![Graph grid](images/q28-graph-grid.png){width=80%}
+
+**(b)** Air containing a CO concentration above 30 ppm is considered unsafe to breathe. **(1 mark)**
+
+What is the minimum clearance height at which the pot should be placed?
+
+\vspace{2cm}
+
+**(c)** Increasing the clearance height decreases the efficiency of the stove according to the following table. **(4 marks)**
+
+| Clearance height (mm) | 35 | 40 | 45 | 50 |
+|----------------------|----|----|----|----|
+| Efficiency (%) | 90 | 70 | 50 | 30 |
+
+A bushwalker only has 15.0 g of butane with which to heat 1.0 L of water with a starting temperature of 20°C.
+
+Calculate the highest temperature of the water that could safely be achieved in the tent. (Molar heat of combustion of butane: $\Delta H_c = 2877$ kJ mol^-1^)
+
+\vspace{10cm}
+
+### Question 29 (7 marks)
+
+The concentration of hydrochloric acid in a solution was determined by an acid base titration using a standard solution of sodium carbonate.
+
+**(a)** Explain why sodium carbonate is a suitable compound for preparation of a standard solution. **(2 marks)**
+
+\vspace{4cm}
+
+**(b)** A 25.00 mL sample of 0.1050 mol L^-1^ sodium carbonate solution was added to a conical flask and three drops of methyl orange indicator added. The mixture was titrated with the hydrochloric acid and the following readings were recorded. **(3 marks)**
+
+| Initial burette reading (mL) | Final burette reading (mL) | Titre (mL) |
+|------------------------------|---------------------------|-----------|
+| 0.00 | 22.00 | 22.00 |
+| 22.00 | 43.65 | 21.65 |
+| 0.00 | 21.70 | 21.70 |
+| 21.70 | 43.30 | 21.60 |
+
+Using the data from the table, calculate the concentration of the hydrochloric acid.
+
+\vspace{8cm}
+
+**(c)** Explain the effect on the calculated concentration of hydrochloric acid if phenolphthalein is used as the indicator instead of methyl orange. **(2 marks)**
+
+\vspace{4cm}
+
+### Question 30 (7 marks)
+
+Over the last 50 years, scientists have recorded increases in the following:
+
+- the amount of fossil fuels burnt
+- atmospheric carbon dioxide levels
+- average global air temperature and ocean temperature
+- the volume of carbon dioxide dissolved in the oceans.
+
+Analyse the factors that affect the equilibrium between carbon dioxide in the air and carbon dioxide in the oceans. In your answer, make reference to the scientists' observations and include relevant equations. **(7 marks)**
+
+\vspace{16cm}
+
+\newpage
+
+# Section II
+
+**25 marks**
+
+**Attempt ONE question from Questions 31–35**
+
+**Allow about 45 minutes for this section**
+
+Answer parts (a)–(d) of one question in the Section II Writing Booklet. Extra writing booklets are available.
+
+Show all relevant working in questions involving calculations.
+
+## Question 31 — Industrial Chemistry (25 marks)
+
+**(a)** (i) Use a labelled diagram to show the structure of a soap molecule. **(2 marks)**
+
+\vspace{4cm}
+
+(ii) Explain how soap acts as a cleaning agent. **(3 marks)**
+
+\vspace{6cm}
+
+**(b)** Sulfuric acid is an important industrial chemical.
+
+(i) Relate a property of sulfuric acid to a condition necessary for its safe transport and storage. **(2 marks)**
+
+\vspace{4cm}
+
+(ii) Two first-hand investigations are carried out. One demonstrates the use of sulfuric acid as an oxidising agent and the other demonstrates the use of sulfuric acid as a dehydrating agent. **(4 marks)**
+
+Explain the observations that could be made in these investigations. Include relevant equations in your answer.
+
+\vspace{8cm}
+
+**(c)** (i) Consider the following equilibrium reaction, which is endothermic. **(3 marks)**
+
+$$\ce{[Co(H2O)6]^2+ + 4Cl- <=> [CoCl4]^2- + 6H2O(l)}$$
+
+*Pink solution* $\quad\quad\quad\quad$ *Blue solution*
+
+Justify TWO conditions that could change the colour of the solution from pink to blue.
+
+\vspace{6cm}
+
+(ii) 0.20 moles of hydrogen gas and 0.20 moles of iodine gas were placed in a 1.0 L container and allowed to come to equilibrium. **(4 marks)**
+
+$$\ce{H2(g) + I2(g) <=> 2HI(g)}$$
+
+Determine the equilibrium concentration of HI for this reaction, given that the equilibrium constant, K, is 64.
+
+\vspace{8cm}
+
+**(d)** Explain how the environmental issues associated with the industrial production of sodium hydroxide and sodium carbonate can be addressed. Include chemical equations in your answer. **(7 marks)**
+
+\vspace{12cm}
+
+\newpage
+
+## Question 32 — Shipwrecks, Corrosion and Conservation (25 marks)
+
+**(a)** The diagram shows an electrolytic cell.
+
+![Electrolytic cell diagram](images/q32-electrolytic-cell.png){width=40%}
+
+(i) The equipment shown is being used to investigate the effect of changing the concentration of the electrolyte on the rate of reaction in electrolysis. **(2 marks)**
+
+Identify THREE variables that should be kept constant.
+
+\vspace{4cm}
+
+(ii) Calculate the minimum voltage to drive this cell if the electrolyte is 1.0 mol L^-1^ sodium bromide, assuming the electrodes are inert. **(3 marks)**
+
+\vspace{6cm}
+
+**(b)** A first-hand investigation is to be carried out to compare the rates of corrosion of iron and a form of steel.
+
+(i) Outline a suitable procedure for this investigation. **(2 marks)**
+
+\vspace{4cm}
+
+(ii) Explain the process of rusting. Include relevant half equations in your answer. **(4 marks)**
+
+\vspace{8cm}
+
+**(c)** In 1912, the ship *Titanic* sank in water over 3 km deep. The wreck was discovered in 1985. It was badly corroded and covered in rusticles. On analysis, the rusticles were found to be composed of iron(II) sulfide, iron(II) hydroxide and other related compounds. Silver coins were also found on the shipwreck and were covered in silver sulfide.
+
+(i) Explain how the rusticles were formed. Include relevant half equations in your answer. **(3 marks)**
+
+\vspace{6cm}
+
+(ii) Compare TWO methods for restoring the silver coins. Refer to the underlying chemistry in your answer. **(4 marks)**
+
+\vspace{8cm}
+
+**(d)** Explain how advances in chemistry have led to improvements in the protection of steel ships from corrosion in marine environments. Include a relevant equation in your answer. **(7 marks)**
+
+\vspace{12cm}
+
+\newpage
+
+## Question 33 — The Biochemistry of Movement (25 marks)
+
+**(a)** (i) Identify TWO main stages of cellular respiration and the location in the cell where each occurs. **(2 marks)**
+
+\vspace{4cm}
+
+(ii) Describe the first stage of cellular respiration. **(3 marks)**
+
+\vspace{6cm}
+
+**(b)** The structure of a dipeptide is shown.
+
+![Dipeptide structure](images/q33-dipeptide.png){width=40%}
+
+(i) Draw the structural formulae of the TWO amino acids from which this dipeptide was made. **(2 marks)**
+
+\vspace{6cm}
+
+(ii) Explain how both forces and bonding are responsible for the tertiary structure of a protein. **(4 marks)**
+
+\vspace{8cm}
+
+**(c)** (i) Describe how glucose monomers combine to form a branched glycogen polymer. **(3 marks)**
+
+\vspace{6cm}
+
+(ii) The energy profile in the graph shows the combustion of glucose during cellular respiration. **(4 marks)**
+
+![Energy profile for glucose combustion](images/q33-energy-profile.png){width=60%}
+
+At 25°C and 100 kPa, a running animal consumes a maximum of 3.5 L of oxygen per minute. For a 5-minute run the animal has adequate glucose available from the blood, some of which is mobilised from glycogen stores.
+
+The animal needs 300 kJ of energy to maintain the run aerobically for 5 minutes.
+
+Calculate whether the animal has an adequate supply of oxygen for the run, using data from the energy profile. Support your answer with an equation for cellular respiration.
+
+\vspace{10cm}
+
+**(d)** Explain how the structure of muscle cells relates to the function it performs in both gentle exercise and in sprints. **(7 marks)**
+
+\vspace{12cm}
+
+\newpage
+
+## Question 34 — The Chemistry of Art (25 marks)
+
+**(a)** (i) The electron configuration of an atom may be represented by using arrows to indicate electrons and boxes to indicate orbitals. For example, the electron configuration of boron would be represented as shown. **(2 marks)**
+
+![Electron configuration diagram for boron](images/q34-boron-config.png){width=30%}
+
+Draw a similar representation for the electron configuration of sodium.
+
+\vspace{4cm}
+
+(ii) Explain why some sub-shells in the fourth shell of an atom are filled before the third shell is complete. **(3 marks)**
+
+\vspace{6cm}
+
+**(b)** A first-hand investigation was carried out to demonstrate the oxidising strength of potassium permanganate.
+
+(i) Outline a procedure to determine the oxidising strength of potassium permanganate. **(2 marks)**
+
+\vspace{4cm}
+
+(ii) Justify ONE conclusion about the oxidising strength of potassium permanganate using observed results from the procedure. Include half equations in your answer. **(4 marks)**
+
+\vspace{8cm}
+
+**(c)** (i) How do an absorption spectrum and an emission spectrum differ? **(3 marks)**
+
+\vspace{6cm}
+
+(ii) Explain how both infrared light and ultraviolet light are used to determine the chemical composition and concentration of pigments. **(4 marks)**
+
+\vspace{8cm}
+
+**(d)** Explain the procedures used by Aboriginal people and an ancient culture to prepare and attach pigments to surfaces. Include the chemical composition of specific pigments in your answer. **(7 marks)**
+
+\vspace{12cm}
+
+\newpage
+
+## Question 35 — Forensic Chemistry (25 marks)
+
+**(a)** The diagram is a schematic representation of a mass spectrometer.
+
+![Mass spectrometer diagram](images/q35-mass-spectrometer.png){width=50%}
+
+(i) Name and outline the function of the part labelled A in the diagram. **(2 marks)**
+
+\vspace{4cm}
+
+(ii) Outline the advantages of using mass spectrometry for analysis of a compound. **(3 marks)**
+
+\vspace{6cm}
+
+**(b)** (i) A first-hand investigation was carried out to distinguish between reducing and non-reducing sugars. **(2 marks)**
+
+Outline a chemical test to distinguish between a reducing sugar and a non-reducing sugar.
+
+\vspace{4cm}
+
+(ii) Explain the observed results in part (i) with reference to the structural differences between reducing sugars and non-reducing sugars. Include a relevant chemical equation in your answer. **(4 marks)**
+
+\vspace{8cm}
+
+**(c)** (i) How can differences in the structure of DNA molecules between individuals be used in forensic investigations? **(3 marks)**
+
+\vspace{6cm}
+
+(ii) Explain how DNA fragments can be separated by electrophoresis to produce a DNA profile that connects an individual to an evidence sample. **(4 marks)**
+
+\vspace{8cm}
+
+**(d)** Compare emission spectroscopy and chromatography in the analysis of small samples in forensic investigations. **(7 marks)**
+
+\vspace{12cm}
+
+---
+
+**End of examination**
+
+© 2018 NSW Education Standards Authority

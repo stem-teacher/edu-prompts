@@ -1,0 +1,656 @@
+---
+title: "Chemistry"
+subtitle: "2024 HIGHER SCHOOL CERTIFICATE EXAMINATION"
+format:
+  pdf:
+    documentclass: article
+    geometry:
+      - margin=2.5cm
+    fontsize: 11pt
+    include-in-header:
+      text: |
+        \usepackage{chemfig}
+        \usepackage{mhchem}
+        \usepackage{siunitx}
+        \usepackage{graphicx}
+        \usepackage{tikz}
+        \usepackage{fancyhdr}
+        \pagestyle{fancy}
+        \fancyhead[L]{Centre Number}
+        \fancyhead[R]{Student Number}
+---
+
+\begin{center}
+\Large
+Centre Number \rule{3cm}{0.4pt}
+
+Student Number \rule{3cm}{0.4pt}
+\end{center}
+
+\vspace{1cm}
+
+**General Instructions**
+
+- Reading time – 5 minutes
+- Working time – 3 hours
+- Write using black pen
+- Draw diagrams using pencil
+- Calculators approved by NESA may be used
+- A formulae sheet, data sheet and Periodic Table are provided at the back of this paper
+- Write your Centre Number and Student Number at the top of this page
+
+**Total marks: 100**
+
+**Section I – 20 marks** (pages 2–12)
+
+- Attempt Questions 1–20
+- Allow about 35 minutes for this section
+
+**Section II – 80 marks** (pages 13–40)
+
+- Attempt Questions 21–39
+- Allow about 2 hours and 25 minutes for this section
+
+\newpage
+
+# Section I
+
+**20 marks**
+**Attempt Questions 1–20**
+**Allow about 35 minutes for this section**
+
+Use the multiple-choice answer sheet for Questions 1–20.
+
+### Question 1
+
+Which two substances are members of the same homologous series?
+
+![Structural formulas showing four pairs of organic compounds (A, B, C, D)](images/q1-homologous-series.png){width=80%}
+
+### Question 2
+
+Aboriginal and Torres Strait Islander Peoples have used leaching in flowing water over several days to prepare various foods from plants that can be toxic to humans.
+
+What was the reason for this?
+
+A. To react with toxins
+B. To dissolve low solubility toxins
+C. To prevent the food from decomposing
+D. To break down compounds that are difficult to digest
+
+### Question 3
+
+Which of the following compounds can be correctly described as an Arrhenius base when dissolved in water?
+
+A. Sodium nitrate
+B. Sodium sulfate
+C. Sodium chloride
+D. Sodium hydroxide
+
+### Question 4
+
+An infrared spectrum of an organic compound is shown.
+
+![Infrared spectrum showing % transmittance vs wavenumber](images/q4-ir-spectrum.png){width=70%}
+
+Which of the following compounds would produce the spectrum shown?
+
+![Four structural formulas showing different organic compounds (A: alcohol, B: carboxylic acid, C: ketone, D: alkane)](images/q4-structures.png){width=60%}
+
+### Question 5
+
+Which would be the best reagent to use to determine whether an unknown substance was 2-methylpropan-1-ol or 2-methylpropan-2-ol?
+
+A. Bromine water
+B. Potassium nitrate solution
+C. Sodium carbonate solution
+D. Acidified potassium permanganate solution
+
+### Question 6
+
+What is the hydroxide ion concentration of a solution of potassium hydroxide with a pH of 11?
+
+A. $10^{-11}$ mol L^-1^
+B. $10^{-3}$ mol L^-1^
+C. $10^3$ mol L^-1^
+D. $10^{11}$ mol L^-1^
+
+### Question 7
+
+The following equilibrium was established in a container.
+
+$$\ce{2SO2(g) + O2(g) <=> 2SO3(g)} \quad \Delta H = -198 \text{ kJ mol}^{-1}$$
+
+Which of the following would increase the yield of \ce{SO3(g)}?
+
+A. Increasing the volume
+B. Increasing the temperature
+C. Removing the product as it is formed
+D. Keeping temperature and volume constant
+
+### Question 8
+
+Which pair of ions produce different colours in a flame test?
+
+A. \ce{Br-} and \ce{Cl-}
+B. \ce{Ag+} and \ce{OH-}
+C. \ce{Cu^2+} and \ce{Ca^2+}
+D. \ce{CH3COO-} and \ce{H2PO4-}
+
+### Question 9
+
+Which of the following is the mass spectrum of ethanamine?
+
+![Four mass spectra (A, B, C, D) showing relative intensity vs m/z](images/q9-mass-spectra.png){width=80%}
+
+### Question 10
+
+The following system is at equilibrium.
+
+$$\ce{CH3CHOHCH3(g) <=> CH3COCH3(g) + H2(g)}$$
+
+propan-2-ol $\qquad$ propan-2-one
+
+A catalyst is added to the system.
+
+Which row of the table correctly identifies the change in the yield of propan-2-one and the reaction rates?
+
+|     | *Yield of propan-2-one* | *Reaction rates* |
+|-----|------------------------|------------------|
+| A.  | Remains the same | Both forward and reverse rates are unchanged. |
+| B.  | Remains the same | Both forward and reverse rates increase equally. |
+| C.  | Decreases | Reverse rate increases more than the forward rate increases. |
+| D.  | Increases | Forward rate increases more than the reverse rate increases. |
+
+### Question 11
+
+Which is the correct expression for calculating the solubility (in mol L^-1^) of lead(II) iodide in a 0.1 mol L^-1^ solution of NaI at 25°C?
+
+A. $\frac{9.8 \times 10^{-9}}{2 \times 0.1}$
+
+B. $\frac{9.8 \times 10^{-9}}{(2 \times 0.1)^2}$
+
+C. $\frac{9.8 \times 10^{-9}}{0.1}$
+
+D. $\frac{9.8 \times 10^{-9}}{(0.1)^2}$
+
+### Question 12
+
+The structure of an organic substance is shown.
+
+![Structural formula of 2-chloro-N-ethylpropanamide](images/q12-structure.png){width=50%}
+
+What is the preferred IUPAC name for this substance?
+
+A. 2-chloro-1-ethylbutanamide
+B. 2-chloro-*N*-ethylpropanamide
+C. 3-chloro-*N*-ethylbutanamide
+D. 3-chloro-1-ethylpropanamide
+
+### Question 13
+
+A fuel has these enthalpies of combustion: $-2057.8$ kJ mol^-1^ and $-48.9$ kJ g^-1^.
+
+Which of the following correctly identifies the fuel?
+
+A. Ethanol ($MM = 46.1$ g mol^-1^)
+B. Propane ($MM = 44.1$ g mol^-1^)
+C. Propene ($MM = 42.1$ g mol^-1^)
+D. Hydrogen ($MM = 2.02$ g mol^-1^)
+
+### Question 14
+
+Glycine, an amino acid, can react with itself or other amino acid monomers to form silk, a natural polymer.
+
+Glycine has the structure:
+
+![Structural formula of glycine](images/q14-glycine.png){width=30%}
+
+A section of silk polymer is shown.
+
+![Section of silk polymer structure](images/q14-silk-polymer.png){width=70%}
+
+Which monomer could react with glycine to form this section of silk polymer?
+
+![Four structural formulas of different amino acids (A, B, C, D)](images/q14-monomers.png){width=70%}
+
+### Question 15
+
+The thermal decomposition of lithium peroxide (\ce{Li2O2}) is given by the equation shown.
+
+$$\ce{2Li2O2(s) <=> 2Li2O(s) + O2(g)}$$
+
+Mixtures of \ce{Li2O2}, \ce{Li2O} and \ce{O2} were allowed to reach equilibrium in two identical, closed containers, P and Q, at the same temperature. The amount of \ce{Li2O2(s)} in container P is double that in container Q. The amount of \ce{Li2O(s)} is the same in each container.
+
+What is the ratio of $[\ce{O2(g)}]$ in container P to $[\ce{O2(g)}]$ in container Q?
+
+A. $1:1$
+B. $2:1$
+C. $3:2$
+D. $5:4$
+
+### Question 16
+
+Which of the following is the overall reaction that takes place when a strong acid is added to a buffer containing equal amounts of acetic acid and acetate ions?
+
+A. $\ce{HCOO- + H3O+ -> HCOOH + H2O}$
+B. $\ce{CH3COOH + OH- -> CH3COO- + H2O}$
+C. $\ce{CH3COO- + H3O+ -> CH3COOH + H2O}$
+D. $\ce{CH3COOH + H3O+ -> CH3C(OH)2+ + H2O}$
+
+### Question 17
+
+20 mL of a 0.1 mol L^-1^ solution of an acid is titrated against a 0.1 mol L^-1^ solution of sodium hydroxide. A graph of pH against the volume of sodium hydroxide for this experiment is shown.
+
+![Titration curve showing pH vs volume of NaOH added](images/q17-titration-curve.png){width=70%}
+
+Which of the following acids was used in the titration?
+
+|     | *Acid* | $pK_{a1}$ | $pK_{a2}$ |
+|-----|--------|-----------|-----------|
+| A.  | 1      | 4.76      | –         |
+| B.  | 2      | Strong    | –         |
+| C.  | 3      | 1.91      | 6.30      |
+| D.  | 4      | 4.11      | 9.61      |
+
+### Question 18
+
+A reaction mixture, not at equilibrium, is composed of both \ce{N2O4(g)} and \ce{NO2(g)} in a closed container. The reaction quotient for the system, $Q$, is given.
+
+$$Q = \frac{[\ce{NO2}]^2}{[\ce{N2O4}]}$$
+
+The rate of the forward reaction is initially greater than the rate of the reverse reaction.
+
+Which diagram shows how $Q$ changes over time for this mixture?
+
+![Four graphs (A, B, C, D) showing Q vs Time with different trends](images/q18-reaction-quotient.png){width=70%}
+
+### Question 19
+
+Which of the following compounds produces TWO doublets in the ^1^H NMR spectrum?
+
+![Four structural formulas (A, B, C, D) showing different organic compounds](images/q19-structures.png){width=80%}
+
+### Question 20
+
+The concentration of ascorbic acid ($MM = 176.124$ g mol^-1^) in solution A was determined by titration.
+
+- A 25.00 mL sample of solution A was titrated with potassium hydroxide solution.
+- 50.00 mg of ascorbic acid was added to a second 25.00 mL sample of solution A, which was titrated in the same way.
+
+Titration volumes for both titrations are given.
+
+| *Solution* | *Titre* (mL) |
+|------------|--------------|
+| 25.00 mL solution A | 17.50 |
+| 25.00 mL solution A + 50.00 mg of ascorbic acid | 33.10 |
+
+What is the concentration of ascorbic acid in solution A?
+
+A. $5.352 \times 10^{-3}$ mol L^-1^
+B. $6.004 \times 10^{-3}$ mol L^-1^
+C. $1.012 \times 10^{-2}$ mol L^-1^
+D. $1.274 \times 10^{-2}$ mol L^-1^
+
+\newpage
+
+# Section II
+
+**80 marks**
+**Attempt Questions 21–39**
+**Allow about 2 hours and 25 minutes for this section**
+
+### Question 21 (2 marks)
+
+A solution of acetic acid reacts with magnesium metal.
+
+Write the names of the products of this reaction in the boxes provided.
+
+acetic acid + magnesium $\rightarrow$ \rule{4cm}{0.4pt} + \rule{4cm}{0.4pt}
+
+\vspace{2cm}
+
+### Question 22 (2 marks)
+
+Vinyl fluoride can be polymerised.
+
+![Structural formula of vinyl fluoride](images/q22-vinyl-fluoride.png){width=25%}
+
+In the box provided, draw the structural formula for a six-carbon section of the polymer formed from the polymerisation of vinyl fluoride.
+
+\vspace{6cm}
+
+### Question 23 (3 marks)
+
+Consider the following equilibrium system.
+
+$$\ce{[Co(H2O)6]^2+(aq) + 4Cl-(aq) <=> [CoCl4]^2-(aq) + 6H2O(l)}$$
+
+$\ce{[Co(H2O)6]^2+}(aq)$ is pink and $\ce{[CoCl4]^2-}(aq)$ is blue. When a solution of these ions and chloride ions is heated, the mixture becomes more blue.
+
+Relate the observed colour change to the change in $K_{eq}$.
+
+\vspace{5cm}
+
+### Question 24 (7 marks)
+
+The boiling points for two series of compounds are listed.
+
+| *Amine* | *Boiling point* (°C) | | *Alcohol* | *Boiling point* (°C) |
+|---------|---------------------|---|-----------|---------------------|
+| Methanamine | $-6$ | | Methanol | 65 |
+| Ethanamine | 17 | | Ethanol | 78 |
+| Propan-1-amine | 48 | | Propan-1-ol | 97 |
+| Butan-1-amine | 78 | | Butan-1-ol | 118 |
+
+**(a)** Plot the boiling points for each series of compounds against the number of carbon atoms per molecule. **(3 marks)**
+
+![Graph axes with Number of carbon atoms per molecule (1-4) on x-axis](images/q24-graph-axes.png){width=60%}
+
+\vspace{10cm}
+
+**(b)** With reference to hydrogen bonding and dispersion forces, explain the trends in the boiling point data of these compounds, within each series and between the series. **(4 marks)**
+
+\vspace{8cm}
+
+### Question 25 (4 marks)
+
+The concentration of phosphate ions in washing machine waste water can be determined using colourimetry.
+
+A sample of washing machine waste water was collected and diluted by quantitatively transferring 1.00 mL of the solution to a volumetric flask and making up the volume to 1.000 L with distilled water.
+
+Standard phosphate solutions were prepared and analysed with a colourimeter using an accepted method.
+
+The standard calibration graph is shown.
+
+![Calibration graph showing Absorbance vs Concentration of phosphate ion](images/q25-calibration-graph.png){width=70%}
+
+The diluted sample solution was then analysed using the same method as the standard solutions. The absorbance of this solution was found to be 0.64.
+
+Determine the concentration of phosphate ions in the sample of washing machine waste water, in mol L^-1^.
+
+\vspace{8cm}
+
+### Question 26 (5 marks)
+
+The equilibrium equation for the reaction of iodine with hydrogen cyanide in aqueous solution is given.
+
+$$\ce{I2(aq) + HCN(aq) <=> ICN(aq) + I-(aq) + H+(aq)}$$
+
+At $t = 0$ min, \ce{I2} was added to a mixture of HCN, \ce{I-} and \ce{H+}, bringing $[\ce{I2}]$ to $2.0 \times 10^{-5}$ mol L^-1^. After 3 minutes, the system was at equilibrium, and an analysis of the mixture found that half of the \ce{I2} had reacted.
+
+**(a)** On the axes provided, sketch a graph to show how $[\ce{I2}]$ changes in the solution between $t = 0$ min and $t = 6$ min. **(2 marks)**
+
+![Graph axes showing [I2] vs Time (min)](images/q26-graph-axes.png){width=60%}
+
+\vspace{6cm}
+
+**(b)** Using collision theory, explain the rate of reaction between $t = 0$ min and $t = 6$ min. Refer to the $[\ce{I2}]$ in your answer. **(3 marks)**
+
+\vspace{6cm}
+
+### Question 27 (4 marks)
+
+The following procedure is proposed to test for the presence of lead(II) and barium ions in water at concentrations of 0.1 mol L^-1^.
+
+1. Add excess 0.1 mol L^-1^ sodium sulfate solution. If a precipitate is produced, then barium ions are present.
+
+2. Filter any precipitate produced.
+
+3. Add excess 0.1 mol L^-1^ sodium bromide solution to the filtrate. If a precipitate is produced, then lead(II) ions are present.
+
+Explain why this procedure gives correct results when only barium ions are present, but not when both barium and lead(II) ions are present. Include ONE balanced chemical equation in your answer.
+
+\vspace{8cm}
+
+### Question 28 (3 marks)
+
+Iodic acid and sulfamic acid are monoprotic acids. A 0.100 mol L^-1^ solution of iodic acid has a pH of 1.151, as does a 0.120 mol L^-1^ solution of sulfamic acid.
+
+Show that neither iodic acid nor sulfamic acid dissociates completely in water, and determine which is the stronger acid.
+
+\vspace{8cm}
+
+### Question 29 (4 marks)
+
+150 mL of a 0.20 mol L^-1^ sodium hydroxide solution is added to 100 mL of a 0.10 mol L^-1^ sulfuric acid solution.
+
+Calculate the pH of the resulting solution, assuming that the volume of the resulting solution is 250 mL and that its temperature is 25°C.
+
+\vspace{10cm}
+
+### Question 30 (4 marks)
+
+An equilibrium mixture of hydrogen, carbon dioxide, water and carbon monoxide is in a closed, 1 L container at a fixed temperature as shown:
+
+$$\ce{H2(g) + CO2(g) <=> H2O(g) + CO(g)} \quad K_{eq} = 1.600$$
+
+The initial concentrations are $[\ce{H2}] = 1.000$ mol L^-1^, $[\ce{CO2}] = 0.500$ mol L^-1^, $[\ce{H2O}] = 0.400$ mol L^-1^ and $[\ce{CO}] = 2.000$ mol L^-1^.
+
+An unknown amount of \ce{CO(g)} was added to the same container, and the temperature was kept constant. After the new equilibrium had been established, the concentration of \ce{H2O(g)} was found to be 0.200 mol L^-1^.
+
+Using this information, calculate the unknown amount (in mol) of \ce{CO(g)} that was added to the container.
+
+\vspace{12cm}
+
+### Question 31 (3 marks)
+
+The atom economy (AE) of a reaction is a measure of the mass of atoms in the starting materials that are incorporated into the desired product. Higher AE means lower mass of waste products.
+
+Urea can be produced in a variety of ways. One way is to react ammonia (high toxicity) with phosgene (high toxicity). Another way is to react ammonia with dimethyl carbonate (DMC, low toxicity). The chemical equations and AE for these two processes are provided.
+
+![Two reaction schemes showing phosgene + ammonia (AE = 35.9%) and DMC + ammonia (AE = 48.4%) producing urea](images/q31-urea-synthesis.png){width=80%}
+
+Which of these two processes is preferable for urea production? Justify your answer with reference to the information provided.
+
+\vspace{6cm}
+
+### Question 32 (4 marks)
+
+Calculate the concentration of cadmium ions in a saturated solution of cadmium(II) phosphate, \ce{Cd3(PO4)2}, $K_{sp} = 2.53 \times 10^{-33}$.
+
+\vspace{10cm}
+
+### Question 33 (5 marks)
+
+Acetone can be reduced, as shown.
+
+![Reduction of acetone to propan-2-ol](images/q33-reduction.png){width=40%}
+
+**(a)** Identify the shape around the central carbon atom in each molecule. **(2 marks)**
+
+\vspace{3cm}
+
+**(b)** Explain how ^13^C NMR spectroscopy could be used to monitor the progress of this reaction. **(3 marks)**
+
+\vspace{6cm}
+
+### Question 34 (4 marks)
+
+An aqueous solution of ammonia is added to a solution containing hydrochloric acid. A plot of conductivity against volume of ammonia solution added is shown. The temperature of the solution is kept constant throughout and the conductivity of the solution is corrected for dilution.
+
+![Graph showing conductivity decreasing then leveling off as ammonia solution is added](images/q34-conductivity-graph.png){width=70%}
+
+The relative conductivities of some relevant ions are shown in the table.
+
+| *Ion* | *Relative conductivity* |
+|-------|-------------------------|
+| \ce{H+} | 4.76 |
+| \ce{OH-} | 2.70 |
+| \ce{Cl-} | 1.04 |
+| \ce{NH4+} | 1.00 |
+
+Explain the shape of the graph. Include TWO balanced chemical equations in your answer.
+
+\vspace{10cm}
+
+### Question 35 (7 marks)
+
+Unknown samples of three carboxylic acids, labelled X, Y and Z, are analysed to determine their identities.
+
+- Both Y and Z react rapidly with bromine in the absence of UV light, but X does not. A 0.100 g sample of Y reacts with the same amount of bromine as a 0.200 g sample of Z.
+
+- Separate 0.100 g samples of X, Y and Z are titrated with 0.0617 mol L^-1^ sodium hydroxide solution. The titre volumes are shown.
+
+| *Acid* | X | Y | Z |
+|--------|---|---|---|
+| Volume of NaOH (mL) | 21.88 | 22.49 | 22.49 |
+
+- Both Y and Z can undergo hydration reactions in the presence of a suitable catalyst. Two products are possible for the hydration of Y, but only one product is possible with Z.
+
+Identify which structures 1, 2 and 3 in the table are acids X, Y and Z. Justify your answer with reference to the information provided.
+
+|  | *Structure 1* | *Structure 2* | *Structure 3* |
+|--|---------------|---------------|---------------|
+| ![Three structural formulas of different carboxylic acids](images/q35-structures.png){width=100%} | | | |
+| **Molar mass** (g mol^-1^) | 72.062 g mol^-1^ | 74.078 g mol^-1^ | 144.124 g mol^-1^ |
+| **Acid** (X, Y or Z) |  |  |  |
+
+\vspace{15cm}
+
+### Question 36 (5 marks)
+
+14.7 g of solid sodium hydrogen carbonate ($MM = 84.008$ g mol^-1^) was reacted with 120 mL of 1.50 mol L^-1^ hydrochloric acid solution (density 1.02 g mL^-1^) in a calorimeter. The temperature of the solution before and after reaction was recorded.
+
+| *Initial temperature of hydrochloric acid solution* (°C) | *Final temperature of reaction solution* (°C) |
+|----------------------------------------------------------|-----------------------------------------------|
+| 21.5 | 11.5 |
+
+Assume that all \ce{CO2} produced is lost from the reaction solution and that the specific heat capacity of the reaction solution is 3.80 J K^-1^ g^-1^.
+
+What is the enthalpy of reaction, in kJ mol^-1^?
+
+\vspace{10cm}
+
+### Question 37 (3 marks)
+
+The relationship between the equilibrium constant, $K_{eq}$, and $\Delta G°$ for any reaction is shown in the graph, for a limited range of $\Delta G°$ values.
+
+![Graph showing equilibrium constant vs ΔG°](images/q37-keq-vs-dg.png){width=70%}
+
+The $\Delta H°$ and $T\Delta S°$ values for the reaction between copper(I) sulfide and oxygen are provided.
+
+$$\ce{Cu2S(s) + O2(g) -> 2Cu(s) + SO2(g)} \quad \begin{aligned}\Delta H° &= -217 \text{ kJ mol}^{-1} \\ T\Delta S° &= -3 \text{ kJ mol}^{-1}\end{aligned}$$
+
+Explain, with reference to the information provided, why this reaction proceeds to completion rather than coming to equilibrium.
+
+\vspace{6cm}
+
+### Question 38 (7 marks)
+
+Compounds A and B are isomers with formula \ce{C3H7X}, where X is a halogen. The mass spectrum for compound A is shown.
+
+![Mass spectrum showing peaks at m/z values around 30, 40](images/q38-mass-spectrum.png){width=70%}
+
+Compounds A and B undergo substitution reactions in the presence of hydroxide ions, producing alcohols C and D. Compound D can be oxidised to a ketone; compound C can also be oxidised, but does not produce a ketone.
+
+$$\ce{A ->[OH-] C}$$
+
+$$\ce{B ->[OH-] D ->[oxidation] ketone}$$
+
+Compound E can be produced by refluxing 3-methylbutanoic acid, with one of the alcohols C or D, in the presence of a catalyst.
+
+The ^1^H NMR spectrum for compound E contains the following features.
+
+**^1^H NMR spectrum data for compound E**
+
+| *Chemical shift* (ppm) | *Integration* | *Peak splitting* |
+|------------------------|---------------|------------------|
+| 0.95 | 3 | Triplet |
+| 0.96 | 6 | Doublet |
+| 1.7 | 2 | Multiplet |
+| 2.1 | 1 | Multiplet |
+| 2.2 | 2 | Doublet |
+| 4.0 | 2 | Triplet |
+
+**Reference ^1^H chemical shift data**
+
+| *Type of proton* | $\delta$/ppm |
+|------------------|--------------|
+| \ce{-CH3}, \ce{-CH2-}, \ce{-CH-} | 0.7–2.1 |
+| \ce{H3C-CO-}, \ce{H2C-CO-}, \ce{HC-CO-} (aldehydes, ketones, carboxylic acids or esters) | 2.2–2.6 |
+| \ce{H3C-O-}, \ce{H2C-O-}, \ce{HC-O-} (alcohols or esters) | 3.2–5.0 |
+
+Draw the structure of compounds A, B and E. Explain your answer with reference to the information provided.
+
+\vspace{15cm}
+
+### Question 39 (4 marks)
+
+Water and octan-1-ol do not mix. When an aqueous solution of bromoacetic acid (\ce{BrCH2COOH}) is shaken with octan-1-ol, an equilibrium system is established between bromoacetic acid dissolved in the octan-1-ol and in the water.
+
+$$\ce{BrCH2COOH(aq) <=> BrCH2COOH(octan-1-ol)}$$
+
+The equilibrium constant expression for this system is
+
+$$K_{eq} = \frac{[\ce{BrCH2COOH(octan-1-ol)}]}{[\ce{BrCH2COOH(aq)}]}$$
+
+An aqueous solution of bromoacetic acid with an initial concentration of 0.1000 mol L^-1^ is shaken with an equal volume of octan-1-ol. Bromoacetic acid does not dissociate in octan-1-ol but does dissociate in water, with $K_a = 1.29 \times 10^{-3}$. When the system has reached equilibrium, the $[\ce{H+}]$ is $9.18 \times 10^{-3}$ mol L^-1^.
+
+Calculate the equilibrium concentration of aqueous bromoacetic acid and hence, or otherwise, calculate the $K_{eq}$ for the octan-1-ol and water system.
+
+\vspace{10cm}
+
+\newpage
+
+# Appendix: Formulae Sheet, Data Sheet, and Periodic Table
+
+*(Content from pages 41-44 of the original PDF)*
+
+## FORMULAE SHEET
+
+$$n = \frac{m}{MM} \qquad c = \frac{n}{V} \qquad PV = nRT$$
+
+$$q = mc\Delta T \qquad \Delta G° = \Delta H° - T\Delta S° \qquad \text{pH} = -\log_{10}[\ce{H+}]$$
+
+$$pK_a = -\log_{10}[K_a] \qquad A = \varepsilon lc = \log_{10}\frac{I_0}{I}$$
+
+Avogadro constant, $N_A$ = $6.022 \times 10^{23}$ mol^-1^
+
+Volume of 1 mole ideal gas: at 100 kPa and
+at 0°C (273.15 K) = 22.71 L
+at 25°C (298.15 K) = 24.79 L
+
+Gas constant = $8.314$ J mol^-1^ K^-1^
+
+Ionisation constant for water at 25°C (298.15 K), $K_w$ = $1.0 \times 10^{-14}$
+
+Specific heat capacity of water = $4.18 \times 10^3$ J kg^-1^ K^-1^
+
+## DATA SHEET
+
+### Solubility constants at 25°C
+
+*(Include the full solubility product table from page 41)*
+
+### Infrared absorption data
+
+| *Bond* | *Wavenumber/cm^-1^* |
+|--------|---------------------|
+| \ce{N-H} (amines) | 3300–3500 |
+| \ce{O-H} (alcohols) | 3230–3550 (broad) |
+| \ce{C-H} | 2850–3300 |
+| \ce{O-H} (acids) | 2500–3000 (very broad) |
+| \ce{C#N} | 2220–2260 |
+| \ce{C=O} | 1680–1750 |
+| \ce{C=C} | 1620–1680 |
+| \ce{C-O} | 1000–1300 |
+| \ce{C-C} | 750–1100 |
+
+### ^13^C NMR chemical shift data
+
+*(Include the chemical shift table from page 42)*
+
+### UV absorption
+
+*(Include UV absorption data from page 42)*
+
+### Some standard potentials
+
+*(Include the full standard potentials table from page 43)*
+
+## PERIODIC TABLE OF THE ELEMENTS
+
+*(Include the periodic table from page 44)*
+
+© 2024 NSW Education Standards Authority

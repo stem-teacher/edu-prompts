@@ -1,0 +1,756 @@
+---
+title: "Chemistry"
+subtitle: "2016 HIGHER SCHOOL CERTIFICATE EXAMINATION"
+format:
+  pdf:
+    documentclass: article
+    geometry:
+      - margin=2.5cm
+    fontsize: 11pt
+    include-in-header:
+      text: |
+        \usepackage{chemfig}
+        \usepackage{mhchem}
+        \usepackage{siunitx}
+        \usepackage{graphicx}
+        \usepackage{tikz}
+        \usepackage{fancyhdr}
+        \pagestyle{fancy}
+        \fancyhead[L]{Centre Number}
+        \fancyhead[R]{Student Number}
+---
+
+\thispagestyle{empty}
+
+::: {.center}
+**BOARD OF STUDIES**
+**TEACHING &**
+**EDUCATIONAL**
+**STANDARDS NSW**
+
+# 2016 HIGHER SCHOOL CERTIFICATE EXAMINATION
+
+**IMPORTANT:**
+**This resource was developed to support a previous version of the syllabus.**
+**It may contain content that differs from the current syllabus.**
+:::
+
+\vspace{2cm}
+
+# Chemistry
+
+\vspace{4cm}
+
+**Total marks – 100**
+
+**Section I** Pages 2–27
+
+**75 marks**
+
+This section has two parts, Part A and Part B
+
+Part A – 20 marks
+
+- Attempt Questions 1–20
+- Allow about 35 minutes for this part
+
+Part B – 55 marks
+
+- Attempt Questions 21–30
+- Allow about 1 hour and 40 minutes for this part
+
+**Section II** Pages 29–40
+
+**25 marks**
+
+- Attempt ONE question from Questions 31–35
+- Allow about 45 minutes for this section
+
+\newpage
+
+::: {.left}
+**General Instructions**
+
+- Reading time – 5 minutes
+- Working time – 3 hours
+- Write using black pen
+- Draw diagrams using pencil
+- Board-approved calculators may be used
+- A data sheet and a Periodic Table are provided at the back of this paper
+:::
+
+\newpage
+
+# Section I
+
+**75 marks**
+
+## Part A – 20 marks
+
+**Attempt Questions 1–20**
+**Allow about 35 minutes for this part**
+
+Use the multiple-choice answer sheet for Questions 1–20.
+
+### Question 1
+
+What is the name of this compound?
+
+![Molecular structure showing C=C double bond with H, H, H, Cl substituents](images/q1-vinyl-chloride.png){width=30%}
+
+A. Styrene
+B. Ethylene
+C. Chloroethane
+D. Vinyl chloride
+
+### Question 2
+
+Which of the following metal ions would NOT cause heavy metal pollution if released in high concentrations?
+
+A. Copper
+B. Lead
+C. Mercury
+D. Sodium
+
+### Question 3
+
+What is the molecular formula of pentanoic acid?
+
+A. \ce{C5H9O}
+B. \ce{C5H10O}
+C. \ce{C5H10O2}
+D. \ce{C5H11O2}
+
+### Question 4
+
+Which row of the table correctly identifies an application of polystyrene and the reason for its suitability for that application?
+
+|     | Application | Reason for suitability |
+|-----|-------------|------------------------|
+| (A) | Shopping bags | Rigidity |
+| (B) | Shopping bags | Flexibility |
+| (C) | Screwdriver handles | Rigidity |
+| (D) | Screwdriver handles | Flexibility |
+
+### Question 5
+
+Which of the following diagrams best represents the bonding between molecules of water and ethanol?
+
+![Four molecular diagrams showing different hydrogen bonding arrangements between ethanol and water](images/q5-hydrogen-bonding.png){width=80%}
+
+### Question 6
+
+Which combination of equimolar solutions would produce the most basic mixture?
+
+A. Acetic acid and barium hydroxide
+B. Acetic acid and sodium carbonate
+C. Sulfuric acid and barium hydroxide
+D. Sulfuric acid and sodium carbonate
+
+### Question 7
+
+Which indicator in the table would be best for distinguishing between lemon juice (pH = 2.3) and potato juice (pH = 5.8)?
+
+|     | Indicator | Colour at different pH |  |
+|-----|-----------|------------------------|--|
+| (A) | Crystal violet | 0.2 – yellow | 1.8 – blue |
+| (B) | Methyl orange | 3.2 – red | 4.4 – yellow |
+| (C) | Bromothymol blue | 6.0 – yellow | 7.6 – blue |
+| (D) | Phenolphthalein | 8.2 – colourless | 10.0 – pink |
+
+### Question 8
+
+The following procedure was used to test water hardness.
+
+- 5.0 mL of hard water was placed in a test tube.
+- 0.1 mL of liquid soap was added to the test tube.
+- The sample was shaken for 30 seconds.
+- The height of bubbles was measured.
+
+What would be a suitable control to use with this procedure?
+
+A. Not adding any soap to the test tube
+B. Not placing any water in the test tube
+C. Using a second sample of the hard water
+D. Replacing the hard water with distilled water
+
+### Question 9
+
+Curium is produced according to this equation.
+
+$$\ce{^{239}_{94}Pu + X -> ^{242}_{96}Cm + ^{1}_{0}n}$$
+
+What is X in the equation?
+
+A. A proton
+B. A neutron
+C. A beta particle
+D. An alpha particle
+
+### Question 10
+
+Which of the following is the conjugate base of the \ce{H2PO4-} ion?
+
+A. \ce{H3PO4}
+B. \ce{H3PO3}
+C. \ce{HPO4^2-}
+D. \ce{HPO3^2-}
+
+### Question 11
+
+What is the IUPAC name of the following compound?
+
+![Structural formula showing F-C-C-H with F, F, Br, Cl substituents](images/q11-haloalkane.png){width=30%}
+
+A. 1-bromo-1-chloro-2,2,2-trifluoroethane
+B. 1-chloro-1-bromo-2,2,2-trifluoroethane
+C. 2-chloro-2-bromo-1,1,1-trifluoroethane
+D. 2-bromo-2-chloro-1,1,1-trifluoroethane
+
+### Question 12
+
+Which of the following could be added to 100 mL of 0.01 mol L^-1^ hydrochloric acid solution to change its pH to 4?
+
+A. 900 mL of water
+B. 900 mL of 0.01 mol L^-1^ hydrochloric acid
+C. 9900 mL of water
+D. 9900 mL of 0.01 mol L^-1^ hydrochloric acid
+
+### Question 13
+
+The flow chart shows the steps used to identify a sample of a substance.
+
+![Flowchart showing flame test, dissolution, HCl addition, and Ba2+ addition steps](images/q13-flowchart.png){width=60%}
+
+If the substance is sodium sulfate, what should have been observed in Tests 1, 2 and 3?
+
+|     | Test 1 | Test 2 | Test 3 |
+|-----|--------|--------|--------|
+| (A) | Bright orange flame | No bubbles | White precipitate formed |
+| (B) | Bright orange flame | Bubbles | No precipitate formed |
+| (C) | Blue-green flame | No bubbles | No precipitate formed |
+| (D) | Blue-green flame | Bubbles | White precipitate formed |
+
+### Question 14
+
+Consider the following endothermic reaction taking place in a closed vessel.
+
+$$\ce{N2O4(g) <=> 2NO2(g)}$$
+
+Which of the following actions would cause more \ce{N2O4} to be produced?
+
+A. Adding a catalyst
+B. Decreasing the volume
+C. Decreasing the pressure
+D. Increasing the temperature
+
+### Question 15
+
+The table lists some properties of the straight-chained carbon compounds W, X, Y and Z.
+
+| Compound | Reactivity in bromine water | Solubility in water |
+|----------|----------------------------|---------------------|
+| W | Rapidly decolourises | Insoluble |
+| X | Unreactive | Insoluble |
+| Y | Unreactive | Soluble |
+| Z | Unreactive | Partly soluble |
+
+Which row of the following table best identifies the compounds W, X, Y and Z?
+
+|     | W | X | Y | Z |
+|-----|---|---|---|---|
+| (A) | \ce{C3H6} | \ce{C3H8} | \ce{CH3OH} | \ce{C4H9OH} |
+| (B) | \ce{C3H8} | \ce{C3H6} | \ce{CH3OH} | \ce{C4H9OH} |
+| (C) | \ce{C3H6} | \ce{C3H8} | \ce{C4H9OH} | \ce{CH3OH} |
+| (D) | \ce{C3H8} | \ce{C3H6} | \ce{C4H9OH} | \ce{CH3OH} |
+
+### Question 16
+
+An electrochemical cell has the following structure.
+
+![Diagram of electrochemical cell with Q(s) and R(s) electrodes](images/q16-galvanic-cell.png){width=50%}
+
+This particular cell can be represented as:
+
+Q | Q^2+^ || R^2+^ | R
+
+Which of the following cells would produce the highest cell potential at standard conditions?
+
+A. Mg | Mg^2+^ || Fe^2+^ | Fe
+B. Al | Al^3+^ || Cu^2+^ | Cu
+C. Zn | Zn^2+^ || Pb^2+^ | Pb
+D. Ni | Ni^2+^ || Ag^+^ | Ag
+
+### Question 17
+
+A polymer has the following structure.
+
+![Polymer structure showing repeating units with CH3 groups](images/q17-polymer.png){width=70%}
+
+Which of the following represents the monomer from which this polymer can be produced?
+
+![Four structural formulas showing different possible monomers](images/q17-monomers.png){width=60%}
+
+### Question 18
+
+40 mL of 0.10 mol L^-1^ \ce{NaOH} is mixed with 60 mL of 0.10 mol L^-1^ \ce{HCl}.
+
+What is the pH of the resulting solution?
+
+A. 7.0
+B. 1.7
+C. 1.4
+D. 1.2
+
+### Question 19
+
+Excess barium nitrate solution is added to 200 mL of 0.200 mol L^-1^ sodium sulfate.
+
+What is the mass of the solid formed?
+
+A. 4.65 g
+B. 8.69 g
+C. 9.33 g
+D. 31.5 g
+
+### Question 20
+
+A section of the emission spectrum of a mercury lamp is shown.
+
+![Emission spectrum showing lines at 623.4 nm and 615.2 nm](images/q20-mercury-spectrum.png){width=60%}
+
+Light at 623.4 nm and 615.2 nm from the mercury lamp was passed through a sample of water containing mercury, and the intensities were then measured by a detector.
+
+I (x nm) = Intensity of light at a wavelength of x nm from the lamp
+I~d~ (x nm) = Intensity of light at a wavelength of x nm at the detector
+
+Which of the following pairs of intensities can be used in the determination of the amount of mercury in the water sample using atomic absorption spectroscopy (AAS)?
+
+A. I (615.2 nm) and I~d~ (615.2 nm)
+B. I (615.2 nm) and I~d~ (623.4 nm)
+C. I (615.2 nm) and I (623.4 nm)
+D. I~d~ (615.2 nm) and I~d~ (623.4 nm)
+
+\newpage
+
+## Part B – 55 marks
+
+**Attempt Questions 21–30**
+**Allow about 1 hour and 40 minutes for this part**
+
+Answer the questions in the spaces provided. These spaces provide guidance for the expected length of response.
+
+Show all relevant working in questions involving calculations.
+
+Extra writing space is provided on pages 25–27. If you use this space, clearly indicate which question you are answering.
+
+Write your Centre Number and Student Number at the top of this page.
+
+### Question 21 (5 marks)
+
+A student set up the following galvanic cell.
+
+![Galvanic cell diagram with silver and copper electrodes](images/q21-galvanic-cell.png){width=60%}
+
+**(a)** On the diagram clearly indicate the direction of electron flow. **(1 mark)**
+
+\vspace{3cm}
+
+**(b)** Complete the following table for this galvanic cell. **(4 marks)**
+
+| Anode half equation |  |
+|---------------------|--|
+| Cathode half equation |  |
+| Overall cell equation |  |
+| Overall cell potential |  |
+
+\vspace{8cm}
+
+### Question 22 (5 marks)
+
+This apparatus was set up to produce methyl butanoate.
+
+![Apparatus diagram showing reflux setup](images/q22-apparatus.png){width=40%}
+
+**(a)** Identify a safety issue in this experiment. **(1 mark)**
+
+\vspace{2cm}
+
+**(b)** Using structural formulae, write the equation for the production of methyl butanoate. **(2 marks)**
+
+\vspace{5cm}
+
+**(c)** Justify the use of apparatus X in this experiment. **(2 marks)**
+
+\vspace{5cm}
+
+### Question 23 (6 marks)
+
+A spirit burner containing ethanol was used to heat water in a conical flask for three minutes to measure the molar heat of combustion of ethanol.
+
+The results from the investigation are shown.
+
+| Time (min) | 0 | 0.5 | 1.5 | 2.0 | 2.5 | 3.0 | 3.5 | 4.5 | 5.0 |
+|------------|---|-----|-----|-----|-----|-----|-----|-----|-----|
+| Temperature of water (°C) | 18.5 | 20.5 | 25.0 | 27.0 | 29.5 | 31.0 | 30.5 | 28.5 | 27.5 |
+
+**(a)** On the grid, draw a line graph to represent the data contained in the table. **(3 marks)**
+
+![Empty graph grid](images/q23-graph-grid.png){width=100%}
+
+**(b)** The following values were also recorded during the investigation: **(3 marks)**
+
+Initial mass of spirit burner = 236.14 g
+Final mass of spirit burner = 235.56 g
+Calculated experimental molar heat of combustion of ethanol = –827 kJ mol^-1^.
+
+Using information from the previous page and the above values, determine the mass of water that was in the conical flask.
+
+\vspace{10cm}
+
+### Question 24 (7 marks)
+
+**(a)** Explain how microscopic membrane filters are used to purify contaminated water. Use a labelled diagram to support your answer. **(4 marks)**
+
+\vspace{12cm}
+
+**(b)** Explain why dissolved oxygen levels can be used to measure the extent of eutrophication. **(3 marks)**
+
+\vspace{8cm}
+
+### Question 25 (4 marks)
+
+An unattended car is stationary with its engine running in a closed workshop. The workshop is 5.0 m × 5.0 m × 4.0 m and its volume is $1.0 \times 10^5$ L. The engine of the car is producing carbon monoxide in an incomplete combustion according to the following chemical equation:
+
+$$\ce{C8H18(l) + \frac{17}{2}O2(g) -> 8CO(g) + 9H2O(l)}$$
+
+Exposure to carbon monoxide at levels greater than 0.100 g L^-1^ of air can be dangerous to human health.
+
+6.0 kg of octane was combusted by the car in this workshop.
+
+Using the equation provided, determine if the level of carbon monoxide produced in the workshop would be dangerous to human health. Support your answer with relevant calculations.
+
+\vspace{12cm}
+
+### Question 26 (6 marks)
+
+**(a)** Explain why cellulose is classified as a condensation polymer. **(2 marks)**
+
+\vspace{5cm}
+
+**(b)** Justify the need for research into biopolymers. **(4 marks)**
+
+\vspace{10cm}
+
+### Question 27 (4 marks)
+
+The volume of gas formed at 25°C and 100 kPa as hydrochloric acid was added to a pure sample of aluminium is shown in the graph.
+
+![Graph showing volume of gas formed vs volume of HCl added](images/q27-graph.png){width=70%}
+
+Calculate the original mass of the aluminium sample used in the reaction.
+
+\vspace{10cm}
+
+### Question 28 (5 marks)
+
+A mixture of carbon monoxide, chlorine and phosgene (\ce{COCl2}) gases was placed in a closed container. The concentrations of the gases were monitored over time.
+
+![Graph showing concentration vs time for CO, Cl2, and COCl2](images/q28-equilibrium-graph.png){width=70%}
+
+**(a)** At what time does the system first reach equilibrium? Justify your answer. **(2 marks)**
+
+\vspace{4cm}
+
+**(b)** At four minutes, the temperature of the container was increased. **(3 marks)**
+
+Explain, with reference to the graph, whether the decomposition of \ce{COCl2} into \ce{CO} and \ce{Cl2} is exothermic or endothermic.
+
+\vspace{8cm}
+
+### Question 29 (6 marks)
+
+A solution of hydrochloric acid was standardised by titration against a sodium carbonate solution using the following procedure.
+
+- All glassware was rinsed correctly to remove possible contaminants.
+- Hydrochloric acid was placed in the burette.
+- 25.0 mL of sodium carbonate solution was pipetted into the conical flask.
+
+The titration was performed and the hydrochloric acid was found to be 0.200 mol L^-1^.
+
+**(a)** Identify the substance used to rinse the conical flask and justify your answer. **(2 marks)**
+
+\vspace{4cm}
+
+**(b)** Seashells contain a mixture of carbonate compounds. The standardised hydrochloric acid was used to determine the percentage by mass of carbonate in a seashell using the following procedure. **(4 marks)**
+
+- A 0.145 g sample of the seashell was placed in a conical flask.
+- 50.0 mL of the standardised hydrochloric acid was added to the conical flask.
+- At the completion of the reaction, the mixture in the conical flask was titrated with 0.250 mol L^-1^ sodium hydroxide.
+
+The volume of sodium hydroxide used in the titration was 29.5 mL.
+
+Calculate the percentage by mass of carbonate in the sample of the seashell.
+
+\vspace{12cm}
+
+### Question 30 (7 marks)
+
+The use of CFCs has caused ozone depletion in the stratosphere.
+
+Explain the steps that have been taken to reduce this problem. Include relevant chemical equations in your answer.
+
+\vspace{15cm}
+
+\newpage
+
+# Section II
+
+**25 marks**
+
+**Attempt ONE question from Questions 31–35**
+**Allow about 45 minutes for this section**
+
+Answer parts (a)–(d) of one question in the Section II Writing Booklet. Extra writing booklets are available.
+
+Show all relevant working in questions involving calculations.
+
+|  | Pages |
+|--|-------|
+| Question 31 | Industrial Chemistry | 30–31 |
+| Question 32 | Shipwrecks, Corrosion and Conservation | 32–33 |
+| Question 33 | The Biochemistry of Movement | 34–35 |
+| Question 34 | The Chemistry of Art | 36–37 |
+| Question 35 | Forensic Chemistry | 38–40 |
+
+\newpage
+
+## Question 31 — Industrial Chemistry (25 marks)
+
+Answer parts (a) and (b) of the question on pages 2–4 of the Section II Writing Booklet. Start each part of the question on a new page.
+
+**(a)** The diagram shows a method used to extract sulfur from an underground sulfur deposit.
+
+![Sulfur extraction diagram showing pipes A and B](images/q31a-sulfur-extraction.png){width=60%}
+
+(i) Identify the substances travelling through pipes A and B. **(2 marks)**
+
+(ii) Explain how the properties of sulfur allow it to be extracted using this method. **(3 marks)**
+
+**(b)** A first-hand investigation to electrolyse a solution of sodium chloride is to be performed.
+
+(i) Outline a procedure that is suitable for carrying out this investigation in a school laboratory. In your answer, address a safety issue. **(3 marks)**
+
+(ii) Describe how one of the products of the electrolysis of the sodium chloride solution can be identified. In your answer, refer to the chemistry occurring at each of the electrodes. **(4 marks)**
+
+Answer parts (c) and (d) of the question on pages 5–8 of the Section II Writing Booklet. Start each part of the question on a new page.
+
+**(c)** (i) Methane and water vapour react to form carbon monoxide and hydrogen in a closed container as shown. **(3 marks)**
+
+$$\ce{CH4(g) + H2O(g) <=> CO(g) + 3H2(g)} \quad \Delta H = +206 \text{ kJ}$$
+
+Compare the impact on the equilibrium system of a decrease in volume of the container to the impact of a decrease in temperature. Refer to the equilibrium constant in your answer.
+
+(ii) Solid ammonium hydrogen sulfide (\ce{NH4HS}) decomposes to form ammonia gas and hydrogen sulfide gas (\ce{H2S}). **(4 marks)**
+
+2.00 moles of ammonium hydrogen sulfide were placed in a sealed 3.00 L container and the system was allowed to reach equilibrium. At equilibrium, there were 0.0328 moles of ammonia gas.
+
+Calculate the equilibrium constant for this reaction.
+
+**(d)** Compare the process of saponification in a school laboratory with the industrial preparation of soap and justify any differences in the methods used. Include a relevant chemical equation in your answer. **(6 marks)**
+
+\newpage
+
+## Question 32 — Shipwrecks, Corrosion and Conservation (25 marks)
+
+Answer parts (a) and (b) of the question on pages 2–4 of the Section II Writing Booklet. Start each part of the question on a new page.
+
+**(a)** The diagram shows an electrochemical cell with graphite electrodes.
+
+![Electrochemical cell with graphite electrodes in NaCl solution](images/q32a-electrolytic-cell.png){width=50%}
+
+(i) Identify the type of electrochemical cell shown in the diagram, giving a reason for your answer. **(2 marks)**
+
+(ii) Describe a chemical process that could occur at the electrode labelled X in the electrochemical cell in terms of electron transfer. Include a relevant chemical equation in your answer. **(3 marks)**
+
+**(b)** A first-hand investigation to compare the rate of corrosion of materials at different temperatures is to be performed.
+
+(i) Describe a procedure that can be used to carry out this investigation safely and reliably. **(3 marks)**
+
+(ii) Explain how the results of this investigation AND one other factor can be used to predict the rate of corrosion of a wreck at great depth in the ocean. **(4 marks)**
+
+Answer parts (c) and (d) of the question on pages 5–8 of the Section II Writing Booklet. Start each part of the question on a new page.
+
+**(c)** (i) Using an example, explain how *passivating metals* resist corrosion. **(3 marks)**
+
+(ii) Using an example, explain how a sacrificial electrode can prevent corrosion of an iron ocean-going vessel. **(4 marks)**
+
+**(d)** Iron cannons have been found in a wreck on a coral reef. It is estimated that the wreck occurred about 250 years ago. **(6 marks)**
+
+Explain the processes involved in restoring the cannons after they have been salvaged from the wreck.
+
+\newpage
+
+## Question 33 — The Biochemistry of Movement (25 marks)
+
+Answer parts (a) and (b) of the question on pages 2–4 of the Section II Writing Booklet. Start each part of the question on a new page.
+
+**(a)** The table shows the formulae of some amino acids.
+
+![Table showing structural formulas of Cys, Asp, and Thr amino acids](images/q33a-amino-acids.png){width=60%}
+
+The diagram shows part of the amino acid chain in the enzyme ribonuclease.
+
+![Diagram of ribonuclease structure showing amino acid chain and bonds X and Y](images/q33a-ribonuclease.png){width=50%}
+
+(i) Name the TWO types of covalent bond labelled X and Y on the diagram. **(2 marks)**
+
+(ii) Explain why ribonuclease loses its enzyme activity when it is heated to 65°C. **(3 marks)**
+
+**(b)** A first-hand investigation to compare the structures of glycogen and glucose is to be performed.
+
+(i) Describe the benefits of using diagrams or models in this investigation. **(3 marks)**
+
+(ii) Describe the processes of bond formation between glucose molecules that result in the structure of the glycogen polymer. **(4 marks)**
+
+Answer parts (c) and (d) of the question on pages 5–8 of the Section II Writing Booklet. Start each part of the question on a new page.
+
+**(c)** Aerobic respiration is the main metabolic pathway used in long distance running. This metabolic pathway uses fuels from a variety of sources such as glucose and fats.
+
+(i) The aerobic respiration of glucose releases 2800 kJ mol^-1^. A long distance runner uses energy derived from glucose at 55 kJ per minute. **(3 marks)**
+
+Calculate the mass of glucose this athlete would use while running for 4.0 hours.
+
+(ii) Describe how fats are used as an energy source during exercise. **(4 marks)**
+
+**(d)** Explain why the type of muscle cell required for sprinting is different to the type required for gentle exercise. In your answer, refer to the appearance and metabolism of muscle cells. **(6 marks)**
+
+\newpage
+
+## Question 34 — The Chemistry of Art (25 marks)
+
+Answer parts (a) and (b) of the question on pages 2–4 of the Section II Writing Booklet. Start each part of the question on a new page.
+
+**(a)** The electronic configuration of an element is shown.
+
+![Electron configuration diagram showing orbital filling](images/q34a-electron-config.png){width=50%}
+
+(i) Identify the name and valency of this element. **(2 marks)**
+
+(ii) Explain why ions of this element produce a characteristic flame colour when heated strongly. **(3 marks)**
+
+**(b)** (i) A first-hand investigation to observe the colour changes of a transition element as it changes its oxidation state is to be performed. **(3 marks)**
+
+Name a chemical used in this investigation and explain how ONE safety issue associated with this chemical can be addressed.
+
+(ii) Using iron as an example, explain why transition metals may have more than one oxidation state. **(4 marks)**
+
+Answer parts (c) and (d) of the question on pages 5–8 of the Section II Writing Booklet. Start each part of the question on a new page.
+
+**(c)** (i) Using examples of their use, explain why pigments need to be insoluble. **(3 marks)**
+
+(ii) Explain how infra-red spectroscopy is used in the analysis and identification of chemicals in pigments. **(4 marks)**
+
+**(d)** Explain how the formation of complex ions of transition metals can produce a wide range of coloured compounds. In your answer, make reference to a specific example. **(6 marks)**
+
+\newpage
+
+## Question 35 — Forensic Chemistry (25 marks)
+
+Answer parts (a) and (b) of the question on pages 2–4 of the Section II Writing Booklet. Start each part of the question on a new page.
+
+**(a)** (i) The photo shows a shoe print in soil obtained at a crime scene. **(2 marks)**
+
+![Photograph of shoe print in soil](images/q35a-shoe-print.png){width=40%}
+
+Describe how chemical analysis of material on the shoe that made this print could be used to link a suspect to the crime scene.
+
+(ii) Describe ways of collecting samples from a crime scene that improve the accuracy of evidence presented in court. **(3 marks)**
+
+**(b)** (i) A first-hand investigation to separate a mixture using electrophoresis is to be performed in a school laboratory. **(3 marks)**
+
+Describe a procedure that is suitable for use in this investigation. In your answer, address a safety issue.
+
+(ii) Electrophoresis was performed on a mixture of three amino acids, X, Y and Z, at a pH of 6.0. **(4 marks)**
+
+![Electrophoresis diagrams showing before and after separation](images/q35b-electrophoresis.png){width=70%}
+
+Explain how electrophoresis has separated the amino acids X, Y and Z.
+
+Answer parts (c) and (d) of the question on pages 5–8 of the Section II Writing Booklet. Start each part of the question on a new page.
+
+**(c)** The diagrams below show schematic representations of atomic emission spectra from a range of metals and an unknown mixture from a paint sample.
+
+![Atomic emission spectra for copper, strontium, cadmium, titanium, and paint sample](images/q35c-emission-spectra.png){width=100%}
+
+(i) Identify TWO of the metal ions present in the paint sample and justify your answer. **(3 marks)**
+
+(ii) Describe how atomic emission spectra are produced and used in forensic analysis. **(4 marks)**
+
+**(d)** Explain how technology allows forensic scientists to use the features of DNA to improve the accuracy of evidence presented in criminal cases. **(6 marks)**
+
+\newpage
+
+# DATA SHEET
+
+Avogadro constant, $N_A$ = $6.022 \times 10^{23}$ mol^-1^
+
+Volume of 1 mole ideal gas: at 100 kPa and
+
+- at 0°C (273.15 K) = 22.71 L
+- at 25°C (298.15 K) = 24.79 L
+
+Ionisation constant for water at 25°C (298.15 K), $K_w$ = $1.0 \times 10^{-14}$
+
+Specific heat capacity of water = $4.18 \times 10^3$ J kg^-1^ K^-1^
+
+## Some useful formulae
+
+$$\text{pH} = -\log_{10}[\ce{H+}]$$
+
+$$\Delta H = -mC\Delta T$$
+
+## Some standard potentials
+
+| Half-reaction | E° (V) |
+|--------------|---------|
+| \ce{K+ + e- <=> K(s)} | –2.94 |
+| \ce{Ba^2+ + 2e- <=> Ba(s)} | –2.91 |
+| \ce{Ca^2+ + 2e- <=> Ca(s)} | –2.87 |
+| \ce{Na+ + e- <=> Na(s)} | –2.71 |
+| \ce{Mg^2+ + 2e- <=> Mg(s)} | –2.36 |
+| \ce{Al^3+ + 3e- <=> Al(s)} | –1.68 |
+| \ce{Mn^2+ + 2e- <=> Mn(s)} | –1.18 |
+| \ce{H2O + e- <=> 1/2H2(g) + OH-} | –0.83 |
+| \ce{Zn^2+ + 2e- <=> Zn(s)} | –0.76 |
+| \ce{Fe^2+ + 2e- <=> Fe(s)} | –0.44 |
+| \ce{Ni^2+ + 2e- <=> Ni(s)} | –0.24 |
+| \ce{Sn^2+ + 2e- <=> Sn(s)} | –0.14 |
+| \ce{Pb^2+ + 2e- <=> Pb(s)} | –0.13 |
+| \ce{H+ + e- <=> 1/2H2(g)} | 0.00 |
+| \ce{SO4^2- + 4H+ + 2e- <=> SO2(aq) + 2H2O} | 0.16 |
+| \ce{Cu^2+ + 2e- <=> Cu(s)} | 0.34 |
+| \ce{1/2O2(g) + H2O + 2e- <=> 2OH-} | 0.40 |
+| \ce{Cu+ + e- <=> Cu(s)} | 0.52 |
+| \ce{1/2I2(s) + e- <=> I-} | 0.54 |
+| \ce{1/2I2(aq) + e- <=> I-} | 0.62 |
+| \ce{Fe^3+ + e- <=> Fe^2+} | 0.77 |
+| \ce{Ag+ + e- <=> Ag(s)} | 0.80 |
+| \ce{1/2Br2(l) + e- <=> Br-} | 1.08 |
+| \ce{1/2Br2(aq) + e- <=> Br-} | 1.10 |
+| \ce{1/2O2(g) + 2H+ + 2e- <=> H2O} | 1.23 |
+| \ce{1/2Cl2(g) + e- <=> Cl-} | 1.36 |
+| \ce{1/2Cr2O7^2- + 7H+ + 3e- <=> Cr^3+ + 7/2H2O} | 1.36 |
+| \ce{1/2Cl2(aq) + e- <=> Cl-} | 1.40 |
+| \ce{MnO4- + 8H+ + 5e- <=> Mn^2+ + 4H2O} | 1.51 |
+| \ce{1/2F2(g) + e- <=> F-} | 2.89 |
+
+\newpage
+
+# PERIODIC TABLE OF THE ELEMENTS
+
+![Periodic Table](images/periodic-table.png){width=100%}
+
+---
+
+© 2016 Board of Studies, Teaching and Educational Standards NSW

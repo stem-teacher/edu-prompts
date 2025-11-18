@@ -1,0 +1,551 @@
+---
+title: "Chemistry"
+subtitle: "2019 HIGHER SCHOOL CERTIFICATE EXAMINATION"
+format:
+  pdf:
+    documentclass: article
+    geometry:
+      - margin=2.5cm
+    fontsize: 11pt
+    include-in-header:
+      text: |
+        \usepackage{chemfig}
+        \usepackage{mhchem}
+        \usepackage{siunitx}
+        \usepackage{graphicx}
+        \usepackage{tikz}
+        \usepackage{fancyhdr}
+        \pagestyle{fancy}
+        \fancyhead[L]{Centre Number}
+        \fancyhead[R]{Student Number}
+---
+
+\begin{center}
+\includegraphics[width=3cm]{images/nsw-logo.png}
+
+NSW Education Standards Authority
+\end{center}
+
+\vspace{2cm}
+
+\begin{center}
+{\Large \textbf{2019} HIGHER SCHOOL CERTIFICATE EXAMINATION}
+
+\vspace{1cm}
+
+{\LARGE \textbf{Chemistry}}
+\end{center}
+
+\vspace{2cm}
+
+**General Instructions**
+
+- Reading time – 5 minutes
+- Working time – 3 hours
+- Write using black pen
+- Draw diagrams using pencil
+- Calculators approved by NESA may be used
+- A formulae sheet, data sheet and Periodic Table are provided at the back of this paper
+
+\vspace{1cm}
+
+**Total marks: 100**
+
+**Section I – 20 marks** (pages 2–10)
+
+- Attempt Questions 1–20
+- Allow about 35 minutes for this section
+
+**Section II – 80 marks** (pages 13–32)
+
+- Attempt Questions 21–34
+- Allow about 2 hours and 25 minutes for this section
+
+\newpage
+
+# Section I
+
+**20 marks**
+**Attempt Questions 1–20**
+**Allow about 35 minutes for this section**
+
+Use the multiple-choice answer sheet for Questions 1–20.
+
+### Question 1
+
+Which structural formula represents pentan-2-one?
+
+![Structural formula options for Question 1](images/q1-structural-formulas.png){width=80%}
+
+A. Option A
+B. Option B
+C. Option C
+D. Option D
+
+### Question 2
+
+Which of the following is an Arrhenius base?
+
+A. Na
+B. \ce{NaOH}
+C. \ce{Na2CO3}
+D. \ce{NaHCO3}
+
+### Question 3
+
+Which of the following metal carbonates has the highest molar solubility?
+
+A. Calcium carbonate
+B. Copper(II) carbonate
+C. Iron(II) carbonate
+D. Lead(II) carbonate
+
+### Question 4
+
+The diagram shows the mass spectrum of an organic compound.
+
+![Mass spectrum](images/q4-mass-spectrum.png){width=70%}
+
+Which compound was analysed?
+
+A. Butan-1-amine
+B. Butanoic acid
+C. Ethanoic acid
+D. Iron(II) sulfide
+
+### Question 5
+
+The diagram represents the titration curve for a reaction between a particular acid and a particular base. Use the diagram to answer Questions 5 and 6.
+
+![Titration curve for Questions 5 and 6](images/q5-q6-titration-curve.png){width=70%}
+
+Which indicator would be best for this titration?
+
+| **Indicator** | **Colour change range (pH)** |
+|---------------|------------------------------|
+| A. Martius yellow | 2.0 – 3.2 |
+| B. Magdala red | 3.0 – 4.0 |
+| C. Isopicramic acid | 4.0 – 5.6 |
+| D. Cresol red | 7.2 – 8.8 |
+
+### Question 6
+
+Which of the following equations best represents the reaction described by the titration curve?
+
+A. \ce{NH3(aq) + HCl(aq) -> NH4Cl(aq)}
+B. \ce{NaOH(aq) + HCl(aq) -> NaCl(aq) + H2O(l)}
+C. \ce{NH3(aq) + CH3COOH(aq) -> CH3COONH4(aq)}
+D. \ce{NaOH(aq) + CH3COOH(aq) -> CH3COONa(aq) + H2O(l)}
+
+### Question 7
+
+How does the addition of a catalyst affect a reversible reaction?
+
+A. It increases the activation energy of the forward reaction only.
+B. It decreases the activation energy of the forward reaction only.
+C. It increases the activation energy of both the forward and reverse reactions.
+D. It decreases the activation energy of both the forward and reverse reactions.
+
+### Question 8
+
+The structure of an organic compound is shown.
+
+![Organic compound structure](images/q8-structure.png){width=50%}
+
+Which row of the table correctly gives the name of the compound and one of the reactants used to produce it in a one-step reaction?
+
+| | **Name** | **Reactant** |
+|-|----------|--------------|
+| A. | Ethyl pentanoate | Ethanol |
+| B. | Ethyl pentanoate | Pentan-1-ol |
+| C. | Pent-1-yl ethanoate | Ethanol |
+| D. | Pent-1-yl ethanoate | Pentan-1-ol |
+
+### Question 9
+
+All of the following compounds have similar molar masses.
+
+Which has the highest boiling point?
+
+A. Butane
+B. Ethanoic acid
+C. Propan-1-ol
+D. Propanone
+
+### Question 10
+
+Which class of organic compound must contain at least three carbon atoms?
+
+A. Aldehydes
+B. Alkenes
+C. Carboxylic acids
+D. Ketones
+
+### Question 11
+
+A saturated solution of barium carbonate was stored in a flask. Solid barium carbonate containing radioactive carbon-14 was added to the solution. The mixture was allowed to stand for several days and was then filtered.
+
+Radioactivity could reasonably be expected to be found in
+
+A. the filtrate only.
+B. the residue only.
+C. both residue and filtrate.
+D. neither residue nor filtrate.
+
+### Question 12
+
+Methanol can be produced from the reaction of carbon monoxide and hydrogen, according to the following equation:
+
+$$\ce{CO(g) + 2H2(g) <=> CH3OH(g)} \qquad \Delta_r H^\circ = -90 \text{ kJ mol}^{-1}$$
+
+Which set of conditions will produce the maximum yield of methanol?
+
+A. Low pressure and low temperature
+B. Low pressure and high temperature
+C. High pressure and low temperature
+D. High pressure and high temperature
+
+### Question 13
+
+A sample of polydifluoroethylene is determined to have an average molar mass of $4.8 \times 10^4$ g mol^−1^.
+
+Approximately how many carbon atoms are there in an average molecule?
+
+A. 750
+B. 1500
+C. 2500
+D. 4000
+
+### Question 14
+
+A molecule, \ce{C4H9Cl}, is analysed. The ^1^H NMR spectrum of this molecule is shown.
+
+![¹H NMR spectrum](images/q14-nmr-spectrum.png){width=70%}
+
+What is the structural formula of this molecule?
+
+![Structural formula options](images/q14-structural-formulas.png){width=60%}
+
+### Question 15
+
+What is the concentration of hydroxide ions (in mol L^–1^) in a solution that has a pH of 8.53?
+
+A. $3.0 \times 10^{-9}$
+B. $3.4 \times 10^{-6}$
+C. 5.5
+D. $3.0 \times 10^5$
+
+### Question 16
+
+At equilibrium, a 1.00 L vessel contains 0.0430 mol of \ce{H2}, 0.0620 mol of \ce{I2}, and 0.358 mol of HI. The system is represented by the following equation:
+
+$$\ce{H2(g) + I2(g) <=> 2HI(g)}$$
+
+Which of the following is closest to the value of the equilibrium constant, $K_{eq}$, for this reaction?
+
+A. 0.0208
+B. 48.1
+C. 134
+D. 269
+
+### Question 17
+
+A student makes a solution with a final volume of 200 mL by mixing 100 mL of 0.0500 mol L^–1^ barium nitrate solution with 100 mL of 0.100 mol L^–1^ sodium hydroxide solution.
+
+Which row of the table correctly identifies if a precipitate will form under these conditions and the reason?
+
+| | **Will a precipitate form?** | **Reason** |
+|-|------------------------------|------------|
+| A. | Yes | $Q > K_{sp}$ |
+| B. | Yes | $Q < K_{sp}$ |
+| C. | No | $Q > K_{sp}$ |
+| D. | No | $Q < K_{sp}$ |
+
+### Question 18
+
+Consider the following equilibrium.
+
+$$\ce{HF(aq) + CF3COO^-(aq) <=> F^-(aq) + CF3COOH(aq)} \qquad K_{eq} = 3.80 \times 10^{-4}$$
+
+Which row of the table correctly identifies the strongest acid and the strongest base in this system?
+
+| | **Strongest acid** | **Strongest base** |
+|-|--------------------|-------------------|
+| A. | \ce{CF3COOH(aq)} | \ce{F^-(aq)} |
+| B. | \ce{CF3COOH(aq)} | \ce{CF3COO^-(aq)} |
+| C. | \ce{HF(aq)} | \ce{F^-(aq)} |
+| D. | \ce{HF(aq)} | \ce{CF3COO^-(aq)} |
+
+### Question 19
+
+Compound X shows three signals in its ^13^C NMR spectrum.
+
+Treatment of X with hot acidified potassium permanganate produces a compound Y. Compound Y turns blue litmus red.
+
+Compound X produces compound Z upon reaction with hot concentrated sulfuric acid.
+
+Which of the following correctly identifies compounds X, Y and Z?
+
+| | **Compound X** | **Compound Y** | **Compound Z** |
+|-|----------------|----------------|----------------|
+| A. | butan-1-ol | butanoic acid | but-1-ene |
+| B. | butan-2-ol | butanone | but-2-ene |
+| C. | methyl ethanoate | methanoic acid | ethene |
+| D. | 2-methylpropan-1-ol | 2-methylpropanoic acid | 2-methylprop-1-ene |
+
+### Question 20
+
+The manganese content in a 12.0-gram sample of steel was determined by measuring the absorbance of permanganate (\ce{MnO4^-}) using the following process.
+
+The steel sample was dissolved in nitric acid and the \ce{Mn^2+}(aq) ions produced were oxidised to \ce{MnO4^-}(aq) by periodate ions, \ce{IO4^-}(aq), according to the following equation.
+
+$$\ce{2Mn^2+(aq) + 5IO4^-(aq) + 3H2O(l) -> 2MnO4^-(aq) + 5IO3^-(aq) + 6H+(aq)}$$
+
+The resulting solution was made up to a volume of 1.00 L, then 20.0 mL of this solution was diluted to 100.0 mL. The absorbance at 525 nm of the resulting solution was 0.50.
+
+A calibration curve for \ce{MnO4^-}(aq) was constructed and is shown below.
+
+![Calibration curve](images/q20-calibration-curve.png){width=70%}
+
+What was the percentage by mass of manganese in the steel sample?
+
+A. 0.019%
+B. 0.096%
+C. 0.48%
+D. 1.0%
+
+\newpage
+
+# Section II
+
+**80 marks**
+**Attempt Questions 21–34**
+**Allow about 2 hours and 25 minutes for this section**
+
+Answer the questions in the spaces provided. These spaces provide guidance for the expected length of response.
+
+Show all relevant working in questions involving calculations.
+
+### Question 21 (7 marks)
+
+**(a)** The structural formula for 2-methylpropan-2-ol is shown in the table. **(2 marks)**
+
+Draw one structural isomer of this alcohol and state its name.
+
+![Table with 2-methylpropan-2-ol structure](images/q21a-table.png){width=70%}
+
+\vspace{3cm}
+
+**(b)** The structural formulae for two compounds are shown below. **(2 marks)**
+
+![Isomers A and B](images/q21b-isomers.png){width=60%}
+
+Why are these two compounds classed as functional group isomers?
+
+\vspace{3cm}
+
+**(c)** A chemical test is required to distinguish between the isomers in part (b). **(3 marks)**
+
+Identify a suitable test and explain the expected observations.
+
+\vspace{4cm}
+
+### Question 22 (4 marks)
+
+A buffer was prepared with acetic acid and sodium acetate. A few drops of universal indicator were then added. When small amounts of either 0.1 mol L^–1^ \ce{HCl}(aq) or 0.1 mol L^–1^ \ce{NaOH}(aq) were added, no change in the colour of the solution was observed.
+
+Explain these observations. Support your answer with at least ONE chemical equation.
+
+\vspace{6cm}
+
+### Question 23 (6 marks)
+
+The following apparatus was used in an experiment to determine the molar enthalpy of combustion of ethanol.
+
+![Experimental apparatus](images/q23-apparatus.png){width=60%}
+
+**(a)** Calculate the experimental molar enthalpy of combustion ($\Delta_c H$) of ethanol when 0.370 g ethanol was used to raise the water temperature from 18.5°C to 30.0°C. **(4 marks)**
+
+\vspace{6cm}
+
+**(b)** Upon replication, the molar enthalpy of combustion obtained in the experiment was consistently much lower than the accepted value. **(2 marks)**
+
+Explain ONE change that could be made to the experiment that would improve the accuracy of the obtained value.
+
+\vspace{3cm}
+
+### Question 24 (7 marks)
+
+A conductometric titration was undertaken to determine the concentration of a barium hydroxide solution. The solution was added to 250.0 mL of standardised $1.050 \times 10^{-3}$ mol L^–1^ hydrochloric acid solution. The results of the titration are shown in the conductivity graph.
+
+![Conductivity graph](images/q24-conductivity-graph.png){width=70%}
+
+**(a)** Explain the shape of the titration curve. **(3 marks)**
+
+\vspace{4cm}
+
+**(b)** The equivalence point was reached when a volume of 17.15 mL of barium hydroxide was added. **(4 marks)**
+
+Calculate the concentration of barium hydroxide (in mol L^–1^), and give a relevant chemical equation.
+
+\vspace{6cm}
+
+### Question 25 (5 marks)
+
+The concentrations of reactants and products as a function of time for the following system were determined.
+
+$$\ce{CO(g) + H2O(g) <=> CO2(g) + H2(g)}$$
+
+At time $T$, some \ce{CO}(g) was removed from the system.
+
+**(a)** The concentration of CO after time $T$ is shown. **(2 marks)**
+
+Sketch the concentrations after time $T$ for the remaining species.
+
+![Concentration vs time graph](images/q25a-graph.png){width=70%}
+
+\vspace{2cm}
+
+**(b)** Using collision theory, explain the change in the concentration of CO after time $T$. **(3 marks)**
+
+\vspace{5cm}
+
+### Question 26 (8 marks)
+
+The following data were obtained for an organic compound containing carbon, hydrogen and oxygen. The compound is a colourless liquid that reacts with sodium carbonate powder to produce bubbles.
+
+![Mass spectrum, IR spectrum, ¹H NMR and ¹³C NMR spectra](images/q26-spectra.png){width=100%}
+
+**(a)** What is the structural formula of this compound? Justify your answer with reference to the information given on its reactivity and to at least THREE of the provided spectra. **(5 marks)**
+
+\vspace{8cm}
+
+**(b)** Explain why a chemist should use more than one spectroscopic technique to identify an organic compound. Use TWO spectroscopic techniques to support your answer. **(3 marks)**
+
+\vspace{5cm}
+
+### Question 27 (5 marks)
+
+The relationship between the acid dissociation constant, $K_a$, and the corresponding conjugate base dissociation constant, $K_b$, is given by:
+
+$$K_a \times K_b = K_w$$
+
+Assume that the temperature for part (a) and part (b) is 25°C.
+
+**(a)** The $K_a$ of hypochlorous acid (HOCl) is $3.0 \times 10^{-8}$. **(1 mark)**
+
+Show that the $K_b$ of the hypochlorite ion, \ce{OCl^-}, is $3.3 \times 10^{-7}$.
+
+\vspace{2cm}
+
+**(b)** The conjugate base dissociation constant, $K_b$, is the equilibrium constant for the following equation: **(4 marks)**
+
+$$\ce{OCl^-(aq) + H2O(l) <=> HOCl(aq) + OH^-(aq)}$$
+
+Calculate the pH of a 0.20 mol L^−1^ solution of sodium hypochlorite (\ce{NaOCl}).
+
+\vspace{7cm}
+
+### Question 28 (5 marks)
+
+Assess the usefulness of the Brønsted–Lowry model in classifying acids and bases. Support your answer with at least TWO chemical equations.
+
+\vspace{8cm}
+
+### Question 29 (11 marks)
+
+Stormwater from a mine site has been found to be contaminated with copper(II) and lead(II) ions. The required discharge limit is 1.0 mg L^–1^ for each metal ion. Treatment of the stormwater with \ce{Ca(OH)2} solid to remove the metal ions is recommended.
+
+**(a)** Explain the recommended treatment with reference to solubility. Include a relevant chemical equation. **(2 marks)**
+
+\vspace{3cm}
+
+**(b)** Explain why atomic absorption spectroscopy can be used to determine the concentrations of \ce{Cu^2+} and \ce{Pb^2+} ions in a solution containing both species. **(2 marks)**
+
+\vspace{3cm}
+
+**(c)** The data below were obtained after treatment of the stormwater. **(7 marks)**
+
+**Data from atomic absorption spectroscopy**
+
+| Concentration ($\times 10^{-5}$ mol L^–1^) | Absorbance |  |
+|-------------------------------------------|------------|------------|
+| \ce{Cu^2+} or \ce{Pb^2+} | \ce{Cu^2+} | \ce{Pb^2+} |
+| 0.0 | 0.000 | 0.000 |
+| 1.0 | 0.140 | 0.090 |
+| 2.0 | 0.310 | 0.180 |
+| 4.0 | 0.520 | 0.390 |
+| 6.0 | 0.840 | 0.530 |
+| Water sample before treatment | 0.820 | 0.440 |
+| Water sample after treatment | 0.040 | 0.080 |
+
+To what extent is the treatment effective in meeting the required discharge limit of 1.0 mg L^–1^ for each metal ion? Support your conclusion with calibration curves and calculations.
+
+\vspace{10cm}
+
+### Question 30 (3 marks)
+
+The following data apply to magnesium fluoride and magnesium chloride dissolving in water at 298 K.
+
+| | **Magnesium fluoride** | **Magnesium chloride** |
+|---|----------------------|----------------------|
+| $\Delta_{sol}H^\circ$ (kJ mol^−1^) | −7.81 | −160 |
+| $\Delta_{sol}S^\circ$ (J K^–1^ mol^−1^) | −223 | −115 |
+| $T\Delta_{sol}S^\circ$ (kJ mol^−1^) | −66.4 | −34.2 |
+| $\Delta_{sol}G^\circ$ (kJ mol^−1^) | +58.6 | −125 |
+
+Compare the effects of enthalpy and entropy on the solubility of these salts.
+
+\vspace{7cm}
+
+### Question 31 (4 marks)
+
+The following reaction occurs in an aqueous solution.
+
+$$\ce{HgCl4^2-(aq) + Cu^2+(aq) <=> CuCl4^2-(aq) + Hg^2+(aq)} \qquad K_{eq} = 4.55 \times 10^{-11}$$
+
+A solution containing a mixture of \ce{HgCl4^2-}(aq) and \ce{Cu^2+}(aq) ions is prepared. The initial concentration of each ion is 0.100 mol L^–1^ and there are no other ions present.
+
+Calculate the concentration of \ce{Hg^2+}(aq) ions once the system has reached equilibrium.
+
+\vspace{8cm}
+
+### Question 32 (4 marks)
+
+Thiols are the sulfur analogues of alcohols in that the oxygen atom of the alcohol is replaced by a sulfur atom. For example, methanethiol (\ce{CH3SH}) is the analogue of methanol (\ce{CH3OH}). The boiling points of some straight chain alcohols and thiols are given in the following graph.
+
+![Boiling points graph](images/q32-boiling-points.png){width=80%}
+
+Explain the patterns of the boiling points shown in the graph.
+
+\vspace{6cm}
+
+### Question 33 (4 marks)
+
+A student adds 1.17 g of \ce{Al(OH)3}(s) to 0.500 L of 0.100 mol L^–1^ \ce{HCl}(aq).
+
+Calculate the pH of the resulting solution. Assume that the volume of the resulting solution is 0.500 L.
+
+\vspace{8cm}
+
+### Question 34 (7 marks)
+
+The following reaction scheme can be used to synthesise ethyl ethanoate.
+
+![Reaction scheme](images/q34-reaction-scheme.png){width=80%}
+
+Outline the reagents and conditions required for each step and how the product of each step could be identified.
+
+\vspace{10cm}
+
+\newpage
+
+# Formulae and Data Sheets
+
+*[Include formulae sheet, data sheet, and periodic table as shown in the original exam]*
+
+\vspace{2cm}
+
+\begin{center}
+© 2019 NSW Education Standards Authority
+\end{center}

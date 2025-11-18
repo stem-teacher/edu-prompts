@@ -1,0 +1,726 @@
+---
+title: "Chemistry"
+subtitle: "2023 HIGHER SCHOOL CERTIFICATE EXAMINATION"
+format:
+  pdf:
+    documentclass: article
+    geometry:
+      - margin=2.5cm
+    fontsize: 11pt
+    include-in-header:
+      text: |
+        \usepackage{chemfig}
+        \usepackage{mhchem}
+        \usepackage{siunitx}
+        \usepackage{graphicx}
+        \usepackage{tikz}
+        \usepackage{fancyhdr}
+        \pagestyle{fancy}
+        \fancyhead[L]{Centre Number}
+        \fancyhead[R]{Student Number}
+---
+
+\begin{center}
+\Large{\textbf{NSW Education Standards Authority}}
+
+\vspace{1cm}
+
+\Large{\textbf{2023 HIGHER SCHOOL CERTIFICATE EXAMINATION}}
+
+\vspace{1cm}
+
+\Huge{\textbf{Chemistry}}
+\end{center}
+
+\vspace{1cm}
+
+**General Instructions**
+
+- Reading time – 5 minutes
+- Working time – 3 hours
+- Write using black pen
+- Draw diagrams using pencil
+- Calculators approved by NESA may be used
+- A formulae sheet, data sheet and Periodic Table are provided at the back of this paper
+- Write your Centre Number and Student Number at the top of this page
+
+**Total marks: 100**
+
+**Section I – 20 marks** (pages 2–11)
+
+- Attempt Questions 1–20
+- Allow about 35 minutes for this section
+
+**Section II – 80 marks** (pages 13–40)
+
+- Attempt Questions 21–37
+- Allow about 2 hours and 25 minutes for this section
+
+\vspace{2cm}
+
+\begin{tabular}{|l|l|l|l|l|}
+\hline
+ & & & & \\
+\hline
+\multicolumn{5}{c}{Centre Number} \\
+\hline
+\end{tabular}
+
+\vspace{0.5cm}
+
+\begin{tabular}{|l|l|l|l|l|l|l|l|l|}
+\hline
+ & & & & & & & & \\
+\hline
+\multicolumn{9}{c}{Student Number} \\
+\hline
+\end{tabular}
+
+\newpage
+
+# Section I
+
+**20 marks**
+**Attempt Questions 1–20**
+**Allow about 35 minutes for this section**
+
+Use the multiple-choice answer sheet for Questions 1–20.
+
+### Question 1
+
+What is the safest method for disposing of a liquid hydrocarbon after an experiment?
+
+A. Pour it down the sink
+
+B. Place it in a garbage bin
+
+C. Burn it by igniting with a match
+
+D. Place it in a separate waste container
+
+### Question 2
+
+The technique illustrated is used to analyse chemical substances in a sample.
+
+![Atomic absorption spectroscopy diagram](images/q2-aas-diagram.png){width=80%}
+
+What is the technique shown?
+
+A. Flame test
+
+B. Mass spectrometry
+
+C. Atomic absorption spectroscopy
+
+D. Ultraviolet-visible spectrophotometry
+
+### Question 3
+
+The structural formula of a compound is given.
+
+![Structural formula of pent-2-yne](images/q3-structure.png){width=60%}
+
+What is the preferred IUPAC name of this compound?
+
+A. Pent-2-ene
+
+B. Pent-2-yne
+
+C. Pent-3-ene
+
+D. Pent-3-yne
+
+### Question 4
+
+Sodium chloride dissolves in water according to the following equation.
+
+$$\ce{NaCl(s) <=> Na+(aq) + Cl-(aq)}$$
+
+A saturated solution of \ce{NaCl} in water contains sodium and chloride ions at the following concentrations.
+
+| *Ion* | *Concentration* (mol L^-1^) |
+|-------|---------------------------|
+| \ce{Na+} | 6.13 |
+| \ce{Cl-} | 6.13 |
+
+What is the $K_{sp}$ of sodium chloride?
+
+A. $2.65 \times 10^{-2}$
+
+B. $8.16 \times 10^{-2}$
+
+C. 12.26
+
+D. 37.6
+
+### Question 5
+
+Which diagram represents the most concentrated weak acid?
+
+![Four diagrams showing weak acid solutions with key](images/q5-weak-acid-diagrams.png){width=100%}
+
+### Question 6
+
+The pH of a solution changes from 8 to 5.
+
+What happens to the concentration of hydrogen ions during this change of pH?
+
+A. It increases by a factor of 3.
+
+B. It decreases by a factor of 3.
+
+C. It increases by a factor of 1000.
+
+D. It decreases by a factor of 1000.
+
+### Question 7
+
+A mixture of 0.8 mol of \ce{CO(g)} and 0.8 mol of \ce{H2(g)} was placed in a sealed 1.0 L container. The following reaction occurred.
+
+$$\ce{CO(g) + 2H2(g) <=> CH3OH(g)}$$
+
+When equilibrium was established, the mixture contained 0.5 mol of \ce{CO(g)}.
+
+What amount of \ce{H2(g)} was present at equilibrium?
+
+A. 0.2 mol
+
+B. 0.4 mol
+
+C. 0.6 mol
+
+D. 1.0 mol
+
+### Question 8
+
+How many structural isomers have the molecular formula \ce{C3H6F2}?
+
+A. 2
+
+B. 3
+
+C. 4
+
+D. 5
+
+### Question 9
+
+A titration was performed using two solutions of equal concentration, producing the following titration curve.
+
+![Titration curve showing pH vs volume](images/q9-titration-curve.png){width=70%}
+
+Which combination of solutions does the titration curve represent?
+
+A. Addition of a weak base to a weak acid
+
+B. Addition of a weak base to a strong acid
+
+C. Addition of a strong acid to a weak base
+
+D. Addition of a strong acid to a strong base
+
+### Question 10
+
+Which of the following correctly lists the compounds in order of increasing boiling point?
+
+A. Heptane < heptan-2-one < heptan-1-ol < heptanoic acid
+
+B. Heptane < heptan-1-ol < heptan-2-one < heptanoic acid
+
+C. Heptanoic acid < heptan-2-one < heptan-1-ol < heptane
+
+D. Heptanoic acid < heptan-1-ol < heptan-2-one < heptane
+
+### Question 11
+
+An indicator solution was obtained by boiling a flower in water.
+
+![Flower water indicator chart showing colours at different pH values](images/q11-indicator-chart.png){width=90%}
+
+Two solutions were tested with this indicator.
+
+Which row of the table correctly identifies the colour of each solution?
+
+|   | \ce{H2SO4} ($1 \times 10^{-5}$ mol L^-1^) | \ce{NaOH} ($5 \times 10^{-5}$ mol L^-1^) |
+|---|------------------------------------------|----------------------------------------|
+| A. | Red | Green-yellow |
+| B. | Red | Blue-green |
+| C. | Purple | Blue-green |
+| D. | Purple | Green-yellow |
+
+### Question 12
+
+The industrial production of ammonia is represented by the Haber process reaction shown.
+
+$$\ce{N2(g) + 3H2(g) <=> 2NH3(g)} \quad \Delta H = -91.8 \text{ kJ mol}^{-1}$$
+
+Factors such as temperature and pressure need to be considered in order to maximise yield.
+
+Which of the following is correct?
+
+A. A lower pressure would result in a higher yield.
+
+B. A higher pressure would result in a higher yield.
+
+C. A lower temperature would result in a lower yield.
+
+D. A higher temperature would result in a higher yield.
+
+### Question 13
+
+The table shows four separate tests used to identify a dilute, aqueous sample of a compound.
+
+| *Test number* | *Test* | *Observations* |
+|--------------|--------|---------------|
+| 1 | Test with red litmus | Stays red |
+| 2 | Add \ce{Ba^2+} ions to a sample | White precipitate formed |
+| 3 | Add \ce{OH-} ions to a sample | Brown precipitate formed |
+| 4 | Add \ce{Cl-} ions to a sample | White precipitate formed |
+
+Which compound would produce the observations shown?
+
+A. Silver sulfate
+
+B. Lead(II) acetate
+
+C. Iron(II) bromide
+
+D. Magnesium carbonate
+
+### Question 14
+
+What volume of 0.540 mol L^-1^ hydrochloric acid will react completely with 1.34 g of sodium carbonate?
+
+A. 11.7 mL
+
+B. 23.4 mL
+
+C. 29.9 mL
+
+D. 46.8 mL
+
+### Question 15
+
+The table gives the heat of combustion of three different alcohols at 25°C.
+
+| *Alcohol* | *Heat of combustion* (kJ g^-1^) |
+|-----------|-------------------------------|
+| Methanol | 22.68 |
+| Ethanol | 29.67 |
+| Butan-1-ol | 36.11 |
+
+Which of the following gives the best approximation for the molar heat of combustion of propan-1-ol, expressed in kJ g^-1^?
+
+A. $\left(\frac{22.68 + 29.67 + 36.11}{3}\right)$
+
+B. $\left(\frac{29.67 + 36.11}{2}\right)$
+
+C. $\left(\frac{22.68 + 29.67}{2}\right)$
+
+D. $\left(\frac{3 \times 36.11}{4}\right)$
+
+### Question 16
+
+A solution contains potassium iodide and potassium chloride. It was analysed by performing a precipitation titration using silver nitrate. The titration curve for this reaction is shown, where $pAg = -\log_{10}[\ce{Ag+}]$.
+
+![Precipitation titration curve](images/q16-precipitation-curve.png){width=70%}
+
+Why is this a valid and correct procedure for quantifying the amount of each anion present in the mixture?
+
+A. \ce{AgCl} would precipitate out first, followed by \ce{AgI}.
+
+B. \ce{AgI} would precipitate out first, followed by \ce{AgCl}.
+
+C. Both \ce{AgI} and \ce{AgCl} precipitate out of the solution together.
+
+D. Neither \ce{AgCl} nor \ce{AgI} would precipitate out of the solution.
+
+### Question 17
+
+What mass of lead(II) iodide ($MM = 461$ g mol^-1^) will dissolve in 375 mL of water?
+
+A. 0.233 g
+
+B. 0.293 g
+
+C. 0.369 g
+
+D. 0.621 g
+
+### Question 18
+
+Carbon dioxide reacts with hydrogen gas to form carbon monoxide and water vapour in a sealed flask, according to the following equation.
+
+$$\ce{CO2(g) + H2(g) <=> CO(g) + H2O(g)}$$
+
+A temperature change was imposed on the equilibrium system at time *t* and the rates of both the forward and reverse reactions were monitored.
+
+![Rate vs time graph showing temperature change effect](images/q18-rate-graph.png){width=70%}
+
+Which row of the table correctly identifies the nature of both temperature change at time *t* and the $\Delta H$ of the forward reaction?
+
+|   | *Temperature change at time t* | *ΔH of the forward reaction* |
+|---|-------------------------------|----------------------------|
+| A. | Decrease | + |
+| B. | Decrease | − |
+| C. | Increase | + |
+| D. | Increase | − |
+
+### Question 19
+
+The diagram shows a simplified mass spectrum for butan-2-one.
+
+![Mass spectrum for butan-2-one](images/q19-mass-spectrum.png){width=70%}
+
+Which equation best represents the process that produces the particle responsible for the peak at m/z 43?
+
+A. \ce{CH3COCH2CH3+ -> CH3CO + ^+CH2CH3}
+
+B. \ce{CH3COCH2CH3+ -> CH3CO+ + CH2CH3}
+
+C. \ce{CH3COCH2CH3+ -> CH3CH2CH2 + ^+CHO}
+
+D. \ce{CH3COCH2CH3+ -> CH3CH2CH2+ + CHO}
+
+### Question 20
+
+Nitrogen monoxide and oxygen combine to form nitrogen dioxide, according to the following equation.
+
+$$\ce{2NO(g) + O2(g) <=> 2NO2(g)} \quad K_{eq} = 2.47 \times 10^{12}$$
+
+A 2.00 L vessel is filled with 1.80 mol of \ce{NO2(g)} and the system is allowed to reach equilibrium.
+
+What is the equilibrium concentration of \ce{NO(g)}?
+
+A. 0.00 mol L^-1^
+
+B. $4.34 \times 10^{-5}$ mol L^-1^
+
+C. $6.90 \times 10^{-5}$ mol L^-1^
+
+D. $8.69 \times 10^{-5}$ mol L^-1^
+
+\newpage
+
+# Section II
+
+**80 marks**
+**Attempt Questions 21–37**
+**Allow about 2 hours and 25 minutes for this section**
+
+Answer the questions in the spaces provided. These spaces provide guidance for the expected length of response.
+
+### Question 21 (2 marks)
+
+Some isomers with the formula \ce{C4H8O2} are shown.
+
+![Three structural isomers: butan-2-one, butanal, and 2-methylpropanal](images/q21-isomers.png){width=80%}
+
+Name ONE pair of functional group isomers and ONE pair of chain isomers from the structures above.
+
+| *Type of isomer* | *Pair of isomers* |
+|-----------------|------------------|
+| Functional group | ........................... and ........................... |
+| Chain | ........................... and ........................... |
+
+\vspace{2cm}
+
+### Question 22 (4 marks)
+
+Explain how the following substances would be classified under the Arrhenius and Brønsted–Lowry definitions of acids. Support your answer with relevant equations.
+
+- \ce{HCl(aq)}
+- \ce{NH4Cl(aq)}
+
+\vspace{8cm}
+
+### Question 23 (3 marks)
+
+The pH of two solutions, X and Y, were measured before and after 10 drops of concentrated \ce{NaOH} was added to each.
+
+![Two beaker diagrams showing pH changes in solutions X and Y](images/q23-buffer-diagram.png){width=80%}
+
+Explain the pH changes that occurred in solutions X and Y.
+
+\vspace{6cm}
+
+### Question 24 (2 marks)
+
+The hydrogen oxalate ion (\ce{HC2O4-}) is classified as amphiprotic.
+
+Describe, using chemical equations, how this ion is amphiprotic.
+
+\vspace{4cm}
+
+### Question 25 (5 marks)
+
+A student used the apparatus shown to investigate the combustion of octan-1-ol.
+
+![Combustion apparatus diagram](images/q25-combustion-apparatus.png){width=60%}
+
+The following results were obtained by the student.
+
+- Mass of water heated = 205 g
+- Initial temperature of water = 23.7°C
+- Final temperature of water = 60.4°C
+
+The following data are given.
+
+- Molar enthalpy of combustion of octan-1-ol = −5294 kJ mol^-1^
+- Molar mass of octan-1-ol = 130.23 g mol^-1^
+
+**(a)** Assuming that no energy released by this combustion is lost to the surroundings, calculate the mass of octan-1-ol burnt. **(3 marks)**
+
+\vspace{6cm}
+
+**(b)** Explain ONE advantage of using a biofuel compared to fossil fuels. **(2 marks)**
+
+\vspace{3cm}
+
+### Question 26 (5 marks)
+
+Nitric acid can be produced industrially using the process shown.
+
+![Nitric acid production flowchart](images/q26-nitric-acid-process.png){width=100%}
+
+**(a)** A mixture of \ce{NO2} and \ce{N2O4} enters Reactor 3, where only \ce{NO2} is consumed by the reaction with water.
+
+Explain, with respect to Le Chatelier's principle, what happens to the \ce{N2O4}. **(2 marks)**
+
+\vspace{4cm}
+
+**(b)** Explain TWO improvements that can be made to the design of the process shown. **(3 marks)**
+
+\vspace{6cm}
+
+### Question 27 (4 marks)
+
+A student has been asked to produce 185 mL of ethanol ($MM = 46.068$ g mol^-1^) by fermenting glucose using yeast, as shown in the equation.
+
+$$\ce{C6H12O6(aq) -> 2C2H5OH(aq) + 2CO2(g)}$$
+
+Given that the density of ethanol is 0.789 g mL^-1^, calculate the volume of carbon dioxide gas produced at 310 K and 100 kPa.
+
+\vspace{8cm}
+
+### Question 28 (5 marks)
+
+Alkene Q undergoes an addition reaction with chlorine gas to form compound R.
+
+**(a)** Describe a chemical test that could be done in a school laboratory to confirm that Q is an alkene. Include expected observations in your answer. **(2 marks)**
+
+\vspace{3cm}
+
+**(b)** Compound R was analysed and found to contain approximately 32% carbon by mass. The mass spectrum of compound R is shown.
+
+![Mass spectrum of compound R](images/q28-mass-spectrum.png){width=70%}
+
+Provide a structural formula for compound R. Support your answer with calculations. **(3 marks)**
+
+\vspace{6cm}
+
+Structural formula of compound R:
+
+\vspace{3cm}
+
+### Question 29 (3 marks)
+
+The following graph shows the solubility of some alkan-1-ols in water at 20°C.
+
+![Solubility vs molar mass graph](images/q29-solubility-graph.png){width=70%}
+
+Explain the relationship between the trend shown in the graph and the relevant intermolecular forces.
+
+\vspace{6cm}
+
+### Question 30 (4 marks)
+
+A water sample contains at least one of the following anions at concentrations of 1.0 mol L^-1^.
+
+- bromide (\ce{Br-})
+- carbonate (\ce{CO3^2-})
+
+Outline a sequence of tests that could be performed in a school laboratory to confirm the identity of the anion or anions present. Include expected observations and TWO balanced chemical equations in your answer.
+
+\vspace{8cm}
+
+### Question 31 (7 marks)
+
+Copper(II) ions (\ce{Cu^2+}) form a complex with lactic acid (\ce{C3H6O3}), as shown in the equation.
+
+$$\ce{Cu^2+(aq) + 2C3H6O3(aq) <=> [Cu(C3H6O3)2]^2+(aq)}$$
+
+This complex can be detected by measuring its absorbance at 730 nm. A series of solutions containing known concentrations of \ce{[Cu(C3H6O3)2]^2+} were prepared, and their absorbances measured.
+
+| *Concentration of* \ce{[Cu(C3H6O3)2]^2+} (mol L^-1^) | *Absorbance* |
+|-----------------------------------------------------|-------------|
+| 0.000 | 0.00 |
+| 0.010 | 0.13 |
+| 0.020 | 0.28 |
+| 0.030 | 0.43 |
+| 0.040 | 0.57 |
+| 0.050 | 0.72 |
+
+Two solutions containing \ce{Cu^2+} and \ce{C3H6O3} were mixed. The initial concentrations of each in the resulting solution are shown in the table.
+
+| *Species* | *Initial concentration* (mol L^-1^) |
+|-----------|-----------------------------------|
+| \ce{Cu^2+} | 0.056 |
+| \ce{C3H6O3} | 0.111 |
+
+When the solution reached equilibrium, its absorbance at 730 nm was 0.66.
+
+You may assume that under the conditions of this experiment, the only species present in the solution are those present in the equation above, and that \ce{[Cu(C3H6O3)2]^2+} is the only species that absorbs at 730 nm.
+
+With the support of a line graph, calculate the equilibrium constant for the reaction.
+
+![Graph paper for plotting calibration curve](images/q31-graph-paper.png){width=90%}
+
+\vspace{8cm}
+
+### Question 32 (5 marks)
+
+The ammonium ion content of mixtures can be determined by boiling the mixture with a known excess of sodium hydroxide. This converts the ammonium ions into gaseous ammonia, which is removed from the system.
+
+$$\ce{NH4+(aq) + OH-(aq) -> NH3(g) + H2O(l)}$$
+
+The excess sodium hydroxide can then be titrated with an acid solution of known concentration.
+
+A fertiliser containing ammonium ions was analysed as follows.
+
+- A sample of fertiliser was treated with 50.00 mL of 1.124 mol L^-1^ sodium hydroxide solution and the solution boiled.
+- After all of the ammonia was removed, the resulting solution was transferred to a 250.0 mL volumetric flask and made up to the mark with deionised water.
+- 20.00 mL aliquots of this solution were titrated with 0.1102 mol L^-1^ hydrochloric acid, giving the following results.
+
+| *Titration* | *Volume HCl* (mL) |
+|------------|------------------|
+| 1 | 22.65 |
+| 2 | 22.05 |
+| 3 | 22.00 |
+| 4 | 21.95 |
+
+Calculate the mass of ammonium ions in the sample of fertiliser.
+
+\vspace{10cm}
+
+### Question 33 (6 marks)
+
+Gases \ce{A2} and \ce{B2} are placed in a closed container of variable volume, as shown.
+
+![Container with moveable piston](images/q33-piston-diagram.png){width=40%}
+
+The reaction between these substances is as follows.
+
+$$\ce{A2(g) + 2B2(g) <=> 2AB2(g)} \quad \Delta H = -10 \text{ kJ mol}^{-1}$$
+
+The following graph shows changes in the amounts (in mol) of these three substances over time in this container.
+
+![Amount vs time graph showing equilibrium shifts](images/q33-equilibrium-graph.png){width=80%}
+
+**(a)** Explain what is happening in this system between 6 minutes and 8 minutes. **(2 marks)**
+
+\vspace{3cm}
+
+**(b)** Explain TWO different factors that could result in the disturbance at 8 minutes. **(4 marks)**
+
+\vspace{6cm}
+
+### Question 34 (5 marks)
+
+When 125 mL of a magnesium nitrate solution is mixed with 175 mL of a 1.50 mol L^-1^ sodium fluoride solution, 0.6231 g of magnesium fluoride ($MM = 62.31$ g mol^-1^) precipitates. The $K_{sp}$ of magnesium fluoride is $5.16 \times 10^{-11}$.
+
+Calculate the equilibrium concentration of magnesium ions in this solution.
+
+\vspace{10cm}
+
+### Question 35 (6 marks)
+
+**(a)** A 0.2000 mol L^-1^ solution of dichloroacetic acid (\ce{CHCl2COOH}) has a pH of 1.107. Dichloroacetic acid is monoprotic.
+
+Calculate the $K_a$ for dichloroacetic acid. **(3 marks)**
+
+\vspace{6cm}
+
+**(b)** The following data apply to the ionisation of acetic acid (\ce{CH3COOH}) and trichloroacetic acid (\ce{CCl3COOH}). **(3 marks)**
+
+|  | \ce{CH3COOH} | \ce{CCl3COOH} |
+|--|-------------|-------------|
+| $pK_a$ | 4.76 | 0.51 |
+| $\Delta H°$ (kJ mol^-1^) | −0.1 | +1.2 |
+| $\Delta S°$ (J K^-1^ mol^-1^) | −91.6 | −5.8 |
+| $-T\Delta S°$ (kJ mol^-1^) | +27.3 | +1.7 |
+| $\Delta G°$ (kJ mol^-1^) | +27.2 | +2.9 |
+
+Explain the relative strength of these acids with reference to the data.
+
+\vspace{6cm}
+
+### Question 36 (9 marks)
+
+An organic reaction pathway involving compounds A, B and C is shown in the flow chart.
+
+$$\ce{A ->[Dilute H2SO4] B ->[KMnO4, H+/heat] C}$$
+
+The molar mass of A is 84.156 g mol^-1^.
+
+A chemist obtained some spectral data for the compounds as shown.
+
+![13C NMR spectrum of compound A](images/q36-nmr-spectrum.png){width=45%}
+![Infrared spectrum of compound B](images/q36-ir-spectrum.png){width=45%}
+
+**Data from ^1^H NMR spectrum of compound C**
+
+| *Chemical shift* (ppm) | *Relative peak area* | *Splitting pattern* |
+|----------------------|---------------------|-------------------|
+| 1.01 | 3 | Triplet |
+| 1.05 | 3 | Triplet |
+| 1.65 | 2 | Multiplet |
+| 2.42 | 2 | Triplet |
+| 2.46 | 2 | Quartet |
+
+**^1^H NMR chemical shift data**
+
+| *Type of proton* | δ/ppm |
+|-----------------|-------|
+| \ce{R-CH3}, \ce{R-CH2-R} | 0.7–1.7 |
+| \ce{H3C-CO-}, \ce{-CH2-CO-} (aldehydes, ketones, carboxylic acids or esters) | 2.0–2.6 |
+| \ce{R-CHO} | 9.4–10.0 |
+| \ce{R-COOH} | 9.0–13.0 |
+
+Identify the functional group present in each of compounds A to C and draw the structure of each compound. Justify your answer with reference to the information provided.
+
+**Compound A** Functional group: ...............................................................
+
+\vspace{4cm}
+
+**Compound B** Functional group: ...............................................................
+
+\vspace{4cm}
+
+**Compound C** Functional group: ...............................................................
+
+\vspace{4cm}
+
+### Question 37 (5 marks)
+
+When performing industrial reductions with \ce{CO(g)}, the following equilibrium is of great importance.
+
+$$\ce{2CO(g) <=> CO2(g) + C(s)} \quad K_{eq} = 10.00 \text{ at } 1095 \text{ K}$$
+
+A 1.00 L sealed vessel at a temperature of 1095 K contains \ce{CO(g)} at a concentration of $1.10 \times 10^{-2}$ mol L^-1^, \ce{CO2(g)} at a concentration of $1.21 \times 10^{-3}$ mol L^-1^, and excess solid carbon.
+
+**(a)** Is the system at equilibrium? Support your answer with calculations. **(2 marks)**
+
+\vspace{3cm}
+
+**(b)** Carbon dioxide gas is added to the system above and the mixture comes to equilibrium. The equilibrium concentrations of \ce{CO(g)} and \ce{CO2(g)} are equal. Excess solid carbon is present and the temperature remains at 1095 K.
+
+Calculate the amount (in mol) of carbon dioxide added to the system. **(3 marks)**
+
+\vspace{6cm}
+
+---
+
+**End of paper**
+
+© 2023 NSW Education Standards Authority

@@ -1,0 +1,713 @@
+---
+title: "Chemistry"
+subtitle: "2017 HIGHER SCHOOL CERTIFICATE EXAMINATION"
+format:
+  pdf:
+    documentclass: article
+    geometry:
+      - margin=2.5cm
+    fontsize: 11pt
+    include-in-header:
+      text: |
+        \usepackage{chemfig}
+        \usepackage{mhchem}
+        \usepackage{siunitx}
+        \usepackage{graphicx}
+        \usepackage{tikz}
+        \usepackage{fancyhdr}
+        \pagestyle{fancy}
+        \fancyhead[L]{Centre Number}
+        \fancyhead[R]{Student Number}
+---
+
+\begin{center}
+\Large{\textbf{NSW EDUCATION STANDARDS AUTHORITY}}
+\end{center}
+
+\vspace{1cm}
+
+::: {.content}
+**General Instructions**
+
+- Reading time – 5 minutes
+- Working time – 3 hours
+- Write using black pen
+- Draw diagrams using pencil
+- NESA approved calculators may be used
+- A data sheet and Periodic Table are provided at the back of this paper
+
+**Total marks: 100**
+
+**Section I – 75 marks** (pages 2–28)
+
+This section has two parts, Part A and Part B
+
+Part A – 20 marks
+
+- Attempt Questions 1–20
+- Allow about 35 minutes for this part
+
+Part B – 55 marks
+
+- Attempt Questions 21–30
+- Allow about 1 hour and 40 minutes for this part
+
+**Section II – 25 marks** (pages 29–39)
+
+- Attempt ONE question from Questions 31–35
+- Allow about 45 minutes for this section
+:::
+
+\newpage
+
+# Section I
+## 75 marks
+
+## Part A – 20 marks
+### Attempt Questions 1–20
+### Allow about 35 minutes for this part
+
+Use the multiple-choice answer sheet for Questions 1–20.
+
+### Question 1
+
+In an experiment, 30 mL of water is to be transferred into a conical flask.
+
+Which piece of equipment would deliver the volume with the greatest accuracy?
+
+A. Burette
+B. Beaker
+C. Test tube
+D. Measuring cylinder
+
+### Question 2
+
+Which row of the table correctly matches an ion with its flame colour during a flame test?
+
+| | *Ion* | *Flame colour* |
+|---|---|---|
+| A. | Barium | Orange-red |
+| B. | Calcium | Blue-green |
+| C. | Carbonate | Orange-red |
+| D. | Copper | Blue-green |
+
+### Question 3
+
+What is the name of this compound?
+
+![Structural formula of haloalkane](images/q3-structure.png){width=50%}
+
+A. 2-chloro-1-fluorobutane
+B. 3-chloro-4-fluorobutane
+C. 1-fluoro-2-chlorobutane
+D. 4-fluoro-3-chlorobutane
+
+### Question 4
+
+Esterification can be carried out in a school laboratory using the equipment shown.
+
+![Esterification apparatus with reflux condenser](images/q4-apparatus.png){width=60%}
+
+How could the safety of the process shown be improved?
+
+A. Place a stopper on top of the condenser.
+B. Add concentrated sulfuric acid to the flask.
+C. Change the direction of water flow through the condenser.
+D. Replace the Bunsen burner with an electric heating mantle.
+
+### Question 5
+
+Which of the following substances is amphiprotic in nature?
+
+A. \ce{HSO4-}
+B. \ce{H2SO4}
+C. \ce{SO4^2-}
+D. \ce{H2SO3}
+
+### Question 6
+
+Which of the following is a transuranic element that is most likely to have been produced in a nuclear reactor?
+
+A. Co-60
+B. Np-239
+C. U-238
+D. Hs-265
+
+### Question 7
+
+Three test tubes were set up as shown.
+
+![Test tubes with bromine water, hexane, and hexene](images/q7-test-tubes.png){width=70%}
+
+Bromine water was added to X and Y in the absence of UV light.
+
+Which of the following best represents the changes in test tubes X and Y?
+
+![Four options showing test tube results](images/q7-results.png){width=60%}
+
+### Question 8
+
+There are two unlabelled solutions. One is barium nitrate and the other lead nitrate.
+
+Which of the following could be added to the two unlabelled solutions to distinguish between them?
+
+A. Sodium sulfate
+B. Sodium nitrate
+C. Sodium chloride
+D. Sodium carbonate
+
+### Question 9
+
+The following equipment was set up to measure the heat of combustion of an alkanol.
+
+![Heat of combustion apparatus](images/q9-apparatus.png){width=60%}
+
+Black deposits were observed on the bottom of the conical flask and the heat of combustion measured was lower than the theoretical value.
+
+Which of the following equations could account for these observations?
+
+A. \ce{2C2H6(g) + 7O2(g) -> 4CO2(g) + 6H2O(g)}
+B. \ce{C3H8O(g) + 4O2(g) -> CO2(g) + CO(g) + 4H2O(g)}
+C. \ce{2C4H10O(g) + 3O2(g) -> 8C(s) + 2H2(g) + 8H2O(g)}
+D. \ce{2C2H6O(g) + 4O2(g) -> 2CO2(g) + 2C(s) + 6H2O(g)}
+
+### Question 10
+
+The diagrams show a dry cell and a lead-acid cell. The electrodes are labelled X and Y.
+
+![Dry cell and lead-acid cell diagrams](images/q10-cells.png){width=80%}
+
+When either cell is connected to supply energy, which row of the table correctly describes the electrodes and their charges?
+
+| | *Electrode X* | | *Electrode Y* | |
+|---|---|---|---|---|
+| | | | | |
+| A. | Anode | Positive | Cathode | Negative |
+| B. | Cathode | Positive | Anode | Negative |
+| C. | Anode | Negative | Cathode | Positive |
+| D. | Cathode | Negative | Anode | Positive |
+
+### Question 11
+
+Consider the following redox reaction.
+
+$$\ce{2K2Cr2O7(aq) + 2H2O(l) + 3S(s) -> 2Cr2O3(aq) + 4KOH(aq) + 3SO2(g)}$$
+
+Which species is being oxidised?
+
+A. \ce{Cr^6+}
+B. \ce{K+}
+C. \ce{O^2-}
+D. S
+
+### Question 12
+
+What is the product when propene undergoes addition polymerisation?
+
+![Four polymer structure options](images/q12-polymers.png){width=70%}
+
+### Question 13
+
+25.0 mL of a 0.100 mol L^-1^ acid is to be titrated against a sodium hydroxide solution until final equivalence is reached.
+
+Which of the following acids, if used in the titration, would require the greatest volume of sodium hydroxide?
+
+A. Acetic
+B. Citric
+C. Hydrochloric
+D. Sulfuric
+
+### Question 14
+
+One litre of an aqueous solution is formed from mixing equal volumes of 0.2 mol L^-1^ hydrochloric acid (HCl) and 0.2 mol L^-1^ sodium chloride (NaCl).
+
+How effective as a buffer is the aqueous solution formed?
+
+A. Ineffective, because HCl is a strong acid
+B. Effective, because \ce{Cl-} is the conjugate base of HCl
+C. Ineffective, because NaCl forms a neutral salt solution
+D. Effective, because the pH would change when a solution of NaOH is added
+
+### Question 15
+
+Dinitrogen oxide (\ce{N2O}) contains a coordinate covalent bond.
+
+Which Lewis electron dot structure correctly represents \ce{N2O}?
+
+![Four Lewis structure options for N2O](images/q15-lewis-structures.png){width=60%}
+
+### Question 16
+
+The following equilibrium is established in a closed system.
+
+$$\ce{CO2(g) + H2O(l) <=> H2CO3(aq)} \quad \Delta H = -19.4 \text{ kJ mol}^{-1}$$
+
+How can the gas pressure in the system be decreased?
+
+A. Add more \ce{CO2(g)}
+B. Add hydroxide ions to the solution
+C. Decrease the volume of the container
+D. Increase the temperature of the system
+
+### Question 17
+
+What is the density of ozone at 25°C and 100 kPa?
+
+A. 1.291 g L^-1^
+B. 1.500 g L^-1^
+C. 1.936 g L^-1^
+D. 2.114 g L^-1^
+
+### Question 18
+
+Three gases X, Y and Z were mixed in a closed container and allowed to reach equilibrium. A change was imposed at time T and the equilibrium was re-established. The concentration of each gas is plotted against time.
+
+![Graph showing concentration vs time for three gases](images/q18-equilibrium-graph.png){width=70%}
+
+Which reaction is represented by the graph?
+
+A. \ce{X(g) + Y(g) <=> 2Z(g)}
+B. \ce{2X(g) <=> Y(g) + Z(g)}
+C. \ce{2X(g) <=> Y(g) + 3Z(g)}
+D. \ce{X(g) <=> Y(g) + Z(g)}
+
+### Question 19
+
+The sulfate content of a fertiliser is 48% by mass. 1.20 g of this fertiliser is completely dissolved in water and an excess of \ce{Ba(NO3)2(aq)} is added.
+
+What mass of precipitate would be formed?
+
+A. 0.006 g
+B. 0.58 g
+C. 1.40 g
+D. 1.57 g
+
+### Question 20
+
+20.0 mL of 0.020 mol L^-1^ barium hydroxide solution is added to 50.0 mL of 0.040 mol L^-1^ hydrochloric acid solution.
+
+What is the pH of the final solution?
+
+A. 0.2
+B. 1.6
+C. 1.8
+D. 2.9
+
+\newpage
+
+## Part B – 55 marks
+### Attempt Questions 21–30
+### Allow about 1 hour and 40 minutes for this part
+
+Answer the questions in the spaces provided. These spaces provide guidance for the expected length of response.
+
+### Question 21 (5 marks)
+
+**(a)** Outline ONE effect of ozone in the troposphere and ONE in the stratosphere. **(2 marks)**
+
+\vspace{4cm}
+
+**(b)** Qualitatively compare TWO properties of oxygen (\ce{O2}) and ozone (\ce{O3}). **(2 marks)**
+
+\vspace{4cm}
+
+**(c)** Using ONE chemical equation, show how a chlorine radical (Cl•) reacts with ozone. **(1 mark)**
+
+\vspace{2cm}
+
+\newpage
+
+### Question 22 (5 marks)
+
+Atomic absorption spectroscopy was used to determine the concentration of zinc in a water sample. The absorbance of a series of standard solutions of known concentration of zinc was measured. The results are shown in the table.
+
+| *Zinc concentration (ppm)* | 0.00 | 1.00 | 2.00 | 3.00 | 4.00 | 5.00 |
+|---|---|---|---|---|---|---|
+| *Absorbance* | 0.00 | 0.17 | 0.34 | 0.48 | 0.65 | 0.83 |
+
+**(a)** Plot the data on the grid and draw a line of best fit. **(3 marks)**
+
+![Grid for calibration curve](images/q22-grid.png){width=80%}
+
+**(b)** In order for water to be considered safe for drinking, the concentration of zinc must be less than 2.80 ppm.
+
+The absorbance of the water sample was 0.58. Explain whether this water is safe for drinking. **(2 marks)**
+
+\vspace{4cm}
+
+\newpage
+
+### Question 23 (6 marks)
+
+The diagram shows a galvanic cell.
+
+![Galvanic cell with zinc and silver electrodes](images/q23-galvanic-cell.png){width=70%}
+
+**(a)** Explain why a salt bridge is required. **(2 marks)**
+
+\vspace{4cm}
+
+**(b)** The initial mass of each electrode was 10.0 g. After some time, the electrodes were removed from the solutions, dried and reweighed. The mass of the zinc electrode had changed by 1.00 g.
+
+Calculate the new mass of the silver electrode. **(4 marks)**
+
+\vspace{10cm}
+
+\newpage
+
+### Question 24 (5 marks)
+
+A solution of sodium hydroxide was titrated against a standardised solution of acetic acid which had a concentration of 0.5020 mol L^-1^.
+
+**(a)** The end point was reached when 19.30 mL of sodium hydroxide solution had been added to 25.00 mL of the acetic acid solution.
+
+Calculate the concentration of the sodium hydroxide solution. **(3 marks)**
+
+\vspace{8cm}
+
+**(b)** Explain why the pH of the resulting salt solution was not 7. Include a relevant chemical equation in your answer. **(2 marks)**
+
+\vspace{5cm}
+
+\newpage
+
+### Question 25 (4 marks)
+
+Outline the steps that can be used to convert cellulose to polyethylene. Include relevant chemical equations in your answer. **(4 marks)**
+
+\vspace{10cm}
+
+\newpage
+
+### Question 26 (7 marks)
+
+**(a)** Outline TWO reasons why the release of sulfur dioxide into the atmosphere is a concern. **(3 marks)**
+
+\vspace{6cm}
+
+**(b)** The diagram shows the concentrations of sulfur dioxide (\ce{SO2}) in the lower atmosphere above a landmass. High concentrations of sulfur dioxide were recorded above a metal smelter and coal fired power stations.
+
+![Map showing SO2 concentrations](images/q26-map.png){width=80%}
+
+Explain the varying concentrations of sulfur dioxide shown on the map. Include relevant chemical equations in your answer. **(4 marks)**
+
+\vspace{10cm}
+
+\newpage
+
+### Question 27 (5 marks)
+
+The boiling points and molar masses of three compounds are shown in the table.
+
+| *Compound* | *Boiling point (°C)* | *Molar mass (g mol^-1^)* |
+|---|---|---|
+| Acetic acid | 118 | 60 |
+| Butan-1-ol | 117 | 74 |
+| Butyl acetate | 116 | 116 |
+
+Acetic acid, butan-1-ol and butyl acetate have very different molar masses but similar boiling points. Explain why in terms of the structure and bonding of the three compounds. **(5 marks)**
+
+\vspace{12cm}
+
+\newpage
+
+### Question 28 (7 marks)
+
+**(a)** Outline TWO advantages and TWO disadvantages of using ethanol as an alternative fuel for motor vehicles. **(4 marks)**
+
+\vspace{8cm}
+
+**(b)** The molar heat of combustion ($\Delta H_c$) for ethanol is 1360 kJ mol^-1^.
+
+Calculate the energy generated per kg of \ce{CO2} released by the combustion of ethanol. **(3 marks)**
+
+\vspace{8cm}
+
+\newpage
+
+### Question 29 (4 marks)
+
+Rivertown sits at the junction of two rivers.
+
+![Map of Rivertown showing water sources](images/q29-map.png){width=70%}
+
+A simple water purification system has been purchased for the town water supply. It consists ONLY of a sedimentation tank, pH control, sand filters and a chlorination facility.
+
+The system is to draw water either from Site X or Site Y.
+
+A water chemist has obtained the following data from each site.
+
+| *Factor* | *X* | *Y* |
+|---|---|---|
+| Turbidity (NTU) | 2 | 400 |
+| pH | 7.3 | 6.0 |
+| Calcium (ppm) | 120 | 5 |
+| Phosphate (ppm) | 1.00 | 0.0001 |
+
+With reference to the information provided, justify which of the sites, X or Y, would be the preferred water source for the town water supply. **(4 marks)**
+
+\vspace{10cm}
+
+\newpage
+
+### Question 30 (7 marks)
+
+Analyse the conditions required to optimise the production of ammonia using the Haber process. **(7 marks)**
+
+\vspace{15cm}
+
+\newpage
+
+# Section II
+## 25 marks
+
+### Attempt ONE question from Questions 31–35
+### Allow about 45 minutes for this section
+
+Answer parts (a)–(d) of one question in the Section II Writing Booklet. Extra writing booklets are available.
+
+Show all relevant working in questions involving calculations.
+
+## Question 31 — Industrial Chemistry (25 marks)
+
+**(a)** (i) Write an equation using structural formulae to describe saponification. Use ethyl propanoate as one of the reactants. **(2 marks)**
+
+\vspace{4cm}
+
+(ii) Describe a procedure that can be used to carry out saponification and test the product in a school laboratory. **(3 marks)**
+
+\vspace{6cm}
+
+**(b)** The Contact process for the production of sulfuric acid includes a step whereby sulfur dioxide is converted to sulfur trioxide in an equilibrium reaction:
+
+$$\ce{SO2(g) + 1/2 O2(g) <=> SO3(g)} \quad \Delta H = -99 \text{ kJ mol}^{-1}$$
+
+\ce{SO2} and \ce{O2} were added to a closed container. The production of \ce{SO3} over time is shown on the graph below.
+
+(i) Copy the graph below into your answer booklet and sketch a second curve on the same axes to demonstrate the production of \ce{SO3} over time when the reaction is repeated at a higher temperature. Clearly label the two curves. **(2 marks)**
+
+![Graph of SO3 concentration vs time](images/q31b-graph.png){width=60%}
+
+(ii) At a certain temperature, the equilibrium constant, K, is 12.1 for this reaction as written in the equation above.
+
+At the same temperature, 1.0 mol \ce{SO2} and 1.0 mol \ce{O2} were added to a 1.0 litre closed container. At a point in time, the concentration of \ce{SO3} in the container was measured as 0.70 mol L^-1^.
+
+Had equilibrium been reached in the container at this point? Use calculations to justify your answer. **(4 marks)**
+
+\vspace{10cm}
+
+\newpage
+
+**(c)** The raw materials required to produce sodium carbonate by the Solvay process are limestone and brine. Part of the process is represented by the flow chart.
+
+![Solvay process flow chart](images/q31c-flowchart.png){width=80%}
+
+(i) Name the products labelled X and Y. **(2 marks)**
+
+\vspace{2cm}
+
+(ii) How is the brine purified? Include a relevant chemical equation in your answer. **(2 marks)**
+
+\vspace{4cm}
+
+(iii) Explain the role of ammonia in the manufacture of sodium carbonate. Include relevant chemical equation(s) in your answer. **(3 marks)**
+
+\vspace{6cm}
+
+**(d)** Assess the extent to which technological advances have overcome the technical and environmental issues associated with the industrial production of sodium hydroxide. **(7 marks)**
+
+\vspace{15cm}
+
+\newpage
+
+## Question 32 — Shipwrecks, Corrosion and Conservation (25 marks)
+
+**(a)** A first-hand investigation is to be carried out to compare the rate of corrosion of metals in acidic and neutral solutions.
+
+(i) Outline a suitable procedure for this investigation. **(2 marks)**
+
+\vspace{4cm}
+
+(ii) Explain the expected result. Include relevant half equations in your answer. **(3 marks)**
+
+\vspace{6cm}
+
+**(b)** (i) Outline TWO different ways to increase the rate of an electrolysis reaction. **(2 marks)**
+
+\vspace{4cm}
+
+(ii) When two carbon electrodes were placed in a blue, 3 mol L^-1^ solution of \ce{CuCl2} and connected to a 6 V DC power supply, bubbles started appearing at the anode. After some time, the mass of the cathode had increased and the intensity of the blue colour had decreased.
+
+Account for these observations. Include relevant chemical equations in your answer. **(4 marks)**
+
+\vspace{8cm}
+
+\newpage
+
+**(c)** In 1912, the ship *Titanic* sank in water over 3 km deep. The wreck was discovered in 1985.
+
+(i) Why did scientists predict that the rate of corrosion would have been slow at this depth? **(2 marks)**
+
+\vspace{4cm}
+
+(ii) Explain why extra precautions need to be taken when retrieving wooden artefacts from sea water compared to fresh water. **(2 marks)**
+
+\vspace{4cm}
+
+(iii) Describe how electrolysis can be used to remove chloride ions from a metallic artefact. Support your answer with a labelled diagram. **(3 marks)**
+
+\vspace{8cm}
+
+**(d)** Analyse the effect that the work of Volta and Davy had in reducing corrosion of ocean-going vessels. **(7 marks)**
+
+\vspace{15cm}
+
+\newpage
+
+## Question 33 — The Biochemistry of Movement (25 marks)
+
+**(a)** (i) The graph shows the activity of a biological enzyme over a given pH range.
+
+![Enzyme activity vs pH graph](images/q33a-enzyme-graph.png){width=60%}
+
+Explain the activity of the enzyme at pH 9. **(2 marks)**
+
+\vspace{4cm}
+
+(ii) Describe a suitable procedure to investigate the effect of temperature on enzyme activity. **(3 marks)**
+
+\vspace{6cm}
+
+**(b)** (i) How does the structure of ATP give rise to energy production? **(2 marks)**
+
+\vspace{4cm}
+
+(ii) Each gram of mammalian skeletal muscle consumes ATP at a rate of $1 \times 10^{-3}$ mol min^-1^ during contraction. Concentrations of ATP in muscle are about $4 \times 10^{-3}$ mol L^-1^ and the density of muscle tissue is 1.2 g mL^-1^.
+
+How long could contraction continue on ATP alone? **(4 marks)**
+
+\vspace{8cm}
+
+\newpage
+
+**(c)** (i) This incomplete equation represents the formation of a dipeptide from alanine and glycine.
+
+![Incomplete dipeptide equation](images/q33c-dipeptide.png){width=70%}
+
+In your writing booklet, complete the equation. **(2 marks)**
+
+\vspace{4cm}
+
+(ii) Explain, using a model, why enzymes are specific to their substrate. **(3 marks)**
+
+\vspace{6cm}
+
+(iii) Outline the limitations of the model described in part (ii). **(2 marks)**
+
+\vspace{4cm}
+
+**(d)** Explain how long chain fatty acids are used in the production of usable energy. **(7 marks)**
+
+\vspace{15cm}
+
+\newpage
+
+## Question 34 — The Chemistry of Art (25 marks)
+
+**(a)** (i) Outline a test that can be carried out to observe the flame colour of ONE metal ion. Include a safety precaution in your answer. **(2 marks)**
+
+\vspace{4cm}
+
+(ii) Account for the flame colour that should be observed in part (i). **(3 marks)**
+
+\vspace{6cm}
+
+**(b)** (i) Outline the two main components of paint. **(2 marks)**
+
+\vspace{3cm}
+
+(ii) Explain how the colour of ONE mineral used by Aboriginal peoples relates to its chemical composition and the position of its metallic component in the Periodic Table. **(4 marks)**
+
+\vspace{8cm}
+
+\newpage
+
+**(c)** (i) A student draws this Lewis electron dot structure to represent an oxygen atom.
+
+![Lewis dot structure of oxygen](images/q34c-lewis-oxygen.png){width=30%}
+
+Identify the error in the representation and justify your answer using Hund's rule. **(3 marks)**
+
+\vspace{6cm}
+
+Use the following graph to answer parts (ii) and (iii). The graph shows the successive ionisation energies for some elements.
+
+![Ionisation energy graph for transition metals](images/q34c-ionisation-graph.png){width=80%}
+
+(ii) Explain why the predominant oxidation state of scandium (Sc) is 3+. **(2 marks)**
+
+\vspace{4cm}
+
+(iii) Explain why \ce{Sc^3+} compounds are white or colourless whereas \ce{V^3+} compounds have colour. **(2 marks)**
+
+\vspace{4cm}
+
+**(d)** Using an example, explain the bonding in complex ions of transition metals. **(7 marks)**
+
+\vspace{15cm}
+
+\newpage
+
+## Question 35 — Forensic Chemistry (25 marks)
+
+**(a)** (i) Outline a test that could be carried out in a school laboratory to distinguish between sodium carbonate and starch. **(2 marks)**
+
+\vspace{4cm}
+
+(ii) The emission spectrum of sodium is shown.
+
+![Sodium emission spectrum](images/q35a-emission-spectrum.png){width=80%}
+
+With reference to atomic structure, explain how the lines on the emission spectrum are produced. **(3 marks)**
+
+\vspace{6cm}
+
+**(b)** (i) A group of students tried to use chromatography to separate the pigments extracted from a plant leaf. They put a small spot of the pigments on a strip of paper and drew a line across the paper to show the starting point. They then allowed solvent to run up the paper.
+
+Explain why a pencil rather than a pen should be used to draw the line. **(2 marks)**
+
+\vspace{4cm}
+
+(ii) The students then tried to use chromatography to separate an alkanol and an alkanoic acid. They found that the spot of the alkanol and alkanoic acid mixture did not move when an alkane was used as the solvent.
+
+Justify a modification to the experiment that would lead to the separation of the alkanol and the alkanoic acid. **(4 marks)**
+
+\vspace{8cm}
+
+\newpage
+
+**(c)** Electrophoresis of proteins can be used to test for performance enhancing drugs.
+
+(i) Using structural formulae, draw a chemical equation to show how a protein fragment can become positively charged in a low pH solution. **(2 marks)**
+
+\vspace{4cm}
+
+(ii) Explain how electrophoresis is used to separate and identify proteins. Include a labelled diagram in your answer. **(3 marks)**
+
+\vspace{8cm}
+
+(iii) Mass spectrometry can be used to identify other drugs in a blood sample. Below is a spectrum obtained from the analysis of a blood sample.
+
+![Blood sample mass spectrum](images/q35c-blood-spectrum.png){width=100%}
+
+The mass spectra of four substances (Diagrams 1 to 4) are shown on the next page.
+
+![Four mass spectra: Methoxyp.d, Trifluor.d, Heroin, and Ethanol](images/q35c-four-spectra.png){width=100%}
+
+Using the diagrams, deduce which of the substances are present in the blood sample. Justify your answer. **(2 marks)**
+
+\vspace{6cm}
+
+**(d)** Discuss the use of DNA analysis in finding lost relatives. Include the relevant underlying chemistry in your answer. **(7 marks)**
+
+\vspace{15cm}

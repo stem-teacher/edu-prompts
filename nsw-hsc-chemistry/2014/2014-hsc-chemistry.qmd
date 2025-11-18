@@ -1,0 +1,875 @@
+---
+title: "Chemistry"
+subtitle: "2014 HIGHER SCHOOL CERTIFICATE EXAMINATION"
+format:
+  pdf:
+    documentclass: article
+    geometry:
+      - margin=2.5cm
+    fontsize: 11pt
+    include-in-header:
+      text: |
+        \usepackage{chemfig}
+        \usepackage{mhchem}
+        \usepackage{siunitx}
+        \usepackage{graphicx}
+        \usepackage{tikz}
+        \usepackage{fancyhdr}
+        \pagestyle{fancy}
+        \fancyhead[L]{Centre Number}
+        \fancyhead[R]{Student Number}
+---
+
+\begin{center}
+\includegraphics[width=0.3\textwidth]{images/bostes-logo.png}
+\end{center}
+
+\vspace{1cm}
+
+\begin{center}
+{\Large \textbf{2014 HIGHER SCHOOL CERTIFICATE}}
+
+{\Large \textbf{EXAMINATION}}
+\end{center}
+
+\vspace{2cm}
+
+\begin{center}
+{\Huge \textbf{Chemistry}}
+\end{center}
+
+\vspace{2cm}
+
+**General Instructions**
+
+- Reading time – 5 minutes
+- Working time – 3 hours
+- Write using black or blue pen
+  Black pen is preferred
+- Draw diagrams using pencil
+- Board-approved calculators may be used
+- A data sheet and a Periodic Table are provided at the back of this paper
+- Write your Centre Number and Student Number at the top of pages 13, 17, 19, 21 and 23
+
+\vspace{1cm}
+
+**Total marks – 100**
+
+**Section I** Pages 2–24
+
+**75 marks**
+
+This section has two parts, Part A and Part B
+
+Part A – 20 marks
+
+- Attempt Questions 1–20
+- Allow about 35 minutes for this part
+
+Part B – 55 marks
+
+- Attempt Questions 21–31
+- Allow about 1 hour and 40 minutes for this part
+
+**Section II** Pages 25–37
+
+**25 marks**
+
+- Attempt ONE question from Questions 32–36
+- Allow about 45 minutes for this section
+
+\newpage
+
+# Section I
+
+**75 marks**
+
+## Part A – 20 marks
+
+**Attempt Questions 1–20**
+
+**Allow about 35 minutes for this part**
+
+Use the multiple-choice answer sheet for Questions 1–20.
+
+### Question 1
+
+In which layer of the atmosphere is ozone considered a pollutant?
+
+A. Mesosphere
+B. Stratosphere
+C. Thermosphere
+D. Troposphere
+
+### Question 2
+
+What is the IUPAC name of the following compound?
+
+![Structural formula showing a three-carbon chain with fluorine on C2 and bromine atoms on C2 and C3](images/q2-structure.png){width=40%}
+
+A. 1,2-dibromo-2-fluoropropane
+B. 2,3-dibromo-2-fluoropropane
+C. 2-fluoro-2,3-dibromopropane
+D. 2-fluoro-1,2-dibromopropane
+
+### Question 3
+
+Which row of the table correctly matches the scientist(s) with their theory of acids?
+
+| | *Scientist(s)* | *Theory* |
+|---|---|---|
+| (A) | Arrhenius | Acids contain oxygen |
+| (B) | Brönsted and Lowry | Acids are proton donors |
+| (C) | Davy | Acids are able to produce hydrogen ions in water |
+| (D) | Lavoisier | Acids contain hydrogen |
+
+### Question 4
+
+Which of the following equations correctly represents catalytic cracking of a petroleum fraction?
+
+A. $\ce{C15H32(g) ->[\ce{Al2Si2O6}] C15H32(s)}$
+
+B. $n\ce{C2H4(g) ->[\ce{Al2Si2O6}] -(CH2-CH2)_n-(s)}$
+
+C. $\ce{C15H32(g) ->[\ce{Al2Si2O6}] C7H16(g) + 4C2H4(g)}$
+
+D. $\ce{C7H16(g) + 4C2H4(g) ->[\ce{Al2Si2O6}] C15H32(g)}$
+
+### Question 5
+
+Which row of the table correctly matches the reactant and the product of an *addition reaction*?
+
+| | *Reactant* | *Product* |
+|---|---|---|
+| (A) | \ce{CH3-CH2-CH2-CH2-OH} | \ce{CH3-CH2-CH=CH2} |
+| (B) | \ce{CH3-CH2-CH(OH)-CH3} | \ce{CH3-CH2-CH=CH-CH3} |
+| (C) | \ce{CH3-CH=CH-CH2-CH3} | \ce{CH3-CH2-CH(Cl)-CH2-CH3} |
+| (D) | \ce{CH3-C(=O)-OH} | \ce{CH3-C(=O)-O-CH3} |
+
+### Question 6
+
+Drinking water is regularly tested to ensure that it is safe for consumption.
+
+Which of the following test results indicates the highest drinking-water quality?
+
+| | *Dissolved oxygen (mg/L)* | *Nitrate (mg/L)* | *Total dissolved solids (mg/L)* | *Turbidity (NTU)* |
+|---|---|---|---|---|
+| (A) | 2 | 0.1 | 50 | 50 |
+| (B) | 8 | 0.1 | 50 | 2 |
+| (C) | 2 | 2 | 200 | 2 |
+| (D) | 8 | 2 | 200 | 50 |
+
+### Question 7
+
+This table contains information on three indicators.
+
+| *Indicator* | *pH range* | *Colour (lower pH – higher pH)* |
+|---|---|---|
+| Methyl orange | 3.1–4.4 | red – yellow |
+| Methyl red | 4.4–6.2 | pink – yellow |
+| Phenolphthalein | 8.3–10.0 | colourless – pink |
+
+A substance is tested with each of the indicators and the results are recorded below.
+
+| *Indicator* | *Colour* |
+|---|---|
+| Methyl orange | yellow |
+| Methyl red | yellow |
+| Phenolphthalein | colourless |
+
+Which of the following substances will produce these results?
+
+A. Lemonade pH 2.9
+B. White wine pH 4.2
+C. Tap water pH 7.2
+D. Ammonia pH 11.2
+
+### Question 8
+
+The graph shows the pH of a solution of a weak acid, HA, as a function of temperature.
+
+![Graph showing pH decreasing from 7.5 to 5.5 as temperature increases from 0°C to 200°C](images/q8-ph-temperature-graph.png){width=60%}
+
+What happens as the temperature decreases?
+
+A. HA becomes less ionised and the \ce{H+} concentration increases.
+B. HA becomes less ionised and the \ce{H+} concentration decreases.
+C. HA becomes more ionised and the \ce{H+} concentration increases.
+D. HA becomes more ionised and the \ce{H+} concentration decreases.
+
+### Question 9
+
+Four compounds, W, X, Y and Z, are represented below.
+
+![Four structural formulas showing different arrangements of C, H, Cl, and F atoms](images/q9-structures.png){width=80%}
+
+Which of the following is a pair of isomers?
+
+A. W and X
+B. W and Y
+C. X and Y
+D. Y and Z
+
+### Question 10
+
+The following equation represents a chemical system in equilibrium:
+
+$$\ce{OCl-(aq) + H2O(l) <=> HOCl(aq) + OH-(aq)}$$
+
+Which of the following is an acid/base conjugate pair?
+
+A. \ce{H2O} / \ce{HOCl}
+B. \ce{HOCl} / \ce{OH-}
+C. \ce{HOCl} / \ce{OCl-}
+D. \ce{OCl-} / \ce{H2O}
+
+### Question 11
+
+Which of the following does NOT represent the formation of a coordinate covalent bond?
+
+![Four Lewis structure diagrams showing different bonding scenarios](images/q11-coordinate-bonds.png){width=70%}
+
+### Question 12
+
+The diagram shows the pH values of some substances.
+
+![pH scale from 0-14 with various substances marked at different pH values](images/q12-ph-scale.png){width=100%}
+
+Based on the information provided, which of the following statements about the relative concentration of hydrogen ions is correct?
+
+A. It is 2 times higher in bleach than in milk.
+B. It is 10 times lower in stomach acid than in soap.
+C. It is 1000 times lower in distilled water than in wine.
+D. It is 100 times higher in laundry detergent than in baking soda solution.
+
+### Question 13
+
+This equation shows an equilibrium established in the synthesis of ammonia from its component gases:
+
+$$\ce{N2(g) + 3H2(g) <=> 2NH3(g)}$$
+
+If the volume of the reaction chamber is suddenly halved at time T, which of the following best depicts changes in the concentration of ammonia over time?
+
+![Four graphs (A-D) showing different concentration vs time patterns](images/q13-ammonia-graphs.png){width=80%}
+
+### Question 14
+
+What is the pH of a 0.018 mol L^-1^ solution of hydrochloric acid?
+
+A. 0.74
+B. 0.96
+C. 1.04
+D. 1.74
+
+### Question 15
+
+If exactly one gram of each of the following compounds is treated with excess hydrochloric acid, which would release the greatest volume of \ce{CO2(g)} at 25°C and 100 kPa?
+
+A. \ce{K2CO3}
+B. \ce{KHCO3}
+C. \ce{Na2CO3}
+D. \ce{NaHCO3}
+
+### Question 16
+
+In which of the following reactions is the metal species reduced?
+
+A. $\ce{2FeCl2(aq) + Cl2(g) -> 2FeCl3(aq)}$
+B. $\ce{CuS(s) + O2(g) -> Cu(s) + SO2(g)}$
+C. $\ce{2Al(OH)3(aq) -> Al2O3(s) + 3H2O(l)}$
+D. $\ce{Ca(s) + 2HCl(aq) -> CaCl2(aq) + H2(g)}$
+
+### Question 17
+
+What is the standard cell potential for the reaction of 1.0 mol L^-1^ acidified potassium dichromate ($\ce{K2Cr2O7(aq)}$) with aqueous sulfur dioxide ($\ce{SO2(aq)}$) under standard conditions?
+
+A. 1.20 V
+B. 1.52 V
+C. 2.24 V
+D. 3.20 V
+
+### Question 18
+
+This is a representation of a segment of the polymer nylon 6,6.
+
+![Polymer structure showing repeating units with amide linkages](images/q18-nylon66.png){width=100%}
+
+Which of the following represents the two monomers that are used to produce nylon 6,6?
+
+A-D. [Four different pairs of monomer structures are shown]
+
+### Question 19
+
+An experimental car using ethanol as a fuel source requires 2270 kJ of energy for every kilometre travelled.
+
+Given that the heat of combustion of ethanol is 1360 kJ mol^-1^, what is the maximum distance that the car can travel on 1.0 kilogram of ethanol?
+
+A. 1.7 km
+B. 13 km
+C. 28 km
+D. 36 km
+
+### Question 20
+
+This graph represents the yield of an equilibrium reaction at different temperature and pressure conditions inside a reaction vessel.
+
+![Graph showing yield of Z (%) vs temperature at three different pressures (30, 100, 200 atmospheres)](images/q20-yield-graph.png){width=70%}
+
+Which of the following reactions could produce the trends shown in the graph?
+
+A. $\ce{X(g) + Y(g) <=> 3Z(g)}$ $\Delta H = +100$ kJ
+B. $\ce{X(g) + Y(g) <=> 2Z(g)}$ $\Delta H = -100$ kJ
+C. $\ce{2X(g) + 2Y(g) <=> Z(g)}$ $\Delta H = +100$ kJ
+D. $\ce{4X(g) + 2Y(g) <=> 3Z(g)}$ $\Delta H = -100$ kJ
+
+\newpage
+
+## Part B – 55 marks
+
+**Attempt Questions 21–31**
+
+**Allow about 1 hour and 40 minutes for this part**
+
+Answer the questions in the spaces provided. These spaces provide guidance for the expected length of response.
+
+Show all relevant working in questions involving calculations.
+
+### Question 21 (3 marks)
+
+The transuranic artificial element curium–242 can be produced in two ways. The nuclear equations for the two processes are given below.
+
+**Process A**
+
+$$\ce{^{241}_{95}Am + ^1_0n -> ^{242}_{95}Am -> ^{242}_{96}Cm + ^0_{-1}e}$$
+
+**Process B**
+
+$$\ce{^{239}_{94}Pu + ^4_2He -> ^{242}_{96}Cm + ^1_0n}$$
+
+Compare these two processes of production for the element curium–242.
+
+\vspace{6cm}
+
+### Question 22 (6 marks)
+
+A student performed a first-hand investigation to determine the quantitative relationship between heat of combustion and molar mass of alkanols. The student did this by burning different alkanols to heat water as shown in the diagram below. The calculated heats of combustion for four of the alkanols are given in the table.
+
+![Diagram showing spirit burner setup with tripod, wire gauze, beaker of water, and thermometer](images/q22-apparatus.png){width=50%}
+
+| *Alkanol* | *Molar mass (g mol^-1^)* | *Calculated heat of combustion (kJ mol^-1^)* | *Theoretical heat of combustion (kJ mol^-1^)* |
+|---|---|---|---|
+| methanol | 32 | 150 | 726 |
+| ethanol | 46 | 950 | 1367 |
+| propan-1-ol | 60 | 1500 | 2021 |
+| butan-1-ol | 74 | 2250 | 2676 |
+
+**(a)** On the grid below, graph both the calculated and the theoretical heat of combustion against the molar mass of the alkanols. **(3 marks)**
+
+![Empty grid for graphing heat of combustion vs molar mass](images/q22a-graph-grid.png){width=80%}
+
+**(b)** Discuss the validity of the student's investigation. **(3 marks)**
+
+\vspace{6cm}
+
+### Question 23 (3 marks)
+
+This diagram shows a town situated near agriculture and industry.
+
+![Diagram showing town, river, agricultural land, car battery factory, and creek](images/q23-town-diagram.png){width=70%}
+
+The town relies on the river for its water supply.
+
+**(a)** Identify ONE chemical species that could be a contaminant of the water supply. **(1 mark)**
+
+\vspace{1.5cm}
+
+**(b)** Explain the need to monitor the levels of a contaminant in water supplies. **(2 marks)**
+
+\vspace{4cm}
+
+\newpage
+
+### Question 24 (5 marks)
+
+A solution contains carbonate, chloride and sulfate ions.
+
+Describe a sequence of tests that could be used to confirm the presence of each of these ions. Include ONE relevant chemical equation.
+
+\vspace{10cm}
+
+### Question 25 (4 marks)
+
+Under conditions of low oxygen levels, octane can undergo incomplete combustion according to the following chemical equation:
+
+$$\ce{2C8H18(l) + 17O2(g) -> 6C(s) + 4CO(g) + 6CO2(g) + 18H2O(l)}$$
+
+**(a)** Explain the need to monitor this process. **(2 marks)**
+
+\vspace{4cm}
+
+**(b)** Calculate the mass of soot (\ce{C(s)}) produced if 4.2 moles of octane are combusted in this way. **(2 marks)**
+
+\vspace{4cm}
+
+\newpage
+
+### Question 26 (6 marks)
+
+A first-hand investigation to produce an ester is to be carried out in a school laboratory, using an alkanol, an alkanoic acid and a suitable catalyst.
+
+**(a)** Name an ester that could be produced in a school laboratory. **(1 mark)**
+
+\vspace{1.5cm}
+
+**(b)** Describe how potential hazards associated with the three chemicals required for this investigation could be addressed. **(5 marks)**
+
+\vspace{10cm}
+
+\newpage
+
+### Question 27 (6 marks)
+
+Limestone (\ce{CaCO3}) contributes to the hardness of water by releasing \ce{Ca^2+} ions in water. The chemical equation for this exothermic reaction is shown.
+
+$$\ce{CaCO3(s) + H2O(l) + CO2(g) <=> Ca^2+(aq) + 2HCO3-(aq)}$$
+
+**(a)** Explain why increasing the temperature of hard water would reduce its hardness. **(2 marks)**
+
+\vspace{4cm}
+
+**(b)** Describe how atomic absorption spectroscopy (AAS) could be used to measure the effectiveness of heating water to reduce its hardness. **(4 marks)**
+
+\vspace{8cm}
+
+\newpage
+
+### Question 28 (5 marks)
+
+A galvanic cell has been constructed as shown in the diagram.
+
+![Galvanic cell diagram showing X metal anode and Cu cathode with salt bridge](images/q28-galvanic-cell.png){width=70%}
+
+**(a)** Explain the colour change in the copper half-cell as the reaction proceeds. **(2 marks)**
+
+\vspace{4cm}
+
+**(b)** The theoretical standard potential for this galvanic cell is 2.02 V.
+
+Identify metal X and justify your answer. **(3 marks)**
+
+\vspace{6cm}
+
+\newpage
+
+### Question 29 (5 marks)
+
+An experiment was performed to model the formation of acid rain.
+
+A sample of sulfur was burned on a metal spoon. While alight, it was placed in a gas jar with some dry litmus paper.
+
+![Gas jar experiment diagram showing burning sulfur on metal spoon with dry litmus paper](images/q29-gas-jar.png){width=40%}
+
+When a fine mist of water was sprayed into the jar, the litmus paper turned red.
+
+Assess the suitability of this experiment as a model for the formation of acid rain.
+
+\vspace{10cm}
+
+\newpage
+
+### Question 30 (5 marks)
+
+A batch of dry ice (solid \ce{CO2}) was contaminated during manufacture. To determine its purity, the following steps were carried out.
+
+**Step 1:** A 0.616 gram sample of the contaminated dry ice was placed in a clean, dry flask.
+
+**Step 2:** 50.00 mL of 1.00 mol L^-1^ sodium hydroxide was added to the flask. The sodium hydroxide was in excess.
+
+**Step 3:** The flask was sealed to prevent loss of carbon dioxide gas and the reaction allowed to reach completion, according to this equation:
+
+$$\ce{2NaOH(aq) + CO2(s) -> Na2CO3(aq) + H2O(l)}$$
+
+**Step 4:** The remaining sodium hydroxide was titrated against a 1.00 mol L^-1^ solution of hydrochloric acid. The average volume of HCl used was 27.60 mL.
+
+**(a)** Calculate the number of moles of NaOH added in Step 2. **(1 mark)**
+
+\vspace{2cm}
+
+**(b)** Calculate the percentage purity by mass of this batch of dry ice. **(4 marks)**
+
+\vspace{8cm}
+
+\newpage
+
+### Question 31 (7 marks)
+
+With reference to the underlying chemistry and with relevant equations, assess the impacts on society of TWO uses of ethanol.
+
+\vspace{15cm}
+
+\newpage
+
+# Section II
+
+**25 marks**
+
+**Attempt ONE question from Questions 32–36**
+
+**Allow about 45 minutes for this section**
+
+Answer parts (a)–(c) of the question in Section II Answer Booklet 1.
+
+Answer parts (d)–(e) of the question in Section II Answer Booklet 2.
+
+Extra writing booklets are available.
+
+Show all relevant working in questions involving calculations.
+
+\vspace{1cm}
+
+| | Pages |
+|---|---|
+| Question 32 | Industrial Chemistry | 26–27 |
+| Question 33 | Shipwrecks, Corrosion and Conservation | 28–29 |
+| Question 34 | The Biochemistry of Movement | 30–32 |
+| Question 35 | The Chemistry of Art | 33–34 |
+| Question 36 | Forensic Chemistry | 35–37 |
+
+\newpage
+
+## Question 32 — Industrial Chemistry (25 marks)
+
+Answer parts (a)–(c) in Section II Answer Booklet 1.
+
+**(a)** This diagram illustrates some of the properties of sulfuric acid. **(3 marks)**
+
+![Three diagrams showing drops of H2SO4 on steel and glass surfaces with different reactions](images/q32a-sulfuric-acid.png){width=90%}
+
+Explain, with reference to the diagram, how sulfuric acid should be transported.
+
+\vspace{6cm}
+
+**(b)** Nitrosyl chloride is introduced into an empty container. It then dissociates into nitric oxide and chlorine according to the equation:
+
+$$\ce{2NOCl(g) <=> 2NO(g) + Cl2(g)}$$
+
+The reaction is endothermic.
+
+**(i)** Explain the effect on the yield of \ce{NO(g)} if the temperature is increased. **(2 marks)**
+
+\vspace{4cm}
+
+**(ii)** The equilibrium constant, $K$, for the reaction is 0.028.
+
+Calculate the equilibrium concentration of \ce{NOCl(g)} if the equilibrium concentration of \ce{Cl2(g)} is 0.17 mol L^-1^. **(3 marks)**
+
+\vspace{6cm}
+
+**(c)** Electrolysis is used in the industrial production of sodium hydroxide.
+
+**(i)** Contrast the energy transformations in galvanic and electrolytic cells. **(2 marks)**
+
+\vspace{4cm}
+
+**(ii)** The table shows the products of three different electrolytic cells involving aqueous or molten sodium chloride. **(3 marks)**
+
+| *Cell* | *Anode* | *Cathode* |
+|---|---|---|
+| X | \ce{O2(g)} | \ce{H2(g)} |
+| Y | \ce{Cl2(g)} | \ce{H2(g)} |
+| Z | \ce{Cl2(g)} | \ce{Na(l)} |
+
+Explain which of the three electrolytic cells from the table is used for the industrial production of sodium hydroxide.
+
+\vspace{6cm}
+
+Answer parts (d)–(e) in Section II Answer Booklet 2.
+
+**(d)** An investigation is to be conducted to model a chemical step involved in the Solvay process.
+
+**(i)** Outline a valid procedure that could be used to carry out the investigation. **(2 marks)**
+
+\vspace{4cm}
+
+**(ii)** Describe TWO limitations associated with the procedure outlined in part (i). **(3 marks)**
+
+\vspace{6cm}
+
+**(e)** Explain how the differences in the structure and composition of soaps and detergents determine their uses and their impacts on the environment. **(7 marks)**
+
+\vspace{12cm}
+
+\newpage
+
+## Question 33 — Shipwrecks, Corrosion and Conservation (25 marks)
+
+Answer parts (a)–(c) in Section II Answer Booklet 1.
+
+**(a)** This diagram shows the various layers of a pipe. **(3 marks)**
+
+![Diagram showing cross-section of pipe with multiple protective layers](images/q33a-pipe-layers.png){width=60%}
+
+Outline TWO reasons why this pipe would be resistant to corrosion.
+
+\vspace{6cm}
+
+**(b)** Iron corrodes differently under acidic and neutral conditions.
+
+**(i)** Write an equation to represent the process of rusting under neutral conditions. **(2 marks)**
+
+\vspace{3cm}
+
+**(ii)** Explain why iron will corrode faster under acidic conditions than under neutral conditions. **(3 marks)**
+
+\vspace{6cm}
+
+**(c)** A wooden artefact was recovered from a shipwreck. After it was removed from the ocean, it was placed in a tank of distilled water. The water was changed weekly and the chloride ion concentration was monitored. After 10 weeks, the artefact was dried slowly in a controlled environment.
+
+The graph shows the chloride ion concentration in the tank in the first five weeks.
+
+![Graph showing sawtooth pattern of chloride concentration over 5 weeks](images/q33c-chloride-graph.png){width=60%}
+
+**(i)** Account for the shape of this graph. **(2 marks)**
+
+\vspace{4cm}
+
+**(ii)** Explain the possible effect on the artefact if it had been simply left to dry instead of undergoing the procedure described above. **(3 marks)**
+
+\vspace{6cm}
+
+Answer parts (d)–(e) in Section II Answer Booklet 2.
+
+**(d)** An investigation is to be set up in a school laboratory to determine the rate of corrosion of iron in different oxygen concentrations.
+
+**(i)** Identify the variables that need to be kept constant in this investigation. **(2 marks)**
+
+\vspace{4cm}
+
+**(ii)** Describe TWO limitations in making qualitative and/or quantitative observations in this investigation. **(3 marks)**
+
+\vspace{6cm}
+
+**(e)** Explain why a range of factors should be considered when using electrolysis to clean and stabilise a metal artefact. **(7 marks)**
+
+\vspace{12cm}
+
+\newpage
+
+## Question 34 — The Biochemistry of Movement (25 marks)
+
+Answer parts (a)–(c) in Section II Answer Booklet 1.
+
+**(a)** The diagram represents the junction between a nerve and a muscle cell. An action potential in the nerve causes contraction in the muscle cell. **(3 marks)**
+
+![Diagram of neuromuscular junction showing motor neuron, synaptic cleft, and muscle cell with myofibrils](images/q34a-neuromuscular-junction.png){width=80%}
+
+In your answer booklet, write steps 5 and 6 to show how this contraction occurs.
+
+**Step 1:** Action potential travels down nerve to endplate
+
+**Step 2:** ACh (chemical neurotransmitter) is released into synaptic cleft
+
+**Step 3:** ACh initiates action potential on the muscle cell membrane (sarcolemma)
+
+**Step 4:** Action potential travels along sarcolemma, through T tubules to sarcoplasmic reticulum
+
+**Step 5:**
+
+**Step 6:**
+
+**Step 7:** Enzyme (myosin ATP-ase) allows breakdown of ATP to release energy
+
+**Step 8:** Actin and myosin slide over each other
+
+**Step 9:** Muscle shortens (contracts)
+
+\vspace{4cm}
+
+**(b)** (i) Name an enzyme and outline its function. **(2 marks)**
+
+\vspace{4cm}
+
+**(ii)** Explain how a change in pH might change the shape and structure of an enzyme. **(3 marks)**
+
+\vspace{6cm}
+
+**(c)** Glucose is a carbohydrate monomer which forms the extensively branched polymer, glycogen.
+
+**(i)** Explain an advantage of the extensive branching of the chains of a glycogen molecule. **(2 marks)**
+
+\vspace{4cm}
+
+**(ii)** The graph shows the distribution of molecular mass of a large number of glycogen molecules. **(3 marks)**
+
+![Bell curve showing distribution of glycogen molecular masses with peak at 4.0 × 10^5^ g mol^-1^](images/q34c-glycogen-graph.png){width=70%}
+
+Calculate the number of glucose monomers in an average glycogen molecule.
+
+\vspace{6cm}
+
+Answer parts (d)–(e) in Section II Answer Booklet 2.
+
+**(d)** An investigation is to be set up to represent the structure of fatty acids.
+
+**(i)** Identify the essential features of fatty acid molecules that should be included in this representation. **(2 marks)**
+
+\vspace{4cm}
+
+**(ii)** Describe TWO limitations of using models or diagrams to represent fatty acid molecules. **(3 marks)**
+
+\vspace{6cm}
+
+**(e)** Explain how damage to mitochondria affects ATP production and energy output of cells. **(7 marks)**
+
+\vspace{12cm}
+
+\newpage
+
+## Question 35 — The Chemistry of Art (25 marks)
+
+Answer parts (a)–(c) in Section II Answer Booklet 1.
+
+**(a)** The successive ionisation energies of aluminium are presented below. **(3 marks)**
+
+![Graph showing ionization energy vs ionization number with sharp increases at certain points](images/q35a-ionisation-graph.png){width=70%}
+
+Explain the trend in ionisation energy.
+
+\vspace{6cm}
+
+**(b)** Pigments play a significant role in the creation of cave paintings by Aboriginal people.
+
+**(i)** Outline the process used to prepare and attach pigments to cave walls. **(2 marks)**
+
+\vspace{4cm}
+
+**(ii)** Describe THREE pigments used by Aboriginal people in traditional art, with reference to their chemical composition and colour. **(3 marks)**
+
+\vspace{6cm}
+
+**(c)** Three electron configurations are presented in the table. For elemental titanium, the ground state is represented by I, while II and III are both invalid ground state electron configurations.
+
+![Table showing electron configurations for titanium with orbital diagrams](images/q35c-electron-config.png){width=80%}
+
+**(i)** Write a valid electron configuration for \ce{Ti^3+}. **(2 marks)**
+
+\vspace{3cm}
+
+**(ii)** Explain why II and III do not represent the ground state configuration for elemental titanium. **(3 marks)**
+
+\vspace{6cm}
+
+Answer parts (d)–(e) in Section II Answer Booklet 2.
+
+**(d)** An investigation is to be conducted to study the changes in oxidation state of a transition metal.
+
+**(i)** Outline a valid procedure that could be used to carry out the investigation. **(2 marks)**
+
+\vspace{4cm}
+
+**(ii)** Describe TWO limitations of the procedure outlined in part (i). **(3 marks)**
+
+\vspace{6cm}
+
+**(e)** Explain the role of electrons in determining colour. **(7 marks)**
+
+\vspace{12cm}
+
+\newpage
+
+## Question 36 — Forensic Chemistry (25 marks)
+
+Answer parts (a)–(c) in Section II Answer Booklet 1.
+
+**(a)** This picture shows a forensic scientist collecting a blood sample from a crime scene. **(3 marks)**
+
+![Picture showing forensic scientist kneeling to collect blood sample without proper PPE](images/q36a-blood-collection.png){width=60%}
+
+Explain TWO errors that this scientist is making while collecting the blood sample.
+
+\vspace{6cm}
+
+**(b)** Hydrolysis can be used to break down proteins into amino acids.
+
+**(i)** This equation represents the hydrolysis of a dipeptide. **(2 marks)**
+
+![Chemical equation showing dipeptide structure with peptide bond](images/q36b-dipeptide.png){width=70%}
+
+In your answer booklet, draw the TWO products of the hydrolysis of the dipeptide.
+
+\vspace{4cm}
+
+**(ii)** Describe how protein hydrolysis is used in forensic analysis. **(3 marks)**
+
+\vspace{6cm}
+
+**(c)** (i) An unknown substance was collected. It was analysed and its mass spectrum collected. **(2 marks)**
+
+![Mass spectrum showing peaks at various mass-to-charge ratios with major peak at 100](images/q36c-mass-spectrum.png){width=80%}
+
+This table shows the mass to charge ratio of a selection of fragments in the mass spectrum for three compounds of interest in forensic investigations.
+
+| *Compound name* | *Significant fragments (mass to charge ratio)* |
+|---|---|
+| Caffeine | 67 109 194 |
+| Cocaine | 82 94 182 |
+| Paracetamol | 43 109 151 |
+
+Using the information in the table, identify the unknown substance and justify your choice.
+
+\vspace{4cm}
+
+**(ii)** Describe how mass spectrometry can be useful for analysing forensic evidence. **(3 marks)**
+
+\vspace{6cm}
+
+Answer parts (d)–(e) in Section II Answer Booklet 2.
+
+**(d)** An investigation is to be conducted in a school laboratory to separate organic compounds using chromatography.
+
+**(i)** Outline a valid procedure that could be used in a school laboratory to carry out the investigation. **(2 marks)**
+
+\vspace{4cm}
+
+**(ii)** Describe TWO limitations of carrying out the procedure outlined in part (i). **(3 marks)**
+
+\vspace{6cm}
+
+**(e)** Explain why DNA evidence may be challenged when used in court cases. **(7 marks)**
+
+\vspace{12cm}
+
+\newpage
+
+# DATA SHEET
+
+Avogadro constant, $N_A$ = $6.022 \times 10^{23}$ mol^-1^
+
+Volume of 1 mole ideal gas: at 100 kPa and
+
+- at 0°C (273.15 K) = 22.71 L
+- at 25°C (298.15 K) = 24.79 L
+
+Ionisation constant for water at 25°C (298.15 K), $K_w$ = $1.0 \times 10^{-14}$
+
+Specific heat capacity of water = $4.18 \times 10^3$ J kg^-1^ K^-1^
+
+**Some useful formulae**
+
+$$\text{pH} = -\log_{10}[\ce{H+}]$$
+
+$$\Delta H = -mC\Delta T$$
+
+**Some standard potentials**
+
+[Standard reduction potentials table - see data sheet in original PDF]
+
+\newpage
+
+# PERIODIC TABLE OF THE ELEMENTS
+
+[Periodic table - see data sheet in original PDF]
+
+---
+
+© 2014 Board of Studies, Teaching and Educational Standards NSW
