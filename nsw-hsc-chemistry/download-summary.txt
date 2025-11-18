@@ -1,0 +1,47 @@
+Year 2025 - https://www.nsw.gov.au/education-and-training/nesa/curriculum/hsc-exam-papers/chemistry/2025
+  saved:downloads/nsw-hsc-chemistry/2025/2025-hsc-chemistry.pdf <- https://www.nsw.gov.au/sites/default/files/noindex/2025-11/2025-hsc-chemistry.pdf
+
+Year 2024 - https://www.nsw.gov.au/education-and-training/nesa/curriculum/hsc-exam-papers/chemistry/2024
+  saved:downloads/nsw-hsc-chemistry/2024/2024-hsc-chemistry.pdf <- https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2024-hsc-chemistry.pdf
+  saved:downloads/nsw-hsc-chemistry/2024/2024-hsc-chemistry-mg.pdf <- https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2024-hsc-chemistry-mg.pdf
+
+Year 2023 - https://www.nsw.gov.au/education-and-training/nesa/curriculum/hsc-exam-papers/chemistry/2023
+  saved:downloads/nsw-hsc-chemistry/2023/2023-hsc-chemistry_20240318.pdf <- https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2023-hsc-chemistry_20240318.pdf
+  saved:downloads/nsw-hsc-chemistry/2023/2023-hsc-chemistry-mg.pdf <- https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2023-hsc-chemistry-mg.pdf
+
+Year 2022 - https://www.nsw.gov.au/education-and-training/nesa/curriculum/hsc-exam-papers/chemistry/2022
+  saved:downloads/nsw-hsc-chemistry/2022/2022-hsc-chemistry.pdf <- https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2022-hsc-chemistry.pdf
+  saved:downloads/nsw-hsc-chemistry/2022/2022-hsc-chemistry-mg.pdf <- https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2022-hsc-chemistry-mg.pdf
+
+Year 2021 - https://www.nsw.gov.au/education-and-training/nesa/curriculum/hsc-exam-papers/chemistry/2021
+  saved:downloads/nsw-hsc-chemistry/2021/2021-hsc-chemistry.pdf <- https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2021-hsc-chemistry.pdf
+  saved:downloads/nsw-hsc-chemistry/2021/2021-hsc-chemistry-mg.pdf <- https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2021-hsc-chemistry-mg.pdf
+
+Year 2020 - https://www.nsw.gov.au/education-and-training/nesa/curriculum/hsc-exam-papers/chemistry/2020
+  saved:downloads/nsw-hsc-chemistry/2020/2020-hsc-chemistry.pdf <- https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2020-hsc-chemistry.pdf
+  saved:downloads/nsw-hsc-chemistry/2020/2020-hsc-chemistry-mg.pdf <- https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2020-hsc-chemistry-mg.pdf
+
+Year 2019 - https://www.nsw.gov.au/education-and-training/nesa/curriculum/hsc-exam-papers/chemistry/2019
+  saved:downloads/nsw-hsc-chemistry/2019/2019-hsc-chemistry.pdf <- https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2019-hsc-chemistry.pdf
+  saved:downloads/nsw-hsc-chemistry/2019/2019-hsc-chemistry-mg.pdf <- https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2019-hsc-chemistry-mg.pdf
+
+Year 2018 - https://www.nsw.gov.au/education-and-training/nesa/curriculum/hsc-exam-papers/chemistry-archive/2018
+  saved:downloads/nsw-hsc-chemistry/2018/2018-hsc-chemistry-archive.pdf <- https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2018-hsc-chemistry-archive.pdf
+  saved:downloads/nsw-hsc-chemistry/2018/2018-hsc-chemistry-mg-archive.pdf <- https://www.nsw.gov.au/sites/default/files/noindex/2025-06/2018-hsc-chemistry-mg-archive.pdf
+
+Year 2017 - https://www.nsw.gov.au/education-and-training/nesa/curriculum/hsc-exam-papers/chemistry-archive/2017
+  saved:downloads/nsw-hsc-chemistry/2017/2017-hsc-chemistry-archive.pdf <- https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2017-hsc-chemistry-archive.pdf
+  saved:downloads/nsw-hsc-chemistry/2017/2017-hsc-mg-chemistry-compressed.pdf <- https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2017-hsc-mg-chemistry-compressed.pdf
+
+Year 2016 - https://www.nsw.gov.au/education-and-training/nesa/curriculum/hsc-exam-papers/chemistry-archive/2016
+  saved:downloads/nsw-hsc-chemistry/2016/2016-hsc-chemistry-archive.pdf <- https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2016-hsc-chemistry-archive.pdf
+  saved:downloads/nsw-hsc-chemistry/2016/2016-hsc-mg-chemistry-archive.pdf <- https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2016-hsc-mg-chemistry-archive.pdf
+
+Year 2015 - https://www.nsw.gov.au/education-and-training/nesa/curriculum/hsc-exam-papers/chemistry-archive/2015
+  saved:downloads/nsw-hsc-chemistry/2015/chemistry-hsc-exam-2015.pdf-archive.pdf <- https://www.nsw.gov.au/sites/default/files/noindex/2025-05/chemistry-hsc-exam-2015.pdf-archive.pdf
+  saved:downloads/nsw-hsc-chemistry/2015/chemistry-hsc-mg-2015-archive.pdf <- https://www.nsw.gov.au/sites/default/files/noindex/2025-05/chemistry-hsc-mg-2015-archive.pdf
+
+Year 2014 - https://www.nsw.gov.au/education-and-training/nesa/curriculum/hsc-exam-papers/chemistry-archive/2014
+  saved:downloads/nsw-hsc-chemistry/2014/chemistry-hsc-exam-2014_archive.pdf <- https://www.nsw.gov.au/sites/default/files/noindex/2025-05/chemistry-hsc-exam-2014_archive.pdf
+  saved:downloads/nsw-hsc-chemistry/2014/chemistry-hsc-mg-2014-archive.pdf <- https://www.nsw.gov.au/sites/default/files/noindex/2025-05/chemistry-hsc-mg-2014-archive.pdf
+
